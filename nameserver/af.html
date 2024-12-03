@@ -60,7 +60,6 @@
 										<th>Country</th>
 										<th>Reliability</th>
 										<th>Last Checked</th>
-										<th>Created At</th>
 									</tr>
 								</thead>
 								<tbody>
@@ -136,9 +135,8 @@
 								<td>${item.as_number}</td>
 								<td>${item.as_org}</td>
 								<td>${item.country_id}</td>
-								<td>${item.reliability}</td>
+								<td>${reliabilityPercentage}</td>
 								<td>${new Date(item.checked_at).toLocaleString()}</td>
-								<td>${new Date(item.created_at).toLocaleString()}</td>
 							`;
 							tableBody.appendChild(row);
 						});
