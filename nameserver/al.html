@@ -53,11 +53,21 @@
 							<script>
 								// 加载 JSON 文件
 								fetch('al.json')
-									.then(response => response.json())
-									.then(data => {
-										console.log(data); // 使用数据
-									})
-									.catch(error => console.error('Error loading JSON:', error));
+ 								   .then(response => response.json())
+ 								   .then(data => {
+    								    console.log(data); // 在控制台中输出数据
+
+  								        // 渲染数据到页面
+								        const container = document.getElementById('main'); // 找到页面容器
+ 								        const ul = document.createElement('ul'); // 创建一个列表
+ 								        data.forEach(item => {
+ 									           const li = document.createElement('li');
+ 									           li.textContent = `IP: ${item.ip}, AS: ${item.as_org}, City: ${item.city}`;
+ 									           ul.appendChild(li);
+  								        });
+ 								       container.appendChild(ul); // 将列表添加到页面中
+  								   })
+ 								   .catch(error => console.error('Error loading JSON:', error));
 							</script>
 						</div>
 					</div>
