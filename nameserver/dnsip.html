@@ -48,7 +48,8 @@
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-							<h1>DNS servers in Afghanistan</h1>
+							<!-- 国家名称动态显示 -->
+							<h1 id="countryTitle">Public DNS Servers</h1>
 							<span class="image main"><img src="/images/pic13.jpg" alt="" /></span>
 							<table id="dnsTable">
 								<thead>
@@ -119,40 +120,42 @@
 			<script src="/assets/js/util.js"></script>
 			<script src="/assets/js/main.js"></script>
 			<script>
-				// 从查询字符串中提取 'code' 参数
-				const urlParams = new URLSearchParams(window.location.search);
-				const code = urlParams.get('code'); // 获取 'code' 参数的值（如 'al'）
-
-				if (code) {
-					// 根据 'code' 参数拼接相应的 JSON 文件名
-					const jsonFile = `dnsselect/${code}.json`;
-
-					// 加载对应的 JSON 文件
-					fetch(jsonFile)
-						.then(response => response.json())
-						.then(data => {
-							const tableBody = document.querySelector("#dnsTable tbody");
-							data.forEach(item => {
-								// 将 reliability 转换为百分比格式，并保留两位小数
-								const reliabilityPercentage = (item.reliability * 100).toFixed(2) + '%';
-
-								const row = document.createElement("tr");
-								row.innerHTML = `
-									<td>${item.ip}</td>
-									<td>${item.name}</td>
-									<td>${item.as_number}</td>
-									<td>${item.as_org}</td>
-									<td>${item.country_id}</td>
-									<td>${reliabilityPercentage}</td>
-									<td>${new Date(item.checked_at).toLocaleString()}</td>
-								`;
-								tableBody.appendChild(row);
-							});
-						})
-						.catch(error => console.error('Error loading JSON:', error));
-				} else {
-					console.error('No "code" parameter found in the URL');
-				}
+				// 获取 URL 中的参数
+				const params = new URLSearchParams(window.location.search);
+				const code = params.get('code') || 'unknown';
+			
+				// 加载国家映射 JSON 文件
+				fetch('/data/country_map.json')
+					.then(response => response.json())
+					.then(countryMap => {
+						// 根据 code 更新标题
+						const countryTitle = document.getElementById('countryTitle');
+						const countryName = countryMap[code] || countryMap['unknown'];
+						countryTitle.textContent = `DNS servers in ${countryName}`;
+			
+						// 加载对应的 JSON 数据文件
+						const jsonFile = `dnsselect/${code}.json`;
+						return fetch(jsonFile);
+					})
+					.then(response => response.json())
+					.then(data => {
+						const tableBody = document.querySelector("#dnsTable tbody");
+						data.forEach(item => {
+							const row = document.createElement("tr");
+							row.innerHTML = `
+								<td>${item.ip}</td>
+								<td>${item.name}</td>
+								<td>${item.as_number}</td>
+								<td>${item.as_org}</td>
+								<td>${item.country_id}</td>
+								<td>${(item.reliability * 100).toFixed(2)}%</td>
+								<td>${new Date(item.checked_at).toLocaleString()}</td>
+								<td>${new Date(item.created_at).toLocaleString()}</td>
+							`;
+							tableBody.appendChild(row);
+						});
+					})
+					.catch(error => console.error('Error loading JSON:', error));
 			</script>
 	</body>
 </html>
