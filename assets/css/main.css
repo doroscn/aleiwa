@@ -45,6 +45,29 @@ table {
 	border-spacing: 0;
 }
 
+#dnsTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#dnsTable th, #dnsTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#dnsTable th {
+    background-color: #f4f4f4;
+}
+
+#dnsTable tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#dnsTable tr:hover {
+    background-color: #f1f1f1;
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }

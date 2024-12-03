@@ -50,25 +50,23 @@
 						<div class="inner">
 							<h1>DNS servers in Afghanistan</h1>
 							<span class="image main"><img src="/images/pic13.jpg" alt="" /></span>
-							<script>
-								// 加载 JSON 文件
-								fetch('al.json')
- 								   .then(response => response.json())
- 								   .then(data => {
-    								    console.log(data); // 在控制台中输出数据
-
-  								        // 渲染数据到页面
-								        const container = document.getElementById('main'); // 找到页面容器
- 								        const ul = document.createElement('ul'); // 创建一个列表
- 								        data.forEach(item => {
- 									           const li = document.createElement('li');
- 									           li.textContent = `IP: ${item.ip}, AS: ${item.as_org}, City: ${item.city}`;
- 									           ul.appendChild(li);
-  								        });
- 								       container.appendChild(ul); // 将列表添加到页面中
-  								   })
- 								   .catch(error => console.error('Error loading JSON:', error));
-							</script>
+							<table id="dnsTable">
+								<thead>
+									<tr>
+										<th>IP</th>
+										<th>Domain Name</th>
+										<th>AS Number</th>
+										<th>AS Organization</th>
+										<th>Country</th>
+										<th>Reliability</th>
+										<th>Last Checked</th>
+										<th>Created At</th>
+									</tr>
+								</thead>
+								<tbody>
+									<!-- 数据行将动态插入 -->
+								</tbody>
+							</table>
 						</div>
 					</div>
 
@@ -121,6 +119,29 @@
 			<script src="/assets/js/breakpoints.min.js"></script>
 			<script src="/assets/js/util.js"></script>
 			<script src="/assets/js/main.js"></script>
+			<script>
+				// 加载 JSON 文件
+				fetch('al.json')
+					.then(response => response.json())
+					.then(data => {
+						const tableBody = document.querySelector("#dnsTable tbody");
+						data.forEach(item => {
+							const row = document.createElement("tr");
+							row.innerHTML = `
+								<td>${item.ip}</td>
+								<td>${item.name}</td>
+								<td>${item.as_number}</td>
+								<td>${item.as_org}</td>
+								<td>${item.country_id}</td>
+								<td>${item.reliability}</td>
+								<td>${new Date(item.checked_at).toLocaleString()}</td>
+								<td>${new Date(item.created_at).toLocaleString()}</td>
+							`;
+							tableBody.appendChild(row);
+						});
+					})
+					.catch(error => console.error('Error loading JSON:', error));
+			</script>
 
 	</body>
 </html>
