@@ -70,25 +70,6 @@
 					<footer id="footer">
 						<div class="inner">
 							<section>
-								<h2>Get in touch</h2>
-								<form method="post" action="#">
-									<div class="fields">
-										<div class="field half">
-											<input type="text" name="name" id="name" placeholder="Name" />
-										</div>
-										<div class="field half">
-											<input type="email" name="email" id="email" placeholder="Email" />
-										</div>
-										<div class="field">
-											<textarea name="message" id="message" placeholder="Message"></textarea>
-										</div>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Send" class="primary" /></li>
-									</ul>
-								</form>
-							</section>
-							<section>
 								<h2>Follow</h2>
 								<ul class="icons">
 									<li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
@@ -123,15 +104,12 @@
                         const tableBody = document.querySelector("#LGTable tbody");
                         data.forEach(item => {
                             const row = document.createElement("tr");
-                            const formattedItem = Object.fromEntries(
-                                 Object.entries(item).map(([key, value]) => [key.replace(/ /g, '_').toLowerCase(), value])
-                            );
+                            // 动态插入数据
                             row.innerHTML = `
-                                <td>${item.AS_Number}</td>
-                                <td>${item.AS_Info}</td>
-                                <td>${item.AS_Country_/_Region}</td>
-                                <td>${item.as_org}</td>
-                                <td>${item.Looking_Glass}</td>
+                                <td>${item["AS Number"]}</td>
+                                <td>${item["AS Info"]}</td>
+                                <td>${item["AS Country / Region"]}</td>
+                                <td><a href="${item["Looking Glass"]}" target="_blank">Looking Glass</a></td>
                             `;
                             tableBody.appendChild(row);
                         });
