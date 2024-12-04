@@ -324,31 +324,115 @@
                             <p>
                             </ul>
                             <p>
-						</div>
-					</div>
+
+                        <h1>RouteViews Beginner's guide</h1>
+                        <h2>1. Accessing Real-Time BGP Route Data</h2>
+                        <h3>Using Telnet to Connect to RouteViews</h3>
+                        <ul>
+                            <li><strong>Objective:</strong> View global BGP routes in real time from different locations.</li>
+                            <li><strong>Steps:</strong>
+                                <ol>
+                                    <li>Open a terminal.</li>
+                                    <li>Enter the following command to connect to RouteViews:
+                                        <pre>telnet route-views.routeviews.org</pre>
+                                    </li>
+                                    <li>Log in without a username or password; simply press <kbd>Enter</kbd>.</li>
+                                    <li>Use BGP query commands (e.g., <code>show ip bgp</code>) to view data. For example:
+                                        <pre>show ip bgp 8.8.8.8</pre>
+                                        This displays routing information for IP <code>8.8.8.8</code>, including AS path and next-hop details.
+                                    </li>
+                                </ol>
+                            </li>
+                        </ul>
+                        <h3>Common Telnet Nodes</h3>
+                        <ul>
+                            <li><strong>route-views2.routeviews.org:</strong> Oregon University</li>
+                            <li><strong>route-views.eqix:</strong> Equinix Exchange</li>
+                            <li><strong>route-views.sg:</strong> Singapore</li>
+                        </ul>
+                
+                        <h2>2. Querying Historical BGP Data</h2>
+                        <h3>Downloading BGP Route Snapshots</h3>
+                        <ul>
+                            <li><strong>Objective:</strong> Analyze historical routing tables and routing changes.</li>
+                            <li><strong>Steps:</strong>
+                                <ol>
+                                    <li>Visit the RouteViews data archive.</li>
+                                    <li>Select the desired node (e.g., <code>route-views2</code>).</li>
+                                    <li>Download the BGP data file for the desired date (MRT format).</li>
+                                    <li>Parse the file using the <code>bgpdump</code> tool:
+                                        <pre>bgpdump -m rib.20241103.1200.bz2 > output.txt</pre>
+                                    </li>
+                                    <li>Search the parsed data for specific prefixes or AS information.</li>
+                                </ol>
+                            </li>
+                        </ul>
+                
+                        <h2>3. Using Web Tools</h2>
+                        <ul>
+                            <li>If you are not familiar with command-line tools, access RouteViews data through web interfaces:</li>
+                            <ul>
+                                <li>RIPEstat or Looking Glass tools integrate RouteViews data and provide visual query interfaces.</li>
+                                <li>Enter an IP prefix or AS number to quickly retrieve route information.</li>
+                            </ul>
+                        </ul>
+                
+                        <h2>4. Common Commands</h2>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Command</th>
+                                    <th>Function</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>show ip bgp</td>
+                                    <td>View all prefixes in the routing table.</td>
+                                </tr>
+                                <tr>
+                                    <td>show ip bgp &lt;prefix&gt;</td>
+                                    <td>View route information for a specific prefix.</td>
+                                </tr>
+                                <tr>
+                                    <td>show ip bgp neighbors</td>
+                                    <td>Display the state and statistics of BGP neighbors.</td>
+                                </tr>
+                                <tr>
+                                    <td>show ip bgp summary</td>
+                                    <td>Display a summary of BGP sessions.</td>
+                                </tr>
+                                <tr>
+                                    <td>show ip as-path access-list</td>
+                                    <td>View all learned AS paths.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                
+                        <h2>5. Analysis Tips</h2>
+                        <h3>Analyzing AS Paths for a Specific IP</h3>
+                        <ol>
+                            <li>Use the command <code>show ip bgp &lt;IP&gt;</code> to obtain the AS path for the IP.</li>
+                            <li>Check the path for unusual hops or incorrect AS numbers.</li>
+                        </ol>
+                        <h3>Verifying Route Consistency</h3>
+                        <ol>
+                            <li>Query BGP data from multiple nodes (e.g., <code>route-views.eqix</code> and <code>route-views.sg</code>).</li>
+                            <li>Compare the results to determine global route consistency.</li>
+                        </ol>
+                        <h3>Observing Route Convergence</h3>
+                        <p>Repeatedly query the BGP data for the same prefix to observe changes in AS paths and next-hop details, tracking network dynamics.</p>
+                
+                        <h2>Beginner Recommendations</h2>
+                        <ul>
+                            <li>Start with simple commands: focus on <code>show ip bgp</code> and <code>show ip bgp &lt;prefix&gt;</code>.</li>
+                            <li>Understand BGP data formats: learn about AS paths, prefixes, and next-hop attributes.</li>
+                            <li>Practice analyzing real-world problems: e.g., verify global propagation of a specific IP prefix.</li>
+                        </ul>
 
 				<!-- Footer -->
 					<footer id="footer">
 						<div class="inner">
-							<section>
-								<h2>Get in touch</h2>
-								<form method="post" action="#">
-									<div class="fields">
-										<div class="field half">
-											<input type="text" name="name" id="name" placeholder="Name" />
-										</div>
-										<div class="field half">
-											<input type="email" name="email" id="email" placeholder="Email" />
-										</div>
-										<div class="field">
-											<textarea name="message" id="message" placeholder="Message"></textarea>
-										</div>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Send" class="primary" /></li>
-									</ul>
-								</form>
-							</section>
 							<section>
 								<h2>Follow</h2>
 								<ul class="icons">
