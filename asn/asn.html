@@ -116,7 +116,7 @@
 						countryTitle.textContent = `Top ASNs in ${countryName}`;
 			
 						// 加载对应的 JSON 数据文件
-						const jsonFile = `./asn/country_date/${code}.json`;
+						const jsonFile = `./country_date/${code}.json`;
 						return fetch(jsonFile);
 					})
 					.then(response => response.json())
