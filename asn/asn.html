@@ -58,10 +58,8 @@
 										<th>Rank</th>
 										<th>AS</th>
 										<th>Description</th>
-										<th>Users</th>
 										<th>% of CC Population</th>
 										<th>% of Internet</th>
-										<th>Samples</th>
 									</tr>
 								</thead>
 								<tbody id="asnTable">
@@ -132,10 +130,8 @@
                             <td>${item.rank}</td>
                             <td>${item.AS}</td>
                             <td>${item.Description}</td>
-                            <td>${item.Users.toLocaleString()}</td>
                             <td>${item['Percent of CC Pop']}</td>
                             <td>${item['Percent of Internet']}</td>
-                            <td>${item.Samples.toLocaleString()}</td>
                         `;
 							tableBody.appendChild(row);
 						});

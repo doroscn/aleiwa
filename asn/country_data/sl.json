@@ -1,0 +1,22 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":36988,"Description":"Africell-Lintel","CC":"SL","Users":616242,"Percent of CC Pop":39.04,"Percent of Internet":0.0146,"Samples":480403},
+{"rank":2,"AS":37164,"Description":"ZAIN-","CC":"SL","Users":527621,"Percent of CC Pop":33.43,"Percent of Internet":0.0125,"Samples":411317},
+{"rank":3,"AS":328297,"Description":"Qcell-AS","CC":"SL","Users":389602,"Percent of CC Pop":24.68,"Percent of Internet":0.0092,"Samples":303722},
+{"rank":4,"AS":328581,"Description":"Fiber-One","CC":"SL","Users":13648,"Percent of CC Pop":0.86,"Percent of Internet":0.0003,"Samples":10640},
+{"rank":5,"AS":209049,"Description":"MICHCOM","CC":"SL","Users":10749,"Percent of CC Pop":0.68,"Percent of Internet":0.0003,"Samples":8380},
+{"rank":6,"AS":329109,"Description":"ZL5-AS","CC":"SL","Users":4493,"Percent of CC Pop":0.28,"Percent of Internet":0.0001,"Samples":3503},
+{"rank":7,"AS":327903,"Description":"MICG","CC":"SL","Users":4143,"Percent of CC Pop":0.26,"Percent of Internet":0.0001,"Samples":3230},
+{"rank":8,"AS":327990,"Description":"AI-NETWORKS-LIMITED","CC":"SL","Users":3040,"Percent of CC Pop":0.19,"Percent of Internet":0.0001,"Samples":2370},
+{"rank":9,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SL","Users":2837,"Percent of CC Pop":0.18,"Percent of Internet":0.0001,"Samples":2212},
+{"rank":10,"AS":37449,"Description":"ONLIME-","CC":"SL","Users":2394,"Percent of CC Pop":0.15,"Percent of Internet":0.0001,"Samples":1867},
+{"rank":11,"AS":328258,"Description":"Zen-Internet","CC":"SL","Users":1774,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":1383},
+{"rank":12,"AS":37208,"Description":"AFCOM-","CC":"SL","Users":1022,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":797},
+{"rank":13,"AS":37723,"Description":"Cajutel-ASN","CC":"SL","Users":297,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":232},
+{"rank":14,"AS":328236,"Description":"PCS-Holdings-Limited","CC":"SL","Users":245,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":191}
+  ]
+}

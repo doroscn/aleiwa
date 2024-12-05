@@ -1,0 +1,16 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":327802,"Description":"MILLICOM-CHAD","CC":"TD","Users":996400,"Percent of CC Pop":59.36,"Percent of Internet":0.0236,"Samples":171403},
+{"rank":2,"AS":327756,"Description":"AIRTEL-","CC":"TD","Users":632703,"Percent of CC Pop":37.69,"Percent of Internet":0.0150,"Samples":108839},
+{"rank":3,"AS":329207,"Description":"NBSS1-AS","CC":"TD","Users":28909,"Percent of CC Pop":1.72,"Percent of Internet":0.0007,"Samples":4973},
+{"rank":4,"AS":327975,"Description":"ILNET-TELECOM","CC":"TD","Users":10556,"Percent of CC Pop":0.63,"Percent of Internet":0.0002,"Samples":1816},
+{"rank":5,"AS":328594,"Description":"SUDATCHAD-AS","CC":"TD","Users":4656,"Percent of CC Pop":0.28,"Percent of Internet":0.0001,"Samples":801},
+{"rank":6,"AS":327864,"Description":"ALBIDEYNET","CC":"TD","Users":1697,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":292},
+{"rank":7,"AS":37462,"Description":"Prestabist","CC":"TD","Users":1674,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":288},
+{"rank":8,"AS":328310,"Description":"GLOBALTEL-Networks","CC":"TD","Users":773,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":133}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":24691,"Description":"TOGOTEL-AS TogoTelecom, Togo","CC":"TG","Users":724439,"Percent of CC Pop":49.48,"Percent of Internet":0.0171,"Samples":363861},
+{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"TG","Users":480920,"Percent of CC Pop":32.85,"Percent of Internet":0.0114,"Samples":241550},
+{"rank":3,"AS":37229,"Description":"ATLANTIQUE-TELECOM-","CC":"TG","Users":252304,"Percent of CC Pop":17.23,"Percent of Internet":0.0060,"Samples":126724},
+{"rank":4,"AS":30982,"Description":"CAFENET","CC":"TG","Users":4457,"Percent of CC Pop":0.30,"Percent of Internet":0.0001,"Samples":2239},
+{"rank":5,"AS":328282,"Description":"TEOLIS-SAU","CC":"TG","Users":1558,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":783},
+{"rank":6,"AS":328293,"Description":"RDED-AS","CC":"TG","Users":282,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":142}
+  ]
+}

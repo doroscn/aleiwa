@@ -1,0 +1,14 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":3855,"Description":"LOGIC-3855","CC":"BM","Users":38434,"Percent of CC Pop":61.00,"Percent of Internet":0.0009,"Samples":38328},
+{"rank":2,"AS":32020,"Description":"TRANSACT-BM-ASN","CC":"BM","Users":21409,"Percent of CC Pop":33.98,"Percent of Internet":0.0005,"Samples":21350},
+{"rank":3,"AS":16413,"Description":"TELEBERMUDA","CC":"BM","Users":2283,"Percent of CC Pop":3.62,"Percent of Internet":0.0001,"Samples":2277},
+{"rank":4,"AS":11269,"Description":"LINKBERMUDA","CC":"BM","Users":226,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":226},
+{"rank":5,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"BM","Users":216,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":216},
+{"rank":6,"AS":38176,"Description":"ABS-GLOBAL ABS Global","CC":"BM","Users":154,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":154}
+  ]
+}

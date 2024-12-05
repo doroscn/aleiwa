@@ -1,0 +1,14 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":11594,"Description":"APUA-","CC":"AG","Users":48861,"Percent of CC Pop":63.81,"Percent of Internet":0.0012,"Samples":45649},
+{"rank":2,"AS":33576,"Description":"DIG001","CC":"AG","Users":15207,"Percent of CC Pop":19.86,"Percent of Internet":0.0004,"Samples":14208},
+{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"AG","Users":7398,"Percent of CC Pop":9.66,"Percent of Internet":0.0002,"Samples":6912},
+{"rank":4,"AS":19246,"Description":"ACT2000","CC":"AG","Users":2028,"Percent of CC Pop":2.65,"Percent of Internet":0.0000,"Samples":1895},
+{"rank":5,"AS":396304,"Description":"ANU-DIGI","CC":"AG","Users":1670,"Percent of CC Pop":2.18,"Percent of Internet":0.0000,"Samples":1561},
+{"rank":6,"AS":398228,"Description":"STKITS","CC":"AG","Users":1344,"Percent of CC Pop":1.76,"Percent of Internet":0.0000,"Samples":1256}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":37440,"Description":"Airtel-","CC":"MW","Users":2010067,"Percent of CC Pop":53.63,"Percent of Internet":0.0476,"Samples":298238},
+{"rank":2,"AS":37294,"Description":"TNM","CC":"MW","Users":1216683,"Percent of CC Pop":32.46,"Percent of Internet":0.0288,"Samples":180522},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MW","Users":386211,"Percent of CC Pop":10.30,"Percent of Internet":0.0091,"Samples":57303},
+{"rank":4,"AS":37098,"Description":"globe-as","CC":"MW","Users":33530,"Percent of CC Pop":0.89,"Percent of Internet":0.0008,"Samples":4975},
+{"rank":5,"AS":37215,"Description":"MAREN","CC":"MW","Users":17368,"Percent of CC Pop":0.46,"Percent of Internet":0.0004,"Samples":2577},
+{"rank":6,"AS":66001,"Description":"","CC":"MW","Users":16195,"Percent of CC Pop":0.43,"Percent of Internet":0.0004,"Samples":2403},
+{"rank":7,"AS":37187,"Description":"SKYBAND","CC":"MW","Users":15528,"Percent of CC Pop":0.41,"Percent of Internet":0.0004,"Samples":2304},
+{"rank":8,"AS":328844,"Description":"AFRIMAX-","CC":"MW","Users":14915,"Percent of CC Pop":0.40,"Percent of Internet":0.0004,"Samples":2213},
+{"rank":9,"AS":328600,"Description":"BENGOL_NET-LIMITED-AS","CC":"MW","Users":12192,"Percent of CC Pop":0.33,"Percent of Internet":0.0003,"Samples":1809},
+{"rank":10,"AS":36969,"Description":"MTL-AS","CC":"MW","Users":6847,"Percent of CC Pop":0.18,"Percent of Internet":0.0002,"Samples":1016},
+{"rank":11,"AS":327941,"Description":"SIMBANET-MALAWI","CC":"MW","Users":6746,"Percent of CC Pop":0.18,"Percent of Internet":0.0002,"Samples":1001},
+{"rank":12,"AS":36913,"Description":"TELEKOM-NETWORKS-MALAWI","CC":"MW","Users":2716,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":403},
+{"rank":13,"AS":328919,"Description":"OCL-AS","CC":"MW","Users":2567,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":381},
+{"rank":14,"AS":329220,"Description":"Department-of-E-Government","CC":"MW","Users":1482,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":220},
+{"rank":15,"AS":328949,"Description":"CTNL1-AS","CC":"MW","Users":1354,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":201},
+{"rank":16,"AS":37713,"Description":"Access-Communications-Ltd","CC":"MW","Users":1334,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":198},
+{"rank":17,"AS":329434,"Description":"Datacom_Limited","CC":"MW","Users":855,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":127}
+  ]
+}

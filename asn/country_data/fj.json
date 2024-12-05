@@ -1,0 +1,18 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":38442,"Description":"VODAFONEFIJI-AS-FJ Vodafone Fiji Limited","CC":"FJ","Users":316427,"Percent of CC Pop":60.16,"Percent of Internet":0.0075,"Samples":154247},
+{"rank":2,"AS":45355,"Description":"DIGICELPACIFIC-1-AP Digicel Fiji Limited","CC":"FJ","Users":144443,"Percent of CC Pop":27.46,"Percent of Internet":0.0034,"Samples":70411},
+{"rank":3,"AS":4638,"Description":"IS-FJ-AS Telecom Fiji Limited","CC":"FJ","Users":54157,"Percent of CC Pop":10.30,"Percent of Internet":0.0013,"Samples":26400},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"FJ","Users":6558,"Percent of CC Pop":1.25,"Percent of Internet":0.0002,"Samples":3197},
+{"rank":5,"AS":136921,"Description":"FNU-AS-AP Fiji National University","CC":"FJ","Users":1165,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":568},
+{"rank":6,"AS":135647,"Description":"AFL-AS-AP Airports Fiji Limited","CC":"FJ","Users":949,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":463},
+{"rank":7,"AS":24390,"Description":"USP-AS-AP The University of the South Pacific","CC":"FJ","Users":943,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":460},
+{"rank":8,"AS":9241,"Description":"FINTEL-FJ Fiji International Telecomunications Ltd","CC":"FJ","Users":414,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":202},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"FJ","Users":307,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":150},
+{"rank":10,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"FJ","Users":287,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":140}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":14988,"Description":"BTC-GATE1","CC":"BW","Users":393957,"Percent of CC Pop":32.33,"Percent of Internet":0.0093,"Samples":99530},
+{"rank":2,"AS":37014,"Description":"Mascom-Wireless-Botswana","CC":"BW","Users":332395,"Percent of CC Pop":27.27,"Percent of Internet":0.0079,"Samples":83977},
+{"rank":3,"AS":36963,"Description":"OBO","CC":"BW","Users":242390,"Percent of CC Pop":19.89,"Percent of Internet":0.0057,"Samples":61238},
+{"rank":4,"AS":37678,"Description":"BOFINET","CC":"BW","Users":63117,"Percent of CC Pop":5.18,"Percent of Internet":0.0015,"Samples":15946},
+{"rank":5,"AS":327776,"Description":"Stature-PTY-LTD","CC":"BW","Users":47581,"Percent of CC Pop":3.90,"Percent of Internet":0.0011,"Samples":12021},
+{"rank":6,"AS":37257,"Description":"BBI","CC":"BW","Users":42340,"Percent of CC Pop":3.47,"Percent of Internet":0.0010,"Samples":10697},
+{"rank":7,"AS":329078,"Description":"ABARI-FTTH","CC":"BW","Users":19276,"Percent of CC Pop":1.58,"Percent of Internet":0.0005,"Samples":4870},
+{"rank":8,"AS":37395,"Description":"ABARI","CC":"BW","Users":12499,"Percent of CC Pop":1.03,"Percent of Internet":0.0003,"Samples":3158},
+{"rank":9,"AS":327830,"Description":"Concerotel-Botswana","CC":"BW","Users":11423,"Percent of CC Pop":0.94,"Percent of Internet":0.0003,"Samples":2886},
+{"rank":10,"AS":329301,"Description":"BOTSWANA-RESEARCH-AND-EDUCATION-NETWORK-SOCIETY","CC":"BW","Users":10726,"Percent of CC Pop":0.88,"Percent of Internet":0.0003,"Samples":2710},
+{"rank":11,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BW","Users":10045,"Percent of CC Pop":0.82,"Percent of Internet":0.0002,"Samples":2538},
+{"rank":12,"AS":328181,"Description":"GCSat-Botswana","CC":"BW","Users":7326,"Percent of CC Pop":0.60,"Percent of Internet":0.0002,"Samples":1851},
+{"rank":13,"AS":33781,"Description":"OPQ","CC":"BW","Users":4923,"Percent of CC Pop":0.40,"Percent of Internet":0.0001,"Samples":1244},
+{"rank":14,"AS":327716,"Description":"Microteck-AS","CC":"BW","Users":4448,"Percent of CC Pop":0.37,"Percent of Internet":0.0001,"Samples":1124},
+{"rank":15,"AS":33763,"Description":"Paratus","CC":"BW","Users":4183,"Percent of CC Pop":0.34,"Percent of Internet":0.0001,"Samples":1057},
+{"rank":16,"AS":37604,"Description":"Zebranet-AS","CC":"BW","Users":3875,"Percent of CC Pop":0.32,"Percent of Internet":0.0001,"Samples":979},
+{"rank":17,"AS":30844,"Description":"LIQUID-AS","CC":"BW","Users":3839,"Percent of CC Pop":0.32,"Percent of Internet":0.0001,"Samples":970},
+{"rank":18,"AS":327760,"Description":"ELECTRO-METIC","CC":"BW","Users":1535,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":388},
+{"rank":19,"AS":328757,"Description":"Donya-Digital-AS","CC":"BW","Users":1175,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":297},
+{"rank":20,"AS":329473,"Description":"Click-Connect","CC":"BW","Users":637,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":161}
+  ]
+}

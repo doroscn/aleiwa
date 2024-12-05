@@ -1,0 +1,14 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"MQ","Users":73040,"Percent of CC Pop":36.27,"Percent of Internet":0.0017,"Samples":28097},
+{"rank":2,"AS":3215,"Description":"France Telecom - Orange","CC":"MQ","Users":58667,"Percent of CC Pop":29.13,"Percent of Internet":0.0014,"Samples":22568},
+{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MQ","Users":49340,"Percent of CC Pop":24.50,"Percent of Internet":0.0012,"Samples":18980},
+{"rank":4,"AS":48252,"Description":"DIGICELFWI","CC":"MQ","Users":12192,"Percent of CC Pop":6.05,"Percent of Internet":0.0003,"Samples":4690},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MQ","Users":4528,"Percent of CC Pop":2.25,"Percent of Internet":0.0001,"Samples":1742},
+{"rank":6,"AS":21502,"Description":"ASN-NUMERICABLE","CC":"MQ","Users":2386,"Percent of CC Pop":1.19,"Percent of Internet":0.0001,"Samples":918}
+  ]
+}

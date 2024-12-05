@@ -1,0 +1,10 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":36939,"Description":"ComoresTelecom","CC":"KM","Users":44218,"Percent of CC Pop":54.30,"Percent of Internet":0.0010,"Samples":30217},
+{"rank":2,"AS":328061,"Description":"TELCO-SA-AS","CC":"KM","Users":37204,"Percent of CC Pop":45.69,"Percent of Internet":0.0009,"Samples":25424}
+  ]
+}

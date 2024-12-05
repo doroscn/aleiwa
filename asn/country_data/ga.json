@@ -1,0 +1,15 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":16058,"Description":"Gabon-Telecom","CC":"GA","Users":859728,"Percent of CC Pop":63.89,"Percent of Internet":0.0204,"Samples":495397},
+{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"GA","Users":310439,"Percent of CC Pop":23.07,"Percent of Internet":0.0073,"Samples":178883},
+{"rank":3,"AS":37616,"Description":"Airtel","CC":"GA","Users":170060,"Percent of CC Pop":12.64,"Percent of Internet":0.0040,"Samples":97993},
+{"rank":4,"AS":37582,"Description":"ANINF","CC":"GA","Users":2736,"Percent of CC Pop":0.20,"Percent of Internet":0.0001,"Samples":1577},
+{"rank":5,"AS":328304,"Description":"WAKA-AS","CC":"GA","Users":1174,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":677},
+{"rank":6,"AS":328485,"Description":"Reserved (afrinic)","CC":"GA","Users":708,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":408},
+{"rank":7,"AS":327876,"Description":"Societe-TLDC","CC":"GA","Users":331,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":191}
+  ]
+}

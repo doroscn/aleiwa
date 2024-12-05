@@ -1,0 +1,21 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":37577,"Description":"Orange-","CC":"BF","Users":2309039,"Percent of CC Pop":50.02,"Percent of Internet":0.0547,"Samples":969546},
+{"rank":2,"AS":25543,"Description":"FasoNet-AS","CC":"BF","Users":1003987,"Percent of CC Pop":21.75,"Percent of Internet":0.0238,"Samples":421566},
+{"rank":3,"AS":37526,"Description":"Telecel-Faso","CC":"BF","Users":621217,"Percent of CC Pop":13.46,"Percent of Internet":0.0147,"Samples":260844},
+{"rank":4,"AS":36924,"Description":"GVA-Canalbox","CC":"BF","Users":595734,"Percent of CC Pop":12.91,"Percent of Internet":0.0141,"Samples":250144},
+{"rank":5,"AS":37721,"Description":"Virtual-Technologies-Solutions-SA","CC":"BF","Users":26097,"Percent of CC Pop":0.57,"Percent of Internet":0.0006,"Samples":10958},
+{"rank":6,"AS":327871,"Description":"ANPTIC","CC":"BF","Users":25344,"Percent of CC Pop":0.55,"Percent of Internet":0.0006,"Samples":10642},
+{"rank":7,"AS":329041,"Description":"ANDE1-AS","CC":"BF","Users":16770,"Percent of CC Pop":0.36,"Percent of Internet":0.0004,"Samples":7042},
+{"rank":8,"AS":37073,"Description":"IPP-burkina-as","CC":"BF","Users":7070,"Percent of CC Pop":0.15,"Percent of Internet":0.0002,"Samples":2969},
+{"rank":9,"AS":37008,"Description":"Alink-Faso","CC":"BF","Users":2991,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":1256},
+{"rank":10,"AS":37163,"Description":"IPSYSTEM","CC":"BF","Users":2836,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":1191},
+{"rank":11,"AS":328716,"Description":"VIPNET-BUKINA-FASO","CC":"BF","Users":1526,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":641},
+{"rank":12,"AS":328316,"Description":"Point-Atterissement-AS","CC":"BF","Users":1371,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":576},
+{"rank":13,"AS":37648,"Description":"UEMOA","CC":"BF","Users":450,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":189}
+  ]
+}

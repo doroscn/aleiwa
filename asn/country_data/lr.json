@@ -1,0 +1,16 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":37094,"Description":"OrangeLiberia","CC":"LR","Users":280340,"Percent of CC Pop":53.22,"Percent of Internet":0.0066,"Samples":293415},
+{"rank":2,"AS":37410,"Description":"LONESTAR","CC":"LR","Users":229087,"Percent of CC Pop":43.49,"Percent of Internet":0.0054,"Samples":239771},
+{"rank":3,"AS":328136,"Description":"Telecel-Liberia-AS","CC":"LR","Users":6240,"Percent of CC Pop":1.18,"Percent of Internet":0.0001,"Samples":6532},
+{"rank":4,"AS":328196,"Description":"POWERNET","CC":"LR","Users":3563,"Percent of CC Pop":0.68,"Percent of Internet":0.0001,"Samples":3730},
+{"rank":5,"AS":329082,"Description":"CSLL1-AS","CC":"LR","Users":2707,"Percent of CC Pop":0.51,"Percent of Internet":0.0001,"Samples":2834},
+{"rank":6,"AS":37203,"Description":"LIBTELCO","CC":"LR","Users":1861,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":1948},
+{"rank":7,"AS":29286,"Description":"SKYLOGIC-AS","CC":"LR","Users":1674,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":1753},
+{"rank":8,"AS":37580,"Description":"ELECTROSHACK","CC":"LR","Users":1180,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":1236}
+  ]
+}

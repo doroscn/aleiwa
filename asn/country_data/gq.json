@@ -1,0 +1,15 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":37173,"Description":"GETESA","CC":"GQ","Users":272345,"Percent of CC Pop":51.37,"Percent of Internet":0.0064,"Samples":72922},
+{"rank":2,"AS":37337,"Description":"MUNI-EG","CC":"GQ","Users":164575,"Percent of CC Pop":31.04,"Percent of Internet":0.0039,"Samples":44066},
+{"rank":3,"AS":37529,"Description":"GITGE","CC":"GQ","Users":67232,"Percent of CC Pop":12.68,"Percent of Internet":0.0016,"Samples":18002},
+{"rank":4,"AS":328207,"Description":"OFFICE-TECH","CC":"GQ","Users":15435,"Percent of CC Pop":2.91,"Percent of Internet":0.0004,"Samples":4133},
+{"rank":5,"AS":329219,"Description":"Fenix-EG","CC":"GQ","Users":8186,"Percent of CC Pop":1.54,"Percent of Internet":0.0002,"Samples":2192},
+{"rank":6,"AS":37487,"Description":"GUINEANET","CC":"GQ","Users":1886,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":505},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"GQ","Users":537,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":144}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":43357,"Description":"OWL Owl Limited","CC":"VU","Users":54871,"Percent of CC Pop":56.20,"Percent of Internet":0.0013,"Samples":1360},
+{"rank":2,"AS":9249,"Description":"VUTELECOM-AS01-VU-AP Telecom Vanuatu Limited","CC":"VU","Users":22755,"Percent of CC Pop":23.31,"Percent of Internet":0.0005,"Samples":564},
+{"rank":3,"AS":132429,"Description":"DIGICELVANUATU-VU Digicel Vanuatu LTD","CC":"VU","Users":16864,"Percent of CC Pop":17.27,"Percent of Internet":0.0004,"Samples":418}
+  ]
+}

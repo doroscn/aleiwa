@@ -1,0 +1,19 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":30689,"Description":"FLOW-NET","CC":"JM","Users":957597,"Percent of CC Pop":62.33,"Percent of Internet":0.0227,"Samples":448361},
+{"rank":2,"AS":40786,"Description":"DIGI-GRP-JAM","CC":"JM","Users":476331,"Percent of CC Pop":31.00,"Percent of Internet":0.0113,"Samples":223025},
+{"rank":3,"AS":33576,"Description":"DIG001","CC":"JM","Users":47802,"Percent of CC Pop":3.11,"Percent of Internet":0.0011,"Samples":22382},
+{"rank":4,"AS":10292,"Description":"CWJ-1","CC":"JM","Users":22015,"Percent of CC Pop":1.43,"Percent of Internet":0.0005,"Samples":10308},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"JM","Users":21142,"Percent of CC Pop":1.38,"Percent of Internet":0.0005,"Samples":9899},
+{"rank":6,"AS":11580,"Description":"ISLAND-NETWORKS-LTD","CC":"JM","Users":4273,"Percent of CC Pop":0.28,"Percent of Internet":0.0001,"Samples":2001},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"JM","Users":2381,"Percent of CC Pop":0.15,"Percent of Internet":0.0001,"Samples":1115},
+{"rank":8,"AS":11139,"Description":"CWC-ROC-11139","CC":"JM","Users":1655,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":775},
+{"rank":9,"AS":23520,"Description":"COLUMBUS-NETWORKS","CC":"JM","Users":1161,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":544},
+{"rank":10,"AS":40143,"Description":"UTECH-JAMAICA","CC":"JM","Users":1001,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":469},
+{"rank":11,"AS":396304,"Description":"ANU-DIGI","CC":"JM","Users":273,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":128}
+  ]
+}

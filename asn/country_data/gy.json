@@ -1,0 +1,14 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":19863,"Description":"Guyana Telephone & Telegraph Co.","CC":"GY","Users":191892,"Percent of CC Pop":58.67,"Percent of Internet":0.0045,"Samples":196467},
+{"rank":2,"AS":52253,"Description":"E-Networks Inc.","CC":"GY","Users":83890,"Percent of CC Pop":25.65,"Percent of Internet":0.0020,"Samples":85890},
+{"rank":3,"AS":52433,"Description":"U Mobile Cellular Inc.","CC":"GY","Users":44582,"Percent of CC Pop":13.63,"Percent of Internet":0.0011,"Samples":45645},
+{"rank":4,"AS":264694,"Description":"EGOVERNMENT UNIT","CC":"GY","Users":5274,"Percent of CC Pop":1.61,"Percent of Internet":0.0001,"Samples":5400},
+{"rank":5,"AS":270108,"Description":"XEN1 NETWORKS INC","CC":"GY","Users":1012,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":1037},
+{"rank":6,"AS":174,"Description":"COGENT-174","CC":"GY","Users":284,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":291}
+  ]
+}

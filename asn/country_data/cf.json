@@ -1,0 +1,11 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":37460,"Description":"ORANGE-CA","CC":"CF","Users":167133,"Percent of CC Pop":59.24,"Percent of Internet":0.0040,"Samples":24556},
+{"rank":2,"AS":328079,"Description":"TELECEL-CENTRAFRIQUE-AS","CC":"CF","Users":67892,"Percent of CC Pop":24.07,"Percent of Internet":0.0016,"Samples":9975},
+{"rank":3,"AS":329274,"Description":"MoovAfricaCentrafrique","CC":"CF","Users":46411,"Percent of CC Pop":16.45,"Percent of Internet":0.0011,"Samples":6819}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":139759,"Description":"FMTELECOM-AS-AP FSM Telecommunications Corporation","CC":"FM","Users":25820,"Percent of CC Pop":57.89,"Percent of Internet":0.0006,"Samples":18189},
+{"rank":2,"AS":38875,"Description":"AS38875 FSM Telecommunications Corporation","CC":"FM","Users":6636,"Percent of CC Pop":14.88,"Percent of Internet":0.0002,"Samples":4675},
+{"rank":3,"AS":45193,"Description":"AS45193 FSM Telecommunications Corporation","CC":"FM","Users":6209,"Percent of CC Pop":13.92,"Percent of Internet":0.0001,"Samples":4374},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"FM","Users":3133,"Percent of CC Pop":7.02,"Percent of Internet":0.0001,"Samples":2207},
+{"rank":5,"AS":58524,"Description":"AS58524 FSM Telecommunications Corporation","CC":"FM","Users":2674,"Percent of CC Pop":6.00,"Percent of Internet":0.0001,"Samples":1884}
+  ]
+}

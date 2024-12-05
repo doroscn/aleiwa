@@ -1,0 +1,20 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":6057,"Description":"Administracion Nacional de Telecomunicaciones","CC":"UY","Users":2142888,"Percent of CC Pop":87.98,"Percent of Internet":0.0507,"Samples":979338},
+{"rank":2,"AS":19422,"Description":"Telefonica Moviles del Uruguay SA","CC":"UY","Users":199327,"Percent of CC Pop":8.18,"Percent of Internet":0.0047,"Samples":91096},
+{"rank":3,"AS":11664,"Description":"Techtel LMDS Comunicaciones Interactivas S.A.","CC":"UY","Users":79729,"Percent of CC Pop":3.27,"Percent of Internet":0.0019,"Samples":36438},
+{"rank":4,"AS":20255,"Description":"Tecnowind S.A.","CC":"UY","Users":7411,"Percent of CC Pop":0.30,"Percent of Internet":0.0002,"Samples":3387},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"UY","Users":1295,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":592},
+{"rank":6,"AS":273004,"Description":"MONTE CABLEVIDEO S A","CC":"UY","Users":881,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":403},
+{"rank":7,"AS":273012,"Description":"RISELCO SOCIEDAD ANONIMA","CC":"UY","Users":553,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":253},
+{"rank":8,"AS":273002,"Description":"TRACTORAL SOCIEDAD ANONIMA","CC":"UY","Users":544,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":249},
+{"rank":9,"AS":20002,"Description":"Telstar S.A.","CC":"UY","Users":538,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":246},
+{"rank":10,"AS":1797,"Description":"Uruguay","CC":"UY","Users":522,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":239},
+{"rank":11,"AS":14234,"Description":"ZONAMERICA","CC":"UY","Users":435,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":199},
+{"rank":12,"AS":262287,"Description":"Latitude.sh LTDA","CC":"UY","Users":312,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":143}
+  ]
+}

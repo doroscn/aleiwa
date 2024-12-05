@@ -1,0 +1,12 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":49902,"Description":"SRR-AS","CC":"YT","Users":169012,"Percent of CC Pop":87.73,"Percent of Internet":0.0040,"Samples":20625},
+{"rank":2,"AS":37614,"Description":"STOI-AS","CC":"YT","Users":17028,"Percent of CC Pop":8.84,"Percent of Internet":0.0004,"Samples":2078},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"YT","Users":3826,"Percent of CC Pop":1.99,"Percent of Internet":0.0001,"Samples":467},
+{"rank":4,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"YT","Users":2351,"Percent of CC Pop":1.22,"Percent of Internet":0.0001,"Samples":287}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":14813,"Description":"BB-COLUMBUS","CC":"BB","Users":188058,"Percent of CC Pop":77.54,"Percent of Internet":0.0045,"Samples":195407},
+{"rank":2,"AS":35900,"Description":"DIGI-BDS-ASN","CC":"BB","Users":52937,"Percent of CC Pop":21.83,"Percent of Internet":0.0013,"Samples":55006},
+{"rank":3,"AS":55033,"Description":"UWI-CH-ASN1","CC":"BB","Users":877,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":912},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BB","Users":279,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":290},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"BB","Users":192,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":200}
+  ]
+}

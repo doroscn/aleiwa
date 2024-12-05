@@ -1,0 +1,11 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS STE PDN Internal AS","CC":"SY","Users":9306892,"Percent of CC Pop":99.48,"Percent of Internet":0.2203,"Samples":1062092},
+{"rank":2,"AS":13335,"Description":"CLOUDFLARENET","CC":"SY","Users":47126,"Percent of CC Pop":0.50,"Percent of Internet":0.0011,"Samples":5378},
+{"rank":3,"AS":44546,"Description":"ALFATELECOM-AS","CC":"SY","Users":1226,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":140}
+  ]
+}

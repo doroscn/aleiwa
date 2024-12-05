@@ -1,0 +1,27 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":47237,"Description":"NURTELECOM-AS-RIPE","CC":"KG","Users":766199,"Percent of CC Pop":25.21,"Percent of Internet":0.0181,"Samples":591759},
+{"rank":2,"AS":50223,"Description":"ALFA","CC":"KG","Users":709409,"Percent of CC Pop":23.34,"Percent of Internet":0.0168,"Samples":547898},
+{"rank":3,"AS":41329,"Description":"BITEL-AS-RIPE Bishkek, Kyrgyzstan","CC":"KG","Users":313312,"Percent of CC Pop":10.31,"Percent of Internet":0.0074,"Samples":241981},
+{"rank":4,"AS":29061,"Description":"SAIMANET-AS Lva Tolstogo st. 13","CC":"KG","Users":233081,"Percent of CC Pop":7.67,"Percent of Internet":0.0055,"Samples":180016},
+{"rank":5,"AS":12764,"Description":"AKNET-AS","CC":"KG","Users":230388,"Percent of CC Pop":7.58,"Percent of Internet":0.0055,"Samples":177936},
+{"rank":6,"AS":50251,"Description":"NURTELECOM-AS2","CC":"KG","Users":168425,"Percent of CC Pop":5.54,"Percent of Internet":0.0040,"Samples":130080},
+{"rank":7,"AS":41750,"Description":"AS-MEGALINE-","CC":"KG","Users":153183,"Percent of CC Pop":5.04,"Percent of Internet":0.0036,"Samples":118308},
+{"rank":8,"AS":12997,"Description":"KTNET","CC":"KG","Users":140854,"Percent of CC Pop":4.63,"Percent of Internet":0.0033,"Samples":108786},
+{"rank":9,"AS":207369,"Description":"SKYNET-AS","CC":"KG","Users":91029,"Percent of CC Pop":2.99,"Percent of Internet":0.0022,"Samples":70305},
+{"rank":10,"AS":42837,"Description":"EXTRALINE","CC":"KG","Users":80819,"Percent of CC Pop":2.66,"Percent of Internet":0.0019,"Samples":62419},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"KG","Users":74161,"Percent of CC Pop":2.44,"Percent of Internet":0.0018,"Samples":57277},
+{"rank":12,"AS":42581,"Description":"NEOTELECOM-AS","CC":"KG","Users":43547,"Percent of CC Pop":1.43,"Percent of Internet":0.0010,"Samples":33633},
+{"rank":13,"AS":8449,"Description":"AS8449-ELCAT","CC":"KG","Users":16350,"Percent of CC Pop":0.54,"Percent of Internet":0.0004,"Samples":12628},
+{"rank":14,"AS":47782,"Description":"FAST-NET-AS","CC":"KG","Users":5628,"Percent of CC Pop":0.19,"Percent of Internet":0.0001,"Samples":4347},
+{"rank":15,"AS":207192,"Description":"TELCOMDATA # Google PNI AS15169","CC":"KG","Users":5088,"Percent of CC Pop":0.17,"Percent of Internet":0.0001,"Samples":3930},
+{"rank":16,"AS":48271,"Description":"CITY-TELECOM-AS","CC":"KG","Users":4180,"Percent of CC Pop":0.14,"Percent of Internet":0.0001,"Samples":3229},
+{"rank":17,"AS":61010,"Description":"IPNET-AS","CC":"KG","Users":2194,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":1695},
+{"rank":18,"AS":197119,"Description":"ASKRENA","CC":"KG","Users":832,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":643},
+{"rank":19,"AS":39214,"Description":"COMINTECH","CC":"KG","Users":251,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":194}
+  ]
+}

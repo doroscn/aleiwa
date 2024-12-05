@@ -1,0 +1,11 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":38800,"Description":"DIGICELSAMOA-WS-AS-AP Digicel Samoa Ltd","CC":"WS","Users":58730,"Percent of CC Pop":63.88,"Percent of Internet":0.0014,"Samples":32349},
+{"rank":2,"AS":17993,"Description":"VODAFONESAMOA-AS-AP Vodafone Samoa Limited","CC":"WS","Users":32396,"Percent of CC Pop":35.24,"Percent of Internet":0.0008,"Samples":17844},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"WS","Users":689,"Percent of CC Pop":0.75,"Percent of Internet":0.0000,"Samples":380}
+  ]
+}

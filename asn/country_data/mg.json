@@ -1,0 +1,13 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":37054,"Description":"Telecom-Malagasy","CC":"MG","Users":2728525,"Percent of CC Pop":57.04,"Percent of Internet":0.0646,"Samples":117409},
+{"rank":2,"AS":37037,"Description":"ORANGEMG-AS","CC":"MG","Users":1414913,"Percent of CC Pop":29.58,"Percent of Internet":0.0335,"Samples":60884},
+{"rank":3,"AS":37303,"Description":"AIRTELMADA","CC":"MG","Users":284056,"Percent of CC Pop":5.94,"Percent of Internet":0.0067,"Samples":12223},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MG","Users":215128,"Percent of CC Pop":4.50,"Percent of Internet":0.0051,"Samples":9257},
+{"rank":5,"AS":328411,"Description":"Gulfsat-Madagascar-AS","CC":"MG","Users":136555,"Percent of CC Pop":2.85,"Percent of Internet":0.0032,"Samples":5876}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":56089,"Description":"OFFRATEL-AS-AP OFFRATEL","CC":"NC","Users":77839,"Percent of CC Pop":29.05,"Percent of Internet":0.0018,"Samples":15912},
+{"rank":2,"AS":18200,"Description":"OPT-NC-AS-AP Office des Postes et Telecommunications New-Caledonia","CC":"NC","Users":75833,"Percent of CC Pop":28.30,"Percent of Internet":0.0018,"Samples":15502},
+{"rank":3,"AS":17480,"Description":"CANL CANL","CC":"NC","Users":52347,"Percent of CC Pop":19.54,"Percent of Internet":0.0012,"Samples":10701},
+{"rank":4,"AS":56055,"Description":"MLS-NC Micro Logic Systems","CC":"NC","Users":39785,"Percent of CC Pop":14.85,"Percent of Internet":0.0009,"Samples":8133},
+{"rank":5,"AS":45345,"Description":"NAUTILE-NC-AS-AP Nautile","CC":"NC","Users":16368,"Percent of CC Pop":6.11,"Percent of Internet":0.0004,"Samples":3346},
+{"rank":6,"AS":45461,"Description":"TELENET-AS-AP TeleNet","CC":"NC","Users":5283,"Percent of CC Pop":1.97,"Percent of Internet":0.0001,"Samples":1080}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":3212,"Description":"TELEMACH Broadband Access & Carrier Services","CC":"SI","Users":572590,"Percent of CC Pop":32.34,"Percent of Internet":0.0136,"Samples":420075},
+{"rank":2,"AS":5603,"Description":"SIOL-NET Telekom Slovenije d.d.","CC":"SI","Users":512548,"Percent of CC Pop":28.95,"Percent of Internet":0.0121,"Samples":376026},
+{"rank":3,"AS":21283,"Description":"A1SI-AS A1 Slovenija","CC":"SI","Users":345565,"Percent of CC Pop":19.52,"Percent of Internet":0.0082,"Samples":253521},
+{"rank":4,"AS":34779,"Description":"T-2-AS AS set propagated by T-2 d.o.o.","CC":"SI","Users":268892,"Percent of CC Pop":15.19,"Percent of Internet":0.0064,"Samples":197270},
+{"rank":5,"AS":2107,"Description":"ARNES-NET Academic and Research Network of Slovenia","CC":"SI","Users":23014,"Percent of CC Pop":1.30,"Percent of Internet":0.0005,"Samples":16884},
+{"rank":6,"AS":62240,"Description":"CLOUVIDER Clouvider - Global ASN","CC":"SI","Users":10371,"Percent of CC Pop":0.59,"Percent of Internet":0.0002,"Samples":7609},
+{"rank":7,"AS":9119,"Description":"SOFTNET-AS Internet Service Provider in Slovenia and South Europe region","CC":"SI","Users":9557,"Percent of CC Pop":0.54,"Percent of Internet":0.0002,"Samples":7012},
+{"rank":8,"AS":197663,"Description":"POLANS","CC":"SI","Users":7168,"Percent of CC Pop":0.40,"Percent of Internet":0.0002,"Samples":5259},
+{"rank":9,"AS":58056,"Description":"KRS-NET-AS","CC":"SI","Users":4994,"Percent of CC Pop":0.28,"Percent of Internet":0.0001,"Samples":3664},
+{"rank":10,"AS":207990,"Description":"HR-CUSTOMER","CC":"SI","Users":1881,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":1380},
+{"rank":11,"AS":174,"Description":"COGENT-174","CC":"SI","Users":1622,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":1190},
+{"rank":12,"AS":58046,"Description":"HKOM-AS","CC":"SI","Users":1431,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":1050},
+{"rank":13,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SI","Users":1113,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":817},
+{"rank":14,"AS":50195,"Description":"UM","CC":"SI","Users":850,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":624},
+{"rank":15,"AS":197470,"Description":"TELE-CABLE-NET","CC":"SI","Users":783,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":575},
+{"rank":16,"AS":44477,"Description":"STARK-INDUSTRIES","CC":"SI","Users":648,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":476},
+{"rank":17,"AS":43061,"Description":"SI-STELKOM","CC":"SI","Users":627,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":460},
+{"rank":18,"AS":47917,"Description":"RTVSLO-ASN","CC":"SI","Users":587,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":431},
+{"rank":19,"AS":13335,"Description":"CLOUDFLARENET","CC":"SI","Users":479,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":352},
+{"rank":20,"AS":51615,"Description":"KATENG-ASN","CC":"SI","Users":456,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":335},
+{"rank":21,"AS":44549,"Description":"MEGA-M-AS AS set propagated by MEGA M d.o.o.","CC":"SI","Users":425,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":312},
+{"rank":22,"AS":41582,"Description":"LJU-AIRPORT-AS","CC":"SI","Users":237,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":174},
+{"rank":23,"AS":212548,"Description":"PETROL-AS","CC":"SI","Users":204,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":150},
+{"rank":24,"AS":57532,"Description":"KTVRAVNE","CC":"SI","Users":199,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":146}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":37287,"Description":"ZAIN-ZAMBIA","CC":"ZM","Users":3973134,"Percent of CC Pop":56.95,"Percent of Internet":0.0941,"Samples":943676},
+{"rank":2,"AS":36962,"Description":"MTNZ-AS","CC":"ZM","Users":2020253,"Percent of CC Pop":28.96,"Percent of Internet":0.0478,"Samples":479839},
+{"rank":3,"AS":37154,"Description":"ZAMTEL","CC":"ZM","Users":419288,"Percent of CC Pop":6.01,"Percent of Internet":0.0099,"Samples":99587},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"ZM","Users":252435,"Percent of CC Pop":3.62,"Percent of Internet":0.0060,"Samples":59957},
+{"rank":5,"AS":327708,"Description":"AIRTEL-","CC":"ZM","Users":86045,"Percent of CC Pop":1.23,"Percent of Internet":0.0020,"Samples":20437},
+{"rank":6,"AS":30844,"Description":"LIQUID-AS","CC":"ZM","Users":83729,"Percent of CC Pop":1.20,"Percent of Internet":0.0020,"Samples":19887},
+{"rank":7,"AS":328817,"Description":"CITYCHannel-AS","CC":"ZM","Users":52506,"Percent of CC Pop":0.75,"Percent of Internet":0.0012,"Samples":12471},
+{"rank":8,"AS":37532,"Description":"ZAMREN","CC":"ZM","Users":31619,"Percent of CC Pop":0.45,"Percent of Internet":0.0007,"Samples":7510},
+{"rank":9,"AS":33763,"Description":"Paratus","CC":"ZM","Users":18744,"Percent of CC Pop":0.27,"Percent of Internet":0.0004,"Samples":4452},
+{"rank":10,"AS":328427,"Description":"AirLink-Broadband-AS","CC":"ZM","Users":14167,"Percent of CC Pop":0.20,"Percent of Internet":0.0003,"Samples":3365},
+{"rank":11,"AS":36959,"Description":"afczas","CC":"ZM","Users":10024,"Percent of CC Pop":0.14,"Percent of Internet":0.0002,"Samples":2381},
+{"rank":12,"AS":328570,"Description":"Fibrecom-Limited","CC":"ZM","Users":8130,"Percent of CC Pop":0.12,"Percent of Internet":0.0002,"Samples":1931},
+{"rank":13,"AS":37146,"Description":"realtime-as","CC":"ZM","Users":1524,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":362},
+{"rank":14,"AS":37569,"Description":"Roke_Zambia_ASN","CC":"ZM","Users":1065,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":253},
+{"rank":15,"AS":7420,"Description":"ZAMNET-AS","CC":"ZM","Users":1002,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":238},
+{"rank":16,"AS":55256,"Description":"NETSKOPE","CC":"ZM","Users":959,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":228},
+{"rank":17,"AS":13335,"Description":"CLOUDFLARENET","CC":"ZM","Users":627,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":149}
+  ]
+}

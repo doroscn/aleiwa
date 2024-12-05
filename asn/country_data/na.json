@@ -1,0 +1,17 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":36996,"Description":"TELECOM-NAMIBIA","CC":"NA","Users":504838,"Percent of CC Pop":41.73,"Percent of Internet":0.0120,"Samples":117990},
+{"rank":2,"AS":37009,"Description":"MTCASN","CC":"NA","Users":353999,"Percent of CC Pop":29.26,"Percent of Internet":0.0084,"Samples":82736},
+{"rank":3,"AS":33763,"Description":"Paratus","CC":"NA","Users":251324,"Percent of CC Pop":20.77,"Percent of Internet":0.0059,"Samples":58739},
+{"rank":4,"AS":36999,"Description":"TELECOM-NAMIBIA","CC":"NA","Users":82612,"Percent of CC Pop":6.83,"Percent of Internet":0.0020,"Samples":19308},
+{"rank":5,"AS":36877,"Description":"IWAY_AFRICA","CC":"NA","Users":6174,"Percent of CC Pop":0.51,"Percent of Internet":0.0001,"Samples":1443},
+{"rank":6,"AS":30896,"Description":"Iway-Network-AS","CC":"NA","Users":3401,"Percent of CC Pop":0.28,"Percent of Internet":0.0001,"Samples":795},
+{"rank":7,"AS":37513,"Description":"Polytechnic-","CC":"NA","Users":2661,"Percent of CC Pop":0.22,"Percent of Internet":0.0001,"Samples":622},
+{"rank":8,"AS":22735,"Description":"Govt-Namibia","CC":"NA","Users":1916,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":448},
+{"rank":9,"AS":329067,"Description":"Click","CC":"NA","Users":1754,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":410}
+  ]
+}

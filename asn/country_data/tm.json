@@ -1,0 +1,12 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":20661,"Description":"TURKMENTELECOM-AS","CC":"TM","Users":981969,"Percent of CC Pop":56.54,"Percent of Internet":0.0232,"Samples":13325},
+{"rank":2,"AS":51495,"Description":"AGTS-AS","CC":"TM","Users":470682,"Percent of CC Pop":27.10,"Percent of Internet":0.0111,"Samples":6387},
+{"rank":3,"AS":205471,"Description":"CDMA-AGTS-AS","CC":"TM","Users":169348,"Percent of CC Pop":9.75,"Percent of Internet":0.0040,"Samples":2298},
+{"rank":4,"AS":59974,"Description":"TMCELL-NET","CC":"TM","Users":113635,"Percent of CC Pop":6.54,"Percent of Internet":0.0027,"Samples":1542}
+  ]
+}

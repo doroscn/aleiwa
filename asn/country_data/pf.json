@@ -1,0 +1,12 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":9471,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":142416,"Percent of CC Pop":57.69,"Percent of Internet":0.0034,"Samples":40077},
+{"rank":2,"AS":55943,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":48644,"Percent of CC Pop":19.71,"Percent of Internet":0.0012,"Samples":13689},
+{"rank":3,"AS":138179,"Description":"PMT-AS-AP PACIFIC MOBILE TELECOM","CC":"PF","Users":42891,"Percent of CC Pop":17.38,"Percent of Internet":0.0010,"Samples":12070},
+{"rank":4,"AS":56017,"Description":"VITI-AS-PF VITI","CC":"PF","Users":12863,"Percent of CC Pop":5.21,"Percent of Internet":0.0003,"Samples":3620}
+  ]
+}

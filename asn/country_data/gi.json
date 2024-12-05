@@ -1,0 +1,12 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":8301,"Description":"GIBTELECOMNET","CC":"GI","Users":11693,"Percent of CC Pop":32.67,"Percent of Internet":0.0003,"Samples":17307},
+{"rank":2,"AS":34803,"Description":"BGL","CC":"GI","Users":11224,"Percent of CC Pop":31.36,"Percent of Internet":0.0003,"Samples":16613},
+{"rank":3,"AS":202087,"Description":"AJSEGIB-AS","CC":"GI","Users":9480,"Percent of CC Pop":26.49,"Percent of Internet":0.0002,"Samples":14031},
+{"rank":4,"AS":59682,"Description":"MULTICAST-AS","CC":"GI","Users":3339,"Percent of CC Pop":9.33,"Percent of Internet":0.0001,"Samples":4942}
+  ]
+}

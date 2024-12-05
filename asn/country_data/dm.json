@@ -1,0 +1,11 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "04/12/2024",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":40945,"Description":"SATTEL","CC":"DM","Users":30285,"Percent of CC Pop":56.24,"Percent of Internet":0.0007,"Samples":21124},
+{"rank":2,"AS":11139,"Description":"CWC-ROC-11139","CC":"DM","Users":18772,"Percent of CC Pop":34.86,"Percent of Internet":0.0004,"Samples":13094},
+{"rank":3,"AS":14813,"Description":"BB-COLUMBUS","CC":"DM","Users":4683,"Percent of CC Pop":8.70,"Percent of Internet":0.0001,"Samples":3267}
+  ]
+}
