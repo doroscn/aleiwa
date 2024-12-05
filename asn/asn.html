@@ -123,7 +123,7 @@
 					.then(data => {
 						// Set the dynamic date
 						document.getElementById('date').innerText = data.Date;
-						const tableBody = document.querySelector("#asnTable tbody");
+						const tableBody = document.querySelector("#asnTable");
 						data.Data.forEach(item => {
                         const row = document.createElement('tr');
 
