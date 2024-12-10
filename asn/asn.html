@@ -51,7 +51,7 @@
 							<!-- 国家名称动态显示 -->
 							<h1 id="countryTitle">TOP ASNs Information</h1>
 							<span class="image main"><img src="/images/pic13.jpg" alt="" /></span>
-							<p>Data updated on: <span id="date"></span></p>
+							<p>Data updated: <span id="date"></span></p>
 							<table>
 								<thead>
 									<tr>
@@ -106,17 +106,21 @@
 			
 				// 加载国家映射 JSON 文件
 				fetch('/data/country_map.json')
-					.then(response => response.json())
-					.then(countryMap => {
-						// 根据 code 更新标题
-						const countryTitle = document.getElementById('countryTitle');
-						const countryName = countryMap[code] || countryMap['unknown'];
-						countryTitle.textContent = `Top ASNs in ${countryName}`;
-			
-						// 加载对应的 JSON 数据文件
-						const jsonFile = `./country_data/${code}.json`;
-						return fetch(jsonFile);
-					})
+			    	.then(response => response.json())
+			        .then(countryMap => {
+  			  	        // 根据 code 获取国家名称
+			            const countryName = countryMap[code] || countryMap['unknown'];
+
+ 			   	        // 动态修改页面 <title>
+ 			   	        document.title = `Aleiwa TOP asn list-TOP isps list—asn asnname-TOP asns in ${countryName}`;
+
+   			      		// 动态修改页面 <h1> 内容
+  			        	const countryTitle = document.getElementById('countryTitle');
+ 		     	        countryTitle.textContent = `DNS servers in ${countryName}`;
+
+  				        // 返回国家代码，加载对应的 JSON 数据文件
+   				        return fetch(`dnsselect/${code}.json`);
+    				    })
 					.then(response => response.json())
 					.then(data => {
 						// Set the dynamic date

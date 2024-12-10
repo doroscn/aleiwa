@@ -74,25 +74,6 @@
 					<footer id="footer">
 						<div class="inner">
 							<section>
-								<h2>Get in touch</h2>
-								<form method="post" action="#">
-									<div class="fields">
-										<div class="field half">
-											<input type="text" name="name" id="name" placeholder="Name" />
-										</div>
-										<div class="field half">
-											<input type="email" name="email" id="email" placeholder="Email" />
-										</div>
-										<div class="field">
-											<textarea name="message" id="message" placeholder="Message"></textarea>
-										</div>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Send" class="primary" /></li>
-									</ul>
-								</form>
-							</section>
-							<section>
 								<h2>Follow</h2>
 								<ul class="icons">
 									<li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
@@ -126,17 +107,21 @@
 			
 				// 加载国家映射 JSON 文件
 				fetch('/data/country_map.json')
-					.then(response => response.json())
-					.then(countryMap => {
-						// 根据 code 更新标题
-						const countryTitle = document.getElementById('countryTitle');
-						const countryName = countryMap[code] || countryMap['unknown'];
-						countryTitle.textContent = `DNS servers in ${countryName}`;
-			
-						// 加载对应的 JSON 数据文件
-						const jsonFile = `dnsselect/${code}.json`;
-						return fetch(jsonFile);
-					})
+			    	.then(response => response.json())
+			        .then(countryMap => {
+  			  	        // 根据 code 获取国家名称
+			            const countryName = countryMap[code] || countryMap['unknown'];
+
+ 			   	        // 动态修改页面 <title>
+ 			   	        document.title = `Aleiwa Globe DNS DNS list - Public DNS Servers in ${countryName}`;
+
+   			      		// 动态修改页面 <h1> 内容
+  			        	const countryTitle = document.getElementById('countryTitle');
+ 		     	        countryTitle.textContent = `DNS servers in ${countryName}`;
+
+  				        // 返回国家代码，加载对应的 JSON 数据文件
+   				        return fetch(`dnsselect/${code}.json`);
+    				    })
 					.then(response => response.json())
 					.then(data => {
 						const tableBody = document.querySelector("#dnsTable tbody");
