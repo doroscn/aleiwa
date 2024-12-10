@@ -119,7 +119,7 @@
  		     	        countryTitle.textContent = `DNS servers in ${countryName}`;
 
   				        // 返回国家代码，加载对应的 JSON 数据文件
-   				        return fetch(`dnsselect/${code}.json`);
+   				        return fetch(`./country_data/${code}.json`);
     				    })
 					.then(response => response.json())
 					.then(data => {
