@@ -22,3 +22,5 @@ jobs:
           git add dnsselect/*.json
           git commit -m "自动验证DNS可用性: $(date +'%Y-%m-%d')"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
