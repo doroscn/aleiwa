@@ -1,28 +1,30 @@
-name: DNS Data Collector
+name: DNS Collector
 on:
   schedule:
-    # 每天 UTC 时间 00:00 运行（北京时间 8:00）
     - cron: '0 0 * * *'
-  workflow_dispatch:  # 允许手动触发
+  workflow_dispatch:
 
 jobs:
-  collect-dns:
-    runs-on: ubuntu-latest  # 使用免费 Ubuntu 虚拟机
+  collect-and-verify:
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4  # 拉取仓库代码到虚拟机
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'  # 指定 Python 版本
+        uses: actions/checkout@v4
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt  # 安装脚本依赖（如 requests, pymongo 等）
+          sudo apt-get update
+          sudo apt-get install -y dnsutils jq
 
-      - name: Run DNS collection script
-        env:
-          MONGODB_URI: ${{ secrets.MONGODB_URI }}  # 从仓库 Secrets 读取数据库连接信息
+      - name: Run DNS collection and verification
         run: |
-          python scripts/dns_collector.py  # 执行你的数据收集脚本
+          chmod +x scripts/dns-collect.sh
+          ./scripts/dns-collect.sh
+
+      - name: Commit updated DNS data
+        run: |
+          git config --global jash.zheng@gmail.com "GitHub Actions"
+          git config --global jash.zheng@gmail.com "actions@github.com"
+          git add dnsselect/*.json
+          git commit -m "Auto-update DNS data"
+          git push
