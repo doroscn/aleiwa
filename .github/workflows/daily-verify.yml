@@ -1,0 +1,22 @@
+name: Daily Verify DNS
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天UTC 0点运行
+  workflow_dispatch:     # 可选：允许手动触发
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Dependencies
+        run: sudo apt-get install -y dnsutils jq
+      - name: Run Verification
+        run: |
+          chmod +x scripts/verify_dns.sh
+          ./scripts/verify_dns.sh
+      - name: Commit Verified Data
+        run: |
+          git add dnsselect/*.json
+          git commit -m "自动验证DNS可用性: $(date +'%Y-%m-%d')"
+          git push
