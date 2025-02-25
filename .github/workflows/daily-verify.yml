@@ -17,6 +17,8 @@ jobs:
           ./scripts/verify_dns.sh
       - name: Commit Verified Data
         run: |
+          git config --global user.name "doroscn"
+          git config --global user.email "jash.zheng@gmail.com"
           git add dnsselect/*.json
           git commit -m "自动验证DNS可用性: $(date +'%Y-%m-%d')"
           git push
