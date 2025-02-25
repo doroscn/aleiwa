@@ -28,6 +28,8 @@ JSON_FILE="$ROOT_DIR/dnsselect/${CURRENT_COUNTRY}.json"
 
 echo "今日验证国家: $CURRENT_COUNTRY (进度: $((CURRENT_INDEX + 1))/$TOTAL)"
 
+CURRENT_TIME=$(date --utc +'%Y-%m-%dT%H:%M:%SZ')
+
 # 验证函数
 verify_ips() {
   local json_file=$1
@@ -37,17 +39,17 @@ verify_ips() {
   jq -c '.[]' "$json_file" | while read -r entry; do
     ip=$(jq -r '.ip' <<< "$entry")
     
-    # 查询DNS可用性（Google+Cloudflare双验证）
     if timeout 3 dig @$ip www.google.com +short | grep -qE '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+' && \
        timeout 3 dig @$ip one.one.one.one +short | grep -qE '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+'; then
-      jq '.available = true' <<< "$entry"
+      # 可用，更新可用性和时间戳
+      jq --arg time "$CURRENT_TIME" '. | .available = true | .checked_at = $time' <<< "$entry"
     else
-      jq '.available = false' <<< "$entry"
+      # 不可用，更新可用性和时间戳
+      jq --arg time "$CURRENT_TIME" '. | .available = false | .checked_at = $time' <<< "$entry"
     fi
   done | jq -s '.' > "$tmp_file" && mv "$tmp_file" "$json_file"
 }
 
-# 执行验证
 if verify_ips "$JSON_FILE"; then
   echo "$CURRENT_INDEX" > "$LAST_COUNTRY_FILE"
   echo "验证完成！更新状态至索引: $CURRENT_INDEX"
