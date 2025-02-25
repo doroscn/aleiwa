@@ -5,6 +5,9 @@ on:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许推送内容
+    
     steps:
       - uses: actions/checkout@v4
       - name: Run Collection Script
@@ -18,3 +21,5 @@ jobs:
           git add dnsselect/*.json
           git commit -m "手动更新国家DNS数据" || echo "无新数据"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
