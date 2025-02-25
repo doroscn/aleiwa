@@ -3,8 +3,12 @@ set -eo pipefail
 
 SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 ROOT_DIR="$SCRIPT_DIR/.."
-STATE_DIR="$ROOT_DIR/scripts/state"           # 状态目录仍在 scripts/state
+STATE_DIR="$ROOT_DIR/scripts/state"  # 状态目录仍在 scripts/state
+LAST_COUNTRY_FILE="$STATE_DIR/last_country.txt"  # 定义 last_country.txt 文件路径
 JSON_FILE="$ROOT_DIR/dnsselect/${CURRENT_COUNTRY}.json"  # JSON文件路径指向根目录
+
+# 创建状态目录（如果不存在）
+mkdir -p "$STATE_DIR"
 
 # 获取国家列表
 COUNTRIES=($(grep -vE '^\s*(#|$)' "$SCRIPT_DIR/country_codes.txt"))
@@ -23,7 +27,6 @@ CURRENT_COUNTRY=${COUNTRIES[$CURRENT_INDEX]}
 JSON_FILE="$ROOT_DIR/dnsselect/${CURRENT_COUNTRY}.json"
 
 echo "今日验证国家: $CURRENT_COUNTRY (进度: $((CURRENT_INDEX + 1))/$TOTAL)"
-echo "$JSON_FILE"
 
 # 验证函数
 verify_ips() {
