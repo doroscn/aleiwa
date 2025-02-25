@@ -13,6 +13,8 @@ jobs:
           ./scripts/collect_dns.sh
       - name: Commit Collected Data
         run: |
+          git config --global doroscn "GitHub Actions"
+          git config --global jash.zheng@gmail.com "actions@github.com"
           git add dnsselect/*.json
           git commit -m "手动更新国家DNS数据" || echo "无新数据"
           git push
