@@ -12,18 +12,25 @@ jobs:
       
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 需要完整提交历史
+          
       - name: Install Dependencies
-        run: sudo apt-get install -y dnsutils jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y dnsutils jq netcat-openbsd
+        
       - name: Run Verification
         run: |
           chmod +x scripts/verify_dns.sh
           ./scripts/verify_dns.sh
+          
       - name: Commit Verified Data
         run: |
           git config --global user.name "doroscn"
           git config --global user.email "jash.zheng@gmail.com"
-          git add dnsselect/*.json
-          git commit -m "自动验证DNS可用性: $(date +'%Y-%m-%d')"
+          git add dnsselect/*.json scripts/state/verification.json
+          git commit -m "自动更新验证数据: $(date +'%Y-%m-%d')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
