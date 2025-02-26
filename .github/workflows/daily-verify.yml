@@ -30,7 +30,7 @@ jobs:
           git config --global user.name "doroscn"
           git config --global user.email "jash.zheng@gmail.com"
           git add dnsselect/*.json scripts/state/validation_status.json
-          git commit -m "自动更新验证数据: $(date +'%Y-%m-%d')"
+          git commit -m "Automatically update validation data: $(date +'%Y-%m-%d')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
