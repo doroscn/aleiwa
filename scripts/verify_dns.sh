@@ -94,7 +94,7 @@ main() {
 
   # 使用临时文件保证数据完整性
   tmp_file=$(mktemp)
-  
+
   # 存储扫描过的 /24 网段，避免重复扫描
   declare -A scanned_networks
 
