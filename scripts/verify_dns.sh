@@ -8,18 +8,52 @@ STATE_FILE="$SCRIPT_DIR/state/verification.json"
 DNS_DIR="$ROOT_DIR/dnsselect"
 mkdir -p "$DNS_DIR"
 
-# 加载国家列表
-COUNTRIES=($(grep -vE '^\s*(#|$)' "$SCRIPT_DIR/country_codes.txt" | tr '[:upper:]' '[:lower:]'))
+#!/bin/bash
+set -eo pipefail
 
-# 初始化或加载状态文件
+SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+ROOT_DIR="$SCRIPT_DIR/.."
+STATE_FILE="$SCRIPT_DIR/state/verification.json"
+DNS_DIR="$ROOT_DIR/dnsselect"
+mkdir -p "$DNS_DIR"
+mkdir -p "$(dirname "$STATE_FILE")"
+
 init_state() {
   if [[ ! -f "$STATE_FILE" ]]; then
     echo '{"last_updated":"","countries":{}}' > "$STATE_FILE"
   fi
-  jq -c '.' "$STATE_FILE" > "${STATE_FILE}.tmp" && mv "${STATE_FILE}.tmp" "$STATE_FILE"
+  # 验证JSON格式
+  if ! jq empty "$STATE_FILE" &>/dev/null; then
+    echo "错误: 状态文件格式无效，重置中..."
+    echo '{"last_updated":"","countries":{}}' > "$STATE_FILE"
+  fi
 }
 
-# 获取待验证国家
+update_state() {
+  local country=$1
+  local today=$(date +%Y-%m-%d)
+  local next_date=$(date -d "$today +30 days" +%Y-%m-%d)
+  
+  jq \
+    --arg country "$country" \
+    --arg today "$today" \
+    --arg next "$next_date" \
+    '.last_updated = $today |
+     .countries[$country] = {
+       "last_verified": $today,
+       "next_verify": $next
+     }' "$STATE_FILE" > "${STATE_FILE}.tmp"
+  
+  if jq empty "${STATE_FILE}.tmp" &>/dev/null; then
+    mv "${STATE_FILE}.tmp" "$STATE_FILE"
+  else
+    echo "错误: 生成的状态文件无效，保留原文件"
+    rm -f "${STATE_FILE}.tmp"
+  fi
+}
+
+COUNTRIES=($(grep -vE '^\s*(#|$)' "$SCRIPT_DIR/country_codes.txt" | tr '[:upper:]' '[:lower:]'))
+
 select_country() {
   local today=$(date +%Y-%m-%d)
   for country in "${COUNTRIES[@]}"; do
