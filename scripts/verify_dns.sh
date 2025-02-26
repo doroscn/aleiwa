@@ -7,95 +7,71 @@ STATE_FILE="$SCRIPT_DIR/state/verification.json"
 DNS_DIR="$ROOT_DIR/dnsselect"
 mkdir -p "$DNS_DIR"
 
-# 加强 JSON 文件校验
-validate_json() {
-  local file=$1
-  if ! jq empty "$file" 2>/dev/null; then
-    echo "错误: ${file} 不是有效的 JSON 文件！" >&2
-    return 1
-  fi
-}
+# 重定向所有调试输出到 stderr
+exec 3>&1
+log() { echo "$@" >&3; }
 
-# 更安全的状态文件初始化
-init_state() {
-  mkdir -p "$(dirname "$STATE_FILE")"
-  if [[ ! -f "$STATE_FILE" ]] || ! jq empty "$STATE_FILE" 2>/dev/null; then
-    echo '{"last_updated":"","countries":{}}' > "$STATE_FILE"
-  fi
-}
-
-# 增强国家选择逻辑
-select_country() {
-  local today=$(date +%Y-%m-%d)
-  for country in "${COUNTRIES[@]}"; do
-    # 处理特殊字符转义
-    local country_escaped=$(jq -Rn --arg c "$country" '$c | @json' | tr -d '"')
-    local next_verify=$(jq -r --arg c "$country_escaped" '.countries[$c].next_verify // "1970-01-01"' "$STATE_FILE")
-    if [[ "$today" > "$next_verify" ]]; then
-      echo "$country"
-      return 0
-    fi
-  done
-  echo ""
-}
-
-# 改进的验证流程
+# 增强的 IP 验证逻辑（无标准输出污染）
 verify_ip() {
   local ip=$1
   local timeout=3
+  local success=0
 
-  # 增加超时和错误捕获
-  if ! nc -zw 2 "$ip" 53 2>/dev/null; then
-    echo "扫描 ${ip%.*}.0/24 段..."
+  # 端口检查（抑制输出）
+  if nc -zw 2 "$ip" 53 2>/dev/null; then
+    # DNS 解析检查
+    if timeout $timeout dig +short @$ip www.google.com | grep -Pq '^\d+\.\d+\.\d+\.\d+$'; then
+      success=1
+    fi
+  else
+    # 端口不可用时扫描 /24 段（日志通过 stderr 输出）
+    log "扫描 ${ip%.*}.0/24 段..." >&2
     local base_net=$(echo "$ip" | cut -d. -f1-3)
     for i in {1..254}; do
       local test_ip="${base_net}.${i}"
       if timeout 1 nc -zw 1 "$test_ip" 53 2>/dev/null; then
-        echo "$test_ip:53 可用"
-        return 0
+        log "发现可用IP: $test_ip" >&2
+        success=1
+        break
       fi
     done
-    return 1
+  fi
+
+  return $success
+}
+
+process_entry() {
+  local entry=$1
+  local ip=$(jq -r '.ip' <<< "$entry")
+  local current_time=$(date --utc +'%Y-%m-%dT%H:%M:%SZ')
+
+  if verify_ip "$ip"; then
+    jq --arg time "$current_time" '.available = true | .checked_at = $time' <<< "$entry"
   else
-    if timeout $timeout dig +short @$ip www.google.com | grep -qP '^\d+\.\d+\.\d+\.\d+$'; then
-      return 0
-    else
-      return 1
-    fi
+    jq --arg time "$current_time" '.available = false | .checked_at = $time' <<< "$entry"
   fi
 }
 
-# 主流程加强容错
 main() {
-  init_state
-  COUNTRIES=($(grep -vE '^\s*(#|$)' "$SCRIPT_DIR/country_codes.txt" | tr '[:upper:]' '[:lower:]'))
-  target_country=$(select_country)
+  local country=$(jq -r '.last_country' "$STATE_FILE" 2>/dev/null || echo "")
+  [[ -z "$country" ]] && country="af"  # 示例默认值
 
-  [[ -z "$target_country" ]] && echo "无需验证" && exit 0
+  local json_file="$DNS_DIR/${country}.json"
+  [[ ! -f "$json_file" ]] && { log "文件不存在: $json_file"; exit 1; }
 
-  echo "今日验证国家: $target_country"
-  JSON_FILE="$DNS_DIR/${target_country}.json"
-  
-  # 严格校验源文件
-  if [[ -f "$JSON_FILE" ]]; then
-    validate_json "$JSON_FILE" || exit 1
-    tmp_file=$(mktemp)
-    
-    # 重构数据处理流程
-    jq -c '.[]' "$JSON_FILE" | while read -r entry; do
-      ip=$(jq -r '.ip' <<< "$entry")
-      if verify_ip "$ip"; then
-        jq '.available = true' <<< "$entry"
-      else
-        jq '.available = false' <<< "$entry"
-      fi
-    done | jq -s '.' > "$tmp_file" && mv "$tmp_file" "$JSON_FILE"
-    
-    update_state "$target_country"
+  tmp_file=$(mktemp)
+  jq -c '.[]' "$json_file" | while read -r entry; do
+    process_entry "$entry"
+  done | jq -s '.' > "$tmp_file"
+
+  if jq empty "$tmp_file"; then
+    mv "$tmp_file" "$json_file"
+    log "验证完成：$country"
   else
-    echo "文件不存在: $JSON_FILE"
+    log "生成的JSON无效，放弃更新"
+    rm "$tmp_file"
   fi
 }
 
-# 执行入口添加错误捕获
+# 执行入口
 main "$@"
