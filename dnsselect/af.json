@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:12:44Z",
     "created_at": "2022-10-25T04:24:37.346394Z",
     "available": false
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8288973384030418,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:12:57Z",
     "created_at": "2022-10-31T05:38:03.015011Z",
     "available": false
   },
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9824561403508771,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:13:09Z",
     "created_at": "2022-11-15T12:31:32.243819Z",
     "available": false
   },
   {
-    "ip": "64.207.209.178",
+    "ip": "64.207.209.46",
     "name": "",
     "as_number": 45178,
     "as_org": "TELECOM DEVELOPMENT COMPANY AFGHANISTAN",
@@ -55,9 +55,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9375,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:13:21Z",
     "created_at": "2022-11-17T13:54:08.88179Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "116.204.243.81",
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6859504132231405,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:13:32Z",
     "created_at": "2022-11-27T01:56:49.592547Z",
     "available": false
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:13:44Z",
     "created_at": "2023-01-02T19:33:50.784748Z",
     "available": true
   },
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:13:44Z",
     "created_at": "2023-02-28T11:50:55.285304Z",
     "available": false
   },
   {
-    "ip": "103.53.26.2",
+    "ip": "103.53.26.130",
     "name": "",
     "as_number": 134134,
     "as_org": "North Telecom",
@@ -115,12 +115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:13:56Z",
     "created_at": "2023-03-01T18:56:07.846432Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "137.59.123.50",
+    "ip": "137.59.123.123",
     "name": "",
     "as_number": 131284,
     "as_org": "Etisalat Afghan",
@@ -130,12 +130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9056603773584906,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:14:04Z",
     "created_at": "2023-03-12T01:05:46.406144Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "111.125.158.42",
+    "ip": "111.125.158.102",
     "name": "",
     "as_number": 45178,
     "as_org": "TELECOM DEVELOPMENT COMPANY AFGHANISTAN",
@@ -145,9 +145,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:14:15Z",
     "created_at": "2023-03-13T16:15:22.039712Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "74.118.82.20",
@@ -160,12 +160,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:14:23Z",
     "created_at": "2023-03-14T20:46:52.253787Z",
     "available": false
   },
   {
-    "ip": "103.13.65.210",
+    "ip": "103.13.65.10",
     "name": "",
     "as_number": 131284,
     "as_org": "Etisalat Afghan",
@@ -175,12 +175,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9629629629629629,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:14:35Z",
     "created_at": "2023-03-15T23:43:43.007378Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "149.54.9.154",
+    "ip": "149.54.9.3",
     "name": "",
     "as_number": 55330,
     "as_org": "AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK",
@@ -190,8 +190,8 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8461538461538461,
-    "checked_at": "2025-02-26T11:24:27Z",
+    "checked_at": "2025-02-27T15:14:43Z",
     "created_at": "2023-03-17T18:10:16.020635Z",
-    "available": false
+    "available": true
   }
 ]
