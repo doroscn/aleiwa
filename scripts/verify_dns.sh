@@ -40,6 +40,32 @@ if echo "$validation_data" | jq -e ".[] | select(.country_id == \"$CURRENT_COUNT
   exit 0
 fi
 
+scan_available_ips() {
+  local original_ip=$1
+  echo "IP $original_ip 不可用，开始扫描同网段..." >&2
+
+  # 提取IP段信息
+  local base_ip=$(cut -d. -f1-3 <<< "$original_ip")
+  local current_last=$(cut -d. -f4 <<< "$original_ip")
+  
+  # 生成待扫描的IP列表（排除原IP）
+  local generated_ips=()
+  for i in {1..254}; do
+    [[ $i -ne "$current_last" ]] && generated_ips+=("$base_ip.$i")
+  done
+
+  # 并行扫描53端口
+  local available_ips=$(
+    printf "%s\n" "${generated_ips[@]}" \
+    | xargs -n1 -P50 -I{} bash -c \
+      'timeout 1 nc -z -w 3 {} 53 2>/dev/null && echo {}' 2>/dev/null \
+    | sort -u
+  )
+
+  [[ -z "$available_ips" ]] && return 1
+  echo "$available_ips"
+}
+
 verify_ips() {
   local json_file=$1
   [[ ! -f "$json_file" ]] && { echo "文件不存在: $json_file"; return 1; }
@@ -47,18 +73,40 @@ verify_ips() {
   tmp_file="${json_file}.tmp"
   jq -c '.[]' "$json_file" | while read -r entry; do
     ip=$(jq -r '.ip' <<< "$entry")
-    
+    original_ip=$ip
+    available=false
+    updated=false
+
+    # 初步验证
     dig_result=$(timeout 3 dig @$ip www.google.com +short)
-    
     port_result=$(timeout 3 nc -z -w 3 $ip 53 2>/dev/null && echo "open" || echo "closed")
 
-    ip_time=$(date --utc +'%Y-%m-%dT%H:%M:%SZ')
-
+    # 判断是否可用
     if [[ "$dig_result" =~ [0-9]+\.[0-9]+\.[0-9]+\.[0-9]+ ]] || [[ "$port_result" == "open" ]]; then
-      jq --arg time "$ip_time" '. | .available = true | .checked_at = $time' <<< "$entry"
+      available=true
     else
-      jq --arg time "$ip_time" '. | .available = false | .checked_at = $time' <<< "$entry"
+      # 扫描同网段
+      if available_ips=$(scan_available_ips "$ip"); then
+        new_ip=$(head -n1 <<< "$available_ips")
+        echo "找到 $(wc -l <<< "$available_ips") 个可用IP，替换为 $new_ip" >&2
+        ip=$new_ip
+        available=true
+        updated=true
+      else
+        echo "未找到可用IP，保持原IP不可用状态" >&2
+      fi
     fi
+
+    # 更新条目
+    if [[ "$available" == true && "$updated" == true ]]; then
+      entry=$(jq --arg ip "$ip" --arg time "$CURRENT_TIME" \
+        '. | .ip = $ip | .available = true | .checked_at = $time' <<< "$entry")
+    else
+      entry=$(jq --arg time "$CURRENT_TIME" \
+        '. | .available = '"$available"' | .checked_at = $time' <<< "$entry")
+    fi
+
+    echo "$entry"
   done | jq -s '.' > "$tmp_file" && mv "$tmp_file" "$json_file"
 }
 
