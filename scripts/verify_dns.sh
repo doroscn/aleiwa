@@ -13,26 +13,47 @@ mkdir -p "$STATE_DIR"
 COUNTRIES=($(grep -vE '^\s*(#|$)' "$SCRIPT_DIR/country_codes.txt"))
 TOTAL=${#COUNTRIES[@]}
 
-if [[ -f "$VALIDATION_STATUS_FILE" ]]; then
-  if [[ ! -s "$VALIDATION_STATUS_FILE" ]]; then
-    CURRENT_INDEX=0
-    validation_data="[]"
-  else
-    validation_data=$(cat "$VALIDATION_STATUS_FILE")
-    LAST_INDEX=$(jq -r '.[-1].index' <<< "$validation_data")
-    CURRENT_INDEX=$(( (LAST_INDEX + 1) % TOTAL ))
-  fi
+if [[ -f "$VALIDATION_STATUS_FILE" && -s "$VALIDATION_STATUS_FILE" ]]; then
+  validation_data=$(cat "$VALIDATION_STATUS_FILE")
 else
-  CURRENT_INDEX=0
   validation_data="[]"
 fi
 
-CURRENT_COUNTRY=${COUNTRIES[$CURRENT_INDEX]}
-JSON_FILE="$ROOT_DIR/dnsselect/${CURRENT_COUNTRY}.json"
+# 寻找需要处理的国家
+current_index=-1
+CURRENT_COUNTRY=""
+for ((i=0; i < TOTAL; i++)); do
+  country=${COUNTRIES[$i]}
+  entry=$(echo "$validation_data" | jq -r ".[] | select(.country_id == \"$country\")")
+  
+  if [[ -z "$entry" ]]; then
+    # 未找到记录，需要验证
+    current_index=$i
+    CURRENT_COUNTRY="$country"
+    break
+  else
+    last_checked=$(echo "$entry" | jq -r '.checked_at' | sort | tail -n1)
+    last_ts=$(date --utc -d "$last_checked" +%s)
+    month_ago_ts=$(date --utc -d "1 month ago" +%s)
+    if (( last_ts <= month_ago_ts )); then
+      # 超过一个月，需要验证
+      current_index=$i
+      CURRENT_COUNTRY="$country"
+      break
+    fi
+  fi
+done
 
-echo "今日验证国家: $CURRENT_COUNTRY (进度: $((CURRENT_INDEX + 1))/$TOTAL)"
+if [[ -z "$CURRENT_COUNTRY" ]]; then
+  echo "所有国家均已在有效期内，无需验证。"
+  exit 0
+fi
+
+JSON_FILE="$ROOT_DIR/dnsselect/${CURRENT_COUNTRY}.json"
+echo "今日验证国家: $CURRENT_COUNTRY (进度: $((current_index + 1))/$TOTAL)"
 
 CURRENT_TIME=$(date --utc +'%Y-%m-%dT%H:%M:%SZ')
+
 
 if echo "$validation_data" | jq -e ".[] | select(.country_id == \"$CURRENT_COUNTRY\") | .checked_at" | \
    grep -q "$(date --utc --date='1 month ago' +%Y-%m-%d)"; then
@@ -111,13 +132,12 @@ verify_ips() {
 }
 
 if verify_ips "$JSON_FILE"; then
-  new_entry=$(jq -n --arg country "$CURRENT_COUNTRY" --arg time "$CURRENT_TIME" --argjson index "$CURRENT_INDEX" \
-    '{country_id: $country, checked_at: $time, index: $index}')
-  updated_data=$(echo "$validation_data" | jq ". + [$new_entry]")
-
+  # 更新验证数据：删除旧条目并添加新条目
+  updated_data=$(echo "$validation_data" | jq --arg country "$CURRENT_COUNTRY" --arg time "$CURRENT_TIME" --argjson idx "$current_index" \
+    'map(select(.country_id != $country)) + [{"country_id": $country, "checked_at": $time, "index": $idx}]')
   echo "$updated_data" > "$VALIDATION_STATUS_FILE"
-
-  echo "验证完成！更新状态至索引: $CURRENT_INDEX"
+  echo "验证完成！更新状态至索引: $current_index"
 else
   echo "验证失败，保留上次状态"
+  exit 1
 fi
