@@ -1,6 +1,6 @@
 [
   {
-    "ip": "91.226.220.250",
+    "ip": "91.226.220.254",
     "name": "ans1.domains-watch.com.",
     "as_number": 58166,
     "as_org": "Credins Bank Sh.A.",
@@ -10,12 +10,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:16:04Z",
     "created_at": "2021-09-25T20:57:40.361046Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "45.90.80.14",
+    "ip": "45.90.80.105",
     "name": "",
     "as_number": 209465,
     "as_org": "VIG SERVICES SHQIPERI Sh.p.k.",
@@ -25,12 +25,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:16:16Z",
     "created_at": "2021-10-01T23:30:48.596208Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "87.238.209.126",
+    "ip": "87.238.209.102",
     "name": "",
     "as_number": 206262,
     "as_org": "TelKos L.L.C",
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:16:28Z",
     "created_at": "2021-10-01T23:49:26.080634Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "92.119.237.45",
+    "ip": "92.119.237.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -55,9 +55,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9611650485436893,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:16:38Z",
     "created_at": "2022-09-30T04:44:13.942585Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "82.114.94.58",
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:16:48Z",
     "created_at": "2022-10-18T02:33:32.595807Z",
     "available": false
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:16:59Z",
     "created_at": "2022-10-26T00:31:03.558367Z",
     "available": false
   },
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:17:10Z",
     "created_at": "2022-11-07T07:45:02.506426Z",
     "available": true
   },
   {
-    "ip": "185.66.131.239",
+    "ip": "185.66.131.108",
     "name": "",
     "as_number": 29238,
     "as_org": "Nisatel LTD",
@@ -115,12 +115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:17:10Z",
     "created_at": "2022-11-24T04:38:05.749272Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "46.183.120.75",
+    "ip": "46.183.120.22",
     "name": "",
     "as_number": 56468,
     "as_org": "MC NETWORKING Sh.p.k.",
@@ -130,9 +130,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8292682926829268,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:17:21Z",
     "created_at": "2022-11-25T15:14:18.179983Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "109.69.4.82",
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:17:33Z",
     "created_at": "2022-11-26T11:16:32.523364Z",
     "available": true
   },
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.967741935483871,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:17:33Z",
     "created_at": "2022-12-18T23:57:18.135202Z",
     "available": true
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9230769230769231,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:17:33Z",
     "created_at": "2022-12-23T18:53:07.655952Z",
     "available": true
   },
@@ -190,12 +190,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8846153846153846,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:17:33Z",
     "created_at": "2022-12-27T02:37:24.214079Z",
     "available": false
   },
   {
-    "ip": "80.78.64.83",
+    "ip": "80.78.64.116",
     "name": "",
     "as_number": 21183,
     "as_org": "Vodafone Albania Sh.A.",
@@ -205,9 +205,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:17:45Z",
     "created_at": "2023-01-02T14:57:14.627599Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "217.21.147.72",
@@ -220,12 +220,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9318181818181818,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:17:55Z",
     "created_at": "2023-02-20T15:33:03.882317Z",
     "available": true
   },
   {
-    "ip": "188.164.222.191",
+    "ip": "188.164.222.114",
     "name": "",
     "as_number": 21183,
     "as_org": "Vodafone Albania Sh.A.",
@@ -235,12 +235,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9901960784313726,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:17:55Z",
     "created_at": "2023-02-21T22:55:02.018322Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "185.221.253.109",
+    "ip": "185.221.253.111",
     "name": "ptr.abcom.al.",
     "as_number": 209442,
     "as_org": "FASTNET",
@@ -250,12 +250,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9464285714285714,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:18:03Z",
     "created_at": "2023-03-02T23:35:46.86226Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "79.106.5.5",
+    "ip": "79.106.5.144",
     "name": "",
     "as_number": 42313,
     "as_org": "Albtelecom Sh.a.",
@@ -265,9 +265,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:18:13Z",
     "created_at": "2023-03-13T02:13:08.411381Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "84.20.68.210",
@@ -280,7 +280,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:18:24Z",
     "created_at": "2023-03-13T03:28:31.923923Z",
     "available": true
   },
@@ -295,12 +295,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:18:27Z",
     "created_at": "2023-03-13T07:16:26.237058Z",
     "available": false
   },
   {
-    "ip": "92.119.237.143",
+    "ip": "92.119.237.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -310,9 +310,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:18:38Z",
     "created_at": "2023-03-13T07:19:17.691132Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "109.69.161.2",
@@ -325,12 +325,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:18:46Z",
     "created_at": "2023-03-13T08:03:21.855302Z",
     "available": false
   },
   {
-    "ip": "92.119.238.69",
+    "ip": "92.119.238.103",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -340,9 +340,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:18:58Z",
     "created_at": "2023-03-13T08:26:14.330076Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "80.91.116.169",
@@ -355,12 +355,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:19:08Z",
     "created_at": "2023-03-13T08:52:35.621079Z",
     "available": true
   },
   {
-    "ip": "77.242.18.5",
+    "ip": "77.242.18.132",
     "name": "ip-77-242-18-5.net.abissnet.al.",
     "as_number": 35047,
     "as_org": "Abissnet sh.a.",
@@ -370,9 +370,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7428571428571429,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:19:11Z",
     "created_at": "2023-03-13T09:19:19.927025Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.106.30.96",
@@ -385,12 +385,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9705882352941176,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:19:22Z",
     "created_at": "2023-03-13T10:32:40.621497Z",
     "available": true
   },
   {
-    "ip": "80.91.116.252",
+    "ip": "80.91.116.136",
     "name": "ip-80-91-116-252.net.abissnet.al.",
     "as_number": 35047,
     "as_org": "Abissnet sh.a.",
@@ -400,12 +400,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:19:26Z",
     "created_at": "2023-03-13T11:24:00.426065Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "79.106.166.66",
+    "ip": "79.106.166.2",
     "name": "",
     "as_number": 42313,
     "as_org": "Albtelecom Sh.a.",
@@ -415,12 +415,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:19:33Z",
     "created_at": "2023-03-13T11:40:20.645026Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "92.119.237.149",
+    "ip": "92.119.237.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -430,12 +430,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:19:40Z",
     "created_at": "2023-03-13T12:12:34.060877Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "213.207.48.214",
+    "ip": "213.207.48.142",
     "name": "",
     "as_number": 39611,
     "as_org": "Tibo Communications Sh.p.k",
@@ -445,9 +445,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:19:50Z",
     "created_at": "2023-03-13T12:37:49.029049Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.106.108.148",
@@ -460,12 +460,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:20:01Z",
     "created_at": "2023-03-13T14:15:09.618757Z",
     "available": false
   },
   {
-    "ip": "80.91.116.209",
+    "ip": "80.91.116.136",
     "name": "ip-80-91-116-209.net.abissnet.al.",
     "as_number": 35047,
     "as_org": "Abissnet sh.a.",
@@ -475,9 +475,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:20:09Z",
     "created_at": "2023-03-13T17:28:35.115874Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.106.172.70",
@@ -490,12 +490,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:20:19Z",
     "created_at": "2023-03-13T17:47:44.791073Z",
     "available": true
   },
   {
-    "ip": "79.106.130.11",
+    "ip": "79.106.130.140",
     "name": "",
     "as_number": 42313,
     "as_org": "Albtelecom Sh.a.",
@@ -505,9 +505,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:20:22Z",
     "created_at": "2023-03-13T18:23:06.595962Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "80.78.77.124",
@@ -520,12 +520,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:20:33Z",
     "created_at": "2023-03-13T18:28:52.19231Z",
     "available": true
   },
   {
-    "ip": "213.207.48.238",
+    "ip": "213.207.48.142",
     "name": "",
     "as_number": 39611,
     "as_org": "Tibo Communications Sh.p.k",
@@ -535,9 +535,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:20:36Z",
     "created_at": "2023-03-13T18:43:41.599477Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.106.96.66",
@@ -550,12 +550,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:20:47Z",
     "created_at": "2023-03-13T19:02:26.089622Z",
     "available": true
   },
   {
-    "ip": "79.106.169.66",
+    "ip": "79.106.169.76",
     "name": "",
     "as_number": 42313,
     "as_org": "Albtelecom Sh.a.",
@@ -565,12 +565,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:20:50Z",
     "created_at": "2023-03-13T19:42:45.565405Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "185.212.190.35",
+    "ip": "185.212.190.240",
     "name": "ip-185-212-190-35.digicom-al.net.",
     "as_number": 35444,
     "as_org": "Digicom SHPK",
@@ -580,12 +580,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:21:00Z",
     "created_at": "2023-03-13T20:31:35.574431Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "92.119.236.131",
+    "ip": "92.119.236.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -595,9 +595,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:21:12Z",
     "created_at": "2023-03-13T21:03:41.023859Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.106.133.123",
@@ -610,12 +610,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:21:22Z",
     "created_at": "2023-03-13T21:31:01.491568Z",
     "available": false
   },
   {
-    "ip": "80.78.73.13",
+    "ip": "80.78.73.124",
     "name": "",
     "as_number": 21183,
     "as_org": "Vodafone Albania Sh.A.",
@@ -625,12 +625,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:21:33Z",
     "created_at": "2023-03-13T21:48:14.203824Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "80.78.74.188",
+    "ip": "80.78.74.167",
     "name": "",
     "as_number": 21183,
     "as_org": "Vodafone Albania Sh.A.",
@@ -640,9 +640,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:21:43Z",
     "created_at": "2023-03-13T21:51:59.781805Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.106.18.83",
@@ -655,7 +655,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:21:51Z",
     "created_at": "2023-03-13T22:23:22.274405Z",
     "available": true
   },
@@ -670,7 +670,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:21:54Z",
     "created_at": "2023-03-13T22:33:11.26432Z",
     "available": false
   },
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:22:05Z",
     "created_at": "2023-03-13T22:40:38.824353Z",
     "available": true
   },
@@ -700,12 +700,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:22:08Z",
     "created_at": "2023-03-13T23:48:00.907856Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "92.119.237.184",
+    "ip": "92.119.237.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -715,9 +715,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:22:08Z",
     "created_at": "2023-03-14T00:10:55.125434Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "80.91.116.245",
@@ -730,7 +730,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:22:19Z",
     "created_at": "2023-03-14T00:25:16.27074Z",
     "available": true
   },
@@ -745,7 +745,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:22:22Z",
     "created_at": "2023-03-14T03:31:21.171465Z",
     "available": true
   },
@@ -760,12 +760,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:22:22Z",
     "created_at": "2023-03-14T03:40:16.559116Z",
     "available": false
   },
   {
-    "ip": "79.106.246.174",
+    "ip": "79.106.246.97",
     "name": "",
     "as_number": 42313,
     "as_org": "Albtelecom Sh.a.",
@@ -775,9 +775,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:22:33Z",
     "created_at": "2023-03-14T04:25:58.720822Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "80.78.74.167",
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:22:44Z",
     "created_at": "2023-03-14T05:09:06.656302Z",
     "available": true
   },
@@ -805,7 +805,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:22:47Z",
     "created_at": "2023-03-14T05:36:44.07309Z",
     "available": true
   },
@@ -820,12 +820,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:22:50Z",
     "created_at": "2023-03-14T05:48:10.252101Z",
     "available": true
   },
   {
-    "ip": "80.78.77.233",
+    "ip": "80.78.77.124",
     "name": "",
     "as_number": 21183,
     "as_org": "Vodafone Albania Sh.A.",
@@ -835,9 +835,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:22:54Z",
     "created_at": "2023-03-14T06:18:18.004206Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "93.159.194.79",
@@ -850,12 +850,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:23:04Z",
     "created_at": "2023-03-14T06:37:10.035543Z",
     "available": false
   },
   {
-    "ip": "88.214.16.80",
+    "ip": "88.214.16.106",
     "name": "",
     "as_number": 209277,
     "as_org": "Apt Cable Shpk",
@@ -865,12 +865,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.875,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:23:16Z",
     "created_at": "2023-03-14T07:14:20.634466Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "80.91.116.248",
+    "ip": "80.91.116.136",
     "name": "ip-80-91-116-248.net.abissnet.al.",
     "as_number": 35047,
     "as_org": "Abissnet sh.a.",
@@ -880,12 +880,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:23:27Z",
     "created_at": "2023-03-14T09:19:05.212236Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "92.119.236.57",
+    "ip": "92.119.236.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -895,9 +895,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:23:38Z",
     "created_at": "2023-03-14T09:43:17.555542Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "109.69.6.30",
@@ -910,12 +910,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9375,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:23:48Z",
     "created_at": "2023-03-14T10:39:54.52869Z",
     "available": true
   },
   {
-    "ip": "80.90.94.5",
+    "ip": "80.90.94.124",
     "name": "ip-80-90-94-5.digicom.al.",
     "as_number": 35444,
     "as_org": "Digicom SHPK",
@@ -925,12 +925,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:23:48Z",
     "created_at": "2023-03-14T12:03:01.724043Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "80.78.74.78",
+    "ip": "80.78.74.167",
     "name": "",
     "as_number": 21183,
     "as_org": "Vodafone Albania Sh.A.",
@@ -940,9 +940,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:23:56Z",
     "created_at": "2023-03-14T14:04:50.872666Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.106.74.54",
@@ -955,12 +955,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:24:07Z",
     "created_at": "2023-03-14T15:18:01.095143Z",
     "available": true
   },
   {
-    "ip": "92.119.237.49",
+    "ip": "92.119.237.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -970,12 +970,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:24:07Z",
     "created_at": "2023-03-14T15:59:48.700932Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "77.242.17.110",
+    "ip": "77.242.17.114",
     "name": "ip-77-242-17-110.net.abissnet.al.",
     "as_number": 35047,
     "as_org": "Abissnet sh.a.",
@@ -985,12 +985,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:24:17Z",
     "created_at": "2023-03-14T16:22:43.607635Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "92.119.236.64",
+    "ip": "92.119.236.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -1000,12 +1000,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:24:27Z",
     "created_at": "2023-03-14T17:55:46.580326Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "213.207.39.36",
+    "ip": "213.207.39.145",
     "name": "",
     "as_number": 39611,
     "as_org": "Tibo Communications Sh.p.k",
@@ -1015,12 +1015,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:24:38Z",
     "created_at": "2023-03-14T17:56:10.266714Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "79.106.161.34",
+    "ip": "79.106.161.226",
     "name": "",
     "as_number": 42313,
     "as_org": "Albtelecom Sh.a.",
@@ -1030,12 +1030,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:24:49Z",
     "created_at": "2023-03-14T18:57:06.735562Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "92.119.236.52",
+    "ip": "92.119.236.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -1045,9 +1045,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:24:59Z",
     "created_at": "2023-03-14T20:42:24.933467Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "88.214.17.97",
@@ -1060,12 +1060,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:25:06Z",
     "created_at": "2023-03-14T21:26:15.118911Z",
     "available": false
   },
   {
-    "ip": "92.119.238.201",
+    "ip": "92.119.238.103",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -1075,12 +1075,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:25:18Z",
     "created_at": "2023-03-14T21:46:33.723503Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "77.242.18.69",
+    "ip": "77.242.18.132",
     "name": "ip-77-242-18-69.net.abissnet.al.",
     "as_number": 35047,
     "as_org": "Abissnet sh.a.",
@@ -1090,9 +1090,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:25:29Z",
     "created_at": "2023-03-14T23:03:31.537086Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "194.169.166.37",
@@ -1105,12 +1105,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:25:40Z",
     "created_at": "2023-03-14T23:56:33.262206Z",
     "available": false
   },
   {
-    "ip": "80.91.116.231",
+    "ip": "80.91.116.136",
     "name": "ip-80-91-116-231.net.abissnet.al.",
     "as_number": 35047,
     "as_org": "Abissnet sh.a.",
@@ -1120,9 +1120,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:25:51Z",
     "created_at": "2023-03-15T00:16:02.768429Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "84.20.67.66",
@@ -1135,12 +1135,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:26:01Z",
     "created_at": "2023-03-15T01:43:21.659814Z",
     "available": true
   },
   {
-    "ip": "80.78.73.115",
+    "ip": "80.78.73.124",
     "name": "ppp-dun25.icc-al.org.",
     "as_number": 21183,
     "as_org": "Vodafone Albania Sh.A.",
@@ -1150,9 +1150,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:26:02Z",
     "created_at": "2023-03-15T02:08:32.838107Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "77.242.17.114",
@@ -1165,12 +1165,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:26:12Z",
     "created_at": "2023-03-15T04:23:10.724956Z",
     "available": true
   },
   {
-    "ip": "95.107.165.194",
+    "ip": "95.107.165.114",
     "name": "",
     "as_number": 47394,
     "as_org": "Albanian Satellite Communications sh.p.k.",
@@ -1180,12 +1180,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:26:12Z",
     "created_at": "2023-03-15T05:55:22.443237Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "92.119.236.39",
+    "ip": "92.119.236.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -1195,9 +1195,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.2727272727272727,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:26:23Z",
     "created_at": "2023-03-15T08:51:45.331554Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "146.0.17.81",
@@ -1210,12 +1210,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9770114942528736,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:26:34Z",
     "created_at": "2023-03-15T09:37:59.080616Z",
     "available": true
   },
   {
-    "ip": "79.106.73.82",
+    "ip": "79.106.73.114",
     "name": "",
     "as_number": 42313,
     "as_org": "Albtelecom Sh.a.",
@@ -1225,12 +1225,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7608695652173914,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:26:34Z",
     "created_at": "2023-03-15T10:17:00.766432Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "80.78.69.97",
+    "ip": "80.78.69.149",
     "name": "ppp-dun7.icc-al.org.",
     "as_number": 21183,
     "as_org": "Vodafone Albania Sh.A.",
@@ -1240,9 +1240,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:26:43Z",
     "created_at": "2023-03-15T10:43:05.290994Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "77.247.89.238",
@@ -1255,12 +1255,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:26:52Z",
     "created_at": "2023-03-15T10:54:51.617343Z",
     "available": false
   },
   {
-    "ip": "92.119.237.53",
+    "ip": "92.119.237.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -1270,12 +1270,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:27:03Z",
     "created_at": "2023-03-15T14:26:04.369877Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "146.0.16.142",
+    "ip": "146.0.16.139",
     "name": "",
     "as_number": 57070,
     "as_org": "ITCOM Shpk",
@@ -1285,12 +1285,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:27:10Z",
     "created_at": "2023-03-15T15:51:26.256312Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "92.119.237.229",
+    "ip": "92.119.237.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -1300,9 +1300,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8888888888888888,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:27:21Z",
     "created_at": "2023-03-16T04:14:40.818375Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "185.32.21.54",
@@ -1315,12 +1315,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.967741935483871,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:27:28Z",
     "created_at": "2023-03-16T11:46:50.77213Z",
     "available": true
   },
   {
-    "ip": "92.119.236.65",
+    "ip": "92.119.236.108",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -1330,9 +1330,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:27:31Z",
     "created_at": "2023-03-16T14:02:24.042383Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "80.78.70.36",
@@ -1345,12 +1345,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:27:39Z",
     "created_at": "2023-03-16T14:26:44.503139Z",
     "available": true
   },
   {
-    "ip": "79.106.172.174",
+    "ip": "79.106.172.254",
     "name": "",
     "as_number": 42313,
     "as_org": "Albtelecom Sh.a.",
@@ -1360,12 +1360,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:27:39Z",
     "created_at": "2023-03-16T15:35:21.559812Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "185.158.1.132",
+    "ip": "185.158.1.108",
     "name": "ip-185-158-1-132.digicom-al.net.",
     "as_number": 35444,
     "as_org": "Digicom SHPK",
@@ -1375,9 +1375,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:27:48Z",
     "created_at": "2023-03-16T15:46:47.741813Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "85.209.248.3",
@@ -1390,12 +1390,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5714285714285714,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:28:00Z",
     "created_at": "2023-03-16T16:18:07.777572Z",
     "available": true
   },
   {
-    "ip": "79.106.167.253",
+    "ip": "79.106.167.134",
     "name": "",
     "as_number": 42313,
     "as_org": "Albtelecom Sh.a.",
@@ -1405,12 +1405,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:28:03Z",
     "created_at": "2023-03-16T17:19:29.229106Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "80.90.82.11",
+    "ip": "80.90.82.154",
     "name": "ip-80-90-82-11.digicom-al.net.",
     "as_number": 35444,
     "as_org": "Digicom SHPK",
@@ -1420,12 +1420,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:28:13Z",
     "created_at": "2023-03-16T18:04:57.083753Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "77.242.18.141",
+    "ip": "77.242.18.132",
     "name": "ip-77-242-18-141.net.abissnet.al.",
     "as_number": 35047,
     "as_org": "Abissnet sh.a.",
@@ -1435,12 +1435,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6923076923076923,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:28:24Z",
     "created_at": "2023-03-16T19:01:35.54119Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "92.119.238.79",
+    "ip": "92.119.238.103",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -1450,12 +1450,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7037037037037037,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:28:32Z",
     "created_at": "2023-03-16T19:28:21.910094Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "92.119.238.22",
+    "ip": "92.119.238.103",
     "name": "",
     "as_number": 209240,
     "as_org": "ISA.NET Sh.p.k.",
@@ -1465,9 +1465,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6071428571428571,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:28:43Z",
     "created_at": "2023-03-16T20:15:18.501264Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "95.107.162.146",
@@ -1480,7 +1480,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:28:53Z",
     "created_at": "2023-03-16T20:22:13.030616Z",
     "available": false
   },
@@ -1495,7 +1495,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6774193548387096,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:29:05Z",
     "created_at": "2023-03-17T00:14:41.237755Z",
     "available": true
   },
@@ -1510,12 +1510,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:29:08Z",
     "created_at": "2023-03-17T00:57:29.342806Z",
     "available": true
   },
   {
-    "ip": "80.78.67.237",
+    "ip": "80.78.67.239",
     "name": "",
     "as_number": 21183,
     "as_org": "Vodafone Albania Sh.A.",
@@ -1525,12 +1525,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.71875,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:29:11Z",
     "created_at": "2023-03-17T02:29:02.726422Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "95.107.164.52",
+    "ip": "95.107.164.118",
     "name": "tr-shop-fw01.tring.al.",
     "as_number": 47394,
     "as_org": "Albanian Satellite Communications sh.p.k.",
@@ -1540,9 +1540,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9936305732484076,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:29:22Z",
     "created_at": "2023-03-17T03:50:49.749282Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.106.72.2",
@@ -1555,7 +1555,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5476190476190477,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:29:34Z",
     "created_at": "2023-03-17T04:28:16.548842Z",
     "available": true
   },
@@ -1570,12 +1570,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7272727272727273,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:29:34Z",
     "created_at": "2023-03-17T06:22:55.826966Z",
     "available": false
   },
   {
-    "ip": "80.91.116.195",
+    "ip": "80.91.116.136",
     "name": "ip-80-91-116-195.net.abissnet.al.",
     "as_number": 35047,
     "as_org": "Abissnet sh.a.",
@@ -1585,12 +1585,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9545454545454546,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:29:46Z",
     "created_at": "2023-03-17T06:50:35.771683Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "81.26.205.230",
+    "ip": "81.26.205.138",
     "name": "mail.agroiliria.al.",
     "as_number": 35444,
     "as_org": "Digicom SHPK",
@@ -1600,9 +1600,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7727272727272727,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:29:56Z",
     "created_at": "2023-03-17T07:13:14.167902Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.106.72.1",
@@ -1615,7 +1615,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7777777777777778,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:30:07Z",
     "created_at": "2023-03-17T11:55:26.377702Z",
     "available": true
   },
@@ -1630,7 +1630,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7222222222222222,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:30:10Z",
     "created_at": "2023-03-17T12:33:33.964741Z",
     "available": false
   },
@@ -1645,12 +1645,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9652777777777778,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:30:22Z",
     "created_at": "2023-03-17T21:52:19.115719Z",
     "available": false
   },
   {
-    "ip": "37.26.83.168",
+    "ip": "37.26.83.222",
     "name": "",
     "as_number": 198279,
     "as_org": "Albanian Telecommunications Union SH. P.K.",
@@ -1660,9 +1660,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:30:34Z",
     "created_at": "2023-03-18T16:49:39.416561Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "77.242.19.110",
@@ -1675,7 +1675,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-02-27T01:15:00Z",
+    "checked_at": "2025-02-27T15:30:45Z",
     "created_at": "2023-05-06T12:02:52.03642Z",
     "available": true
   }
