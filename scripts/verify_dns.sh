@@ -47,23 +47,22 @@ verify_ips() {
   tmp_file="${json_file}.tmp"
   jq -c '.[]' "$json_file" | while read -r entry; do
     ip=$(jq -r '.ip' <<< "$entry")
-    # 使用dig验证
+    
     dig_result=$(timeout 3 dig @$ip www.google.com +short)
-    # 使用nc验证53端口
+    
     port_result=$(timeout 3 nc -z -w 3 $ip 53 2>/dev/null && echo "open" || echo "closed")
 
+    ip_time=$(date --utc +'%Y-%m-%dT%H:%M:%SZ')
+
     if [[ "$dig_result" =~ [0-9]+\.[0-9]+\.[0-9]+\.[0-9]+ ]] || [[ "$port_result" == "open" ]]; then
-      # 可用，更新可用性和时间戳
-      jq --arg time "$CURRENT_TIME" '. | .available = true | .checked_at = $time' <<< "$entry"
+      jq --arg time "$ip_time" '. | .available = true | .checked_at = $time' <<< "$entry"
     else
-      # 不可用，更新可用性和时间戳
-      jq --arg time "$CURRENT_TIME" '. | .available = false | .checked_at = $time' <<< "$entry"
+      jq --arg time "$ip_time" '. | .available = false | .checked_at = $time' <<< "$entry"
     fi
   done | jq -s '.' > "$tmp_file" && mv "$tmp_file" "$json_file"
 }
 
 if verify_ips "$JSON_FILE"; then
-  # 更新验证历史
   new_entry=$(jq -n --arg country "$CURRENT_COUNTRY" --arg time "$CURRENT_TIME" --argjson index "$CURRENT_INDEX" \
     '{country_id: $country, checked_at: $time, index: $index}')
   updated_data=$(echo "$validation_data" | jq ". + [$new_entry]")
