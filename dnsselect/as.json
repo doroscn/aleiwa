@@ -1,1 +1,17 @@
-[{"ip":"202.70.125.10","name":"","as_number":23657,"as_org":"Blue Sky Communications","country_id":"AS","city":"","version":"Microsoft DNS 6.1.7601 (1DB15EC5)","error":"","dnssec":false,"reliability":0.6973684210526315,"checked_at":"2021-09-30T01:00:05.805199Z","created_at":"2021-09-24T03:58:17.66873Z"}]
+[
+  {
+    "ip": "202.70.125.10",
+    "name": "",
+    "as_number": 23657,
+    "as_org": "Blue Sky Communications",
+    "country_id": "AS",
+    "city": "",
+    "version": "Microsoft DNS 6.1.7601 (1DB15EC5)",
+    "error": "",
+    "dnssec": false,
+    "reliability": 0.6973684210526315,
+    "checked_at": "2025-02-27T11:16:07Z",
+    "created_at": "2021-09-24T03:58:17.66873Z",
+    "available": false
+  }
+]
