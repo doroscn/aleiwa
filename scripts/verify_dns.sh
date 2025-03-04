@@ -56,7 +56,7 @@ CURRENT_TIME=$(date --utc +'%Y-%m-%dT%H:%M:%SZ')
 
 if echo "$validation_data" | jq -e ".[] | select(.country_id == \"$CURRENT_COUNTRY\") | .checked_at" | \
    grep -q "$(date --utc --date='1 month ago' +%Y-%m-%d)"; then
-  echo "$CURRENT_COUNTRY 最近一个月内已验证过，跳过本次验证。"
+  echo "$CURRENT_COUNTRY It has been verified within the last month. Skip this verification."
   exit 0
 fi
 
@@ -67,7 +67,7 @@ is_ipv4() {
 
 is_ipv6() {
   local ip=$1
-  [[ "$ip" =~ ^([0-9a-fA-F:]+)$ ]]
+  [[ "$ip" =~ ^([0-9a-fA-F]{1,4}:){7}[0-9a-fA-F]{1,4}$ || "$ip" =~ ^([0-9a-fA-F]{1,4}:){1,7}:$ || "$ip" =~ ^([0-9a-fA-F]{1,4}:){1,6}(:[0-9a-fA-F]{1,4}){1,2}$ || "$ip" =~ ^([0-9a-fA-F]{1,4}:){1,5}(:[0-9a-fA-F]{1,4}){1,3}$ || "$ip" =~ ^([0-9a-fA-F]{1,4}:){1,4}(:[0-9a-fA-F]{1,4}){1,4}$ || "$ip" =~ ^([0-9a-fA-F]{1,4}:){1,3}(:[0-9a-fA-F]{1,4}){1,5}$ || "$ip" =~ ^([0-9a-fA-F]{1,4}:){1,2}(:[0-9a-fA-F]{1,4}){1,6}$ || "$ip" =~ ^([0-9a-fA-F]{1,4}:){1}(:[0-9a-fA-F]{1,4}){1,7}$ || "$ip" =~ ^::1$ ]]
 }
 
 scan_available_ips() {
