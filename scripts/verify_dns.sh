@@ -60,8 +60,24 @@ if echo "$validation_data" | jq -e ".[] | select(.country_id == \"$CURRENT_COUNT
   exit 0
 fi
 
+is_ipv4() {
+  local ip=$1
+  [[ "$ip" =~ ^([0-9]{1,3}\.){3}[0-9]{1,3}$ ]]
+}
+
+is_ipv6() {
+  local ip=$1
+  [[ "$ip" =~ ^([0-9a-fA-F:]+)$ ]]
+}
+
 scan_available_ips() {
   local original_ip=$1
+  
+  if is_ipv6 "$original_ip"; then
+    echo "IPv6 地址 $original_ip，不执行扫段。" >&2
+    return 1
+  fi
+  
   echo "IP $original_ip 不可用，开始扫描同网段..." >&2
 
   local base_ip=$(cut -d. -f1-3 <<< "$original_ip")
