@@ -1,1 +1,77 @@
-[{"ip":"43.241.138.152","name":"cust-Sangay-Dorji-gw3-plg.tashicell.com.","as_number":23955,"as_org":"Tashi InfoComm Limited","country_id":"BT","city":"Tsimasham","version":"","error":"","dnssec":false,"reliability":1,"checked_at":"2023-03-15T09:50:47.713276Z","created_at":"2023-03-13T19:48:08.419879Z"},{"ip":"202.144.140.220","name":"","as_number":18024,"as_org":"Bhutan Telecom Ltd","country_id":"BT","city":"Thimphu","version":"dnsmasq-2.79","error":"","dnssec":false,"reliability":1,"checked_at":"2023-03-14T02:30:39.695074Z","created_at":"2023-03-14T02:30:39.695074Z"},{"ip":"202.144.139.180","name":"ppp139-180.dialup.thimphu.druknet.bt.","as_number":18024,"as_org":"Bhutan Telecom Ltd","country_id":"BT","city":"Thimphu","version":"dnsmasq-2.76","error":"","dnssec":false,"reliability":0.6578947368421053,"checked_at":"2023-04-06T11:55:45.532766Z","created_at":"2023-03-16T09:33:36.939746Z"},{"ip":"202.144.130.61","name":"","as_number":18024,"as_org":"Bhutan Telecom Ltd","country_id":"BT","city":"Thimphu","version":"unbound 1.4.22","error":"","dnssec":false,"reliability":0.7096774193548387,"checked_at":"2023-04-21T21:44:15.372597Z","created_at":"2023-03-16T23:58:57.300937Z"},{"ip":"119.2.107.238","name":"ll-cust-119.2-107-238.gw2.lungtenzampa.druknet.bt.","as_number":18024,"as_org":"Bhutan Telecom Ltd","country_id":"BT","city":"Thimphu","version":"","error":"","dnssec":true,"reliability":0.6739130434782609,"checked_at":"2023-04-21T21:48:50.766439Z","created_at":"2023-03-17T08:00:08.589586Z"}]
+[
+  {
+    "ip": "43.241.138.152",
+    "name": "cust-Sangay-Dorji-gw3-plg.tashicell.com.",
+    "as_number": 23955,
+    "as_org": "Tashi InfoComm Limited",
+    "country_id": "BT",
+    "city": "Tsimasham",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2025-03-05T09:25:57Z",
+    "created_at": "2023-03-13T19:48:08.419879Z",
+    "available": false
+  },
+  {
+    "ip": "202.144.140.220",
+    "name": "",
+    "as_number": 18024,
+    "as_org": "Bhutan Telecom Ltd",
+    "country_id": "BT",
+    "city": "Thimphu",
+    "version": "dnsmasq-2.79",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2025-03-05T09:26:08Z",
+    "created_at": "2023-03-14T02:30:39.695074Z",
+    "available": false
+  },
+  {
+    "ip": "202.144.139.180",
+    "name": "ppp139-180.dialup.thimphu.druknet.bt.",
+    "as_number": 18024,
+    "as_org": "Bhutan Telecom Ltd",
+    "country_id": "BT",
+    "city": "Thimphu",
+    "version": "dnsmasq-2.76",
+    "error": "",
+    "dnssec": false,
+    "reliability": 0.6578947368421053,
+    "checked_at": "2025-03-05T09:26:18Z",
+    "created_at": "2023-03-16T09:33:36.939746Z",
+    "available": true
+  },
+  {
+    "ip": "202.144.130.61",
+    "name": "",
+    "as_number": 18024,
+    "as_org": "Bhutan Telecom Ltd",
+    "country_id": "BT",
+    "city": "Thimphu",
+    "version": "unbound 1.4.22",
+    "error": "",
+    "dnssec": false,
+    "reliability": 0.7096774193548387,
+    "checked_at": "2025-03-05T09:26:21Z",
+    "created_at": "2023-03-16T23:58:57.300937Z",
+    "available": false
+  },
+  {
+    "ip": "119.2.107.238",
+    "name": "ll-cust-119.2-107-238.gw2.lungtenzampa.druknet.bt.",
+    "as_number": 18024,
+    "as_org": "Bhutan Telecom Ltd",
+    "country_id": "BT",
+    "city": "Thimphu",
+    "version": "",
+    "error": "",
+    "dnssec": true,
+    "reliability": 0.6739130434782609,
+    "checked_at": "2025-03-05T09:26:29Z",
+    "created_at": "2023-03-17T08:00:08.589586Z",
+    "available": false
+  }
+]
