@@ -1,50 +1,5 @@
 [
   {
-    "ip": "103.146.221.20",
-    "name": "pubdns1.kloud.net.bd.",
-    "as_number": 139904,
-    "as_org": "Kloud Technologies Limited",
-    "country_id": "BD",
-    "city": "",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:25:31Z",
-    "created_at": "2020-11-26T06:30:05.181547Z",
-    "available": false
-  },
-  {
-    "ip": "103.146.221.21",
-    "name": "pubdns2.kloud.net.bd.",
-    "as_number": 139904,
-    "as_org": "Kloud Technologies Limited",
-    "country_id": "BD",
-    "city": "",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:25:43Z",
-    "created_at": "2020-11-26T06:30:08.06176Z",
-    "available": false
-  },
-  {
-    "ip": "103.19.253.153",
-    "name": "",
-    "as_number": 135092,
-    "as_org": "Ashraf Uddin ta Dhaka tech",
-    "country_id": "BD",
-    "city": "Dhaka",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:25:55Z",
-    "created_at": "2021-09-25T20:47:34.089406Z",
-    "available": false
-  },
-  {
     "ip": "58.84.32.106",
     "name": "",
     "as_number": 138191,
@@ -75,21 +30,6 @@
     "available": true
   },
   {
-    "ip": "180.210.180.90",
-    "name": "",
-    "as_number": 138536,
-    "as_org": "Premium Connectivity Limited",
-    "country_id": "BD",
-    "city": "",
-    "version": "dnsmasq-pi-hole-2.80",
-    "error": "",
-    "dnssec": false,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:26:26Z",
-    "created_at": "2021-10-01T23:12:13.379785Z",
-    "available": false
-  },
-  {
     "ip": "182.163.101.102",
     "name": "IP-101-098.bol-online.com.",
     "as_number": 9230,
@@ -103,36 +43,6 @@
     "checked_at": "2025-03-04T09:26:37Z",
     "created_at": "2021-10-01T23:41:33.626336Z",
     "available": true
-  },
-  {
-    "ip": "103.92.84.162",
-    "name": "",
-    "as_number": 135038,
-    "as_org": "Synesis IT Limited",
-    "country_id": "BD",
-    "city": "",
-    "version": "dnsmasq-pi-hole-2.85",
-    "error": "",
-    "dnssec": false,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:26:48Z",
-    "created_at": "2021-10-01T23:43:50.396415Z",
-    "available": false
-  },
-  {
-    "ip": "180.210.180.50",
-    "name": "",
-    "as_number": 138536,
-    "as_org": "Premium Connectivity Limited",
-    "country_id": "BD",
-    "city": "",
-    "version": "dnsmasq-pi-hole-2.80",
-    "error": "",
-    "dnssec": false,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:26:58Z",
-    "created_at": "2021-10-01T23:56:58.712427Z",
-    "available": false
   },
   {
     "ip": "103.112.54.100",
@@ -270,21 +180,6 @@
     "available": true
   },
   {
-    "ip": "223.29.214.6",
-    "name": "",
-    "as_number": 64074,
-    "as_org": "Alpha Broadway System",
-    "country_id": "BD",
-    "city": "",
-    "version": "9.11.3-1ubuntu1.15-Ubuntu",
-    "error": "",
-    "dnssec": false,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:28:16Z",
-    "created_at": "2021-11-02T15:19:10.050027Z",
-    "available": false
-  },
-  {
     "ip": "103.126.150.128",
     "name": "an-150-177.ashulianetwork.net.",
     "as_number": 138474,
@@ -405,51 +300,6 @@
     "available": false
   },
   {
-    "ip": "103.97.206.42",
-    "name": "",
-    "as_number": 132869,
-    "as_org": "Mohammad Mahabub Alam ta M.A Network Service",
-    "country_id": "BD",
-    "city": "Dhaka",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:29:18Z",
-    "created_at": "2022-09-29T08:42:48.841224Z",
-    "available": false
-  },
-  {
-    "ip": "103.97.204.101",
-    "name": "",
-    "as_number": 132869,
-    "as_org": "Mohammad Mahabub Alam ta M.A Network Service",
-    "country_id": "BD",
-    "city": "Dhaka",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:29:30Z",
-    "created_at": "2022-09-29T10:54:03.644102Z",
-    "available": false
-  },
-  {
-    "ip": "103.179.244.31",
-    "name": "",
-    "as_number": 149455,
-    "as_org": "Suncity Pathfinder",
-    "country_id": "BD",
-    "city": "",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:29:41Z",
-    "created_at": "2022-09-29T16:31:50.979196Z",
-    "available": false
-  },
-  {
     "ip": "103.112.238.141",
     "name": "",
     "as_number": 137550,
@@ -480,21 +330,6 @@
     "available": true
   },
   {
-    "ip": "103.97.206.57",
-    "name": "",
-    "as_number": 132869,
-    "as_org": "Mohammad Mahabub Alam ta M.A Network Service",
-    "country_id": "BD",
-    "city": "Dhaka",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:29:54Z",
-    "created_at": "2022-09-30T01:19:31.704915Z",
-    "available": false
-  },
-  {
     "ip": "103.97.204.189",
     "name": "",
     "as_number": 132869,
@@ -507,21 +342,6 @@
     "reliability": 0.9452054794520548,
     "checked_at": "2025-03-04T09:30:06Z",
     "created_at": "2022-09-30T03:24:06.863511Z",
-    "available": false
-  },
-  {
-    "ip": "203.76.222.107",
-    "name": "",
-    "as_number": 134204,
-    "as_org": "Business Network",
-    "country_id": "BD",
-    "city": "Dhaka",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:30:17Z",
-    "created_at": "2022-09-30T06:40:38.511515Z",
     "available": false
   },
   {
@@ -585,21 +405,6 @@
     "available": true
   },
   {
-    "ip": "103.97.205.101",
-    "name": "",
-    "as_number": 132869,
-    "as_org": "Mohammad Mahabub Alam ta M.A Network Service",
-    "country_id": "BD",
-    "city": "Dhaka",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 0.9950738916256158,
-    "checked_at": "2025-03-04T09:30:51Z",
-    "created_at": "2022-09-30T08:36:38.967263Z",
-    "available": false
-  },
-  {
     "ip": "103.25.122.122",
     "name": "",
     "as_number": 64072,
@@ -613,36 +418,6 @@
     "checked_at": "2025-03-04T09:31:02Z",
     "created_at": "2022-09-30T09:57:43.096172Z",
     "available": true
-  },
-  {
-    "ip": "103.97.207.0",
-    "name": "",
-    "as_number": 132869,
-    "as_org": "Mohammad Mahabub Alam ta M.A Network Service",
-    "country_id": "BD",
-    "city": "Dhaka",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 1,
-    "checked_at": "2025-03-04T09:31:13Z",
-    "created_at": "2022-09-30T12:07:54.351598Z",
-    "available": false
-  },
-  {
-    "ip": "103.97.207.126",
-    "name": "",
-    "as_number": 132869,
-    "as_org": "Mohammad Mahabub Alam ta M.A Network Service",
-    "country_id": "BD",
-    "city": "Dhaka",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 0.9319852941176471,
-    "checked_at": "2025-03-04T09:31:25Z",
-    "created_at": "2022-09-30T12:28:51.238992Z",
-    "available": false
   },
   {
     "ip": "103.186.52.208",
@@ -718,21 +493,6 @@
     "checked_at": "2025-03-04T09:31:57Z",
     "created_at": "2022-09-30T21:12:52.500098Z",
     "available": true
-  },
-  {
-    "ip": "103.97.206.241",
-    "name": "",
-    "as_number": 132869,
-    "as_org": "Mohammad Mahabub Alam ta M.A Network Service",
-    "country_id": "BD",
-    "city": "Dhaka",
-    "version": "",
-    "error": "",
-    "dnssec": true,
-    "reliability": 0.8867924528301887,
-    "checked_at": "2025-03-04T09:32:00Z",
-    "created_at": "2022-10-01T08:00:17.182712Z",
-    "available": false
   },
   {
     "ip": "103.156.239.10",
