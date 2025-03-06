@@ -90,8 +90,8 @@ scan_available_ips() {
   
   local available_ips=$(
     printf "%s\n" "${generated_ips[@]}" \
-    | xargs -n1 -P50 -I{} bash -c \
-      'timeout 1 nc -z -w 3 {} 53 2>/dev/null && echo {}' 2>/dev/null \
+    | xargs -n1 -P254 -I{} bash -c \
+      'timeout 1 nc -z -w 2 {} 53 2>/dev/null && echo {}' 2>/dev/null \
     | sort -u
   )
 
