@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aleiwa Network Intelligence - Global Network Analytics</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.83/dist/themes/light.css">
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.83/dist/shoelace.js"></script>
+    <!-- 数据可视化库 -->
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+</head>
+<body class="bg-gray-50">
+    <!-- 动态导航栏 -->
+    <nav class="bg-white shadow-lg">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="flex justify-between items-center h-16">
+                <div class="flex items-center">
+                    <img src="/logo.svg" class="h-8 w-8" alt="Aleiwa">
+                    <span class="ml-2 text-xl font-bold text-gray-800">Aleiwa Network Intelligence</span>
+                </div>
+                <div class="hidden md:flex space-x-8">
+                    <a href="/" class="text-gray-700 hover:text-blue-600">Global Dashboard</a>
+                    <a href="/asn-rankings" class="text-gray-700 hover:text-blue-600">ASN Rankings</a>
+                    <a href="/dns-analytics" class="text-gray-700 hover:text-blue-600">DNS Analytics</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 国家DNS数据展示区 -->
+    <main class="max-w-7xl mx-auto px-4 py-8">
+        <!-- 国家信息头 -->
+        <div class="mb-8">
+            <h1 class="text-3xl font-bold text-gray-900" id="countryTitle"></h1>
+            <div class="mt-2 flex items-center space-x-4 text-sm text-gray-600">
+                <sl-tag variant="primary" id="lastUpdated"></sl-tag>
+                <sl-tag id="serverCount"></sl-tag>
+            </div>
+        </div>
+
+        <!-- 数据可视化卡片 -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+            <div class="bg-white p-6 rounded-xl shadow-sm">
+                <h3 class="text-sm font-medium text-gray-500">Reliability Distribution</h3>
+                <div id="reliabilityChart" class="h-40"></div>
+            </div>
+            <div class="bg-white p-6 rounded-xl shadow-sm">
+                <h3 class="text-sm font-medium text-gray-500">ASN Distribution</h3>
+                <div id="asnChart" class="h-40"></div>
+            </div>
+            <div class="bg-white p-6 rounded-xl shadow-sm">
+                <h3 class="text-sm font-medium text-gray-500">Security Status</h3>
+                <div id="securityChart" class="h-40 mt-4"></div>
+            </div>
+        </div>
+
+        <!-- 智能数据表格 -->
+        <div class="bg-white rounded-xl shadow-sm overflow-hidden">
+            <div class="px-6 py-4 border-b flex justify-between items-center">
+                <div class="flex space-x-4">
+                    <sl-input placeholder="Search DNS servers..." type="search" clearable>
+                        <sl-icon name="search" slot="prefix"></sl-icon>
+                    </sl-input>
+                    <sl-select placeholder="Filter by ASN" multiple>
+                        <sl-option value="">All ASNs</sl-option>
+                    </sl-select>
+                </div>
+                <sl-button-group>
+                    <sl-button variant="default">
+                        <sl-icon name="download" slot="prefix"></sl-icon> Export
+                    </sl-button>
+                </sl-button-group>
+            </div>
+            
+            <div class="overflow-x-auto">
+                <table class="w-full divide-y divide-gray-200">
+                    <thead class="bg-gray-50">
+                        <tr>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">IP Address</th>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Reliability</th>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">AS Organization</th>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">DNSSEC</th>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Last Checked</th>
+                            <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Status</th>
+                        </tr>
+                    </thead>
+                    <tbody id="dnsTable" class="bg-white divide-y divide-gray-200">
+                        <!-- 动态加载数据 -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+
+    <!-- 实时数据提示 -->
+    <sl-alert variant="primary" open class="fixed bottom-4 right-4 w-64">
+        <sl-icon slot="icon" name="clock"></sl-icon>
+        Auto-updating every 5 minutes
+    </sl-alert>
+
+    <script>
+        // 动态数据加载与可视化
+        async function loadData() {
+            const params = new URLSearchParams(window.location.search);
+            const code = params.get('code') || 'unknown';
+
+            try {
+                // 加载国家元数据
+                const [countryRes, dataRes] = await Promise.all([
+                    fetch(`/data/country_map.json`),
+                    fetch(`/dnsselect/${code}.json`)
+                ]);
+
+                const countryMap = await countryRes.json();
+                const data = await dataRes.json();
+
+                // 更新页面标题
+                const countryName = countryMap[code] || 'Global';
+                document.title = `${countryName} DNS Analytics | Aleiwa`;
+                document.getElementById('countryTitle').textContent = `${countryName} DNS Infrastructure`;
+                
+                // 更新统计信息
+                document.getElementById('lastUpdated').textContent = `Last updated: ${new Date().toLocaleTimeString()}`;
+                document.getElementById('serverCount').textContent = `${data.length} Servers Monitoring`;
+
+                // 生成可视化图表
+                renderCharts(data);
+                
+                // 填充表格数据
+                populateTable(data);
+                
+                // 初始化过滤器
+                initFilters(data);
+
+            } catch (error) {
+                console.error('Error loading data:', error);
+            }
+        }
+
+        function renderCharts(data) {
+            // 可靠性分布图表
+            const reliabilityOptions = {
+                chart: { type: 'donut', height: 160 },
+                series: [data.filter(d => d.reliability >= 0.9).length,
+                        data.filter(d => d.reliability >= 0.7 && d.reliability < 0.9).length,
+                        data.filter(d => d.reliability < 0.7).length],
+                labels: ['High (>90%)', 'Medium (70-90%)', 'Low (<70%)']
+            };
+            
+            // ASN分布图表
+            const asnDistribution = [...new Set(data.map(d => d.as_org))].slice(0,5);
+            const asnOptions = {
+                chart: { type: 'pie', height: 160 },
+                series: asnDistribution.map(org => 
+                    data.filter(d => d.as_org === org).length),
+                labels: asnDistribution
+            };
+
+            // 初始化图表
+            new ApexCharts(document.querySelector('#reliabilityChart'), reliabilityOptions).render();
+            new ApexCharts(document.querySelector('#asnChart'), asnOptions).render();
+        }
+
+        function populateTable(data) {
+            const tbody = document.getElementById('dnsTable');
+            tbody.innerHTML = data.map(item => `
+                <tr class="hover:bg-gray-50">
+                    <td class="px-6 py-4">
+                        <div class="font-mono text-sm">${item.ip}</div>
+                        ${item.name ? `<div class="text-xs text-gray-500">${item.name}</div>` : ''}
+                    </td>
+                    <td class="px-6 py-4">
+                        <sl-rating label="Reliability" value="${item.reliability * 5}" readonly></sl-rating>
+                        <div class="text-xs text-gray-500 mt-1">${(item.reliability * 100).toFixed(1)}%</div>
+                    </td>
+                    <td class="px-6 py-4">
+                        <div class="text-sm">${item.as_org}</div>
+                        <div class="text-xs text-gray-500">AS${item.as_number}</div>
+                    </td>
+                    <td class="px-6 py-4">
+                        <sl-badge variant="${item.dnssec ? 'success' : 'neutral'}">
+                            ${item.dnssec ? 'Enabled' : 'Disabled'}
+                        </sl-badge>
+                    </td>
+                    <td class="px-6 py-4 text-sm">
+                        ${new Date(item.checked_at).toLocaleDateString()}
+                        <div class="text-xs text-gray-500">
+                            ${new Date(item.checked_at).toLocaleTimeString()}
+                        </div>
+                    </td>
+                    <td class="px-6 py-4">
+                        <sl-badge variant="${item.available ? 'success' : 'danger'}">
+                            ${item.available ? 'Online' : 'Offline'}
+                        </sl-badge>
+                    </td>
+                </tr>
+            `).join('');
+        }
+
+        // 初始化页面
+        loadData();
+        setInterval(loadData, 300000); // 5分钟更新一次
+    </script>
+</body>
+</html>
