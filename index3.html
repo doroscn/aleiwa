@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
     async function loadASNData(countryCode) {
         try {
             // 输入验证
-            countryCode = countryCode.toUpperCase();
+            countryCode = countryCode.toLowerCase();
             if (!/^[A-Z]{2}$/.test(countryCode)) {
                 throw new Error('Invalid country code format');
             }
