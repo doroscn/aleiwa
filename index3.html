@@ -154,7 +154,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const [countryRes, dataRes] = await Promise.all([
                 fetch('/data/country_map.json'),
-                fetch(`./country_data/${countryCode.toLowerCase()}.json`)
+                fetch(`/asn/country_data/${countryCode.toLowerCase()}.json`)
             ]);
 
             // 处理国家映射数据
