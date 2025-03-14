@@ -1,0 +1,24 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- 动态网格背景 -->
+  <path d="M64 124C97.137 124 124 97.137 124 64C124 30.863 97.137 4 64 4C30.863 4 4 30.863 4 64C4 97.137 30.863 124 64 124Z" fill="#087CBF" fill-opacity="0.05"/>
+  
+  <!-- 立体"A"结构 -->
+  <g transform="translate(24 24)">
+    <!-- 前表面 -->
+    <path d="M40 0L80 40L40 80L0 40L40 0Z" fill="#087CBF" fill-opacity="0.8"/>
+    
+    <!-- 立体侧面 -->
+    <path d="M80 40L80 80L40 80L40 0L80 40Z" fill="#087CBF" fill-opacity="0.3"/>
+    
+    <!-- 网络连接线 -->
+    <g stroke="#FFFFFF" stroke-width="3" stroke-linecap="round">
+      <path d="M20 40L40 20" opacity="0.8"/>
+      <path d="M40 20L60 40" opacity="0.6"/>
+      <path d="M60 40L40 60" opacity="0.8"/>
+      <path d="M40 60L20 40" opacity="0.6"/>
+    </g>
+    
+    <!-- 核心节点 -->
+    <circle cx="40" cy="40" r="6" fill="#FF6B6B"/>
+  </g>
+</svg>

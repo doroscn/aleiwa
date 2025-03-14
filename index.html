@@ -13,13 +13,15 @@
     <link rel="canonical" href="https://www.aleiwa.com/" />
 </head>
 <body>
-    <!-- 导航栏 -->
     <nav>
         <div class="container">
-            <h1>Network Tools</h1>
+            <a href="/" class="brand-logo">
+                <img src="images/logo2.svg" alt="AleiwA Network Tools" width="40" height="40">
+                <span>Aleiwa Network Tools</span>
+            </a>
             <div class="links">
                 <a href="dns.html">DNS Analytics</a>
-                <a href="topisps.html">DNS Analytics</a>
+                <a href="topisps.html">ASN Rankings</a>
                 <a href="looking-glass.html">Looking-glass</a>
                 <a href="routeviews.html">routeviews</a>
                 <a href="nameserver/dnsview.html">About</a>
@@ -27,15 +29,12 @@
         </div>
     </nav>
 
-    <!-- 主内容 -->
     <main class="container">
-        <!-- 搜索框 -->
         <div class="search-box">
-            <input type="text" id="countryCode" placeholder="Enter country code (e.g. US)" maxlength="2">
+            <input type="text" id="countryCode" placeholder="country code (e.g. US)" maxlength="2">
             <button onclick="loadData()">Search</button>
         </div>
 
-        <!-- 国家信息 -->
         <div id="countryInfo" class="info-box hidden">
             <h2><span id="countryName"></span> <small>(<span id="countryCodeDisplay"></span>)</small></h2>
             <div class="stats">
@@ -45,7 +44,6 @@
             </div>
         </div>
 
-        <!-- ASN 表格 -->
         <section class="asn-section">
             <h3>Top 10 ASNs <a id="viewAllASN" class="view-all">View All</a></h3>
             <table id="asnTable">
@@ -62,7 +60,6 @@
             </table>
         </section>
 
-        <!-- DNS 表格 -->
         <section class="dns-section">
             <h3>DNS Servers</h3>
             <table id="dnsTable">
