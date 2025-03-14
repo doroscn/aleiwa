@@ -26,7 +26,7 @@ async function loadData() {
         ]);
 
         // 显示国家信息
-        const countryInfo = countries[countryCode.toUpperCase()] || 'Unknown Country';
+        const countryInfo = countries[countryCode.toUpperCase()] || 'Country';
         const checkedTime = lastChecked.find(c => c.country_id === countryCode)?.checked_at;
         
         document.getElementById('countryName').textContent = countryInfo;
@@ -44,7 +44,7 @@ async function loadData() {
         const topASN = asnData.Data.slice(0, 10);
         renderTable('#asnTable tbody', topASN, asnRowMapper);
         document.getElementById('asnCount').textContent = asnData.Data.length;
-        document.getElementById('viewAllASN').href = `asn.html?code=${countryCode}`;
+        document.getElementById('viewAllASN').href = `/asn/asn.html?code=${countryCode}`;
 
         // 处理DNS数据
         renderTable('#dnsTable tbody', dnsData, dnsRowMapper);
