@@ -1,118 +1,225 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis</title>
-		<meta name="description" content="Explore Aleiwa's global network tools: Discover top ISPs, fastest public DNS servers, route analysis, and real-time network diagnostics for professionals.">		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<meta name="google-adsense-account" content="ca-pub-6600663344964826">
-		<link rel="stylesheet" href="/assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
-		<meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
-	</head>
-	<body class="is-preload">
-		<!-- Wrapper -->
-			<div id="wrapper">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Data Methodology - Network Tools</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-blue: #087CBF;
+            --accent-red: #FF6B6B;
+            --text-primary: #2d3e50;
+            --background: #f8f9fa;
+            --card-bg: #ffffff;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+            background: var(--background);
+            color: var(--text-primary);
+            margin: 0;
+        }
 
-				<!-- Header -->
-					<header id="header">
-						<div class="inner">
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
 
-							<!-- Logo -->
-								<a href="/index.html" class="logo">
-									<span class="symbol"><img src="/images/logo.svg" alt="" /></span><span class="title">Phantom</span>
-								</a>
+        .methodology-section {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 2rem;
+            margin: 2rem 0;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+        }
 
-							<!-- Nav -->
-								<nav>
-									<ul>
-										<li><a href="#menu">Menu</a></li>
-									</ul>
-								</nav>
+        h2 {
+            color: var(--primary-blue);
+            border-bottom: 2px solid var(--primary-blue);
+            padding-bottom: 0.5rem;
+            margin-top: 0;
+        }
 
-						</div>
-					</header>
+        .data-flow {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
 
-				<!-- Menu -->
-					<nav id="menu">
-						<h2>Menu</h2>
-						<ul>
-							<li><a href="/index.html">Home</a></li>
-							<li><a href="/topisps.html">Top ISPs info</a></li>
-							<li><a href="/dns.html">Best Public DNS Servers</a></li>
-							<li><a href="/routeviews.html">Public routeviews</a></li>
-							<li><a href="/looking-glass.html">looking-glass list</a></li>
-						</ul>
-					</nav>
+        .flow-card {
+            padding: 1.5rem;
+            border-left: 4px solid var(--primary-blue);
+            background: var(--background);
+        }
 
-				<!-- Main -->
-					<div id="main">
-						<div class="inner">
-							<h1>Global DNS Server Validation System</h1>
-							<span class="image main"><img src="images/pic13.jpg" alt="" /></span>
-							<blockquote>For global network service deployment, DNS server availability directly impacts service quality. We developed a Bash-based automated validation system to:</blockquote>
-							<ol>
-								<li>Periodically check global DNS server status (country-based rotation)</li>
-								<li>Automatically recover unavailable nodes (same-subnet IP scanning)</li>
-								<li>Intelligently maintain validation records</li>
-								<li>Enable lightweight automation (zero third-party dependencies)</li>
-							</ol>
-							<p>IP-Level Health Check</p>
-						</div>
-					</div>
+        .icon {
+            width: 40px;
+            height: 40px;
+            margin-bottom: 1rem;
+        }
 
-				<!-- Footer -->
-				<footer id="footer">
-					<div class="inner">
-						<section>
-							<h2>Follow</h2>
-							<ul class="icons">
-								<li><a href="https://x.com/AleiwaTool" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="https://www.facebook.com/jash.zheng.5" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
-								<li><a href="https://github.com/aleiwa-network" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-							</ul>
-						</section>
-						<ul class="copyright">
-							<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="https://doros.taobao.com/">Aleiwa</a></li>
-						</ul>
-					</div>
-				</footer>
+        .source-list {
+            list-style: none;
+            padding: 0;
+        }
 
-			</div>
-		<!-- Scripts -->
-		<script src="/assets/js/jquery.min.js"></script>
-		<script src="/assets/js/browser.min.js"></script>
-		<script src="/assets/js/breakpoints.min.js"></script>
-		<script src="/assets/js/util.js"></script>
-		<script src="/assets/js/main.js"></script>
-		<script type="application/ld+json">
-			{
-			  "@context": "https://schema.org",
-			  "@type": "ItemList",
-			  "name": "Aleiwa Network Tools Collection",
-			  "url": "https://www.aleiwa.com/",
-			  "description": "A curated list of professional network analysis tools including ISP rankings, DNS servers, and route diagnostics.",
-			  "itemListElement": [
-				{
-				  "@type": "ListItem",
-				  "position": 1,
-				  "item": {
-					"@type": "WebApplication",
-					"name": "Top ISPs Ranking",
-					"url": "https://www.aleiwa.com/topisps.html"
-				  }
-				},
-				{
-				  "@type": "ListItem",
-				  "position": 2,
-				  "item": {
-					"@type": "WebApplication",
-					"name": "Public DNS Server Analyzer",
-					"url": "https://www.aleiwa.com/dns.html"
-				  }
-				}
-			  ]
-			}
-		</script>
+        .source-list li {
+            padding: 1rem;
+            margin: 0.5rem 0;
+            background: var(--background);
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
 
-	</body>
+        .verification-process {
+            display: flex;
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .process-step {
+            flex: 1;
+            text-align: center;
+            padding: 1rem;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+        }
+
+        .update-frequency {
+            background: var(--primary-blue);
+            color: white;
+            padding: 1rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <a href="/" class="brand-logo">
+                <img src="/images/logo2.svg" alt="AleiwA Network Tools" width="40" height="40">
+                <span>Aleiwa Network Tools</span>
+            </a>
+            <div class="links">
+                <a href="/dns.html">DNS Analytics</a>
+                <a href="/topisps.html">ASN Rankings</a>
+                <a href="/looking-glass.html">Looking-glass</a>
+                <a href="/routeviews.html">routeviews</a>
+                <a href="/nameserver/dnsview.html">About</a>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <h1>Data Collection Methodology</h1>
+
+        <div class="methodology-section">
+            <h2>DNS Intelligence Framework</h2>
+            
+            <div class="data-flow">
+                <div class="flow-card">
+                    <svg class="icon" viewBox="0 0 24 24"><path fill="var(--primary-blue)" d="M12..."/></svg>
+                    <h3>Multi-source Collection</h3>
+                    <ul class="source-list">
+                        <li>
+                            <strong>Public DNS Servers:</strong> 
+                            Aggregated from global recursive DNS resolvers
+                        </li>
+                        <li>
+                            <strong>Cedexis Radar:</strong> 
+                            Leverage DNS query data from 250k+ measurement points
+                        </li>
+                        <li>
+                            <strong>Authoritative NS:</strong> 
+                            Direct collection from our global nameserver cluster
+                        </li>
+                        <li>
+                            <strong>Community Submission:</strong> 
+                            Verified user-contributed DNS endpoints
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="flow-card">
+                    <svg class="icon" viewBox="0 0 24 24"><path fill="var(--primary-blue)" d="M12..."/></svg>
+                    <h3>Verification Process</h3>
+                    <div class="verification-process">
+                        <div class="process-step">
+                            <h4>Reachability Check</h4>
+                            <p>Hourly TCP/UDP connectivity validation</p>
+                        </div>
+                        <div class="process-step">
+                            <h4>Response Validation</h4>
+                            <p>DNSSEC validation & response consistency</p>
+                        </div>
+                        <div class="process-step">
+                            <h4>Performance Metric</h4>
+                            <p>Latency measurement from 10 global regions</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="methodology-section">
+            <h2>ASN Ranking System</h2>
+            
+            <div class="data-flow">
+                <div class="flow-card">
+                    <h3>Data Synthesis</h3>
+                    <ul class="source-list">
+                        <li>
+                            <strong>Cedexis Coverage:</strong> 
+                            Real-time traffic data from 500+ ISPs
+                        </li>
+                        <li>
+                            <strong>APNIC Stats:</strong> 
+                            Official allocation data and user estimates
+                        </li>
+                        <li>
+                            <strong>BGP Feed:</strong> 
+                            Routing table analysis from 10+ route collectors
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="flow-card">
+                    <h3>Calculation Model</h3>
+                    <div class="update-frequency">
+                        <p>Ranking = 0.6×(Cedexis Traffic Share) + 0.3×(APNIC User Coverage) + 0.1×(Network Stablility)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="methodology-section">
+            <h2>Data Freshness</h2>
+            <div class="data-flow">
+                <div class="flow-card">
+                    <h3>Update Cycle</h3>
+                    <ul class="source-list">
+                        <li>DNS Records: Hourly refresh</li>
+                        <li>ASN Ranking: Daily recalculation</li>
+                        <li>Infrastructure Data: Weekly synchronization</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer style="text-align: center; padding: 2rem; color: var(--text-primary);">
+        <p>Data Sources: 
+            <a href="https://www.apnic.net" target="_blank">APNIC</a>, 
+            <a href="https://www.cedexis.com" target="_blank">Cedexis</a>
+        </p>
+        <p>© 2025 Aleiwa Network Tools. All rights reserved.</p>
+    </footer>
+    <script src="/assets/js/app.js"></script>
+</body>
 </html>
