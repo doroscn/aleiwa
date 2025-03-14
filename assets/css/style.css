@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #087cbf; 
+    --primary-color: #087cbf;
     --secondary-color: #6c757d;
     --background: #f8f9fa;
     --card-bg: #ffffff;
@@ -13,32 +13,27 @@ body {
     background-color: var(--background);
     color: var(--text-primary);
     margin: 0;
+    line-height: 1.6;
 }
 
-/* 导航栏优化 */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
 nav {
     background: var(--card-bg);
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
     border-bottom: 1px solid var(--border-color);
 }
 
-nav h1 {
-    color: var(--primary-color);
-    font-weight: 600;
-    font-size: 1.5rem;
+nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-nav .links a {
-    color: var(--text-secondary);
-    padding: 0.5rem 1rem;
-    transition: color 0.2s;
-}
-
-nav .links a:hover {
-    color: var(--primary-color);
-}
-
-/* 搜索框优化 */
 .search-box {
     margin: 3rem 0 2rem;
     max-width: 480px;
@@ -71,120 +66,59 @@ button:hover {
     opacity: 0.9;
 }
 
-/* 国家信息卡片 */
 .info-box {
-    background: var(--card-bg);
-    border-radius: 12px;
+    background: #f8f9fa;
     padding: 1.5rem;
-    margin: 2rem 0;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-    border: 1px solid var(--border-color);
-}
-
-.info-box h2 {
-    margin: 0 0 1rem;
-    font-size: 1.25rem;
-    color: var(--text-primary);
+    border-radius: 8px;
+    margin-bottom: 2rem;
 }
 
 .stats {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-    gap: 1.5rem;
-}
-
-.stats > div {
-    padding: 0.75rem;
-    background: var(--background);
-    border-radius: 8px;
-    text-align: center;
-}
-
-.stats span {
-    display: block;
-    font-size: 1.25rem;
-    font-weight: 500;
-    color: var(--primary-color);
-    margin-top: 0.5rem;
-}
-
-/* 表格优化 */
-section {
-    margin: 2.5rem 0;
-    background: var(--card-bg);
-    border-radius: 12px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-    overflow: hidden;
-}
-
-section h3 {
-    margin: 0;
-    padding: 1.25rem;
-    font-size: 1.1rem;
-    font-weight: 600;
-    background: var(--background);
-    border-bottom: 1px solid var(--border-color);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
 }
 
 table {
-    border-collapse: collapse;
     width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
 }
 
 th {
-    background: var(--background);
-    color: var(--text-primary);
-    font-weight: 500;
-    padding: 1rem 1.25rem;
-    border-bottom: 2px solid var(--border-color);
+    background: var(--primary-color);
+    color: white;
 }
 
-td {
-    padding: 0.875rem 1.25rem;
-    border-bottom: 1px solid var(--border-color);
-}
-
-tr:last-child td {
-    border-bottom: none;
-}
-
-.available {
-    color: #28a745;
-    font-weight: 500;
-}
-
-.unavailable {
-    color: #dc3545;
-    font-weight: 500;
-}
+.available { color: #27ae60; }
+.unavailable { color: #e74c3c; }
 
 .view-all {
-    color: var(--primary-color);
     font-size: 0.9rem;
-    float: right;
-    text-decoration: none;
+    margin-left: 1rem;
 }
 
-.view-all:hover {
-    text-decoration: underline;
-}
+.hidden { display: none; }
 
-/* 响应式优化 */
 @media (max-width: 768px) {
     .container {
         padding: 0 1rem;
     }
     
-    table {
-        display: block;
-        overflow-x: auto;
+    section h3 {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+        padding: 1rem;
     }
     
-    .stats {
-        grid-template-columns: 1fr;
-    }
-    
-    section {
-        border-radius: 8px;
+    .view-all {
+        align-self: flex-end;
     }
 }
