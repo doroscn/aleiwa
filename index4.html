@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Network Tools - ASN & DNS Explorer</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav>
+        <div class="container">
+            <h1>Network Tools</h1>
+            <div class="links">
+                <a href="#about">About</a>
+                <a href="#docs">API</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 主内容 -->
+    <main class="container">
+        <!-- 搜索框 -->
+        <div class="search-box">
+            <input type="text" id="countryCode" placeholder="Enter country code (e.g. US)" maxlength="2">
+            <button onclick="loadData()">Search</button>
+        </div>
+
+        <!-- 国家信息 -->
+        <div id="countryInfo" class="info-box hidden">
+            <h2><span id="countryName"></span> <small>(<span id="countryCodeDisplay"></span>)</small></h2>
+            <div class="stats">
+                <div>Last Updated: <span id="lastChecked">N/A</span></div>
+                <div>ASN Count: <span id="asnCount">0</span></div>
+                <div>DNS Servers: <span id="dnsCount">0</span></div>
+            </div>
+        </div>
+
+        <!-- ASN 表格 -->
+        <section class="asn-section">
+            <h3>Top 10 ASNs <a id="viewAllASN" class="view-all">View All</a></h3>
+            <table id="asnTable">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>AS</th>
+                        <th>Description</th>
+                        <th>% of CC Population</th>
+                        <th>% of Internet</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </section>
+
+        <!-- DNS 表格 -->
+        <section class="dns-section">
+            <h3>DNS Servers</h3>
+            <table id="dnsTable">
+                <thead>
+                    <tr>
+                        <th>IP</th>
+                        <th>Domain Name</th>
+                        <th>AS Number</th>
+                        <th>AS Organization</th>
+                        <th>Country</th>
+                        <th>Available</th>
+                        <th>Last Checked</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </section>
+    </main>
+
+    <script src="assets/js/app.js"></script>
+</body>
+</html>
