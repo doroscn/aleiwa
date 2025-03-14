@@ -1,183 +1,116 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<meta name="description" content="Explore Aleiwa's global network tools: Discover top ISPs, fastest public DNS servers, route analysis, and real-time network diagnostics for professionals.">
-		<link rel="stylesheet" href="assets/css/main.css" media="print" onload="this.media='all'">
-		<meta name="google-adsense-account" content="ca-pub-6600663344964826">
-		<link rel="canonical" href="https://www.aleiwa.com/" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-		<meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
-	</head>
-	<body class="is-preload">
-		<!-- Wrapper -->
-			<div id="wrapper">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="public DNS, ISP ranking, network tools, traceroute, route analysis">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="description" content="Explore Aleiwa's global network tools: Discover top ISPs, fastest public DNS servers, route analysis, and real-time network diagnostics for professionals.">
+    <meta name="google-adsense-account" content="ca-pub-6600663344964826">
+    <meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
+    <title>Aleiwa: Best Public DNS & ISP Rankings</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.aleiwa.com/" />
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav>
+        <div class="container">
+            <h1>Network Tools</h1>
+            <div class="links">
+                <a href="dns.html">DNS Analytics</a>
+                <a href="topisps.html">DNS Analytics</a>
+                <a href="looking-glass.html">Looking-glass</a>
+                <a href="routeviews.html">routeviews</a>
+                <a href="nameserver/dnsview.html">About</a>
+            </div>
+        </div>
+    </nav>
 
-				<!-- Header -->
-					<header id="header">
-						<div class="inner">
+    <!-- 主内容 -->
+    <main class="container">
+        <!-- 搜索框 -->
+        <div class="search-box">
+            <input type="text" id="countryCode" placeholder="Enter country code (e.g. US)" maxlength="2">
+            <button onclick="loadData()">Search</button>
+        </div>
 
-							<!-- Logo -->
-								<a href="index.html" class="logo">
-									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Aleiwa</span>
-								</a>
+        <!-- 国家信息 -->
+        <div id="countryInfo" class="info-box hidden">
+            <h2><span id="countryName"></span> <small>(<span id="countryCodeDisplay"></span>)</small></h2>
+            <div class="stats">
+                <div>Last Updated: <span id="lastChecked">N/A</span></div>
+                <div>ASN Count: <span id="asnCount">0</span></div>
+                <div>DNS Servers: <span id="dnsCount">0</span></div>
+            </div>
+        </div>
 
-							<!-- Nav -->
-								<nav>
-									<ul>
-										<li><a href="#menu">Menu</a></li>
-									</ul>
-								</nav>
+        <!-- ASN 表格 -->
+        <section class="asn-section">
+            <h3>Top 10 ASNs <a id="viewAllASN" class="view-all">View All</a></h3>
+            <table id="asnTable">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>AS</th>
+                        <th>Description</th>
+                        <th>% of CC Population</th>
+                        <th>% of Internet</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </section>
 
-						</div>
-					</header>
+        <!-- DNS 表格 -->
+        <section class="dns-section">
+            <h3>DNS Servers</h3>
+            <table id="dnsTable">
+                <thead>
+                    <tr>
+                        <th>IP</th>
+                        <th>Domain Name</th>
+                        <th>AS Number</th>
+                        <th>AS Organization</th>
+                        <th>Country</th>
+                        <th>Available</th>
+                        <th>Last Checked</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </section>
+    </main>
 
-				<!-- Menu -->
-					<nav id="menu">
-						<h2>Menu</h2>
-						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li><a href="topisps.html">Top ISPs info</a></li>
-							<li><a href="dns.html">Best Public DNS Servers</a></li>
-							<li><a href="routeviews.html">Public routeviews</a></li>
-							<li><a href="looking-glass.html">looking-glass list</a></li>
-						</ul>
-					</nav>
-
-				<!-- Main -->
-					<div id="main">
-						<div class="inner">
-							<header>
-								<h1>This is Aleiwa,Globe Netwrok Tools<br />
-								</h1>
-								<p>Global network operations are a vast and complex field, involving extensive knowledge. This requires the use of various tools to refine and validate your assumptions. Aleiwa will compile and organize relevant auxiliary tools to share with everyone.</p>
-							</header>
-							<section class="tiles">
-								<article class="style1">
-									<span class="image">
-										<img src="images/pic01.jpg" alt="Top ISPs Worldwide Ranking" />
-									</span>
-									<a href="topisps.html">
-										<h2>Top ISP</h2>
-										<div class="content">
-											<p>Information about top ISPs in each country.</p>
-										</div>
-									</a>
-								</article>
-								<article class="style2">
-									<span class="image">
-										<img src="images/pic02.jpg" alt="Best Public DNS" />
-									</span>
-									<a href="dns.html">
-										<h2>Best Public DNS</h2>
-										<div class="content">
-											<p>Public DNS Servers by country.</p>
-										</div>
-									</a>
-								</article>
-								<article class="style3">
-									<span class="image">
-										<img src="images/pic03.jpg" alt="RouteViews list" />
-									</span>
-									<a href="routeviews.html">
-										<h2>RouteViews list</h2>
-										<div class="content">
-											<p>can better understand the dynamic behavior of the internet, optimize network performance</p>
-										</div>
-									</a>
-								</article>
-								<article class="style4">
-									<span class="image">
-										<img src="images/pic04.jpg" alt="Looking-glass list" />
-									</span>
-									<a href="looking-glass.html">
-										<h2>Looking-glass list</h2>
-										<div class="content">
-											<p>Verify the network between major global carriers and local carriers, and support ping and traceroute.											</p>
-										</div>
-									</a>
-								</article>
-								<article class="style5">
-									<span class="image">
-										<img src="images/pic05.jpg" alt="ping.pe" />
-									</span>
-									<a href="https://ping.pe/">
-										<h2>Ping</h2>
-										<div class="content">
-											<p>ping.pe  ping tests can verify the latency and availability of most of the world's networks</p>
-										</div>
-									</a>
-								</article>
-								<article class="style6">
-									<span class="image">
-										<img src="images/pic06.jpg" alt="traceroute" />
-									</span>
-									<a href="https://www.globaltraceroute.com/">
-										<h2>Traceroute tool</h2>
-										<div class="content">
-											<p>traceroute/mtr Can support country and as granularity, select the specified probe to verify the network</p>
-										</div>
-									</a>
-								</article>
-							</section>
-						</div>
-					</div>
-
-				<!-- Footer -->
-					<footer id="footer">
-						<div class="inner">
-							<section>
-								<h2>Follow</h2>
-								<ul class="icons">
-									<li><a href="https://x.com/AleiwaTool" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="https://www.facebook.com/jash.zheng.5" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
-									<li><a href="https://github.com/aleiwa-network" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
-							</section>
-							<ul class="copyright">
-								<li>&copy; 2024 Aleiwa Network Tools. All rights reserved</li><li>Design: <a href="https://doros.taobao.com/">Aleiwa</a></li>
-							</ul>
-						</div>
-					</footer>
-
-			</div>
-
-		<!-- Scripts -->
-		    <script src="assets/js/jquery.min.js"></script>
-		    <script src="assets/js/browser.min.js"></script>
-	    	<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-			<script type="application/ld+json">
-				{
-				  "@context": "https://schema.org",
-				  "@type": "ItemList",
-				  "name": "Aleiwa Network Tools Collection",
-				  "url": "https://www.aleiwa.com/",
-				  "description": "A curated list of professional network analysis tools including ISP rankings, DNS servers, and route diagnostics.",
-				  "itemListElement": [
-					{
-					  "@type": "ListItem",
-					  "position": 1,
-					  "item": {
-						"@type": "WebApplication",
-						"name": "Top ISPs Ranking",
-						"url": "https://www.aleiwa.com/topisps.html"
-					  }
-					},
-					{
-					  "@type": "ListItem",
-					  "position": 2,
-					  "item": {
-						"@type": "WebApplication",
-						"name": "Public DNS Server Analyzer",
-						"url": "https://www.aleiwa.com/dns.html"
-					  }
-					}
-				  ]
-				}
-			</script>
-	</body>
+    <script src="assets/js/app.js"></script>
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "ItemList",
+          "name": "Aleiwa Network Tools Collection",
+          "url": "https://www.aleiwa.com/",
+          "description": "A curated list of professional network analysis tools including ISP rankings, DNS servers, and route diagnostics.",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@type": "WebApplication",
+                "name": "Top ISPs Ranking",
+                "url": "https://www.aleiwa.com/topisps.html"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@type": "WebApplication",
+                "name": "Public DNS Server Analyzer",
+                "url": "https://www.aleiwa.com/dns.html"
+              }
+            }
+          ]
+        }
+    </script>
+</body>
 </html>
