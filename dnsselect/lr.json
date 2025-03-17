@@ -1,1 +1,32 @@
-[{"ip":"164.160.8.189","name":"","as_number":328196,"as_org":"POWERNET","country_id":"LR","city":"","version":"","error":"","dnssec":false,"reliability":1,"checked_at":"2023-03-13T03:14:02.59806Z","created_at":"2023-03-13T03:14:02.59806Z"},{"ip":"197.215.217.251","name":"","as_number":37580,"as_org":"ELECTROSHACK","country_id":"LR","city":"Greenville","version":"","error":"","dnssec":false,"reliability":1,"checked_at":"2023-03-15T04:53:51.09448Z","created_at":"2023-03-14T18:17:12.372812Z"}]
+[
+  {
+    "ip": "164.160.8.141",
+    "name": "",
+    "as_number": 328196,
+    "as_org": "POWERNET",
+    "country_id": "LR",
+    "city": "",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2025-03-17T06:34:30Z",
+    "created_at": "2023-03-13T03:14:02.59806Z",
+    "available": true
+  },
+  {
+    "ip": "197.215.217.251",
+    "name": "",
+    "as_number": 37580,
+    "as_org": "ELECTROSHACK",
+    "country_id": "LR",
+    "city": "Greenville",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2025-03-17T06:34:34Z",
+    "created_at": "2023-03-14T18:17:12.372812Z",
+    "available": true
+  }
+]
