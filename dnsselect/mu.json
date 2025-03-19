@@ -1,1 +1,47 @@
-[{"ip":"102.116.108.83","name":"","as_number":23889,"as_org":"MauritiusTelecom","country_id":"MU","city":"Quatre Bornes","version":"dnsmasq-pi-hole-2.84","error":"","dnssec":false,"reliability":1,"checked_at":"2021-10-01T23:12:25.999037Z","created_at":"2021-10-01T23:12:25.999037Z"},{"ip":"41.216.125.179","name":"41.216.125.179.liquidtelecom.net.","as_number":30844,"as_org":"Liquid Telecommunications Ltd","country_id":"MU","city":"","version":"","error":"","dnssec":true,"reliability":1,"checked_at":"2023-02-09T00:11:58.067796Z","created_at":"2022-11-06T20:15:18.357309Z"},{"ip":"41.198.247.199","name":"","as_number":328306,"as_org":"Avanti-AS","country_id":"MU","city":"","version":"","error":"","dnssec":false,"reliability":1,"checked_at":"2023-03-15T04:48:44.836054Z","created_at":"2023-03-14T09:51:57.243761Z"}]
+[
+  {
+    "ip": "102.116.108.83",
+    "name": "",
+    "as_number": 23889,
+    "as_org": "MauritiusTelecom",
+    "country_id": "MU",
+    "city": "Quatre Bornes",
+    "version": "dnsmasq-pi-hole-2.84",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2025-03-19T06:34:03Z",
+    "created_at": "2021-10-01T23:12:25.999037Z",
+    "available": false
+  },
+  {
+    "ip": "41.216.125.179",
+    "name": "41.216.125.179.liquidtelecom.net.",
+    "as_number": 30844,
+    "as_org": "Liquid Telecommunications Ltd",
+    "country_id": "MU",
+    "city": "",
+    "version": "",
+    "error": "",
+    "dnssec": true,
+    "reliability": 1,
+    "checked_at": "2025-03-19T06:34:10Z",
+    "created_at": "2022-11-06T20:15:18.357309Z",
+    "available": true
+  },
+  {
+    "ip": "41.198.247.201",
+    "name": "",
+    "as_number": 328306,
+    "as_org": "Avanti-AS",
+    "country_id": "MU",
+    "city": "",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2025-03-19T06:34:11Z",
+    "created_at": "2023-03-14T09:51:57.243761Z",
+    "available": true
+  }
+]
