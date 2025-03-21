@@ -59,7 +59,7 @@
 										<th>AS Number</th>
 										<th>AS Organization</th>
 										<th>Country</th>
-										<th>Reliability</th>
+										<th>available</th>
 										<th>Last Checked</th>
 									</tr>
 								</thead>
@@ -133,6 +133,7 @@
 								<td>${item.as_number}</td>
 								<td>${item.as_org}</td>
 								<td>${item.country_id}</td>
+								<td>${item.available}</td>
 								<td>${(item.reliability * 100).toFixed(2)}%</td>
 								<td>${new Date(item.checked_at).toLocaleString()}</td>
 							`;
