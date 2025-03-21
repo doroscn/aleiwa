@@ -140,11 +140,23 @@ verify_ips() {
 
     echo "$entry"
   done | jq -s '.' > "$tmp_file" && mv "$tmp_file" "$json_file"
+  
+  total_count=$(jq '. | length' "$json_file")
+  available_count=$(jq '[.[] | select(.available == true)] | length' "$json_file")
+
+  if (( total_count > 0 )); then
+    availability_ratio=$(awk "BEGIN {printf \"%.2f\", ($available_count / $total_count) * 100}")
+  else
+    availability_ratio=0
+  fi
+
+  echo "国家 $CURRENT_COUNTRY 的可用IP比例: $availability_ratio%"
 }
 
+
 if verify_ips "$JSON_FILE"; then
-  updated_data=$(echo "$validation_data" | jq --arg country "$CURRENT_COUNTRY" --arg time "$CURRENT_TIME" --argjson idx "$current_index" \
-    'map(select(.country_id != $country)) + [{"country_id": $country, "checked_at": $time, "index": $idx}]')
+  updated_data=$(echo "$validation_data" | jq --arg country "$CURRENT_COUNTRY" --arg time "$CURRENT_TIME" --argjson ratio "$availability_ratio" --argjson idx "$current_index" \
+    'map(select(.country_id != $country)) + [{"country_id": $country, "checked_at": $time, "ip_availability_ratio%": $ratio, "index": $idx}]')
   echo "$updated_data" > "$VALIDATION_STATUS_FILE"
   echo "验证完成！更新状态至索引: $current_index"
 else
