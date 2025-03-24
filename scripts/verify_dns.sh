@@ -112,7 +112,7 @@ verify_ips() {
     elapsed_time=$((CURRENT_TIME - START_TIME))
     if (( elapsed_time > MAX_RUNTIME )); then
       echo "已运行 3 小时，提前退出！"
-      exit 0
+      break
     fi
 
     local ip_time=$(date --utc +'%Y-%m-%dT%H:%M:%SZ') 
@@ -148,6 +148,8 @@ verify_ips() {
     fi
 
     echo "$entry"
+
+  
   done | jq -s '.' > "$tmp_file" && mv "$tmp_file" "$json_file"
   
   total_count=$(jq '. | length' "$json_file")
