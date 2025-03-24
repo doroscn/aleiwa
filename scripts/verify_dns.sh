@@ -1,5 +1,6 @@
 #!/bin/bash
 set -eo pipefail
+START_TIME=$(date +%s)
 
 SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 ROOT_DIR="$SCRIPT_DIR/.."
@@ -105,6 +106,14 @@ verify_ips() {
 
   tmp_file="${json_file}.tmp"
   jq -c '.[]' "$json_file" | while read -r entry; do
+
+    MAX_RUNTIME=10800
+    CURRENT_TIME=$(date +%s)
+    elapsed_time=$((CURRENT_TIME - START_TIME))
+    if (( elapsed_time > MAX_RUNTIME )); then
+      echo "已运行 3 小时，提前退出！"
+      exit 0
+    fi
 
     local ip_time=$(date --utc +'%Y-%m-%dT%H:%M:%SZ') 
 
