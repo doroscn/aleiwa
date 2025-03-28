@@ -57,7 +57,7 @@ CURRENT_TIME=$(date --utc +'%Y-%m-%dT%H:%M:%SZ')
 if echo "$validation_data" | jq -e ".[] | select(.country_id == \"$CURRENT_COUNTRY\") | .checked_at" | \
    grep -q "$(date --utc --date='1 month ago' +%Y-%m-%d)"; then
   echo "$CURRENT_COUNTRY It has been verified within the last month. Skip this verification."
-  break
+  exit 0
 fi
 
 is_ipv4() {
