@@ -51,6 +51,8 @@ fi
 JSON_FILE="$ROOT_DIR/dnsselect/${CURRENT_COUNTRY}.json"
 echo "今日验证国家: $CURRENT_COUNTRY (进度: $((current_index + 1))/$TOTAL)"
 
+CURRENT_TIME=$(date --utc +'%Y-%m-%dT%H:%M:%SZ')
+
 is_ipv4() {
   local ip=$1
   [[ "$ip" =~ ^([0-9]{1,3}\.){3}[0-9]{1,3}$ ]]
