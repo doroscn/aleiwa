@@ -51,15 +51,6 @@ fi
 JSON_FILE="$ROOT_DIR/dnsselect/${CURRENT_COUNTRY}.json"
 echo "今日验证国家: $CURRENT_COUNTRY (进度: $((current_index + 1))/$TOTAL)"
 
-CURRENT_TIME=$(date --utc +'%Y-%m-%dT%H:%M:%SZ')
-
-
-if echo "$validation_data" | jq -e ".[] | select(.country_id == \"$CURRENT_COUNTRY\") | .checked_at" | \
-   grep -q "$(date --utc --date='1 month ago' +%Y-%m-%d)"; then
-  echo "$CURRENT_COUNTRY It has been verified within the last month. Skip this verification."
-  exit 0
-fi
-
 is_ipv4() {
   local ip=$1
   [[ "$ip" =~ ^([0-9]{1,3}\.){3}[0-9]{1,3}$ ]]
