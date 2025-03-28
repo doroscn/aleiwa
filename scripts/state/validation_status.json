@@ -5,11 +5,6 @@
     "index": 3
   },
   {
-    "country_id": "af",
-    "checked_at": "2025-02-27T15:12:44Z",
-    "index": 0
-  },
-  {
     "country_id": "al",
     "checked_at": "2025-02-27T15:16:04Z",
     "index": 1
@@ -988,5 +983,11 @@
     "checked_at": "2025-03-27T09:26:46Z",
     "ip_availability_ratio%": 83.33,
     "index": 190
+  },
+  {
+    "country_id": "af",
+    "checked_at": "2025-03-28T01:55:59Z",
+    "ip_availability_ratio%": 53.85,
+    "index": 0
   }
 ]
