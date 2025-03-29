@@ -1,1 +1,62 @@
-[{"ip":"196.3.132.154","name":"nssec.tstt.net.tt.","as_number":5639,"as_org":"Telecommunication Services of Trinidad and Tobago","country_id":"TT","city":"","version":"CNR cdns 1.4.22","error":"","dnssec":false,"reliability":1,"checked_at":"2023-03-09T02:44:56.586583Z","created_at":"2020-11-30T14:01:33.193194Z"},{"ip":"200.7.91.210","name":"mail.brydenpi.com.","as_number":27800,"as_org":"Digicel Trinidad and Tobago Ltd.","country_id":"TT","city":"Chaguanas","version":"","error":"","dnssec":false,"reliability":0.987012987012987,"checked_at":"2023-02-25T20:47:16.228563Z","created_at":"2022-04-25T22:35:39.545059Z"},{"ip":"200.1.104.35","name":"ns1.flowtrinidad.com.","as_number":27665,"as_org":"Columbus Communications Trinidad Limited.","country_id":"TT","city":"San Juan","version":"Not Available","error":"","dnssec":false,"reliability":0.9987562189054726,"checked_at":"2023-02-28T18:47:50.060788Z","created_at":"2022-12-01T13:45:14.103492Z"},{"ip":"196.3.132.153","name":"ns.tstt.net.tt.","as_number":5639,"as_org":"Telecommunication Services of Trinidad and Tobago","country_id":"TT","city":"","version":"CNR cdns 1.4.22","error":"","dnssec":false,"reliability":1,"checked_at":"2023-02-19T20:02:29.568686Z","created_at":"2023-01-02T20:11:01.507828Z"}]
+[
+  {
+    "ip": "196.3.132.154",
+    "name": "nssec.tstt.net.tt.",
+    "as_number": 5639,
+    "as_org": "Telecommunication Services of Trinidad and Tobago",
+    "country_id": "TT",
+    "city": "",
+    "version": "CNR cdns 1.4.22",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2025-03-29T12:44:01Z",
+    "created_at": "2020-11-30T14:01:33.193194Z",
+    "available": true
+  },
+  {
+    "ip": "200.7.91.210",
+    "name": "mail.brydenpi.com.",
+    "as_number": 27800,
+    "as_org": "Digicel Trinidad and Tobago Ltd.",
+    "country_id": "TT",
+    "city": "Chaguanas",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 0.987012987012987,
+    "checked_at": "2025-03-29T12:44:01Z",
+    "created_at": "2022-04-25T22:35:39.545059Z",
+    "available": false
+  },
+  {
+    "ip": "200.1.104.35",
+    "name": "ns1.flowtrinidad.com.",
+    "as_number": 27665,
+    "as_org": "Columbus Communications Trinidad Limited.",
+    "country_id": "TT",
+    "city": "San Juan",
+    "version": "Not Available",
+    "error": "",
+    "dnssec": false,
+    "reliability": 0.9987562189054726,
+    "checked_at": "2025-03-29T12:44:08Z",
+    "created_at": "2022-12-01T13:45:14.103492Z",
+    "available": true
+  },
+  {
+    "ip": "196.3.132.153",
+    "name": "ns.tstt.net.tt.",
+    "as_number": 5639,
+    "as_org": "Telecommunication Services of Trinidad and Tobago",
+    "country_id": "TT",
+    "city": "",
+    "version": "CNR cdns 1.4.22",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2025-03-29T12:44:09Z",
+    "created_at": "2023-01-02T20:11:01.507828Z",
+    "available": true
+  }
+]
