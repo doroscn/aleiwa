@@ -1,8 +1,8 @@
 name: Daily Verify DNS
 on:
   schedule:
-    - cron: '0 */3 * * *' # 每 3 小时运行一次 (UTC 时间)
-  workflow_dispatch:     # 可选：允许手动触发
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 jobs:
   verify:
@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 需要完整提交历史
+          fetch-depth: 0
           
       - name: Install Dependencies
         run: |
