@@ -1,1 +1,62 @@
-[{"ip":"165.56.3.226","name":"","as_number":37154,"as_org":"ZAMTEL","country_id":"ZM","city":"Lusaka","version":"unbound 1.4.22","error":"","dnssec":false,"reliability":0.9918032786885246,"checked_at":"2023-02-19T06:55:16.450373Z","created_at":"2022-12-26T12:45:57.603492Z"},{"ip":"41.60.129.80","name":"mail.zppa.org.zm.","as_number":37146,"as_org":"realtime-as","country_id":"ZM","city":"","version":"","error":"","dnssec":false,"reliability":0.9552238805970149,"checked_at":"2023-02-26T09:08:41.978614Z","created_at":"2023-02-21T20:39:56.130098Z"},{"ip":"41.173.23.150","name":"","as_number":30844,"as_org":"Liquid Telecommunications Ltd","country_id":"ZM","city":"Lusaka","version":"","error":"","dnssec":false,"reliability":1,"checked_at":"2023-03-15T09:51:14.081968Z","created_at":"2023-03-13T20:38:24.643217Z"},{"ip":"41.175.25.206","name":"","as_number":30844,"as_org":"Liquid Telecommunications Ltd","country_id":"ZM","city":"Lusaka","version":"","error":"","dnssec":true,"reliability":0.84,"checked_at":"2023-08-17T20:53:29.93345Z","created_at":"2023-03-19T12:15:11.043452Z"}]
+[
+  {
+    "ip": "165.56.3.221",
+    "name": "",
+    "as_number": 37154,
+    "as_org": "ZAMTEL",
+    "country_id": "ZM",
+    "city": "Lusaka",
+    "version": "unbound 1.4.22",
+    "error": "",
+    "dnssec": false,
+    "reliability": 0.9918032786885246,
+    "checked_at": "2025-04-02T03:37:19Z",
+    "created_at": "2022-12-26T12:45:57.603492Z",
+    "available": true
+  },
+  {
+    "ip": "41.60.129.80",
+    "name": "mail.zppa.org.zm.",
+    "as_number": 37146,
+    "as_org": "realtime-as",
+    "country_id": "ZM",
+    "city": "",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 0.9552238805970149,
+    "checked_at": "2025-04-02T03:37:24Z",
+    "created_at": "2023-02-21T20:39:56.130098Z",
+    "available": true
+  },
+  {
+    "ip": "41.173.23.150",
+    "name": "",
+    "as_number": 30844,
+    "as_org": "Liquid Telecommunications Ltd",
+    "country_id": "ZM",
+    "city": "Lusaka",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2025-04-02T03:37:24Z",
+    "created_at": "2023-03-13T20:38:24.643217Z",
+    "available": false
+  },
+  {
+    "ip": "41.175.25.26",
+    "name": "",
+    "as_number": 30844,
+    "as_org": "Liquid Telecommunications Ltd",
+    "country_id": "ZM",
+    "city": "Lusaka",
+    "version": "",
+    "error": "",
+    "dnssec": true,
+    "reliability": 0.84,
+    "checked_at": "2025-04-02T03:37:32Z",
+    "created_at": "2023-03-19T12:15:11.043452Z",
+    "available": true
+  }
+]
