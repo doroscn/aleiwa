@@ -1,10 +1,5 @@
 [
   {
-    "country_id": "bt",
-    "checked_at": "2025-03-05T09:25:57Z",
-    "index": 23
-  },
-  {
     "country_id": "bo",
     "checked_at": "2025-03-05T12:48:03Z",
     "index": 24
@@ -1185,5 +1180,11 @@
     "checked_at": "2025-04-16T01:15:05Z",
     "ip_availability_ratio%": 100.00,
     "index": 22
+  },
+  {
+    "country_id": "bt",
+    "checked_at": "2025-04-17T01:14:04Z",
+    "ip_availability_ratio%": 20.00,
+    "index": 23
   }
 ]
