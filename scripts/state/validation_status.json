@@ -917,12 +917,6 @@
     "index": 207
   },
   {
-    "country_id": "ag",
-    "checked_at": "2025-03-31T02:02:18Z",
-    "ip_availability_ratio%": 75.00,
-    "index": 7
-  },
-  {
     "country_id": "ar",
     "checked_at": "2025-03-31T03:38:41Z",
     "ip_availability_ratio%": 66.39,
@@ -1197,5 +1191,11 @@
     "checked_at": "2025-05-05T01:19:00Z",
     "ip_availability_ratio%": 0.00,
     "index": 6
+  },
+  {
+    "country_id": "ag",
+    "checked_at": "2025-05-06T01:16:31Z",
+    "ip_availability_ratio%": 75.00,
+    "index": 7
   }
 ]
