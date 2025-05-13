@@ -1,22 +1,23 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14754,"Description":"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA","CC":"NI","Users":1193910,"Percent of CC Pop":49.24,"Percent of Internet":0.0283,"Samples":391297},
-{"rank":2,"AS":28036,"Description":"Telefonia Celular de Nicaragua SA.","CC":"NI","Users":656890,"Percent of CC Pop":27.09,"Percent of Internet":0.0156,"Samples":215292},
-{"rank":3,"AS":263751,"Description":"CASAVISION, S.A.","CC":"NI","Users":173376,"Percent of CC Pop":7.15,"Percent of Internet":0.0041,"Samples":56823},
-{"rank":4,"AS":27742,"Description":"Amnet Telecomunicaciones S.A.","CC":"NI","Users":165229,"Percent of CC Pop":6.81,"Percent of Internet":0.0039,"Samples":54153},
-{"rank":5,"AS":52468,"Description":"UFINET PANAMA S.A.","CC":"NI","Users":53724,"Percent of CC Pop":2.22,"Percent of Internet":0.0013,"Samples":17608},
-{"rank":6,"AS":52242,"Description":"Yota De Nicaragua","CC":"NI","Users":49721,"Percent of CC Pop":2.05,"Percent of Internet":0.0012,"Samples":16296},
-{"rank":7,"AS":25607,"Description":"IBW Communications","CC":"NI","Users":48736,"Percent of CC Pop":2.01,"Percent of Internet":0.0012,"Samples":15973},
-{"rank":8,"AS":267797,"Description":"EMPRESA NACIONAL DE TRANSMISION ELECTRICA ENATREL","CC":"NI","Users":23515,"Percent of CC Pop":0.97,"Percent of Internet":0.0006,"Samples":7707},
-{"rank":9,"AS":18840,"Description":"EQUIPOS Y SISTEMAS S.A.","CC":"NI","Users":19182,"Percent of CC Pop":0.79,"Percent of Internet":0.0005,"Samples":6287},
-{"rank":10,"AS":264609,"Description":"TECOMUNICA NICARAGUA","CC":"NI","Users":15332,"Percent of CC Pop":0.63,"Percent of Internet":0.0004,"Samples":5025},
-{"rank":11,"AS":263765,"Description":"XINWEI INTELCOM.NIC, S.A.","CC":"NI","Users":14389,"Percent of CC Pop":0.59,"Percent of Internet":0.0003,"Samples":4716},
-{"rank":12,"AS":27761,"Description":"Cablenet S.A","CC":"NI","Users":4750,"Percent of CC Pop":0.20,"Percent of Internet":0.0001,"Samples":1557},
-{"rank":13,"AS":19447,"Description":"ALFANUMERIC","CC":"NI","Users":4433,"Percent of CC Pop":0.18,"Percent of Internet":0.0001,"Samples":1453},
-{"rank":14,"AS":271938,"Description":"Gavarrete Guadamuz y Compania Limitada","CC":"NI","Users":414,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":136}
+{"rank":1,"AS":14754,"Description":"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA","CC":"NI","Users":1227455,"Percent of CC Pop":50.34,"Percent of Internet":0.0290,"Samples":679644},
+{"rank":2,"AS":28036,"Description":"Telefonia Celular de Nicaragua SA.","CC":"NI","Users":660987,"Percent of CC Pop":27.11,"Percent of Internet":0.0156,"Samples":365990},
+{"rank":3,"AS":263751,"Description":"CASAVISION, S.A.","CC":"NI","Users":179739,"Percent of CC Pop":7.37,"Percent of Internet":0.0042,"Samples":99522},
+{"rank":4,"AS":27742,"Description":"Amnet Telecomunicaciones S.A.","CC":"NI","Users":140163,"Percent of CC Pop":5.75,"Percent of Internet":0.0033,"Samples":77609},
+{"rank":5,"AS":52468,"Description":"UFINET PANAMA S.A.","CC":"NI","Users":70901,"Percent of CC Pop":2.91,"Percent of Internet":0.0017,"Samples":39258},
+{"rank":6,"AS":52242,"Description":"Yota De Nicaragua","CC":"NI","Users":47512,"Percent of CC Pop":1.95,"Percent of Internet":0.0011,"Samples":26308},
+{"rank":7,"AS":25607,"Description":"IBW Communications","CC":"NI","Users":46214,"Percent of CC Pop":1.90,"Percent of Internet":0.0011,"Samples":25589},
+{"rank":8,"AS":267797,"Description":"EMPRESA NACIONAL DE TRANSMISION ELECTRICA ENATREL","CC":"NI","Users":25136,"Percent of CC Pop":1.03,"Percent of Internet":0.0006,"Samples":13918},
+{"rank":9,"AS":264609,"Description":"TECOMUNICA NICARAGUA","CC":"NI","Users":13761,"Percent of CC Pop":0.56,"Percent of Internet":0.0003,"Samples":7620},
+{"rank":10,"AS":18840,"Description":"EQUIPOS Y SISTEMAS S.A.","CC":"NI","Users":12694,"Percent of CC Pop":0.52,"Percent of Internet":0.0003,"Samples":7029},
+{"rank":11,"AS":263765,"Description":"XINWEI INTELCOM.NIC, S.A.","CC":"NI","Users":7197,"Percent of CC Pop":0.30,"Percent of Internet":0.0002,"Samples":3985},
+{"rank":12,"AS":19447,"Description":"ALFANUMERIC","CC":"NI","Users":4240,"Percent of CC Pop":0.17,"Percent of Internet":0.0001,"Samples":2348},
+{"rank":13,"AS":271938,"Description":"Gavarrete Guadamuz y Compania Limitada","CC":"NI","Users":1036,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":574},
+{"rank":14,"AS":27761,"Description":"Cablenet S.A","CC":"NI","Users":942,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":522},
+{"rank":15,"AS":13335,"Description":"CLOUDFLARENET","CC":"NI","Users":243,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":135}
   ]
 }

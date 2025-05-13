@@ -1,18 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":18024,"Description":"BTTELECOM-AS-AP Bhutan Telecom Ltd","CC":"BT","Users":251128,"Percent of CC Pop":56.92,"Percent of Internet":0.0059,"Samples":66781},
-{"rank":2,"AS":137412,"Description":"TASHICELL-MOBILE-AS Tashicell Domestic AS Thimphu Bhutan","CC":"BT","Users":111795,"Percent of CC Pop":25.34,"Percent of Internet":0.0026,"Samples":29729},
-{"rank":3,"AS":134715,"Description":"GTA-AS-AP Government Technology Agency","CC":"BT","Users":18478,"Percent of CC Pop":4.19,"Percent of Internet":0.0004,"Samples":4914},
-{"rank":4,"AS":23955,"Description":"TASHICELL-DOMESTIC-AS Tashi InfoComm Limited","CC":"BT","Users":16925,"Percent of CC Pop":3.84,"Percent of Internet":0.0004,"Samples":4501},
-{"rank":5,"AS":136039,"Description":"NANO-AS-AP NANO, Bhutan","CC":"BT","Users":10220,"Percent of CC Pop":2.32,"Percent of Internet":0.0002,"Samples":2718},
-{"rank":6,"AS":138558,"Description":"GDNI-AS-AP Gelephu Digital Network","CC":"BT","Users":9559,"Percent of CC Pop":2.17,"Percent of Internet":0.0002,"Samples":2542},
-{"rank":7,"AS":152317,"Description":"WPDA-AS-AP Wangdue Phodrang Dzongkhag Administration","CC":"BT","Users":8724,"Percent of CC Pop":1.98,"Percent of Internet":0.0002,"Samples":2320},
-{"rank":8,"AS":138529,"Description":"DATANET-AS-AP DATANET WIFI","CC":"BT","Users":6505,"Percent of CC Pop":1.47,"Percent of Internet":0.0002,"Samples":1730},
-{"rank":9,"AS":141680,"Description":"SUPERNET1-AS-AP SuperNet Infocomm","CC":"BT","Users":4681,"Percent of CC Pop":1.06,"Percent of Internet":0.0001,"Samples":1245},
-{"rank":10,"AS":38004,"Description":"FASTLINK-ISP FastLink Wireless ISP, DrukCom Pvt. Enterprise.","CC":"BT","Users":1887,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":502}
+{"rank":1,"AS":18024,"Description":"BTTELECOM-AS-AP Bhutan Telecom Ltd","CC":"BT","Users":222027,"Percent of CC Pop":50.19,"Percent of Internet":0.0052,"Samples":104892},
+{"rank":2,"AS":137412,"Description":"TASHICELL-MOBILE-AS Tashicell Domestic AS Thimphu Bhutan","CC":"BT","Users":131905,"Percent of CC Pop":29.82,"Percent of Internet":0.0031,"Samples":62316},
+{"rank":3,"AS":134715,"Description":"GTA-AS-AP Government Technology Agency","CC":"BT","Users":21533,"Percent of CC Pop":4.87,"Percent of Internet":0.0005,"Samples":10173},
+{"rank":4,"AS":23955,"Description":"TASHICELL-DOMESTIC-AS Tashi InfoComm Limited","CC":"BT","Users":17113,"Percent of CC Pop":3.87,"Percent of Internet":0.0004,"Samples":8085},
+{"rank":5,"AS":152317,"Description":"WPDA-AS-AP Wangdue Phodrang Dzongkhag Administration","CC":"BT","Users":16834,"Percent of CC Pop":3.81,"Percent of Internet":0.0004,"Samples":7953},
+{"rank":6,"AS":136039,"Description":"NANO-AS-AP NANO, Bhutan","CC":"BT","Users":10249,"Percent of CC Pop":2.32,"Percent of Internet":0.0002,"Samples":4842},
+{"rank":7,"AS":138558,"Description":"GDNI-AS-AP Gelephu Digital Network","CC":"BT","Users":6781,"Percent of CC Pop":1.53,"Percent of Internet":0.0002,"Samples":3204},
+{"rank":8,"AS":138529,"Description":"DATANET-AS-AP DATANET WIFI","CC":"BT","Users":5531,"Percent of CC Pop":1.25,"Percent of Internet":0.0001,"Samples":2613},
+{"rank":9,"AS":132894,"Description":"MUD-AS-AP Sigma Internet Service","CC":"BT","Users":5524,"Percent of CC Pop":1.25,"Percent of Internet":0.0001,"Samples":2610},
+{"rank":10,"AS":141680,"Description":"SUPERNET1-AS-AP SuperNet Infocomm","CC":"BT","Users":2294,"Percent of CC Pop":0.52,"Percent of Internet":0.0001,"Samples":1084},
+{"rank":11,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BT","Users":954,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":451},
+{"rank":12,"AS":209854,"Description":"CYBERZONEHUB","CC":"BT","Users":565,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":267},
+{"rank":13,"AS":38004,"Description":"FASTLINK-ISP FastLink Wireless ISP, DrukCom Pvt. Enterprise.","CC":"BT","Users":395,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":187}
   ]
 }

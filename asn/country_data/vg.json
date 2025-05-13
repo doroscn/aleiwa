@@ -1,11 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"VG","Users":9259,"Percent of CC Pop":52.85,"Percent of Internet":0.0002,"Samples":12542},
-{"rank":2,"AS":396357,"Description":"BVI-DIG","CC":"VG","Users":4298,"Percent of CC Pop":24.53,"Percent of Internet":0.0001,"Samples":5822},
-{"rank":3,"AS":22069,"Description":"CARIB-23","CC":"VG","Users":3806,"Percent of CC Pop":21.73,"Percent of Internet":0.0001,"Samples":5156}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"VG","Users":7738,"Percent of CC Pop":44.04,"Percent of Internet":0.0002,"Samples":14845},
+{"rank":2,"AS":396357,"Description":"BVI-DIG","CC":"VG","Users":5487,"Percent of CC Pop":31.23,"Percent of Internet":0.0001,"Samples":10527},
+{"rank":3,"AS":22069,"Description":"CARIB-23","CC":"VG","Users":3862,"Percent of CC Pop":21.98,"Percent of Internet":0.0001,"Samples":7410},
+{"rank":4,"AS":203230,"Description":"MULTITK-AS","CC":"VG","Users":302,"Percent of CC Pop":1.72,"Percent of Internet":0.0000,"Samples":581}
   ]
 }

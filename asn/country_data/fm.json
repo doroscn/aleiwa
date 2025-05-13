@@ -1,13 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":139759,"Description":"FMTELECOM-AS-AP FSM Telecommunications Corporation","CC":"FM","Users":25820,"Percent of CC Pop":57.89,"Percent of Internet":0.0006,"Samples":18189},
-{"rank":2,"AS":38875,"Description":"AS38875 FSM Telecommunications Corporation","CC":"FM","Users":6636,"Percent of CC Pop":14.88,"Percent of Internet":0.0002,"Samples":4675},
-{"rank":3,"AS":45193,"Description":"AS45193 FSM Telecommunications Corporation","CC":"FM","Users":6209,"Percent of CC Pop":13.92,"Percent of Internet":0.0001,"Samples":4374},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"FM","Users":3133,"Percent of CC Pop":7.02,"Percent of Internet":0.0001,"Samples":2207},
-{"rank":5,"AS":58524,"Description":"AS58524 FSM Telecommunications Corporation","CC":"FM","Users":2674,"Percent of CC Pop":6.00,"Percent of Internet":0.0001,"Samples":1884}
+{"rank":1,"AS":139759,"Description":"FMTELECOM-AS-AP FSM Telecommunications Corporation","CC":"FM","Users":23925,"Percent of CC Pop":53.42,"Percent of Internet":0.0006,"Samples":24368},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"FM","Users":6855,"Percent of CC Pop":15.31,"Percent of Internet":0.0002,"Samples":6982},
+{"rank":3,"AS":45193,"Description":"AS45193 FSM Telecommunications Corporation","CC":"FM","Users":6387,"Percent of CC Pop":14.26,"Percent of Internet":0.0002,"Samples":6506},
+{"rank":4,"AS":38875,"Description":"AS38875 FSM Telecommunications Corporation","CC":"FM","Users":5956,"Percent of CC Pop":13.30,"Percent of Internet":0.0001,"Samples":6067},
+{"rank":5,"AS":58524,"Description":"AS58524 FSM Telecom","CC":"FM","Users":1443,"Percent of CC Pop":3.22,"Percent of Internet":0.0000,"Samples":1470},
+{"rank":6,"AS":142139,"Description":"BOOMINC-AS-AP Boom! Inc.","CC":"FM","Users":210,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":214}
   ]
 }

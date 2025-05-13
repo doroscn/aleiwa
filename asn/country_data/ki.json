@@ -1,10 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":134783,"Description":"ATHKL-AS-AP Amalgamated Telecom Holdings Kiribati Ltd","CC":"KI","Users":20140,"Percent of CC Pop":92.82,"Percent of Internet":0.0005,"Samples":4679},
-{"rank":2,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"KI","Users":1532,"Percent of CC Pop":7.06,"Percent of Internet":0.0000,"Samples":356}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"KI","Users":14554,"Percent of CC Pop":66.60,"Percent of Internet":0.0003,"Samples":13687},
+{"rank":2,"AS":134783,"Description":"ATHKL-AS-AP Amalgamated Telecom Holdings Kiribati Ltd","CC":"KI","Users":5623,"Percent of CC Pop":25.73,"Percent of Internet":0.0001,"Samples":5288},
+{"rank":3,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"KI","Users":1637,"Percent of CC Pop":7.49,"Percent of Internet":0.0000,"Samples":1540}
   ]
 }

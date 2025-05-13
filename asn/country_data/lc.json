@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15344,"Description":"ASN15344-SLU","CC":"LC","Users":74689,"Percent of CC Pop":72.24,"Percent of Internet":0.0018,"Samples":76230},
-{"rank":2,"AS":33582,"Description":"DIGICEL-OECS","CC":"LC","Users":21440,"Percent of CC Pop":20.74,"Percent of Internet":0.0005,"Samples":21883},
-{"rank":3,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"LC","Users":6793,"Percent of CC Pop":6.57,"Percent of Internet":0.0002,"Samples":6934},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LC","Users":393,"Percent of CC Pop":0.38,"Percent of Internet":0.0000,"Samples":402}
+{"rank":1,"AS":15344,"Description":"ASN15344-SLU","CC":"LC","Users":72535,"Percent of CC Pop":70.08,"Percent of Internet":0.0017,"Samples":107460},
+{"rank":2,"AS":33582,"Description":"DIGICEL-OECS","CC":"LC","Users":28461,"Percent of CC Pop":27.50,"Percent of Internet":0.0007,"Samples":42165},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LC","Users":2314,"Percent of CC Pop":2.24,"Percent of Internet":0.0001,"Samples":3429},
+{"rank":4,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"LC","Users":87,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":130}
   ]
 }

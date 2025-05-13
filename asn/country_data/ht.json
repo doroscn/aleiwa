@@ -1,13 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":52260,"Description":"Telecommunications de Haiti Teleco","CC":"HT","Users":834101,"Percent of CC Pop":56.39,"Percent of Internet":0.0197,"Samples":533777},
-{"rank":2,"AS":27653,"Description":"Alpha Communications Network","CC":"HT","Users":559322,"Percent of CC Pop":37.81,"Percent of Internet":0.0132,"Samples":357934},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"HT","Users":48955,"Percent of CC Pop":3.31,"Percent of Internet":0.0012,"Samples":31329},
-{"rank":4,"AS":27759,"Description":"ACCESS HAITI S.A.","CC":"HT","Users":36612,"Percent of CC Pop":2.48,"Percent of Internet":0.0009,"Samples":23430},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"HT","Users":204,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":131}
+{"rank":1,"AS":52260,"Description":"Telecommunications de Haiti Teleco","CC":"HT","Users":871209,"Percent of CC Pop":58.59,"Percent of Internet":0.0206,"Samples":903863},
+{"rank":2,"AS":27653,"Description":"Alpha Communications Network","CC":"HT","Users":496073,"Percent of CC Pop":33.36,"Percent of Internet":0.0117,"Samples":514666},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"HT","Users":87832,"Percent of CC Pop":5.91,"Percent of Internet":0.0021,"Samples":91124},
+{"rank":4,"AS":27759,"Description":"ACCESS HAITI S.A.","CC":"HT","Users":30715,"Percent of CC Pop":2.07,"Percent of Internet":0.0007,"Samples":31867},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"HT","Users":765,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":794},
+{"rank":6,"AS":27774,"Description":"Haiti Networking Group S.A.","CC":"HT","Users":201,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":209}
   ]
 }

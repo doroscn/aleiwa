@@ -1,20 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":10269,"Description":"Belize Telemedia Limited","CC":"BZ","Users":125977,"Percent of CC Pop":58.74,"Percent of Internet":0.0030,"Samples":84001},
-{"rank":2,"AS":262239,"Description":"Speednet Communications Limited","CC":"BZ","Users":26202,"Percent of CC Pop":12.22,"Percent of Internet":0.0006,"Samples":17472},
-{"rank":3,"AS":263824,"Description":"Central TV and Internet Limited","CC":"BZ","Users":20624,"Percent of CC Pop":9.62,"Percent of Internet":0.0005,"Samples":13752},
-{"rank":4,"AS":264663,"Description":"CENTAUR CABLE","CC":"BZ","Users":14467,"Percent of CC Pop":6.75,"Percent of Internet":0.0003,"Samples":9647},
-{"rank":5,"AS":265727,"Description":"Infinite Wireless & Networking","CC":"BZ","Users":7347,"Percent of CC Pop":3.43,"Percent of Internet":0.0002,"Samples":4899},
-{"rank":6,"AS":28094,"Description":"Southern Cable Network","CC":"BZ","Users":6696,"Percent of CC Pop":3.12,"Percent of Internet":0.0002,"Samples":4465},
-{"rank":7,"AS":264779,"Description":"Alliance IP Belize Ltd","CC":"BZ","Users":5120,"Percent of CC Pop":2.39,"Percent of Internet":0.0001,"Samples":3414},
-{"rank":8,"AS":265818,"Description":"CORAL CABLE VISION LIMITED","CC":"BZ","Users":3068,"Percent of CC Pop":1.43,"Percent of Internet":0.0001,"Samples":2046},
-{"rank":9,"AS":264640,"Description":"Alternative Networks Ltd","CC":"BZ","Users":2790,"Percent of CC Pop":1.30,"Percent of Internet":0.0001,"Samples":1861},
-{"rank":10,"AS":266762,"Description":"SMART COM BELIZE LIMITED","CC":"BZ","Users":838,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":559},
-{"rank":11,"AS":265826,"Description":"BROADBAND BELIZE LTD","CC":"BZ","Users":458,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":306},
-{"rank":12,"AS":209854,"Description":"CYBERZONEHUB","CC":"BZ","Users":257,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":172}
+{"rank":1,"AS":10269,"Description":"Belize Telemedia Limited","CC":"BZ","Users":129951,"Percent of CC Pop":60.23,"Percent of Internet":0.0031,"Samples":140811},
+{"rank":2,"AS":262239,"Description":"Speednet Communications Limited","CC":"BZ","Users":26991,"Percent of CC Pop":12.51,"Percent of Internet":0.0006,"Samples":29247},
+{"rank":3,"AS":263824,"Description":"Central TV and Internet Limited","CC":"BZ","Users":18235,"Percent of CC Pop":8.45,"Percent of Internet":0.0004,"Samples":19759},
+{"rank":4,"AS":264663,"Description":"CENTAUR CABLE","CC":"BZ","Users":13211,"Percent of CC Pop":6.12,"Percent of Internet":0.0003,"Samples":14315},
+{"rank":5,"AS":265727,"Description":"Infinite Wireless & Networking","CC":"BZ","Users":7469,"Percent of CC Pop":3.46,"Percent of Internet":0.0002,"Samples":8094},
+{"rank":6,"AS":28094,"Description":"Southern Cable Network","CC":"BZ","Users":6633,"Percent of CC Pop":3.07,"Percent of Internet":0.0002,"Samples":7188},
+{"rank":7,"AS":264779,"Description":"Alliance IP Belize Ltd","CC":"BZ","Users":4928,"Percent of CC Pop":2.28,"Percent of Internet":0.0001,"Samples":5340},
+{"rank":8,"AS":264640,"Description":"Alternative Networks Ltd","CC":"BZ","Users":4780,"Percent of CC Pop":2.22,"Percent of Internet":0.0001,"Samples":5180},
+{"rank":9,"AS":265818,"Description":"CORAL CABLE VISION LIMITED","CC":"BZ","Users":1965,"Percent of CC Pop":0.91,"Percent of Internet":0.0000,"Samples":2130},
+{"rank":10,"AS":265826,"Description":"BROADBAND BELIZE LTD","CC":"BZ","Users":945,"Percent of CC Pop":0.44,"Percent of Internet":0.0000,"Samples":1025},
+{"rank":11,"AS":266762,"Description":"SMART COM BELIZE LIMITED","CC":"BZ","Users":251,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":273}
   ]
 }

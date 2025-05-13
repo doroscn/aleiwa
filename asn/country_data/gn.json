@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37461,"Description":"ORANGE-","CC":"GN","Users":1781909,"Percent of CC Pop":87.71,"Percent of Internet":0.0422,"Samples":1981120},
-{"rank":2,"AS":37612,"Description":"Areeba-Guinea-AS","CC":"GN","Users":202774,"Percent of CC Pop":9.98,"Percent of Internet":0.0048,"Samples":225444},
-{"rank":3,"AS":37665,"Description":"MouNa","CC":"GN","Users":23479,"Percent of CC Pop":1.16,"Percent of Internet":0.0006,"Samples":26104},
-{"rank":4,"AS":328923,"Description":"KTSU-AS","CC":"GN","Users":6957,"Percent of CC Pop":0.34,"Percent of Internet":0.0002,"Samples":7735},
-{"rank":5,"AS":37141,"Description":"ETI-AS","CC":"GN","Users":4563,"Percent of CC Pop":0.22,"Percent of Internet":0.0001,"Samples":5074},
-{"rank":6,"AS":37430,"Description":"vdctelecom","CC":"GN","Users":3908,"Percent of CC Pop":0.19,"Percent of Internet":0.0001,"Samples":4345},
-{"rank":7,"AS":37427,"Description":"Cellcom","CC":"GN","Users":3557,"Percent of CC Pop":0.18,"Percent of Internet":0.0001,"Samples":3955},
-{"rank":8,"AS":328965,"Description":"LNSS1-AS","CC":"GN","Users":2634,"Percent of CC Pop":0.13,"Percent of Internet":0.0001,"Samples":2929},
-{"rank":9,"AS":328899,"Description":"Afribone-AS","CC":"GN","Users":998,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":1110},
-{"rank":10,"AS":328244,"Description":"Skyvision-Guinee-AS","CC":"GN","Users":645,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":718},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"GN","Users":184,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":205}
+{"rank":1,"AS":37461,"Description":"ORANGE-","CC":"GN","Users":1828971,"Percent of CC Pop":89.12,"Percent of Internet":0.0432,"Samples":2088354},
+{"rank":2,"AS":37612,"Description":"Areeba-Guinea-AS","CC":"GN","Users":157715,"Percent of CC Pop":7.68,"Percent of Internet":0.0037,"Samples":180083},
+{"rank":3,"AS":37665,"Description":"MouNa","CC":"GN","Users":35936,"Percent of CC Pop":1.75,"Percent of Internet":0.0008,"Samples":41033},
+{"rank":4,"AS":328923,"Description":"KTSU-AS","CC":"GN","Users":8237,"Percent of CC Pop":0.40,"Percent of Internet":0.0002,"Samples":9406},
+{"rank":5,"AS":37141,"Description":"ETI-AS","CC":"GN","Users":6255,"Percent of CC Pop":0.30,"Percent of Internet":0.0001,"Samples":7143},
+{"rank":6,"AS":37430,"Description":"vdctelecom","CC":"GN","Users":6087,"Percent of CC Pop":0.30,"Percent of Internet":0.0001,"Samples":6951},
+{"rank":7,"AS":37427,"Description":"Cellcom","CC":"GN","Users":3545,"Percent of CC Pop":0.17,"Percent of Internet":0.0001,"Samples":4048},
+{"rank":8,"AS":328965,"Description":"LNSS1-AS","CC":"GN","Users":2525,"Percent of CC Pop":0.12,"Percent of Internet":0.0001,"Samples":2884},
+{"rank":9,"AS":328899,"Description":"Afribone-AS","CC":"GN","Users":2231,"Percent of CC Pop":0.11,"Percent of Internet":0.0001,"Samples":2548},
+{"rank":10,"AS":328244,"Description":"Skyvision-Guinee-AS","CC":"GN","Users":666,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":761},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"GN","Users":107,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":123}
   ]
 }

@@ -1,14 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":24691,"Description":"TOGOTEL-AS TogoTelecom, Togo","CC":"TG","Users":724439,"Percent of CC Pop":49.48,"Percent of Internet":0.0171,"Samples":363861},
-{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"TG","Users":480920,"Percent of CC Pop":32.85,"Percent of Internet":0.0114,"Samples":241550},
-{"rank":3,"AS":37229,"Description":"ATLANTIQUE-TELECOM-","CC":"TG","Users":252304,"Percent of CC Pop":17.23,"Percent of Internet":0.0060,"Samples":126724},
-{"rank":4,"AS":30982,"Description":"CAFENET","CC":"TG","Users":4457,"Percent of CC Pop":0.30,"Percent of Internet":0.0001,"Samples":2239},
-{"rank":5,"AS":328282,"Description":"TEOLIS-SAU","CC":"TG","Users":1558,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":783},
-{"rank":6,"AS":328293,"Description":"RDED-AS","CC":"TG","Users":282,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":142}
+{"rank":1,"AS":24691,"Description":"TOGOTEL-AS TogoTelecom, Togo","CC":"TG","Users":712250,"Percent of CC Pop":48.18,"Percent of Internet":0.0168,"Samples":555249},
+{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"TG","Users":536731,"Percent of CC Pop":36.31,"Percent of Internet":0.0127,"Samples":418420},
+{"rank":3,"AS":37229,"Description":"ATLANTIQUE-TELECOM-","CC":"TG","Users":223851,"Percent of CC Pop":15.14,"Percent of Internet":0.0053,"Samples":174508},
+{"rank":4,"AS":30982,"Description":"CAFENET","CC":"TG","Users":3835,"Percent of CC Pop":0.26,"Percent of Internet":0.0001,"Samples":2990},
+{"rank":5,"AS":328282,"Description":"TEOLIS-SAU","CC":"TG","Users":1151,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":898},
+{"rank":6,"AS":328293,"Description":"RDED-AS","CC":"TG","Users":239,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":187},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"TG","Users":153,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":120}
   ]
 }
