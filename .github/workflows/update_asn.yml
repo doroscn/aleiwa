@@ -1,0 +1,28 @@
+name: Update ASN JSON Monthly
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # 每月1号 UTC 0点
+  workflow_dispatch:     # 支持手动触发
+
+jobs:
+  update-asn:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v4
+
+    - name: Give Execute Permission
+      run: chmod +x scripts/get_asnjson
+
+    - name: Run Script
+      run: ./scripts/get_asnjson
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add asn/country_data/*.json
+        git commit -m "Update ASN JSON on $(date +'%Y-%m-%d')" || echo "No changes to commit"
+        git push
