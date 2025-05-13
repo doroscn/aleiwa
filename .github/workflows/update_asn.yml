@@ -21,8 +21,8 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "doroscn"
+        git config --global user.email "jash.zheng@gmail.com"
         git add asn/country_data/*.json
         git commit -m "Update ASN JSON on $(date +'%Y-%m-%d')" || echo "No changes to commit"
         git push
