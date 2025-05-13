@@ -1,13 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37057,"Description":"VODACOM-LESOTHO","CC":"LS","Users":418487,"Percent of CC Pop":52.83,"Percent of Internet":0.0099,"Samples":50255},
-{"rank":2,"AS":33567,"Description":"TELECOM-LESOTHO","CC":"LS","Users":349171,"Percent of CC Pop":44.08,"Percent of Internet":0.0083,"Samples":41931},
-{"rank":3,"AS":37642,"Description":"Comnet-Lesotho-AS","CC":"LS","Users":19677,"Percent of CC Pop":2.48,"Percent of Internet":0.0005,"Samples":2363},
-{"rank":4,"AS":25695,"Description":"LEO","CC":"LS","Users":2922,"Percent of CC Pop":0.37,"Percent of Internet":0.0001,"Samples":351},
-{"rank":5,"AS":328567,"Description":"LEC-Communications","CC":"LS","Users":1748,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":210}
+
   ]
 }

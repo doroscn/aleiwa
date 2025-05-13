@@ -1,17 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":28885,"Description":"OMANTEL-NAP-AS OmanTel NAP","CC":"OM","Users":2123153,"Percent of CC Pop":52.49,"Percent of Internet":0.0503,"Samples":936518},
-{"rank":2,"AS":50010,"Description":"NAWRAS-AS Sultanate of Oman","CC":"OM","Users":1033709,"Percent of CC Pop":25.56,"Percent of Internet":0.0245,"Samples":455967},
-{"rank":3,"AS":204170,"Description":"AWASR","CC":"OM","Users":597933,"Percent of CC Pop":14.78,"Percent of Internet":0.0142,"Samples":263747},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET","CC":"OM","Users":183789,"Percent of CC Pop":4.54,"Percent of Internet":0.0044,"Samples":81069},
-{"rank":5,"AS":212661,"Description":"VODAFONE-OMAN","CC":"OM","Users":100320,"Percent of CC Pop":2.48,"Percent of Internet":0.0024,"Samples":44251},
-{"rank":6,"AS":16276,"Description":"OVH","CC":"OM","Users":1843,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":813},
-{"rank":7,"AS":206350,"Description":"OMREN","CC":"OM","Users":1416,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":625},
-{"rank":8,"AS":204974,"Description":"OM-PETROLUEM","CC":"OM","Users":1373,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":606},
-{"rank":9,"AS":138915,"Description":"KAOPU-HK Kaopu Cloud HK Limited","CC":"OM","Users":879,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":388}
+
   ]
 }

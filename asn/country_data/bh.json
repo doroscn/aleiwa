@@ -1,23 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":5416,"Description":"Internet Service Provider","CC":"BH","Users":647368,"Percent of CC Pop":44.10,"Percent of Internet":0.0153,"Samples":320211},
-{"rank":2,"AS":51375,"Description":"VIVA","CC":"BH","Users":417710,"Percent of CC Pop":28.46,"Percent of Internet":0.0099,"Samples":206614},
-{"rank":3,"AS":31452,"Description":"ZAIN-BH-AS","CC":"BH","Users":300110,"Percent of CC Pop":20.45,"Percent of Internet":0.0071,"Samples":148445},
-{"rank":4,"AS":16509,"Description":"AMAZON-02","CC":"BH","Users":61730,"Percent of CC Pop":4.21,"Percent of Internet":0.0015,"Samples":30534},
-{"rank":5,"AS":39273,"Description":"KALAAM-TELECOM","CC":"BH","Users":13814,"Percent of CC Pop":0.94,"Percent of Internet":0.0003,"Samples":6833},
-{"rank":6,"AS":35457,"Description":"ETISALCOM-AS","CC":"BH","Users":8644,"Percent of CC Pop":0.59,"Percent of Internet":0.0002,"Samples":4276},
-{"rank":7,"AS":35729,"Description":"VIACLOUD-AS","CC":"BH","Users":8600,"Percent of CC Pop":0.59,"Percent of Internet":0.0002,"Samples":4254},
-{"rank":8,"AS":35568,"Description":"TORLOVER","CC":"BH","Users":4722,"Percent of CC Pop":0.32,"Percent of Internet":0.0001,"Samples":2336},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"BH","Users":1097,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":543},
-{"rank":10,"AS":6453,"Description":"AS6453","CC":"BH","Users":1041,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":515},
-{"rank":11,"AS":48109,"Description":"CIO-AS","CC":"BH","Users":725,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":359},
-{"rank":12,"AS":62123,"Description":"RT-AS","CC":"BH","Users":519,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":257},
-{"rank":13,"AS":35313,"Description":"BH-INFONAS-ASN","CC":"BH","Users":460,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":228},
-{"rank":14,"AS":138915,"Description":"KAOPU-HK Kaopu Cloud HK Limited","CC":"BH","Users":374,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":185},
-{"rank":15,"AS":35546,"Description":"NORTHSTAR","CC":"BH","Users":343,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":170}
+
   ]
 }

@@ -1,12 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30873,"Description":"PTC-YEMENNET","CC":"YE","Users":9565679,"Percent of CC Pop":92.48,"Percent of Internet":0.2265,"Samples":1126639},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"YE","Users":520923,"Percent of CC Pop":5.04,"Percent of Internet":0.0123,"Samples":61354},
-{"rank":3,"AS":204317,"Description":"ADENNET","CC":"YE","Users":243158,"Percent of CC Pop":2.35,"Percent of Internet":0.0058,"Samples":28639},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET","CC":"YE","Users":13126,"Percent of CC Pop":0.13,"Percent of Internet":0.0003,"Samples":1546}
+
   ]
 }

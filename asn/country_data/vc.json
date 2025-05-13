@@ -1,12 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":46408,"Description":"COLUMBUS-COMMUNICATION-SVG","CC":"VC","Users":61224,"Percent of CC Pop":75.94,"Percent of Internet":0.0014,"Samples":46166},
-{"rank":2,"AS":399724,"Description":"DIGICEL-STVINCENT","CC":"VC","Users":14843,"Percent of CC Pop":18.41,"Percent of Internet":0.0004,"Samples":11193},
-{"rank":3,"AS":33582,"Description":"DIGICEL-OECS","CC":"VC","Users":4259,"Percent of CC Pop":5.28,"Percent of Internet":0.0001,"Samples":3212},
-{"rank":4,"AS":398901,"Description":"ITSD-VC-01","CC":"VC","Users":249,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":188}
+
   ]
 }

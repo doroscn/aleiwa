@@ -1,23 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8781,"Description":"QA-ISP","CC":"QA","Users":1089771,"Percent of CC Pop":40.40,"Percent of Internet":0.0258,"Samples":688008},
-{"rank":2,"AS":42298,"Description":"GCC-MPLS-PEERING GCC MPLS peering","CC":"QA","Users":831560,"Percent of CC Pop":30.83,"Percent of Internet":0.0197,"Samples":524991},
-{"rank":3,"AS":48728,"Description":"VODAFONEQATAR","CC":"QA","Users":660989,"Percent of CC Pop":24.50,"Percent of Internet":0.0156,"Samples":417304},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"QA","Users":34509,"Percent of CC Pop":1.28,"Percent of Internet":0.0008,"Samples":21787},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"QA","Users":26087,"Percent of CC Pop":0.97,"Percent of Internet":0.0006,"Samples":16470},
-{"rank":6,"AS":212238,"Description":"CDNEXT","CC":"QA","Users":23619,"Percent of CC Pop":0.88,"Percent of Internet":0.0006,"Samples":14912},
-{"rank":7,"AS":211559,"Description":"VODAFONEQA-ISP","CC":"QA","Users":21014,"Percent of CC Pop":0.78,"Percent of Internet":0.0005,"Samples":13267},
-{"rank":8,"AS":200612,"Description":"GULFBRIDGEINTERNATIONAL","CC":"QA","Users":4309,"Percent of CC Pop":0.16,"Percent of Internet":0.0001,"Samples":2721},
-{"rank":9,"AS":198499,"Description":"QUNIV","CC":"QA","Users":1853,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":1170},
-{"rank":10,"AS":16276,"Description":"OVH","CC":"QA","Users":1393,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":880},
-{"rank":11,"AS":29384,"Description":"QATAR-FOUNDATION","CC":"QA","Users":465,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":294},
-{"rank":12,"AS":209193,"Description":"SUPERCELL-FTTH","CC":"QA","Users":457,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":289},
-{"rank":13,"AS":19905,"Description":"SECURITYSERVICES","CC":"QA","Users":319,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":202},
-{"rank":14,"AS":34945,"Description":"QF-HBKU-ASN","CC":"QA","Users":310,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":196},
-{"rank":15,"AS":21859,"Description":"ZEN-ECN","CC":"QA","Users":228,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":144}
+
   ]
 }

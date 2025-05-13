@@ -1,29 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":328286,"Description":"Libyana-Mobile-AS","CC":"LY","Users":549177,"Percent of CC Pop":32.72,"Percent of Internet":0.0130,"Samples":515790},
-{"rank":2,"AS":21003,"Description":"GPTC-AS","CC":"LY","Users":418275,"Percent of CC Pop":24.92,"Percent of Internet":0.0099,"Samples":392846},
-{"rank":3,"AS":37284,"Description":"Aljeel-net","CC":"LY","Users":313031,"Percent of CC Pop":18.65,"Percent of Internet":0.0074,"Samples":294001},
-{"rank":4,"AS":328539,"Description":"Giga-Communication","CC":"LY","Users":224461,"Percent of CC Pop":13.37,"Percent of Internet":0.0053,"Samples":210815},
-{"rank":5,"AS":328200,"Description":"Al-Madar-Al-Jadeed","CC":"LY","Users":38882,"Percent of CC Pop":2.32,"Percent of Internet":0.0009,"Samples":36519},
-{"rank":6,"AS":328073,"Description":"Ion-Telecom-AS","CC":"LY","Users":36702,"Percent of CC Pop":2.19,"Percent of Internet":0.0009,"Samples":34471},
-{"rank":7,"AS":328619,"Description":"Abraj-Libya","CC":"LY","Users":22347,"Percent of CC Pop":1.33,"Percent of Internet":0.0005,"Samples":20989},
-{"rank":8,"AS":329027,"Description":"OZON-ALJADED","CC":"LY","Users":18694,"Percent of CC Pop":1.11,"Percent of Internet":0.0004,"Samples":17558},
-{"rank":9,"AS":329129,"Description":"LNETLICT","CC":"LY","Users":16952,"Percent of CC Pop":1.01,"Percent of Internet":0.0004,"Samples":15922},
-{"rank":10,"AS":329472,"Description":"Sharart-Altaqanaya-Co-for-Telecom-Technology","CC":"LY","Users":12573,"Percent of CC Pop":0.75,"Percent of Internet":0.0003,"Samples":11809},
-{"rank":11,"AS":37566,"Description":"ICONA-AS","CC":"LY","Users":7320,"Percent of CC Pop":0.44,"Percent of Internet":0.0002,"Samples":6875},
-{"rank":12,"AS":328611,"Description":"Libyan-Elite","CC":"LY","Users":5972,"Percent of CC Pop":0.36,"Percent of Internet":0.0001,"Samples":5609},
-{"rank":13,"AS":13335,"Description":"CLOUDFLARENET","CC":"LY","Users":5575,"Percent of CC Pop":0.33,"Percent of Internet":0.0001,"Samples":5237},
-{"rank":14,"AS":327921,"Description":"Bait-Ashames-for-Data-Communication","CC":"LY","Users":2638,"Percent of CC Pop":0.16,"Percent of Internet":0.0001,"Samples":2478},
-{"rank":15,"AS":328733,"Description":"Awal-Telecom","CC":"LY","Users":1953,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":1835},
-{"rank":16,"AS":328743,"Description":"SmartLink","CC":"LY","Users":906,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":851},
-{"rank":17,"AS":37558,"Description":"LITC","CC":"LY","Users":784,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":737},
-{"rank":18,"AS":329435,"Description":"Aljuman-Aljadeed","CC":"LY","Users":579,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":544},
-{"rank":19,"AS":29286,"Description":"SKYLOGIC-AS","CC":"LY","Users":473,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":445},
-{"rank":20,"AS":329130,"Description":"TACF1-AS","CC":"LY","Users":464,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":436},
-{"rank":21,"AS":7155,"Description":"VIASAT-SP-BACKBONE","CC":"LY","Users":333,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":313}
+
   ]
 }

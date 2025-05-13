@@ -1,21 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":36958,"Description":"CWSeychelles-AS","CC":"SC","Users":43443,"Percent of CC Pop":64.30,"Percent of Internet":0.0010,"Samples":57823},
-{"rank":2,"AS":36902,"Description":"ASINTELVISION","CC":"SC","Users":11317,"Percent of CC Pop":16.75,"Percent of Internet":0.0003,"Samples":15063},
-{"rank":3,"AS":37343,"Description":"AirtelSeychelles","CC":"SC","Users":6955,"Percent of CC Pop":10.30,"Percent of Internet":0.0002,"Samples":9258},
-{"rank":4,"AS":138915,"Description":"KAOPU-HK Kaopu Cloud HK Limited","CC":"SC","Users":2415,"Percent of CC Pop":3.58,"Percent of Internet":0.0001,"Samples":3215},
-{"rank":5,"AS":60171,"Description":"AFRIX-AS","CC":"SC","Users":707,"Percent of CC Pop":1.05,"Percent of Internet":0.0000,"Samples":942},
-{"rank":6,"AS":140869,"Description":"TGL-AS-AP Turing Group Limited","CC":"SC","Users":594,"Percent of CC Pop":0.88,"Percent of Internet":0.0000,"Samples":791},
-{"rank":7,"AS":272369,"Description":"NEULINK NETWORKS","CC":"SC","Users":477,"Percent of CC Pop":0.71,"Percent of Internet":0.0000,"Samples":636},
-{"rank":8,"AS":267834,"Description":"SERVYCOM COLOMBIA S.A.S","CC":"SC","Users":462,"Percent of CC Pop":0.68,"Percent of Internet":0.0000,"Samples":615},
-{"rank":9,"AS":139871,"Description":"TTACCL-AS-AP TONLE","CC":"SC","Users":250,"Percent of CC Pop":0.37,"Percent of Internet":0.0000,"Samples":333},
-{"rank":10,"AS":37721,"Description":"Virtual-Technologies-Solutions-SA","CC":"SC","Users":187,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":250},
-{"rank":11,"AS":37517,"Description":"CVTS1","CC":"SC","Users":184,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":245},
-{"rank":12,"AS":140659,"Description":"VONET-AS-AP Vonet technology Co., Ltd.","CC":"SC","Users":95,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":127},
-{"rank":13,"AS":13335,"Description":"CLOUDFLARENET","CC":"SC","Users":90,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":121}
+
   ]
 }

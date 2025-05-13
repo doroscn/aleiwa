@@ -1,16 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":328169,"Description":"SWAZI-MOBILE","CC":"SZ","Users":260215,"Percent of CC Pop":63.17,"Percent of Internet":0.0062,"Samples":108570},
-{"rank":2,"AS":327765,"Description":"SwaziMTN-Ltd","CC":"SZ","Users":91323,"Percent of CC Pop":22.17,"Percent of Internet":0.0022,"Samples":38103},
-{"rank":3,"AS":19711,"Description":"SWAZINET","CC":"SZ","Users":45348,"Percent of CC Pop":11.01,"Percent of Internet":0.0011,"Samples":18921},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SZ","Users":8755,"Percent of CC Pop":2.13,"Percent of Internet":0.0002,"Samples":3653},
-{"rank":5,"AS":3741,"Description":"IS","CC":"SZ","Users":2094,"Percent of CC Pop":0.51,"Percent of Internet":0.0000,"Samples":874},
-{"rank":6,"AS":32398,"Description":"REALNET-ASN-1","CC":"SZ","Users":2061,"Percent of CC Pop":0.50,"Percent of Internet":0.0000,"Samples":860},
-{"rank":7,"AS":328628,"Description":"Wanderport","CC":"SZ","Users":1337,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":558},
-{"rank":8,"AS":329095,"Description":"AFRIMETRO-AS","CC":"SZ","Users":345,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":144}
+
   ]
 }

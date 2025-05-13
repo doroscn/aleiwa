@@ -1,15 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20634,"Description":"TELECOM-LI Schaanerstrasse 1","CC":"LI","Users":20274,"Percent of CC Pop":51.37,"Percent of Internet":0.0005,"Samples":4376},
-{"rank":2,"AS":56653,"Description":"TV-COM-AG","CC":"LI","Users":4633,"Percent of CC Pop":11.74,"Percent of Internet":0.0001,"Samples":1000},
-{"rank":3,"AS":204342,"Description":"VESTRA vestra ICT LI & CH","CC":"LI","Users":4457,"Percent of CC Pop":11.29,"Percent of Internet":0.0001,"Samples":962},
-{"rank":4,"AS":35223,"Description":"HOI-AS","CC":"LI","Users":3979,"Percent of CC Pop":10.08,"Percent of Internet":0.0001,"Samples":859},
-{"rank":5,"AS":15955,"Description":"SUPRANET","CC":"LI","Users":2159,"Percent of CC Pop":5.47,"Percent of Internet":0.0001,"Samples":466},
-{"rank":6,"AS":198288,"Description":"NEWSNET","CC":"LI","Users":1658,"Percent of CC Pop":4.20,"Percent of Internet":0.0000,"Samples":358},
-{"rank":7,"AS":42162,"Description":"QNET","CC":"LI","Users":745,"Percent of CC Pop":1.89,"Percent of Internet":0.0000,"Samples":161}
+
   ]
 }

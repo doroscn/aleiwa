@@ -1,18 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":18024,"Description":"BTTELECOM-AS-AP Bhutan Telecom Ltd","CC":"BT","Users":251128,"Percent of CC Pop":56.92,"Percent of Internet":0.0059,"Samples":66781},
-{"rank":2,"AS":137412,"Description":"TASHICELL-MOBILE-AS Tashicell Domestic AS Thimphu Bhutan","CC":"BT","Users":111795,"Percent of CC Pop":25.34,"Percent of Internet":0.0026,"Samples":29729},
-{"rank":3,"AS":134715,"Description":"GTA-AS-AP Government Technology Agency","CC":"BT","Users":18478,"Percent of CC Pop":4.19,"Percent of Internet":0.0004,"Samples":4914},
-{"rank":4,"AS":23955,"Description":"TASHICELL-DOMESTIC-AS Tashi InfoComm Limited","CC":"BT","Users":16925,"Percent of CC Pop":3.84,"Percent of Internet":0.0004,"Samples":4501},
-{"rank":5,"AS":136039,"Description":"NANO-AS-AP NANO, Bhutan","CC":"BT","Users":10220,"Percent of CC Pop":2.32,"Percent of Internet":0.0002,"Samples":2718},
-{"rank":6,"AS":138558,"Description":"GDNI-AS-AP Gelephu Digital Network","CC":"BT","Users":9559,"Percent of CC Pop":2.17,"Percent of Internet":0.0002,"Samples":2542},
-{"rank":7,"AS":152317,"Description":"WPDA-AS-AP Wangdue Phodrang Dzongkhag Administration","CC":"BT","Users":8724,"Percent of CC Pop":1.98,"Percent of Internet":0.0002,"Samples":2320},
-{"rank":8,"AS":138529,"Description":"DATANET-AS-AP DATANET WIFI","CC":"BT","Users":6505,"Percent of CC Pop":1.47,"Percent of Internet":0.0002,"Samples":1730},
-{"rank":9,"AS":141680,"Description":"SUPERNET1-AS-AP SuperNet Infocomm","CC":"BT","Users":4681,"Percent of CC Pop":1.06,"Percent of Internet":0.0001,"Samples":1245},
-{"rank":10,"AS":38004,"Description":"FASTLINK-ISP FastLink Wireless ISP, DrukCom Pvt. Enterprise.","CC":"BT","Users":1887,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":502}
+
   ]
 }

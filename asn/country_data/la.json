@@ -1,21 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9873,"Description":"TELECOM-LA-AS-AP Lao Telecom Communication, LTC","CC":"LA","Users":1102012,"Percent of CC Pop":45.62,"Percent of Internet":0.0261,"Samples":176354},
-{"rank":2,"AS":131267,"Description":"UNITEL-LA Star Telecom","CC":"LA","Users":1070687,"Percent of CC Pop":44.32,"Percent of Internet":0.0253,"Samples":171341},
-{"rank":3,"AS":10226,"Description":"ETL-IX-AS-AP ETL Company Limited","CC":"LA","Users":139499,"Percent of CC Pop":5.77,"Percent of Internet":0.0033,"Samples":22324},
-{"rank":4,"AS":24337,"Description":"SKYTELECOM-AS-AP SkytelecomTransit provider and ISP in Vientiene.","CC":"LA","Users":60407,"Percent of CC Pop":2.50,"Percent of Internet":0.0014,"Samples":9667},
-{"rank":5,"AS":23900,"Description":"PLANET-ONLINE-AS-LA Planet Online Laos, Internet Service Provider in LAO PDR","CC":"LA","Users":11860,"Percent of CC Pop":0.49,"Percent of Internet":0.0003,"Samples":1898},
-{"rank":6,"AS":56309,"Description":"SIAMDATA-TH Siamdata Communication Co.,Ltd.","CC":"LA","Users":7729,"Percent of CC Pop":0.32,"Percent of Internet":0.0002,"Samples":1237},
-{"rank":7,"AS":135059,"Description":"LAPSCL-AS-AP Lao Asia Pacific Satellite Co., Ltd.","CC":"LA","Users":5973,"Percent of CC Pop":0.25,"Percent of Internet":0.0001,"Samples":956},
-{"rank":8,"AS":209854,"Description":"CYBERZONEHUB","CC":"LA","Users":4118,"Percent of CC Pop":0.17,"Percent of Internet":0.0001,"Samples":659},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"LA","Users":3524,"Percent of CC Pop":0.15,"Percent of Internet":0.0001,"Samples":564},
-{"rank":10,"AS":140635,"Description":"THREEC-LINKTECNOLOGYSOLECOLTD-AS-AP 3C Link Technology Sole Co., Ltd.","CC":"LA","Users":2836,"Percent of CC Pop":0.12,"Percent of Internet":0.0001,"Samples":454},
-{"rank":11,"AS":138934,"Description":"SLTNETWORKCOLTD-AS-AP SLT Network Co.,LTD","CC":"LA","Users":2418,"Percent of CC Pop":0.10,"Percent of Internet":0.0001,"Samples":387},
-{"rank":12,"AS":137905,"Description":"REVO-AS-AP Mangkone Technology Co. Ltd.","CC":"LA","Users":1462,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":234},
-{"rank":13,"AS":136748,"Description":"ETERNLAOSCOMMUNICATIONTECHNOLOGYSOLECOLTD-AS-AP Etern Laos Communication Technology Sole Co .,Ltd","CC":"LA","Users":1324,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":212}
+
   ]
 }

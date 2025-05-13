@@ -1,36 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6661,"Description":"EPT-LU Entreprise des P. et T. Luxembourg","CC":"LU","Users":328717,"Percent of CC Pop":50.23,"Percent of Internet":0.0078,"Samples":226257},
-{"rank":2,"AS":56665,"Description":"TANGO-PROXIMUS_NXT","CC":"LU","Users":111141,"Percent of CC Pop":16.98,"Percent of Internet":0.0026,"Samples":76499},
-{"rank":3,"AS":53667,"Description":"PONYNET","CC":"LU","Users":45567,"Percent of CC Pop":6.96,"Percent of Internet":0.0011,"Samples":31364},
-{"rank":4,"AS":204279,"Description":"ELTRONA","CC":"LU","Users":33129,"Percent of CC Pop":5.06,"Percent of Internet":0.0008,"Samples":22803},
-{"rank":5,"AS":199524,"Description":"GCORE","CC":"LU","Users":32353,"Percent of CC Pop":4.94,"Percent of Internet":0.0008,"Samples":22269},
-{"rank":6,"AS":47377,"Description":"ORANGE_BELGIUM_SA New company name is Orange Belgium SA","CC":"LU","Users":28048,"Percent of CC Pop":4.29,"Percent of Internet":0.0007,"Samples":19306},
-{"rank":7,"AS":8632,"Description":"LOL-AS lu","CC":"LU","Users":19992,"Percent of CC Pop":3.05,"Percent of Internet":0.0005,"Samples":13761},
-{"rank":8,"AS":2602,"Description":"RESTENA Reseau Teleinformatique de lEducation Nationale","CC":"LU","Users":14063,"Percent of CC Pop":2.15,"Percent of Internet":0.0003,"Samples":9680},
-{"rank":9,"AS":56369,"Description":"ORANGE","CC":"LU","Users":9741,"Percent of CC Pop":1.49,"Percent of Internet":0.0002,"Samples":6705},
-{"rank":10,"AS":9008,"Description":"ASN-VO Visual Online S.A. Luxembourg","CC":"LU","Users":9155,"Percent of CC Pop":1.40,"Percent of Internet":0.0002,"Samples":6302},
-{"rank":11,"AS":51430,"Description":"ALTUS","CC":"LU","Users":2834,"Percent of CC Pop":0.43,"Percent of Internet":0.0001,"Samples":1951},
-{"rank":12,"AS":203020,"Description":"HOSTROYALE","CC":"LU","Users":2809,"Percent of CC Pop":0.43,"Percent of Internet":0.0001,"Samples":1934},
-{"rank":13,"AS":202422,"Description":"GHOST","CC":"LU","Users":2767,"Percent of CC Pop":0.42,"Percent of Internet":0.0001,"Samples":1905},
-{"rank":14,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"LU","Users":1810,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":1246},
-{"rank":15,"AS":14956,"Description":"ROUTERHOSTING","CC":"LU","Users":1401,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":965},
-{"rank":16,"AS":206610,"Description":"MIXVOIP","CC":"LU","Users":1293,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":890},
-{"rank":17,"AS":34683,"Description":"AS-TELKEATELECOM TELKEA TELECOM SA","CC":"LU","Users":1242,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":855},
-{"rank":18,"AS":12684,"Description":"SES-LUX-AS","CC":"LU","Users":1139,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":784},
-{"rank":19,"AS":25094,"Description":"CTIE","CC":"LU","Users":1093,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":753},
-{"rank":20,"AS":15965,"Description":"AS15965 CEGECOM S.A.","CC":"LU","Users":966,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":665},
-{"rank":21,"AS":201187,"Description":"ASWALFERDANGE","CC":"LU","Users":714,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":492},
-{"rank":22,"AS":204403,"Description":"HOTCITY","CC":"LU","Users":568,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":391},
-{"rank":23,"AS":13335,"Description":"CLOUDFLARENET","CC":"LU","Users":563,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":388},
-{"rank":24,"AS":198504,"Description":"LU1","CC":"LU","Users":422,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":291},
-{"rank":25,"AS":41273,"Description":"ACETT","CC":"LU","Users":312,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":215},
-{"rank":26,"AS":213183,"Description":"WHG-LUX","CC":"LU","Users":217,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":150},
-{"rank":27,"AS":206804,"Description":"ESTNOC-GLOBAL","CC":"LU","Users":210,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":145},
-{"rank":28,"AS":60725,"Description":"O3B-AS SES Networks - Internet Service Provider operating GEO and MEO satellite constellation","CC":"LU","Users":206,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":142}
+
   ]
 }

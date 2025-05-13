@@ -1,20 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":23889,"Description":"MauritiusTelecom","CC":"MU","Users":569979,"Percent of CC Pop":72.77,"Percent of Internet":0.0135,"Samples":377413},
-{"rank":2,"AS":30999,"Description":"EMTEL-AS-AP","CC":"MU","Users":153195,"Percent of CC Pop":19.56,"Percent of Internet":0.0036,"Samples":101439},
-{"rank":3,"AS":37662,"Description":"WIOCC-AS","CC":"MU","Users":27110,"Percent of CC Pop":3.46,"Percent of Internet":0.0006,"Samples":17951},
-{"rank":4,"AS":37622,"Description":"MTML-AS","CC":"MU","Users":16008,"Percent of CC Pop":2.04,"Percent of Internet":0.0004,"Samples":10600},
-{"rank":5,"AS":37332,"Description":"ZOL","CC":"MU","Users":7188,"Percent of CC Pop":0.92,"Percent of Internet":0.0002,"Samples":4760},
-{"rank":6,"AS":30844,"Description":"LIQUID-AS","CC":"MU","Users":3949,"Percent of CC Pop":0.50,"Percent of Internet":0.0001,"Samples":2615},
-{"rank":7,"AS":328608,"Description":"Africa-on-Cloud-AS","CC":"MU","Users":1745,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":1156},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"MU","Users":1510,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":1000},
-{"rank":9,"AS":140883,"Description":"ZEYOND-GLOBAL Zeyond Limited","CC":"MU","Users":599,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":397},
-{"rank":10,"AS":37722,"Description":"Kaldera","CC":"MU","Users":496,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":329},
-{"rank":11,"AS":137263,"Description":"NETEASE-AS-AP NETEASE HONG KONG LIMITED","CC":"MU","Users":424,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":281},
-{"rank":12,"AS":36868,"Description":"EIS","CC":"MU","Users":289,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":192}
+
   ]
 }

@@ -1,35 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37119,"Description":"unitel-AS","CC":"AO","Users":3630850,"Percent of CC Pop":59.53,"Percent of Internet":0.0860,"Samples":1232380},
-{"rank":2,"AS":328943,"Description":"AAS1-AS","CC":"AO","Users":1503448,"Percent of CC Pop":24.65,"Percent of Internet":0.0356,"Samples":510299},
-{"rank":3,"AS":37645,"Description":"ZAP-Angola","CC":"AO","Users":508831,"Percent of CC Pop":8.34,"Percent of Internet":0.0120,"Samples":172707},
-{"rank":4,"AS":36907,"Description":"TVCaboAngola","CC":"AO","Users":304458,"Percent of CC Pop":4.99,"Percent of Internet":0.0072,"Samples":103339},
-{"rank":5,"AS":33763,"Description":"Paratus","CC":"AO","Users":67356,"Percent of CC Pop":1.10,"Percent of Internet":0.0016,"Samples":22862},
-{"rank":6,"AS":11259,"Description":"ANGOLATELECOM","CC":"AO","Users":14418,"Percent of CC Pop":0.24,"Percent of Internet":0.0003,"Samples":4894},
-{"rank":7,"AS":17400,"Description":"EBONET","CC":"AO","Users":12754,"Percent of CC Pop":0.21,"Percent of Internet":0.0003,"Samples":4329},
-{"rank":8,"AS":329286,"Description":"Kwendanet-Tecnologias-e-Servicos","CC":"AO","Users":6661,"Percent of CC Pop":0.11,"Percent of Internet":0.0002,"Samples":2261},
-{"rank":9,"AS":328111,"Description":"IPWORLD-AS","CC":"AO","Users":5141,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":1745},
-{"rank":10,"AS":328509,"Description":"SpeedNet-Servicos","CC":"AO","Users":5002,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":1698},
-{"rank":11,"AS":29286,"Description":"SKYLOGIC-AS","CC":"AO","Users":4896,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":1662},
-{"rank":12,"AS":13335,"Description":"CLOUDFLARENET","CC":"AO","Users":4186,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":1421},
-{"rank":13,"AS":36881,"Description":"MULTITEL","CC":"AO","Users":4115,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":1397},
-{"rank":14,"AS":328979,"Description":"NPDS-AS","CC":"AO","Users":3977,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":1350},
-{"rank":15,"AS":327932,"Description":"CONNECTIS-DATA-ANGOLA","CC":"AO","Users":3544,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":1203},
-{"rank":16,"AS":329210,"Description":"HSTL1-AS","CC":"AO","Users":2996,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":1017},
-{"rank":17,"AS":36917,"Description":"ACS","CC":"AO","Users":2860,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":971},
-{"rank":18,"AS":37593,"Description":"Infrasat","CC":"AO","Users":2250,"Percent of CC Pop":0.04,"Percent of Internet":0.0001,"Samples":764},
-{"rank":19,"AS":328154,"Description":"NETSPACE","CC":"AO","Users":2115,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":718},
-{"rank":20,"AS":37081,"Description":"movicel-as","CC":"AO","Users":1835,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":623},
-{"rank":21,"AS":37468,"Description":"ANGOLA-CABLES","CC":"AO","Users":1272,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":432},
-{"rank":22,"AS":37272,"Description":"CMCANGOLA","CC":"AO","Users":1060,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":360},
-{"rank":23,"AS":329370,"Description":"ESPACONET","CC":"AO","Users":813,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":276},
-{"rank":24,"AS":198394,"Description":"GR1","CC":"AO","Users":763,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":259},
-{"rank":25,"AS":328907,"Description":"AS33793","CC":"AO","Users":704,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":239},
-{"rank":26,"AS":37011,"Description":"MSTARTEL-AS","CC":"AO","Users":630,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":214},
-{"rank":27,"AS":198381,"Description":"ES1","CC":"AO","Users":403,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":137}
+
   ]
 }

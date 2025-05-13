@@ -1,19 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":4609,"Description":"CTM-MO Companhia de Telecomunicacoes de Macau SARL","CC":"MO","Users":557917,"Percent of CC Pop":89.60,"Percent of Internet":0.0132,"Samples":4182014},
-{"rank":2,"AS":136167,"Description":"CHINATELECOM-AS-AP CHINA TELECOM MACAU COMPANY LIMITED","CC":"MO","Users":37589,"Percent of CC Pop":6.04,"Percent of Internet":0.0009,"Samples":281760},
-{"rank":3,"AS":133613,"Description":"MTEL-AS MTel telecommunication company ltd.","CC":"MO","Users":24010,"Percent of CC Pop":3.86,"Percent of Internet":0.0006,"Samples":179978},
-{"rank":4,"AS":138164,"Description":"MUST-AS-AP Macau University of Science and Technology","CC":"MO","Users":2363,"Percent of CC Pop":0.38,"Percent of Internet":0.0001,"Samples":17718},
-{"rank":5,"AS":40065,"Description":"CNSERVERS","CC":"MO","Users":195,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":1467},
-{"rank":6,"AS":134550,"Description":"CITM-NGIA-MRC-MO Centro de Informacoes Tecnologia de Macau","CC":"MO","Users":179,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":1346},
-{"rank":7,"AS":45918,"Description":"SMARTONE-AS-AP SmarTone Mobile Communications Macau Limited","CC":"MO","Users":157,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":1182},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"MO","Users":118,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":887},
-{"rank":9,"AS":7582,"Description":"UMAC-AS-AP University of Macau","CC":"MO","Users":68,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":515},
-{"rank":10,"AS":36183,"Description":"AKAMAI-AS","CC":"MO","Users":48,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":361},
-{"rank":11,"AS":54113,"Description":"FASTLY","CC":"MO","Users":18,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":138}
+
   ]
 }

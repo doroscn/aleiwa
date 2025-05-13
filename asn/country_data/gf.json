@@ -1,14 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "04/12/2024",
+  "Date": "13/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3215,"Description":"France Telecom - Orange","CC":"GF","Users":70790,"Percent of CC Pop":39.84,"Percent of Internet":0.0017,"Samples":21002},
-{"rank":2,"AS":20776,"Description":"OUTREMER-AS","CC":"GF","Users":44765,"Percent of CC Pop":25.19,"Percent of Internet":0.0011,"Samples":13281},
-{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GF","Users":29001,"Percent of CC Pop":16.32,"Percent of Internet":0.0007,"Samples":8604},
-{"rank":4,"AS":48252,"Description":"DIGICELFWI","CC":"GF","Users":22158,"Percent of CC Pop":12.47,"Percent of Internet":0.0005,"Samples":6574},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GF","Users":10240,"Percent of CC Pop":5.76,"Percent of Internet":0.0002,"Samples":3038},
-{"rank":6,"AS":263175,"Description":"GUYACOM","CC":"GF","Users":458,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":136}
+
   ]
 }
