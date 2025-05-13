@@ -1,8 +1,8 @@
 #!/bin/bash
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-COUNTRY_CODES_FILE="${SCRIPT_DIR}/countrylist"
-OUTPUT_DIR="${SCRIPT_DIR}/country_data"
+COUNTRY_CODES_FILE="${SCRIPT_DIR}/asn/countrylist"
+OUTPUT_DIR="${SCRIPT_DIR}/asn/country_data"
 
 mkdir -p "$OUTPUT_DIR"
 
