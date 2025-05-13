@@ -17,7 +17,7 @@ while read -r LINE; do
   COUNTRY_CODE=$(echo "$LINE" | awk '{print $1}')
   [[ -z "$COUNTRY_CODE" ]] && continue
 
-  URL="https://stats.labs.apnic.net/cgi-bin/aspop?c=${COUNTRY_CODE}&d=${CURRENT_DATE}&w=120&f=j"
+  URL="https://stats.labs.apnic.net/cgi-bin/aspop?c=${COUNTRY_CODE}&d=${CURRENT_DATE}&w=120&d=${CURRENT_DATE}&f=j"
   OUTPUT_FILE="${OUTPUT_DIR}/${COUNTRY_CODE}.json"
 
   echo "请求 ${COUNTRY_CODE} 的数据..."
