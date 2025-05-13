@@ -1,9 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":9751,"Description":"ASTCA-AS-AP AMERICAN SAMOA TELECOMMUNICATIONS AUTHORITY","CC":"AS","Users":19728,"Percent of CC Pop":83.01,"Percent of Internet":0.0005,"Samples":42094},
+{"rank":2,"AS":23657,"Description":"BLUESKY-AS-AP Blue Sky Communications","CC":"AS","Users":3879,"Percent of CC Pop":16.32,"Percent of Internet":0.0001,"Samples":8278},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"AS","Users":154,"Percent of CC Pop":0.65,"Percent of Internet":0.0000,"Samples":329}
   ]
 }

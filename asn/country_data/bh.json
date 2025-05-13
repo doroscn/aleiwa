@@ -1,9 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":5416,"Description":"Internet Service Provider","CC":"BH","Users":657638,"Percent of CC Pop":44.64,"Percent of Internet":0.0155,"Samples":310812},
+{"rank":2,"AS":51375,"Description":"VIVA","CC":"BH","Users":413323,"Percent of CC Pop":28.05,"Percent of Internet":0.0098,"Samples":195344},
+{"rank":3,"AS":31452,"Description":"ZAIN-BH-AS","CC":"BH","Users":331383,"Percent of CC Pop":22.49,"Percent of Internet":0.0078,"Samples":156618},
+{"rank":4,"AS":16509,"Description":"AMAZON-02","CC":"BH","Users":24152,"Percent of CC Pop":1.64,"Percent of Internet":0.0006,"Samples":11415},
+{"rank":5,"AS":39273,"Description":"KALAAM-TELECOM","CC":"BH","Users":14938,"Percent of CC Pop":1.01,"Percent of Internet":0.0004,"Samples":7060},
+{"rank":6,"AS":35568,"Description":"TORLOVER","CC":"BH","Users":11878,"Percent of CC Pop":0.81,"Percent of Internet":0.0003,"Samples":5614},
+{"rank":7,"AS":35729,"Description":"VIACLOUD-AS","CC":"BH","Users":7722,"Percent of CC Pop":0.52,"Percent of Internet":0.0002,"Samples":3650},
+{"rank":8,"AS":35457,"Description":"ETISALCOM-AS","CC":"BH","Users":5761,"Percent of CC Pop":0.39,"Percent of Internet":0.0001,"Samples":2723},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"BH","Users":3453,"Percent of CC Pop":0.23,"Percent of Internet":0.0001,"Samples":1632},
+{"rank":10,"AS":35546,"Description":"NORTHSTAR","CC":"BH","Users":778,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":368},
+{"rank":11,"AS":35313,"Description":"BH-INFONAS-ASN","CC":"BH","Users":611,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":289},
+{"rank":12,"AS":138915,"Description":"KAOPU-HK Kaopu Cloud HK Limited","CC":"BH","Users":429,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":203},
+{"rank":13,"AS":62123,"Description":"RT-AS","CC":"BH","Users":285,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":135},
+{"rank":14,"AS":36183,"Description":"AKAMAI-AS","CC":"BH","Users":277,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":131}
   ]
 }

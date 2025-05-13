@@ -1,9 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":19863,"Description":"Guyana Telephone & Telegraph Co.","CC":"GY","Users":194260,"Percent of CC Pop":59.22,"Percent of Internet":0.0046,"Samples":460383},
+{"rank":2,"AS":52253,"Description":"E-Networks Inc.","CC":"GY","Users":84989,"Percent of CC Pop":25.91,"Percent of Internet":0.0020,"Samples":201418},
+{"rank":3,"AS":52433,"Description":"U Mobile Cellular Inc.","CC":"GY","Users":39425,"Percent of CC Pop":12.02,"Percent of Internet":0.0009,"Samples":93436},
+{"rank":4,"AS":264694,"Description":"EGOVERNMENT UNIT","CC":"GY","Users":4821,"Percent of CC Pop":1.47,"Percent of Internet":0.0001,"Samples":11427},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GY","Users":3453,"Percent of CC Pop":1.05,"Percent of Internet":0.0001,"Samples":8184},
+{"rank":6,"AS":270108,"Description":"XEN1 NETWORKS INC","CC":"GY","Users":787,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":1866},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"GY","Users":237,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":563}
   ]
 }

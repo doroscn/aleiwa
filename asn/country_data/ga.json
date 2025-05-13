@@ -1,9 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":16058,"Description":"Gabon-Telecom","CC":"GA","Users":781035,"Percent of CC Pop":57.56,"Percent of Internet":0.0184,"Samples":643718},
+{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"GA","Users":395484,"Percent of CC Pop":29.15,"Percent of Internet":0.0093,"Samples":325953},
+{"rank":3,"AS":37616,"Description":"Airtel","CC":"GA","Users":175741,"Percent of CC Pop":12.95,"Percent of Internet":0.0041,"Samples":144844},
+{"rank":4,"AS":37582,"Description":"ANINF","CC":"GA","Users":2528,"Percent of CC Pop":0.19,"Percent of Internet":0.0001,"Samples":2084},
+{"rank":5,"AS":328485,"Description":"Reserved (afrinic)","CC":"GA","Users":776,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":640},
+{"rank":6,"AS":328304,"Description":"WAKA-AS","CC":"GA","Users":757,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":624},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"GA","Users":230,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":190}
   ]
 }

@@ -1,9 +1,25 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":37371,"Description":"HORMUUD","CC":"SO","Users":190848,"Percent of CC Pop":46.17,"Percent of Internet":0.0045,"Samples":806182},
+{"rank":2,"AS":37473,"Description":"TELESOM","CC":"SO","Users":55811,"Percent of CC Pop":13.50,"Percent of Internet":0.0013,"Samples":235759},
+{"rank":3,"AS":328250,"Description":"Golis-Telecom-AS","CC":"SO","Users":53413,"Percent of CC Pop":12.92,"Percent of Internet":0.0013,"Samples":225628},
+{"rank":4,"AS":37563,"Description":"SOMTEL","CC":"SO","Users":52157,"Percent of CC Pop":12.62,"Percent of Internet":0.0012,"Samples":220325},
+{"rank":5,"AS":328469,"Description":"Somtel-Somalia-AS","CC":"SO","Users":33566,"Percent of CC Pop":8.12,"Percent of Internet":0.0008,"Samples":141792},
+{"rank":6,"AS":37425,"Description":"Somcable","CC":"SO","Users":7575,"Percent of CC Pop":1.83,"Percent of Internet":0.0002,"Samples":32002},
+{"rank":7,"AS":328959,"Description":"SO_Gasho","CC":"SO","Users":6225,"Percent of CC Pop":1.51,"Percent of Internet":0.0001,"Samples":26298},
+{"rank":8,"AS":328319,"Description":"Amtel-AS","CC":"SO","Users":3689,"Percent of CC Pop":0.89,"Percent of Internet":0.0001,"Samples":15584},
+{"rank":9,"AS":328954,"Description":"BL27-AS","CC":"SO","Users":2614,"Percent of CC Pop":0.63,"Percent of Internet":0.0001,"Samples":11046},
+{"rank":10,"AS":328590,"Description":"Somlink-Wireless-AS","CC":"SO","Users":2158,"Percent of CC Pop":0.52,"Percent of Internet":0.0001,"Samples":9116},
+{"rank":11,"AS":327768,"Description":"SOMCAST-NETWORKS","CC":"SO","Users":1376,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":5815},
+{"rank":12,"AS":13335,"Description":"CLOUDFLARENET","CC":"SO","Users":1292,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":5459},
+{"rank":13,"AS":327828,"Description":"Somali-Optical-Networks","CC":"SO","Users":1154,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":4876},
+{"rank":14,"AS":37326,"Description":"GICO","CC":"SO","Users":870,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":3677},
+{"rank":15,"AS":327742,"Description":"SOMALI-WIRELESS","CC":"SO","Users":221,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":936},
+{"rank":16,"AS":328953,"Description":"TAYOCOM","CC":"SO","Users":182,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":771},
+{"rank":17,"AS":329343,"Description":"SOMOTT","CC":"SO","Users":129,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":545}
   ]
 }

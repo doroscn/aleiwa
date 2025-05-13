@@ -1,9 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":15146,"Description":"CABLEBAHAMAS","CC":"BS","Users":240404,"Percent of CC Pop":63.21,"Percent of Internet":0.0057,"Samples":182439},
+{"rank":2,"AS":8014,"Description":"BATELNET","CC":"BS","Users":106759,"Percent of CC Pop":28.07,"Percent of Internet":0.0025,"Samples":81018},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BS","Users":26677,"Percent of CC Pop":7.01,"Percent of Internet":0.0006,"Samples":20245},
+{"rank":4,"AS":397972,"Description":"CTF-BM-LTD","CC":"BS","Users":2403,"Percent of CC Pop":0.63,"Percent of Internet":0.0001,"Samples":1824},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"BS","Users":1503,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":1141},
+{"rank":6,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"BS","Users":1398,"Percent of CC Pop":0.37,"Percent of Internet":0.0000,"Samples":1061},
+{"rank":7,"AS":262287,"Description":"Latitude.sh LTDA","CC":"BS","Users":480,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":365},
+{"rank":8,"AS":22357,"Description":"SECURE-SHORE-ASN","CC":"BS","Users":392,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":298},
+{"rank":9,"AS":9009,"Description":"M247","CC":"BS","Users":189,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":144}
   ]
 }

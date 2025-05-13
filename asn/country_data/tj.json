@@ -1,9 +1,26 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":43197,"Description":"TT-MOBILE-AS PJSC TT mobile","CC":"TJ","Users":1139307,"Percent of CC Pop":44.71,"Percent of Internet":0.0269,"Samples":604616},
+{"rank":2,"AS":47139,"Description":"INDIGO-TAJIKISTAN-AS","CC":"TJ","Users":387484,"Percent of CC Pop":15.21,"Percent of Internet":0.0091,"Samples":205633},
+{"rank":3,"AS":48887,"Description":"SOMONCOM-AS","CC":"TJ","Users":318948,"Percent of CC Pop":12.52,"Percent of Internet":0.0075,"Samples":169262},
+{"rank":4,"AS":24722,"Description":"BABILON-AS","CC":"TJ","Users":181221,"Percent of CC Pop":7.11,"Percent of Internet":0.0043,"Samples":96172},
+{"rank":5,"AS":34557,"Description":"TACOM-AS 47a Lahuti st","CC":"TJ","Users":171796,"Percent of CC Pop":6.74,"Percent of Internet":0.0041,"Samples":91170},
+{"rank":6,"AS":204106,"Description":"BABILON-MOBILE","CC":"TJ","Users":163273,"Percent of CC Pop":6.41,"Percent of Internet":0.0039,"Samples":86647},
+{"rank":7,"AS":51346,"Description":"TOJIKTELECOM-AS","CC":"TJ","Users":84454,"Percent of CC Pop":3.31,"Percent of Internet":0.0020,"Samples":44819},
+{"rank":8,"AS":208592,"Description":"AS-AVESTONET KAZTRANSCOM","CC":"TJ","Users":37492,"Percent of CC Pop":1.47,"Percent of Internet":0.0009,"Samples":19897},
+{"rank":9,"AS":8847,"Description":"TTL-AS CJSC Telecomm Technology","CC":"TJ","Users":23471,"Percent of CC Pop":0.92,"Percent of Internet":0.0006,"Samples":12456},
+{"rank":10,"AS":44027,"Description":"SPITAMEN_ALEXANDER_INTERNET-AS","CC":"TJ","Users":16160,"Percent of CC Pop":0.63,"Percent of Internet":0.0004,"Samples":8576},
+{"rank":11,"AS":884,"Description":"GONET-ASN-17","CC":"TJ","Users":11238,"Percent of CC Pop":0.44,"Percent of Internet":0.0003,"Samples":5964},
+{"rank":12,"AS":42713,"Description":"INTERCOM","CC":"TJ","Users":7754,"Percent of CC Pop":0.30,"Percent of Internet":0.0002,"Samples":4115},
+{"rank":13,"AS":49472,"Description":"EASTERA-AS","CC":"TJ","Users":1247,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":662},
+{"rank":14,"AS":196854,"Description":"AS-ISATELTJ Alif-Bank","CC":"TJ","Users":1123,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":596},
+{"rank":15,"AS":43030,"Description":"TARENA-AS Tajik National Research Education Network","CC":"TJ","Users":1026,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":545},
+{"rank":16,"AS":57443,"Description":"OSHNOGROUP-AS","CC":"TJ","Users":1011,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":537},
+{"rank":17,"AS":57013,"Description":"EURASIA-STAR-AS","CC":"TJ","Users":925,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":491},
+{"rank":18,"AS":13335,"Description":"CLOUDFLARENET","CC":"TJ","Users":243,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":129}
   ]
 }

@@ -1,9 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":37173,"Description":"GETESA","CC":"GQ","Users":256415,"Percent of CC Pop":47.89,"Percent of Internet":0.0061,"Samples":87217},
+{"rank":2,"AS":37337,"Description":"MUNI-EG","CC":"GQ","Users":156788,"Percent of CC Pop":29.28,"Percent of Internet":0.0037,"Samples":53330},
+{"rank":3,"AS":37529,"Description":"GITGE","CC":"GQ","Users":88901,"Percent of CC Pop":16.60,"Percent of Internet":0.0021,"Samples":30239},
+{"rank":4,"AS":328207,"Description":"OFFICE-TECH","CC":"GQ","Users":25148,"Percent of CC Pop":4.70,"Percent of Internet":0.0006,"Samples":8554},
+{"rank":5,"AS":329219,"Description":"Fenix-EG","CC":"GQ","Users":5524,"Percent of CC Pop":1.03,"Percent of Internet":0.0001,"Samples":1879},
+{"rank":6,"AS":37487,"Description":"GUINEANET","CC":"GQ","Users":2463,"Percent of CC Pop":0.46,"Percent of Internet":0.0001,"Samples":838}
   ]
 }

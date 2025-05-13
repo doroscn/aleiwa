@@ -1,9 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"MQ","Users":63177,"Percent of CC Pop":31.39,"Percent of Internet":0.0015,"Samples":36010},
+{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MQ","Users":48915,"Percent of CC Pop":24.31,"Percent of Internet":0.0012,"Samples":27881},
+{"rank":3,"AS":3215,"Description":"France Telecom - Orange","CC":"MQ","Users":43297,"Percent of CC Pop":21.51,"Percent of Internet":0.0010,"Samples":24679},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MQ","Users":20007,"Percent of CC Pop":9.94,"Percent of Internet":0.0005,"Samples":11404},
+{"rank":5,"AS":48252,"Description":"DIGICELFWI","CC":"MQ","Users":19853,"Percent of CC Pop":9.87,"Percent of Internet":0.0005,"Samples":11316},
+{"rank":6,"AS":21502,"Description":"ASN-NUMERICABLE","CC":"MQ","Users":2912,"Percent of CC Pop":1.45,"Percent of Internet":0.0001,"Samples":1660},
+{"rank":7,"AS":36511,"Description":"NETDT-GUA","CC":"MQ","Users":970,"Percent of CC Pop":0.48,"Percent of Internet":0.0000,"Samples":553},
+{"rank":8,"AS":214095,"Description":"ESIMINTERNATIONAL","CC":"MQ","Users":880,"Percent of CC Pop":0.44,"Percent of Internet":0.0000,"Samples":502},
+{"rank":9,"AS":204802,"Description":"FREEDOM-NETWORK","CC":"MQ","Users":378,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":216},
+{"rank":10,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"MQ","Users":377,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":215}
   ]
 }

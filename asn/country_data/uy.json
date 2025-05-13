@@ -1,9 +1,23 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":6057,"Description":"Administracion Nacional de Telecomunicaciones","CC":"UY","Users":2134244,"Percent of CC Pop":87.62,"Percent of Internet":0.0504,"Samples":1535248},
+{"rank":2,"AS":19422,"Description":"Telefonica Moviles del Uruguay SA","CC":"UY","Users":201713,"Percent of CC Pop":8.28,"Percent of Internet":0.0048,"Samples":145101},
+{"rank":3,"AS":11664,"Description":"Techtel LMDS Comunicaciones Interactivas S.A.","CC":"UY","Users":78492,"Percent of CC Pop":3.22,"Percent of Internet":0.0019,"Samples":56463},
+{"rank":4,"AS":20255,"Description":"Tecnowind S.A.","CC":"UY","Users":9793,"Percent of CC Pop":0.40,"Percent of Internet":0.0002,"Samples":7045},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"UY","Users":3443,"Percent of CC Pop":0.14,"Percent of Internet":0.0001,"Samples":2477},
+{"rank":6,"AS":273002,"Description":"TRACTORAL SOCIEDAD ANONIMA","CC":"UY","Users":2254,"Percent of CC Pop":0.09,"Percent of Internet":0.0001,"Samples":1622},
+{"rank":7,"AS":273854,"Description":"TELEMAS SOCIEDAD ANONIMA","CC":"UY","Users":1684,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":1212},
+{"rank":8,"AS":273012,"Description":"RISELCO SOCIEDAD ANONIMA","CC":"UY","Users":1156,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":832},
+{"rank":9,"AS":273115,"Description":"PRAIAMAR SA","CC":"UY","Users":563,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":405},
+{"rank":10,"AS":273004,"Description":"MONTE CABLEVIDEO S A","CC":"UY","Users":478,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":344},
+{"rank":11,"AS":1797,"Description":"Uruguay","CC":"UY","Users":372,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":268},
+{"rank":12,"AS":262287,"Description":"Latitude.sh LTDA","CC":"UY","Users":279,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":201},
+{"rank":13,"AS":209854,"Description":"CYBERZONEHUB","CC":"UY","Users":264,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":190},
+{"rank":14,"AS":13335,"Description":"CLOUDFLARENET","CC":"UY","Users":247,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":178},
+{"rank":15,"AS":14234,"Description":"ZONAMERICA","CC":"UY","Users":239,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":172}
   ]
 }

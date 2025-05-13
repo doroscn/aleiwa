@@ -1,9 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":46650,"Description":"ASN46650-CCGL","CC":"GD","Users":67366,"Percent of CC Pop":83.33,"Percent of Internet":0.0016,"Samples":96723},
+{"rank":2,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"GD","Users":12657,"Percent of CC Pop":15.66,"Percent of Internet":0.0003,"Samples":18173},
+{"rank":3,"AS":393629,"Description":"GDGR","CC":"GD","Users":539,"Percent of CC Pop":0.67,"Percent of Internet":0.0000,"Samples":775},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GD","Users":177,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":255}
   ]
 }

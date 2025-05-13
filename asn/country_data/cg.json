@@ -1,9 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":37451,"Description":"CongoTelecom","CC":"CG","Users":167852,"Percent of CC Pop":27.57,"Percent of Internet":0.0040,"Samples":234754},
+{"rank":2,"AS":37463,"Description":"MTN-CONGO","CC":"CG","Users":153647,"Percent of CC Pop":25.24,"Percent of Internet":0.0036,"Samples":214887},
+{"rank":3,"AS":36924,"Description":"GVA-Canalbox","CC":"CG","Users":152650,"Percent of CC Pop":25.08,"Percent of Internet":0.0036,"Samples":213492},
+{"rank":4,"AS":37550,"Description":"airtelcg","CC":"CG","Users":132143,"Percent of CC Pop":21.71,"Percent of Internet":0.0031,"Samples":184812},
+{"rank":5,"AS":327829,"Description":"SKYTIC-TELECOM","CC":"CG","Users":1179,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":1649},
+{"rank":6,"AS":328857,"Description":"SILICONEAS","CC":"CG","Users":797,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":1115},
+{"rank":7,"AS":328500,"Description":"AMC-Telecom","CC":"CG","Users":218,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":306},
+{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CG","Users":207,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":290}
   ]
 }

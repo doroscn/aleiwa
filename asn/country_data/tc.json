@@ -1,9 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":22933,"Description":"TCIGATEWAY","CC":"TC","Users":13348,"Percent of CC Pop":51.92,"Percent of Internet":0.0003,"Samples":19912},
+{"rank":2,"AS":394311,"Description":"DIGTCI","CC":"TC","Users":12149,"Percent of CC Pop":47.26,"Percent of Internet":0.0003,"Samples":18124},
+{"rank":3,"AS":40786,"Description":"DIGI-GRP-JAM","CC":"TC","Users":157,"Percent of CC Pop":0.61,"Percent of Internet":0.0000,"Samples":235}
   ]
 }

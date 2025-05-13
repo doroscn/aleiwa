@@ -1,9 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":15389,"Description":"FAROESE-TELECOM-AS","CC":"FO","Users":40120,"Percent of CC Pop":74.41,"Percent of Internet":0.0009,"Samples":58278},
+{"rank":2,"AS":20963,"Description":"NEMAFAROE","CC":"FO","Users":13593,"Percent of CC Pop":25.21,"Percent of Internet":0.0003,"Samples":19746},
+{"rank":3,"AS":206928,"Description":"PF-ELEKTRON","CC":"FO","Users":179,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":261}
   ]
 }

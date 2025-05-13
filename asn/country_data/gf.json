@@ -1,9 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"GF","Users":56870,"Percent of CC Pop":31.68,"Percent of Internet":0.0013,"Samples":16190},
+{"rank":2,"AS":3215,"Description":"France Telecom - Orange","CC":"GF","Users":56750,"Percent of CC Pop":31.61,"Percent of Internet":0.0013,"Samples":16156},
+{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GF","Users":40578,"Percent of CC Pop":22.60,"Percent of Internet":0.0010,"Samples":11552},
+{"rank":4,"AS":48252,"Description":"DIGICELFWI","CC":"GF","Users":17089,"Percent of CC Pop":9.52,"Percent of Internet":0.0004,"Samples":4865},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GF","Users":5831,"Percent of CC Pop":3.25,"Percent of Internet":0.0001,"Samples":1660},
+{"rank":6,"AS":263175,"Description":"GUYACOM","CC":"GF","Users":1138,"Percent of CC Pop":0.63,"Percent of Internet":0.0000,"Samples":324},
+{"rank":7,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"GF","Users":1110,"Percent of CC Pop":0.62,"Percent of Internet":0.0000,"Samples":316}
   ]
 }

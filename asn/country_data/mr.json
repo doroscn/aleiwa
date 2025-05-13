@@ -1,9 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":29544,"Description":"MAURITEL","CC":"MR","Users":846177,"Percent of CC Pop":66.04,"Percent of Internet":0.0200,"Samples":542623},
+{"rank":2,"AS":37508,"Description":"MATTEL","CC":"MR","Users":247010,"Percent of CC Pop":19.28,"Percent of Internet":0.0058,"Samples":158399},
+{"rank":3,"AS":37541,"Description":"CHINGUITEL","CC":"MR","Users":94139,"Percent of CC Pop":7.35,"Percent of Internet":0.0022,"Samples":60368},
+{"rank":4,"AS":328997,"Description":"RIMATEL","CC":"MR","Users":80910,"Percent of CC Pop":6.32,"Percent of Internet":0.0019,"Samples":51885},
+{"rank":5,"AS":328549,"Description":"Sahel-Telecom","CC":"MR","Users":6376,"Percent of CC Pop":0.50,"Percent of Internet":0.0002,"Samples":4089},
+{"rank":6,"AS":329048,"Description":"NETCOM-AS","CC":"MR","Users":4604,"Percent of CC Pop":0.36,"Percent of Internet":0.0001,"Samples":2953},
+{"rank":7,"AS":328850,"Description":"CSS-AS","CC":"MR","Users":1094,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":702},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"MR","Users":913,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":586}
   ]
 }

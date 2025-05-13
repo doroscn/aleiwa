@@ -1,9 +1,32 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":12975,"Description":"PALTEL-AS PALTEL Autonomous System","CC":"PS","Users":2706974,"Percent of CC Pop":67.85,"Percent of Internet":0.0639,"Samples":1343495},
+{"rank":2,"AS":51407,"Description":"MADA-AS","CC":"PS","Users":598369,"Percent of CC Pop":15.00,"Percent of Internet":0.0141,"Samples":296976},
+{"rank":3,"AS":29310,"Description":"JAWWAL","CC":"PS","Users":119008,"Percent of CC Pop":2.98,"Percent of Internet":0.0028,"Samples":59065},
+{"rank":4,"AS":48966,"Description":"WPT","CC":"PS","Users":87699,"Percent of CC Pop":2.20,"Percent of Internet":0.0021,"Samples":43526},
+{"rank":5,"AS":197350,"Description":"ZAYTONA","CC":"PS","Users":83613,"Percent of CC Pop":2.10,"Percent of Internet":0.0020,"Samples":41498},
+{"rank":6,"AS":12754,"Description":"COOLNET","CC":"PS","Users":79241,"Percent of CC Pop":1.99,"Percent of Internet":0.0019,"Samples":39328},
+{"rank":7,"AS":47253,"Description":"AS-BNETSET","CC":"PS","Users":78207,"Percent of CC Pop":1.96,"Percent of Internet":0.0018,"Samples":38815},
+{"rank":8,"AS":51336,"Description":"GEMZO","CC":"PS","Users":67383,"Percent of CC Pop":1.69,"Percent of Internet":0.0016,"Samples":33443},
+{"rank":9,"AS":211057,"Description":"PS-ASTRA","CC":"PS","Users":63271,"Percent of CC Pop":1.59,"Percent of Internet":0.0015,"Samples":31402},
+{"rank":10,"AS":42013,"Description":"TOGETHER-COMMUNICATION-LTD","CC":"PS","Users":35848,"Percent of CC Pop":0.90,"Percent of Internet":0.0008,"Samples":17792},
+{"rank":11,"AS":44213,"Description":"NEWSTARMAX-ASN","CC":"PS","Users":18012,"Percent of CC Pop":0.45,"Percent of Internet":0.0004,"Samples":8940},
+{"rank":12,"AS":215886,"Description":"ZAINCO-CO-AS","CC":"PS","Users":12026,"Percent of CC Pop":0.30,"Percent of Internet":0.0003,"Samples":5969},
+{"rank":13,"AS":56995,"Description":"NETSTREAM","CC":"PS","Users":9862,"Percent of CC Pop":0.25,"Percent of Internet":0.0002,"Samples":4895},
+{"rank":14,"AS":210116,"Description":"PS-QUINTIEZ","CC":"PS","Users":5871,"Percent of CC Pop":0.15,"Percent of Internet":0.0001,"Samples":2914},
+{"rank":15,"AS":15975,"Description":"HADARA-AS","CC":"PS","Users":4783,"Percent of CC Pop":0.12,"Percent of Internet":0.0001,"Samples":2374},
+{"rank":16,"AS":47546,"Description":"ASADNET","CC":"PS","Users":4317,"Percent of CC Pop":0.11,"Percent of Internet":0.0001,"Samples":2143},
+{"rank":17,"AS":213207,"Description":"TECHHUB-HINET","CC":"PS","Users":3497,"Percent of CC Pop":0.09,"Percent of Internet":0.0001,"Samples":1736},
+{"rank":18,"AS":210974,"Description":"AJYALFI","CC":"PS","Users":3344,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":1660},
+{"rank":19,"AS":215355,"Description":"Alice Network","CC":"PS","Users":2939,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":1459},
+{"rank":20,"AS":57704,"Description":"SPEED-CLICK-LTD","CC":"PS","Users":2544,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":1263},
+{"rank":21,"AS":20719,"Description":"PS-BZU-AS BZU Autonomous System","CC":"PS","Users":1043,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":518},
+{"rank":22,"AS":13335,"Description":"CLOUDFLARENET","CC":"PS","Users":612,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":304},
+{"rank":23,"AS":42506,"Description":"PPU-AS","CC":"PS","Users":455,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":226},
+{"rank":24,"AS":214504,"Description":"HOSTMAN","CC":"PS","Users":265,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":132}
   ]
 }

@@ -1,9 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":10094,"Description":"UNN-BN Unified National Networks","CC":"BN","Users":497550,"Percent of CC Pop":99.12,"Percent of Internet":0.0117,"Samples":406287},
+{"rank":2,"AS":10101,"Description":"SIMPUR-BN UNN-","CC":"BN","Users":3665,"Percent of CC Pop":0.73,"Percent of Internet":0.0001,"Samples":2993},
+{"rank":3,"AS":133875,"Description":"BSPC-NON-AS-AP Brunei Shell Petroleum Company Sdn Bhd","CC":"BN","Users":286,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":234},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET","CC":"BN","Users":260,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":213}
   ]
 }

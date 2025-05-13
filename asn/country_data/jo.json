@@ -1,9 +1,25 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":48832,"Description":"ZAIN-","CC":"JO","Users":2537754,"Percent of CC Pop":30.61,"Percent of Internet":0.0599,"Samples":1095720},
+{"rank":2,"AS":8376,"Description":"Jordan Data Communications","CC":"JO","Users":1999983,"Percent of CC Pop":24.13,"Percent of Internet":0.0472,"Samples":863528},
+{"rank":3,"AS":9038,"Description":"BAT-AS9038","CC":"JO","Users":1986534,"Percent of CC Pop":23.96,"Percent of Internet":0.0469,"Samples":857721},
+{"rank":4,"AS":8697,"Description":"JTC-AS8697 Jordan Telecom Group  JTG ","CC":"JO","Users":1034647,"Percent of CC Pop":12.48,"Percent of Internet":0.0244,"Samples":446727},
+{"rank":5,"AS":42912,"Description":"XOL","CC":"JO","Users":220697,"Percent of CC Pop":2.66,"Percent of Internet":0.0052,"Samples":95290},
+{"rank":6,"AS":63199,"Description":"CDSC-AS1","CC":"JO","Users":159896,"Percent of CC Pop":1.93,"Percent of Internet":0.0038,"Samples":69038},
+{"rank":7,"AS":47887,"Description":"NEU-AS","CC":"JO","Users":133634,"Percent of CC Pop":1.61,"Percent of Internet":0.0032,"Samples":57699},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"JO","Users":88434,"Percent of CC Pop":1.07,"Percent of Internet":0.0021,"Samples":38183},
+{"rank":9,"AS":50670,"Description":"VTEL","CC":"JO","Users":42506,"Percent of CC Pop":0.51,"Percent of Internet":0.0010,"Samples":18353},
+{"rank":10,"AS":44702,"Description":"JCS-AS","CC":"JO","Users":34073,"Percent of CC Pop":0.41,"Percent of Internet":0.0008,"Samples":14712},
+{"rank":11,"AS":16276,"Description":"OVH","CC":"JO","Users":31936,"Percent of CC Pop":0.39,"Percent of Internet":0.0008,"Samples":13789},
+{"rank":12,"AS":21859,"Description":"ZEN-ECN","CC":"JO","Users":5005,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":2161},
+{"rank":13,"AS":60849,"Description":"ILEVANT-AS","CC":"JO","Users":4875,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":2105},
+{"rank":14,"AS":35656,"Description":"JUNET","CC":"JO","Users":4745,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":2049},
+{"rank":15,"AS":28730,"Description":"BLINKAS","CC":"JO","Users":1679,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":725},
+{"rank":16,"AS":8934,"Description":"NITC Amman - Jordan","CC":"JO","Users":1378,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":595},
+{"rank":17,"AS":33831,"Description":"RHC-AS","CC":"JO","Users":648,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":280}
   ]
 }

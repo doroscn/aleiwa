@@ -1,9 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "13/05/2025",
+  "Date": "12/05/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":20661,"Description":"TURKMENTELECOM-AS","CC":"TM","Users":1602454,"Percent of CC Pop":91.80,"Percent of Internet":0.0378,"Samples":5126},
+{"rank":2,"AS":51495,"Description":"AGTS-AS","CC":"TM","Users":100661,"Percent of CC Pop":5.77,"Percent of Internet":0.0024,"Samples":322}
   ]
 }
