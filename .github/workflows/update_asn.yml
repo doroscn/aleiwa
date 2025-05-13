@@ -8,6 +8,8 @@ on:
 jobs:
   update-asn:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  
 
     steps:
     - name: Checkout Repo
@@ -26,3 +28,5 @@ jobs:
         git add asn/country_data/*.json
         git commit -m "Update ASN JSON on $(date +'%Y-%m-%d')" || echo "No changes to commit"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
