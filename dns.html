@@ -54,7 +54,7 @@
 							<h3>Global DNS Server Validation System</h3>
 							<blockquote>For global network service deployment, DNS server availability directly impacts service quality. We developed a Bash-based automated validation system to: <a href="/nameserver/dnsview.html">relevant explanation</a></blockquote>
 							<div class="row">
-								<div class="col-6 col-12-medium">
+								<div class="col-8 col-12-medium">
 								<h3>Countries</h3>
 								<ul class='countries'>
 
@@ -444,7 +444,19 @@
 								
 								<li><a href="/nameserver/dnsip.html?code=ax">Åland Islands</a></li>
 						</div>
-						<div class="col-6 col-12-medium">
+						<div class="col-4 col-12-medium">
+							<h3>How CDN Implements DNS-Based Scheduling</h3>
+							<ul class="alt">
+								<p>CDN (Content Delivery Network) caches content on edge nodes close to users to accelerate access speed and reduce the load on the origin server. Scheduling refers to the process of deciding which node a user’s request should be directed to.</p>
+								<p>DNS is the most common scheduling method. DNS-based scheduling works by resolving the same domain name to different IP addresses, so that different users are directed to different CDN nodes.</p>
+								<p>Since a CDN cannot directly obtain the end user’s IP address, it can only see the IP of the LDNS (Local DNS Server) that initiates the DNS query. Therefore, the scheduling logic is based on the LDNS IP:</p>
+								<ol>
+									<li>The CDN collects a large amount of data about LDNS IPs, such as geographic location, ISP, and quality metrics</li>
+									<li>It maps LDNS IPs to corresponding regions or ISPs.</li>
+									<li>Based on this information, the CDN selects the optimal edge node and returns its IP address to the user.									</li>
+								<ol>
+							</ul>
+
 							<h3>What is DNS?</h3>
 							<ul class="alt">
 								<p>The Domain Name System (DNS) is a phone book for the internet, a framework which translates domain names, like facebook.com or twitter.com, into the IP addresses necessary for devices to load those internet resources (e.g. 9.9.9.9). In geek terms, that's called Resolution.</p>
@@ -459,6 +471,7 @@
 								<p>The program has a lot of options, but isn't difficult to use. Launch it, click Fastest DNS > Start DNS Test, and within a few seconds you'll be looking at a list of DNS services sorted by speed.</p>
 								<p>DNS Jumper can be useful, in particular because it's checking how servers perform from your location, but it doesn't run enough tests over a long enough period to give you a definitive answer.</p>
 							</ul>
+
 							<h3>How can I find the fastest DNS service?	</h3>
 							<ul class="alt">
 								<p>DNS servers can vary hugely in speed, particularly in areas which don't always have the best internet coverage (Africa, South America, Oceania.) To take an example of a single day when we tested, DNSPerf.com reported Cloudflare achieved an average 4.43ms query time for Oceania, while Yandex was left trailing at 350.24ms. That's potentially more than a third of a second in extra waiting time before your browser can access any new website.								</p>
