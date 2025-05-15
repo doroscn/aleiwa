@@ -1,3 +1,59 @@
+# Aleiwa Network Tools 🌐
+
+> 🚀 A free, fast online toolkit for network diagnostics  
+> 🧰 Designed for network engineers, CDN resource operators, and IDC infrastructure teams
+
+---
+
+## 🔗 Visit Website
+
+👉 [www.aleiwa.com](https://www.aleiwa.com)
+
+---
+
+## 💡 Features
+
+Aleiwa offers a suite of practical, free network diagnostics and intelligence tools, including:
+
+- 🌍 **DNS Lookup**: Query LDNS IPs by country and ASN. Useful for reverse validation and DNS-based traffic steering analysis.
+- 🔍 **Looking Glass**: Collection of test portals from major ASNs for link and performance validation to your infrastructure.
+- 📊 **ASN Rankings**: Lists the top 10 ASNs by IP address count for each country.
+- 📅 **Holiday Calendar**: Displays upcoming public holidays by country, useful for CDN or business planning.
+
+---
+
+## 🧱 Tech Stack
+
+This project is built with:
+
+- Static site: HTML + CSS + JavaScript
+- Data scripts: Python / Bash for backend data generation
+- Hosting: GitHub Pages & Vercel
+
+---
+
+## 🌍 Why Choose Aleiwa?
+
+- ✅ Clean and fast UI, no ads
+- ✅ Fully responsive on desktop and mobile
+- ✅ Trusted data sources (e.g. ipinfo.io, Cedexis, authoritative DNS sources)
+
+---
+
+## 📬 Contact Us
+
+- Twitter/X: [@AleiwaTool](https://x.com/AleiwaTool)
+- Facebook: [@Aleiwa](https://www.facebook.com/jash.zheng.5)
+- GitHub: [https://github.com/aleiwa-network](https://github.com/aleiwa-network)
+
+---
+
+## 📜 License
+
+MIT License – Feel free to use and contribute.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Aleiwa 网络工具网站 🌐
 
 > 🚀 免费、快速的在线网络工具集合网站  
