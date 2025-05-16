@@ -49,6 +49,7 @@ if [[ -z "$CURRENT_COUNTRY" ]]; then
 fi
 
 JSON_FILE="$ROOT_DIR/dnsselect/${CURRENT_COUNTRY}.json"
+echo "JSON_FILE is: $JSON_FILE"
 echo "今日验证国家: $CURRENT_COUNTRY (进度: $((current_index + 1))/$TOTAL)"
 
 CURRENT_TIME=$(date --utc +'%Y-%m-%dT%H:%M:%SZ')
