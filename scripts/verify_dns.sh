@@ -2,12 +2,11 @@
 set -eo pipefail
 
 SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
-PUBLIC_REPO_DIR="$SCRIPT_DIR/aleiwa"
-
-JSON_FILE="$PUBLIC_REPO_DIR/dnsselect/${CURRENT_COUNTRY}.json"
-
-STATE_DIR="$SCRIPT_DIR/state"
+ROOT_DIR="$SCRIPT_DIR/.."
+STATE_DIR="$ROOT_DIR/scripts/state"
 VALIDATION_STATUS_FILE="$STATE_DIR/validation_status.json"
+
+JSON_FILE="$ROOT_DIR/dnsselect/${CURRENT_COUNTRY}.json"
 
 mkdir -p "$STATE_DIR"
 
