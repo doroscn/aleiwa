@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "12/05/2025",
+  "Date": "17/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37451,"Description":"CongoTelecom","CC":"CG","Users":167852,"Percent of CC Pop":27.57,"Percent of Internet":0.0040,"Samples":234754},
-{"rank":2,"AS":37463,"Description":"MTN-CONGO","CC":"CG","Users":153647,"Percent of CC Pop":25.24,"Percent of Internet":0.0036,"Samples":214887},
-{"rank":3,"AS":36924,"Description":"GVA-Canalbox","CC":"CG","Users":152650,"Percent of CC Pop":25.08,"Percent of Internet":0.0036,"Samples":213492},
-{"rank":4,"AS":37550,"Description":"airtelcg","CC":"CG","Users":132143,"Percent of CC Pop":21.71,"Percent of Internet":0.0031,"Samples":184812},
-{"rank":5,"AS":327829,"Description":"SKYTIC-TELECOM","CC":"CG","Users":1179,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":1649},
-{"rank":6,"AS":328857,"Description":"SILICONEAS","CC":"CG","Users":797,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":1115},
-{"rank":7,"AS":328500,"Description":"AMC-Telecom","CC":"CG","Users":218,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":306},
-{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CG","Users":207,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":290}
+{"rank":1,"AS":37451,"Description":"CongoTelecom","CC":"CG","Users":168224,"Percent of CC Pop":27.63,"Percent of Internet":0.0040,"Samples":248111},
+{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"CG","Users":154714,"Percent of CC Pop":25.41,"Percent of Internet":0.0037,"Samples":228185},
+{"rank":3,"AS":37463,"Description":"MTN-CONGO","CC":"CG","Users":151507,"Percent of CC Pop":24.88,"Percent of Internet":0.0036,"Samples":223456},
+{"rank":4,"AS":37550,"Description":"airtelcg","CC":"CG","Users":132091,"Percent of CC Pop":21.69,"Percent of Internet":0.0031,"Samples":194820},
+{"rank":5,"AS":327829,"Description":"SKYTIC-TELECOM","CC":"CG","Users":979,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":1444},
+{"rank":6,"AS":328857,"Description":"SILICONEAS","CC":"CG","Users":818,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":1207},
+{"rank":7,"AS":328500,"Description":"AMC-Telecom","CC":"CG","Users":339,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":500},
+{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CG","Users":202,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":299}
   ]
 }

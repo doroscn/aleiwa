@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "12/05/2025",
+  "Date": "17/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37460,"Description":"ORANGE-CA","CC":"CF","Users":191626,"Percent of CC Pop":67.04,"Percent of Internet":0.0045,"Samples":39813},
-{"rank":2,"AS":328079,"Description":"TELECEL-CENTRAFRIQUE-AS","CC":"CF","Users":52396,"Percent of CC Pop":18.33,"Percent of Internet":0.0012,"Samples":10886},
-{"rank":3,"AS":329274,"Description":"MoovAfricaCentrafrique","CC":"CF","Users":41677,"Percent of CC Pop":14.58,"Percent of Internet":0.0010,"Samples":8659}
+{"rank":1,"AS":37460,"Description":"ORANGE-CA","CC":"CF","Users":189187,"Percent of CC Pop":66.16,"Percent of Internet":0.0045,"Samples":39795},
+{"rank":2,"AS":328079,"Description":"TELECEL-CENTRAFRIQUE-AS","CC":"CF","Users":53302,"Percent of CC Pop":18.64,"Percent of Internet":0.0013,"Samples":11212},
+{"rank":3,"AS":329274,"Description":"MoovAfricaCentrafrique","CC":"CF","Users":43314,"Percent of CC Pop":15.15,"Percent of Internet":0.0010,"Samples":9111}
   ]
 }

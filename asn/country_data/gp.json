@@ -1,18 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "12/05/2025",
+  "Date": "17/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3215,"Description":"France Telecom - Orange","CC":"GP","Users":62134,"Percent of CC Pop":28.47,"Percent of Internet":0.0015,"Samples":48289},
-{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GP","Users":54482,"Percent of CC Pop":24.96,"Percent of Internet":0.0013,"Samples":42342},
-{"rank":3,"AS":20776,"Description":"OUTREMER-AS","CC":"GP","Users":48871,"Percent of CC Pop":22.39,"Percent of Internet":0.0012,"Samples":37981},
-{"rank":4,"AS":16028,"Description":"Orange Caraibe","CC":"GP","Users":27726,"Percent of CC Pop":12.70,"Percent of Internet":0.0007,"Samples":21548},
-{"rank":5,"AS":48252,"Description":"DIGICELFWI","CC":"GP","Users":17819,"Percent of CC Pop":8.17,"Percent of Internet":0.0004,"Samples":13849},
-{"rank":6,"AS":36511,"Description":"NETDT-GUA","CC":"GP","Users":3209,"Percent of CC Pop":1.47,"Percent of Internet":0.0001,"Samples":2494},
-{"rank":7,"AS":21502,"Description":"ASN-NUMERICABLE","CC":"GP","Users":2107,"Percent of CC Pop":0.97,"Percent of Internet":0.0000,"Samples":1638},
-{"rank":8,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GP","Users":1149,"Percent of CC Pop":0.53,"Percent of Internet":0.0000,"Samples":893},
-{"rank":9,"AS":47798,"Description":"FR-MTVC","CC":"GP","Users":474,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":369},
-{"rank":10,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"GP","Users":198,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":154}
+{"rank":1,"AS":3215,"Description":"France Telecom - Orange","CC":"GP","Users":61763,"Percent of CC Pop":28.30,"Percent of Internet":0.0015,"Samples":47141},
+{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GP","Users":54144,"Percent of CC Pop":24.81,"Percent of Internet":0.0013,"Samples":41326},
+{"rank":3,"AS":20776,"Description":"OUTREMER-AS","CC":"GP","Users":50076,"Percent of CC Pop":22.95,"Percent of Internet":0.0012,"Samples":38221},
+{"rank":4,"AS":16028,"Description":"Orange Caraibe","CC":"GP","Users":27643,"Percent of CC Pop":12.67,"Percent of Internet":0.0007,"Samples":21099},
+{"rank":5,"AS":48252,"Description":"DIGICELFWI","CC":"GP","Users":17662,"Percent of CC Pop":8.09,"Percent of Internet":0.0004,"Samples":13481},
+{"rank":6,"AS":36511,"Description":"NETDT-GUA","CC":"GP","Users":3060,"Percent of CC Pop":1.40,"Percent of Internet":0.0001,"Samples":2336},
+{"rank":7,"AS":21502,"Description":"ASN-NUMERICABLE","CC":"GP","Users":2024,"Percent of CC Pop":0.93,"Percent of Internet":0.0000,"Samples":1545},
+{"rank":8,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GP","Users":1108,"Percent of CC Pop":0.51,"Percent of Internet":0.0000,"Samples":846},
+{"rank":9,"AS":47798,"Description":"FR-MTVC","CC":"GP","Users":479,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":366},
+{"rank":10,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"GP","Users":214,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":164}
   ]
 }

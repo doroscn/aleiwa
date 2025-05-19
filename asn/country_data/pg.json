@@ -1,18 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "12/05/2025",
+  "Date": "17/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":139898,"Description":"DCL-AS-AP Digitec Communications Limited","CC":"PG","Users":676911,"Percent of CC Pop":46.30,"Percent of Internet":0.0160,"Samples":174102},
-{"rank":2,"AS":58460,"Description":"DIGICELPNG-AS-AP Digicel PNG Ltd","CC":"PG","Users":411173,"Percent of CC Pop":28.13,"Percent of Internet":0.0097,"Samples":105754},
-{"rank":3,"AS":38009,"Description":"TELIKOM-PNG-AS-AP Telikom PNG Satellite Tier 1 AS Internet Service","CC":"PG","Users":344023,"Percent of CC Pop":23.53,"Percent of Internet":0.0081,"Samples":88483},
-{"rank":4,"AS":17828,"Description":"PNGDATACOLIMITED-AS-PG PNG DATACO LTD","CC":"PG","Users":19000,"Percent of CC Pop":1.30,"Percent of Internet":0.0004,"Samples":4887},
-{"rank":5,"AS":63945,"Description":"DIGITECPNG-AS-AP Digitec PNG Limited","CC":"PG","Users":3083,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":793},
-{"rank":6,"AS":60725,"Description":"O3B-AS SES Networks - Internet Service Provider operating GEO and MEO satellite constellation","CC":"PG","Users":2286,"Percent of CC Pop":0.16,"Percent of Internet":0.0001,"Samples":588},
-{"rank":7,"AS":136239,"Description":"CLICKPACIFICLTD-AS-AP CLICK PACIFIC LTD","CC":"PG","Users":1349,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":347},
-{"rank":8,"AS":138506,"Description":"PNTL-AS-AP PNG Nambawan Trophy Ltd","CC":"PG","Users":975,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":251},
-{"rank":9,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"PG","Users":917,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":236},
-{"rank":10,"AS":134605,"Description":"COMSERVPNGLTD-AS-AP Comserv PNG Ltd","CC":"PG","Users":874,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":225}
+{"rank":1,"AS":139898,"Description":"DCL-AS-AP Digitec Communications Limited","CC":"PG","Users":678182,"Percent of CC Pop":46.38,"Percent of Internet":0.0160,"Samples":173497},
+{"rank":2,"AS":58460,"Description":"DIGICELPNG-AS-AP Digicel PNG Ltd","CC":"PG","Users":413421,"Percent of CC Pop":28.27,"Percent of Internet":0.0098,"Samples":105764},
+{"rank":3,"AS":38009,"Description":"TELIKOM-PNG-AS-AP Telikom PNG Satellite Tier 1 AS Internet Service","CC":"PG","Users":341020,"Percent of CC Pop":23.32,"Percent of Internet":0.0081,"Samples":87242},
+{"rank":4,"AS":17828,"Description":"PNGDATACOLIMITED-AS-PG PNG DATACO LTD","CC":"PG","Users":18070,"Percent of CC Pop":1.24,"Percent of Internet":0.0004,"Samples":4623},
+{"rank":5,"AS":63945,"Description":"DIGITECPNG-AS-AP Digitec PNG Limited","CC":"PG","Users":3076,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":787},
+{"rank":6,"AS":60725,"Description":"O3B-AS SES Networks - Internet Service Provider operating GEO and MEO satellite constellation","CC":"PG","Users":2243,"Percent of CC Pop":0.15,"Percent of Internet":0.0001,"Samples":574},
+{"rank":7,"AS":136239,"Description":"CLICKPACIFICLTD-AS-AP CLICK PACIFIC LTD","CC":"PG","Users":1430,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":366},
+{"rank":8,"AS":138506,"Description":"PNTL-AS-AP PNG Nambawan Trophy Ltd","CC":"PG","Users":1196,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":306},
+{"rank":9,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"PG","Users":926,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":237},
+{"rank":10,"AS":134151,"Description":"STC-AS-AP Steamships Ltd","CC":"PG","Users":863,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":221},
+{"rank":11,"AS":134605,"Description":"COMSERVPNGLTD-AS-AP Comserv PNG Ltd","CC":"PG","Users":648,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":166}
   ]
 }

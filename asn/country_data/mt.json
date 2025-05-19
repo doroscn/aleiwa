@@ -1,18 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "12/05/2025",
+  "Date": "17/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15735,"Description":"DATASTREAM-NET","CC":"MT","Users":189895,"Percent of CC Pop":42.21,"Percent of Internet":0.0045,"Samples":138975},
-{"rank":2,"AS":12709,"Description":"MELITACABLE","CC":"MT","Users":188417,"Percent of CC Pop":41.88,"Percent of Internet":0.0044,"Samples":137893},
-{"rank":3,"AS":33874,"Description":"VFM-AS Epic Communications Limited","CC":"MT","Users":52115,"Percent of CC Pop":11.58,"Percent of Internet":0.0012,"Samples":38141},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MT","Users":13520,"Percent of CC Pop":3.01,"Percent of Internet":0.0003,"Samples":9895},
-{"rank":5,"AS":5532,"Description":"TERRANETMALTA","CC":"MT","Users":1902,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":1392},
-{"rank":6,"AS":214458,"Description":"ASN-PREMIERENETONETEK","CC":"MT","Users":1261,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":923},
-{"rank":7,"AS":12046,"Description":"ASN-CSC-UOM RicerkaNet","CC":"MT","Users":832,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":609},
-{"rank":8,"AS":15892,"Description":"MITTS-NET","CC":"MT","Users":676,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":495},
-{"rank":9,"AS":13213,"Description":"UK2NET-AS","CC":"MT","Users":673,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":493},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"MT","Users":169,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":124}
+{"rank":1,"AS":15735,"Description":"DATASTREAM-NET","CC":"MT","Users":191126,"Percent of CC Pop":42.48,"Percent of Internet":0.0045,"Samples":139164},
+{"rank":2,"AS":12709,"Description":"MELITACABLE","CC":"MT","Users":186639,"Percent of CC Pop":41.48,"Percent of Internet":0.0044,"Samples":135897},
+{"rank":3,"AS":33874,"Description":"VFM-AS Epic Communications Limited","CC":"MT","Users":52140,"Percent of CC Pop":11.59,"Percent of Internet":0.0012,"Samples":37965},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MT","Users":14389,"Percent of CC Pop":3.20,"Percent of Internet":0.0003,"Samples":10477},
+{"rank":5,"AS":5532,"Description":"TERRANETMALTA","CC":"MT","Users":1907,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":1389},
+{"rank":6,"AS":214458,"Description":"ASN-PREMIERENETONETEK","CC":"MT","Users":1155,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":841},
+{"rank":7,"AS":13213,"Description":"UK2NET-AS","CC":"MT","Users":711,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":518},
+{"rank":8,"AS":15892,"Description":"MITTS-NET","CC":"MT","Users":697,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":508},
+{"rank":9,"AS":12046,"Description":"ASN-CSC-UOM RicerkaNet","CC":"MT","Users":532,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":388},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"MT","Users":170,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":124}
   ]
 }

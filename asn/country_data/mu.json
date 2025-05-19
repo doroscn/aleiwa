@@ -1,23 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "12/05/2025",
+  "Date": "17/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":23889,"Description":"MauritiusTelecom","CC":"MU","Users":578851,"Percent of CC Pop":73.88,"Percent of Internet":0.0137,"Samples":578364},
-{"rank":2,"AS":30999,"Description":"EMTEL-AS-AP","CC":"MU","Users":160062,"Percent of CC Pop":20.43,"Percent of Internet":0.0038,"Samples":159928},
-{"rank":3,"AS":37332,"Description":"ZOL","CC":"MU","Users":14970,"Percent of CC Pop":1.91,"Percent of Internet":0.0004,"Samples":14958},
-{"rank":4,"AS":37622,"Description":"MTML-AS","CC":"MU","Users":14322,"Percent of CC Pop":1.83,"Percent of Internet":0.0003,"Samples":14310},
-{"rank":5,"AS":54801,"Description":"ZILLION-NETWORK","CC":"MU","Users":3968,"Percent of CC Pop":0.51,"Percent of Internet":0.0001,"Samples":3965},
-{"rank":6,"AS":30844,"Description":"LIQUID-AS","CC":"MU","Users":3508,"Percent of CC Pop":0.45,"Percent of Internet":0.0001,"Samples":3506},
-{"rank":7,"AS":271907,"Description":"COLNETWORK C.A.","CC":"MU","Users":3126,"Percent of CC Pop":0.40,"Percent of Internet":0.0001,"Samples":3124},
-{"rank":8,"AS":131471,"Description":"LOGINMEPVTLTD-AS-AP Login.Me Pvt Ltd","CC":"MU","Users":1597,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":1596},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"MU","Users":1179,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":1179},
-{"rank":10,"AS":37722,"Description":"Kaldera","CC":"MU","Users":462,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":462},
-{"rank":11,"AS":212238,"Description":"CDNEXT","CC":"MU","Users":401,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":401},
-{"rank":12,"AS":36868,"Description":"EIS","CC":"MU","Users":200,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":200},
-{"rank":13,"AS":328019,"Description":"ATCOMM-BROADBAND-SERVICES-LTD","CC":"MU","Users":149,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":149},
-{"rank":14,"AS":150000,"Description":"DBS-AS-AP Data-Beam Business Solution","CC":"MU","Users":148,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":148},
-{"rank":15,"AS":37662,"Description":"WIOCC-AS","CC":"MU","Users":123,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":123}
+{"rank":1,"AS":23889,"Description":"MauritiusTelecom","CC":"MU","Users":578550,"Percent of CC Pop":73.84,"Percent of Internet":0.0137,"Samples":588417},
+{"rank":2,"AS":30999,"Description":"EMTEL-AS-AP","CC":"MU","Users":162612,"Percent of CC Pop":20.75,"Percent of Internet":0.0038,"Samples":165386},
+{"rank":3,"AS":37622,"Description":"MTML-AS","CC":"MU","Users":14414,"Percent of CC Pop":1.84,"Percent of Internet":0.0003,"Samples":14660},
+{"rank":4,"AS":37332,"Description":"ZOL","CC":"MU","Users":14412,"Percent of CC Pop":1.84,"Percent of Internet":0.0003,"Samples":14658},
+{"rank":5,"AS":30844,"Description":"LIQUID-AS","CC":"MU","Users":3847,"Percent of CC Pop":0.49,"Percent of Internet":0.0001,"Samples":3913},
+{"rank":6,"AS":54801,"Description":"ZILLION-NETWORK","CC":"MU","Users":2980,"Percent of CC Pop":0.38,"Percent of Internet":0.0001,"Samples":3031},
+{"rank":7,"AS":271907,"Description":"COLNETWORK C.A.","CC":"MU","Users":2052,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":2088},
+{"rank":8,"AS":131471,"Description":"LOGINMEPVTLTD-AS-AP Login.Me Pvt Ltd","CC":"MU","Users":1569,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":1596},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"MU","Users":1132,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":1152},
+{"rank":10,"AS":37722,"Description":"Kaldera","CC":"MU","Users":471,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":480},
+{"rank":11,"AS":212238,"Description":"CDNEXT","CC":"MU","Users":435,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":443},
+{"rank":12,"AS":36868,"Description":"EIS","CC":"MU","Users":214,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":218},
+{"rank":13,"AS":37662,"Description":"WIOCC-AS","CC":"MU","Users":154,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":157},
+{"rank":14,"AS":328019,"Description":"ATCOMM-BROADBAND-SERVICES-LTD","CC":"MU","Users":147,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":150}
   ]
 }

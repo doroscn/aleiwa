@@ -1,17 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "12/05/2025",
+  "Date": "17/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6639,"Description":"CWCAYMAN","CC":"KY","Users":24819,"Percent of CC Pop":41.86,"Percent of Internet":0.0006,"Samples":29192},
-{"rank":2,"AS":36549,"Description":"LOGIC-36549","CC":"KY","Users":13755,"Percent of CC Pop":23.20,"Percent of Internet":0.0003,"Samples":16179},
-{"rank":3,"AS":16705,"Description":"LOGIC-CAYMAN-TELECAYMAN","CC":"KY","Users":8770,"Percent of CC Pop":14.79,"Percent of Internet":0.0002,"Samples":10316},
-{"rank":4,"AS":21744,"Description":"WESTTEL LTD DBA LOGIC","CC":"KY","Users":4144,"Percent of CC Pop":6.99,"Percent of Internet":0.0001,"Samples":4875},
-{"rank":5,"AS":13771,"Description":"DIGICEL-CAYMAN","CC":"KY","Users":3903,"Percent of CC Pop":6.58,"Percent of Internet":0.0001,"Samples":4591},
-{"rank":6,"AS":16437,"Description":"INFINITY-BROADBAND-LTD","CC":"KY","Users":1864,"Percent of CC Pop":3.14,"Percent of Internet":0.0000,"Samples":2193},
-{"rank":7,"AS":30689,"Description":"FLOW-NET","CC":"KY","Users":1197,"Percent of CC Pop":2.02,"Percent of Internet":0.0000,"Samples":1408},
-{"rank":8,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"KY","Users":582,"Percent of CC Pop":0.98,"Percent of Internet":0.0000,"Samples":685},
-{"rank":9,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"KY","Users":151,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":178}
+{"rank":1,"AS":6639,"Description":"CWCAYMAN","CC":"KY","Users":25239,"Percent of CC Pop":42.57,"Percent of Internet":0.0006,"Samples":29865},
+{"rank":2,"AS":36549,"Description":"LOGIC-36549","CC":"KY","Users":14460,"Percent of CC Pop":24.39,"Percent of Internet":0.0003,"Samples":17111},
+{"rank":3,"AS":16705,"Description":"LOGIC-CAYMAN-TELECAYMAN","CC":"KY","Users":8010,"Percent of CC Pop":13.51,"Percent of Internet":0.0002,"Samples":9479},
+{"rank":4,"AS":13771,"Description":"DIGICEL-CAYMAN","CC":"KY","Users":3819,"Percent of CC Pop":6.44,"Percent of Internet":0.0001,"Samples":4519},
+{"rank":5,"AS":21744,"Description":"WESTTEL LTD DBA LOGIC","CC":"KY","Users":3724,"Percent of CC Pop":6.28,"Percent of Internet":0.0001,"Samples":4407},
+{"rank":6,"AS":16437,"Description":"INFINITY-BROADBAND-LTD","CC":"KY","Users":1936,"Percent of CC Pop":3.27,"Percent of Internet":0.0000,"Samples":2291},
+{"rank":7,"AS":30689,"Description":"FLOW-NET","CC":"KY","Users":1178,"Percent of CC Pop":1.99,"Percent of Internet":0.0000,"Samples":1395},
+{"rank":8,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"KY","Users":673,"Percent of CC Pop":1.14,"Percent of Internet":0.0000,"Samples":797},
+{"rank":9,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"KY","Users":158,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":188}
   ]
 }

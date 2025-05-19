@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "12/05/2025",
+  "Date": "17/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9471,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":139392,"Percent of CC Pop":56.28,"Percent of Internet":0.0033,"Samples":36776},
-{"rank":2,"AS":55943,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":46836,"Percent of CC Pop":18.91,"Percent of Internet":0.0011,"Samples":12357},
-{"rank":3,"AS":138179,"Description":"PMT-AS-AP PACIFIC MOBILE TELECOM","CC":"PF","Users":41530,"Percent of CC Pop":16.77,"Percent of Internet":0.0010,"Samples":10957},
-{"rank":4,"AS":56017,"Description":"VITI-AS-PF VITI","CC":"PF","Users":19728,"Percent of CC Pop":7.97,"Percent of Internet":0.0005,"Samples":5205}
+{"rank":1,"AS":9471,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":137481,"Percent of CC Pop":55.50,"Percent of Internet":0.0032,"Samples":36390},
+{"rank":2,"AS":55943,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":47659,"Percent of CC Pop":19.24,"Percent of Internet":0.0011,"Samples":12615},
+{"rank":3,"AS":138179,"Description":"PMT-AS-AP PACIFIC MOBILE TELECOM","CC":"PF","Users":42876,"Percent of CC Pop":17.31,"Percent of Internet":0.0010,"Samples":11349},
+{"rank":4,"AS":56017,"Description":"VITI-AS-PF VITI","CC":"PF","Users":19486,"Percent of CC Pop":7.87,"Percent of Internet":0.0005,"Samples":5158}
   ]
 }

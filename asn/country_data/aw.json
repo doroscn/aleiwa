@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "12/05/2025",
+  "Date": "17/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11816,"Description":"SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.","CC":"AW","Users":100829,"Percent of CC Pop":91.93,"Percent of Internet":0.0024,"Samples":81681},
-{"rank":2,"AS":264645,"Description":"NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"AW","Users":8663,"Percent of CC Pop":7.90,"Percent of Internet":0.0002,"Samples":7018}
+{"rank":1,"AS":11816,"Description":"SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.","CC":"AW","Users":100879,"Percent of CC Pop":91.98,"Percent of Internet":0.0024,"Samples":83100},
+{"rank":2,"AS":264645,"Description":"NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"AW","Users":8646,"Percent of CC Pop":7.88,"Percent of Internet":0.0002,"Samples":7123}
   ]
 }
