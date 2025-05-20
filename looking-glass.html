@@ -93,35 +93,46 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-            <script>
-                // 加载 JSON 文件
-                fetch('lg/lg.json')
-                    .then(response => response.json())
-                    .then(data => {
-                        const tableBody = document.querySelector("#LGTable tbody");
-                        data.forEach(item => {
-                            const row = document.createElement("tr");
-                            // 动态插入数据
-                            row.innerHTML = `
-                                <td>${item["AS Number"]}</td>
-                                <td>${item["AS Info"]}</td>
-                                <td>${item["AS Country / Region"]}</td>
-                                <td><a href="${item["Looking Glass"]}" target="_blank">Looking Glass</a></td>
-                            `;
-                            tableBody.appendChild(row);
-                        });
-                    })
-					document.getElementById('searchInput').addEventListener('input', function () {
-  					const keyword = this.value.toLowerCase().trim();
-				    const filtered = allData.filter(item => item["AS Number"].toLowerCase().includes(keyword));
-					renderTable(filtered);
+			<script>
+				let allData = [];
+			
+				function renderTable(data) {
+					const tableBody = document.querySelector("#LGTable tbody");
+					tableBody.innerHTML = ''; 
+					data.forEach(item => {
+						const row = document.createElement("tr");
+						row.innerHTML = `
+							<td>${item["AS Number"]}</td>
+							<td>${item["AS Info"]}</td>
+							<td>${item["AS Country / Region"]}</td>
+							<td><a href="${item["Looking Glass"]}" target="_blank">Looking Glass</a></td>
+						`;
+						tableBody.appendChild(row);
+					});
+				}
+			
+				// 加载 JSON 文件
+				fetch('lg/lg.json')
+					.then(response => response.json())
+					.then(data => {
+						allData = data;
+						renderTable(allData);
+			
+						// 搜索框事件绑定
+						document.getElementById('searchInput').addEventListener('input', function () {
+							const keyword = this.value.toLowerCase().trim();
+							const filtered = allData.filter(item =>
+								item["AS Number"].toLowerCase().includes(keyword)
+							);
+							renderTable(filtered);
+						});
 					})
 					.catch(error => {
-					    console.error('Error loading JSON:', error);
-					    const tableBody = document.querySelector("#LGTable tbody");
+						console.error('Error loading JSON:', error);
+						const tableBody = document.querySelector("#LGTable tbody");
 						tableBody.innerHTML = '<tr><td colspan="4">Failed to load data. Please try again later.</td></tr>';
 					});
-            </script>
+			</script>
 			<script type="application/ld+json">
 				{
 				  "@context": "https://schema.org",
