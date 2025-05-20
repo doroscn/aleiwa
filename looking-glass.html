@@ -50,6 +50,7 @@
 						<div class="inner">
 							<h1>Looking-glass list</h1>
 							<span class="image main"><img src="images/lookingglass.png" alt="" /></span>
+							<input type="text" id="searchInput" placeholder="Search by AS Number..." style="width: 100%; padding: 8px; margin-bottom: 20px; font-size: 1em;">
                             <table id="LGTable">
                                 <thead>
                                     <tr>
@@ -110,7 +111,16 @@
                             tableBody.appendChild(row);
                         });
                     })
-                    .catch(error => console.error('Error loading JSON:', error));
+					document.getElementById('searchInput').addEventListener('input', function () {
+  					const keyword = this.value.toLowerCase().trim();
+				    const filtered = allData.filter(item => item["AS Number"].toLowerCase().includes(keyword));
+					renderTable(filtered);
+					})
+					.catch(error => {
+					    console.error('Error loading JSON:', error);
+					    const tableBody = document.querySelector("#LGTable tbody");
+						tableBody.innerHTML = '<tr><td colspan="4">Failed to load data. Please try again later.</td></tr>';
+					});
             </script>
 			<script type="application/ld+json">
 				{
