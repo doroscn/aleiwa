@@ -107,14 +107,15 @@
                 <img src="/images/logo2.svg" alt="AleiwA Network Tools" width="40" height="40">
                 <span>Aleiwa Network Tools</span>
             </a>
-            <div class="links">
+            <div class="links" id="nav-links">
                 <a href="/dns.html">DNS Analytics</a>
                 <a href="/topisps.html">ASN Rankings</a>
                 <a href="/looking-glass.html">Looking-glass</a>
-                <a href="/routeviews.html">routeviews</a>
-                <a href="/nameserver/dnsview.html">About</a>
+                <a href="/routeviews.html">Routeviews</a>
+                <a href="/privacy.html">Privacy</a>
+                <a href="/about.html">About</a>
             </div>
-        </div>
+            <div class="menu-toggle" id="menu-toggle">☰</div>
     </nav>
     <div class="container">
         <h1>Data Collection Methodology</h1>
@@ -222,5 +223,10 @@
         <p>© 2025 Aleiwa Network Tools. All rights reserved.</p>
     </footer>
     <script src="/assets/js/app.js"></script>
+    <script>
+        document.getElementById("menu-toggle").addEventListener("click", function () {
+            document.getElementById("nav-links").classList.toggle("active");
+        });
+    </script>
 </body>
 </html>
