@@ -101,7 +101,7 @@ nav .links a:hover {
     nav .links {
         display: none;
         flex-direction: column;
-        background-color: #1e1e2f;
+        background-color: #ffffff;
         position: absolute;
         top: 60px;
         right: 1rem;
