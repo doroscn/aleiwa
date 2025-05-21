@@ -44,15 +44,78 @@ body {
 }
 
 nav {
+    position: sticky;
+    top: 0;
     background: var(--card-bg);
+    z-index: 999;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    border-bottom: 1px solid var(--border-color);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    padding: 0.5rem 0;
+    font-family: sans-serif;
     border-bottom: 1px solid var(--border-color);
 }
 
 nav .container {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.brand-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+nav .links {
+    display: flex;
+    gap: 1rem;
+}
+
+nav .links a {
+    text-decoration: none;
+    color: #43494c;
+    font-size: 0.95rem;
+    transition: color 0.2s;
+}
+
+nav .links a:hover {
+    color: #0f86d6;
+}
+
+.menu-toggle {
+    display: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    nav .links {
+        display: none;
+        flex-direction: column;
+        background-color: #1e1e2f;
+        position: absolute;
+        top: 60px;
+        right: 1rem;
+        padding: 1rem;
+        border-radius: 0.5rem;
+    }
+
+    nav .links.active {
+        display: flex;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
 }
 
 .search-box {

@@ -8,6 +8,12 @@
     <meta name="description" content="Explore Aleiwa's global network tools: Discover top ISPs, fastest public DNS servers, route analysis, and real-time network diagnostics for professionals.">
     <meta name="google-adsense-account" content="ca-pub-6600663344964826">
     <meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
+    <meta property="og:title" content="Aleiwa: Best Public DNS & ISP Rankings">
+    <meta property="og:description" content="Discover top ISPs, fastest DNS servers, and real-time global network data.">
+    <meta property="og:url" content="https://www.aleiwa.com/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="images/apple-touch-icon.png">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
     <link rel="icon" href="/favicon.png" type="image/png">
     <link rel="icon" href="/favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="assets/css/style.css">
@@ -26,8 +32,10 @@
                 <a href="topisps.html">ASN Rankings</a>
                 <a href="looking-glass.html">Looking-glass</a>
                 <a href="routeviews.html">Routeviews</a>
+                <a href="privacy.html">Privacy</a>
                 <a href="about.html">About</a>
             </div>
+            <div class="menu-toggle" id="menu-toggle">☰</div>
         </div>
     </nav>
 
@@ -82,6 +90,11 @@
     </main>
 
     <script src="assets/js/app.js"></script>
+    <script>
+        document.getElementById("menu-toggle").addEventListener("click", function () {
+            document.getElementById("nav-links").classList.toggle("active");
+        });
+    </script>
     <script type="application/ld+json">
         {
           "@context": "https://schema.org",
