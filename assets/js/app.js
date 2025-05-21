@@ -22,7 +22,7 @@ async function loadData() {
         // 加载国家元数据
         const [countries, lastChecked] = await Promise.all([
             fetchJson(`${DATA_PATH}/country_map.json`),
-            fetchJson(`data/state/validation_status.json`)
+            fetchJson(`scripts/state/validation_status.json`)
         ]);
 
         // 显示国家信息
@@ -108,3 +108,14 @@ function formatDate(isoString) {
         minute: '2-digit'
     });
 }
+
+document.addEventListener("DOMContentLoaded", function () {
+    const input = document.getElementById("countryCode");
+    if (input) {
+        input.addEventListener("keydown", function (event) {
+            if (event.key === "Enter") {
+                loadData();
+            }
+        });
+    }
+});
