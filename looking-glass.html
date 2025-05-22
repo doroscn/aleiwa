@@ -20,7 +20,7 @@
 
 							<!-- Logo -->
 								<a href="index.html" class="logo">
-									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Aleiwa</span>
+									<span class="symbol"><img src="images/logo2.svg" alt="" /></span><span class="title">Aleiwa</span>
 								</a>
 
 							<!-- Nav -->
@@ -111,14 +111,12 @@
 					});
 				}
 			
-				// 加载 JSON 文件
 				fetch('lg/lg.json')
 					.then(response => response.json())
 					.then(data => {
 						allData = data;
 						renderTable(allData);
 			
-						// 搜索框事件绑定
 						document.getElementById('searchInput').addEventListener('input', function () {
 							const keyword = this.value.toLowerCase().trim();
 							const filtered = allData.filter(item =>
