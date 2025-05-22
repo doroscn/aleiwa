@@ -22,7 +22,7 @@ async function loadData() {
         // 加载国家元数据
         const [countries, lastChecked] = await Promise.all([
             fetchJson(`${DATA_PATH}/country_map.json`),
-            fetchJson(`scripts/state/validation_status.json`)
+            fetchJson(`data/state/validation_status.json`)
         ]);
 
         // 显示国家信息
