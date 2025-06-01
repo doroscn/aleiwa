@@ -1,9 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3695,"Description":"SPM-TELECOM-1","CC":"PM","Users":3161,"Percent of CC Pop":99.30,"Percent of Internet":0.0001,"Samples":4993}
+{"rank":1,"AS":3695,"Description":"SPM-TELECOM-1","CC":"PM","Users":3150,"Percent of CC Pop":98.94,"Percent of Internet":0.0001,"Samples":6532}
   ]
 }

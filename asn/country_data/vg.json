@@ -1,12 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"VG","Users":7871,"Percent of CC Pop":44.79,"Percent of Internet":0.0002,"Samples":15146},
-{"rank":2,"AS":396357,"Description":"BVI-DIG","CC":"VG","Users":5363,"Percent of CC Pop":30.52,"Percent of Internet":0.0001,"Samples":10319},
-{"rank":3,"AS":22069,"Description":"CARIB-23","CC":"VG","Users":3885,"Percent of CC Pop":22.11,"Percent of Internet":0.0001,"Samples":7477},
-{"rank":4,"AS":203230,"Description":"MULTITK-AS","CC":"VG","Users":266,"Percent of CC Pop":1.52,"Percent of Internet":0.0000,"Samples":513}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"VG","Users":8107,"Percent of CC Pop":46.12,"Percent of Internet":0.0002,"Samples":16243},
+{"rank":2,"AS":396357,"Description":"BVI-DIG","CC":"VG","Users":5154,"Percent of CC Pop":29.32,"Percent of Internet":0.0001,"Samples":10327},
+{"rank":3,"AS":22069,"Description":"CARIB-23","CC":"VG","Users":3841,"Percent of CC Pop":21.85,"Percent of Internet":0.0001,"Samples":7696},
+{"rank":4,"AS":203230,"Description":"MULTITK-AS","CC":"VG","Users":202,"Percent of CC Pop":1.15,"Percent of Internet":0.0000,"Samples":405},
+{"rank":5,"AS":216475,"Description":"NKTELECOM","CC":"VG","Users":81,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":164},
+{"rank":6,"AS":200313,"Description":"INTERNET-IT","CC":"VG","Users":79,"Percent of CC Pop":0.45,"Percent of Internet":0.0000,"Samples":159}
   ]
 }

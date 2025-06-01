@@ -1,20 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29571,"Description":"ORANGE-COTE-IVOIRE","CC":"CI","Users":7848554,"Percent of CC Pop":54.20,"Percent of Internet":0.1853,"Samples":4190630},
-{"rank":2,"AS":36974,"Description":"MTNCI-AS","CC":"CI","Users":3506995,"Percent of CC Pop":24.22,"Percent of Internet":0.0828,"Samples":1872513},
-{"rank":3,"AS":37190,"Description":"ATLANTIQUE-TELECOM-","CC":"CI","Users":2484119,"Percent of CC Pop":17.15,"Percent of Internet":0.0586,"Samples":1326362},
-{"rank":4,"AS":36924,"Description":"GVA-Canalbox","CC":"CI","Users":628177,"Percent of CC Pop":4.34,"Percent of Internet":0.0148,"Samples":335407},
-{"rank":5,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CI","Users":4004,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":2138},
-{"rank":6,"AS":37282,"Description":"MAINONE","CC":"CI","Users":3462,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":1849},
-{"rank":7,"AS":37381,"Description":"VIPNET","CC":"CI","Users":3034,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":1620},
-{"rank":8,"AS":327746,"Description":"DATACONNECT-AS","CC":"CI","Users":1071,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":572},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"CI","Users":494,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":264},
-{"rank":10,"AS":215672,"Description":"MOECHUANG-NETWORK","CC":"CI","Users":432,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":231},
-{"rank":11,"AS":328290,"Description":"Vodacom-AS","CC":"CI","Users":374,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":200},
-{"rank":12,"AS":328193,"Description":"SOCIETE-NATIONALE-DE-DEVELOPPEMENT-INFOR","CC":"CI","Users":333,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":178}
+{"rank":1,"AS":29571,"Description":"ORANGE-COTE-IVOIRE","CC":"CI","Users":7846819,"Percent of CC Pop":54.14,"Percent of Internet":0.1852,"Samples":4250919},
+{"rank":2,"AS":36974,"Description":"MTNCI-AS","CC":"CI","Users":3503694,"Percent of CC Pop":24.17,"Percent of Internet":0.0827,"Samples":1898084},
+{"rank":3,"AS":37190,"Description":"ATLANTIQUE-TELECOM-","CC":"CI","Users":2507701,"Percent of CC Pop":17.30,"Percent of Internet":0.0592,"Samples":1358517},
+{"rank":4,"AS":36924,"Description":"GVA-Canalbox","CC":"CI","Users":620682,"Percent of CC Pop":4.28,"Percent of Internet":0.0147,"Samples":336247},
+{"rank":5,"AS":37282,"Description":"MAINONE","CC":"CI","Users":3957,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":2144},
+{"rank":6,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CI","Users":3841,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":2081},
+{"rank":7,"AS":37381,"Description":"VIPNET","CC":"CI","Users":3357,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":1819},
+{"rank":8,"AS":327746,"Description":"DATACONNECT-AS","CC":"CI","Users":910,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":493},
+{"rank":9,"AS":215672,"Description":"MOECHUANG-NETWORK","CC":"CI","Users":570,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":309},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"CI","Users":553,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":300},
+{"rank":11,"AS":328193,"Description":"SOCIETE-NATIONALE-DE-DEVELOPPEMENT-INFOR","CC":"CI","Users":406,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":220},
+{"rank":12,"AS":328290,"Description":"Vodacom-AS","CC":"CI","Users":275,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":149},
+{"rank":13,"AS":328729,"Description":"Groupement-Des-Services-Eau-Electricite","CC":"CI","Users":234,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":127}
   ]
 }

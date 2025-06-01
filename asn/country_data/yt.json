@@ -1,13 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":49902,"Description":"SRR-AS","CC":"YT","Users":147086,"Percent of CC Pop":75.39,"Percent of Internet":0.0035,"Samples":11160},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"YT","Users":18214,"Percent of CC Pop":9.34,"Percent of Internet":0.0004,"Samples":1382},
-{"rank":3,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"YT","Users":14089,"Percent of CC Pop":7.22,"Percent of Internet":0.0003,"Samples":1069},
-{"rank":4,"AS":37614,"Description":"STOI-AS","CC":"YT","Users":13061,"Percent of CC Pop":6.69,"Percent of Internet":0.0003,"Samples":991},
-{"rank":5,"AS":214095,"Description":"ESIMINTERNATIONAL","CC":"YT","Users":1963,"Percent of CC Pop":1.01,"Percent of Internet":0.0000,"Samples":149}
+{"rank":1,"AS":49902,"Description":"SRR-AS","CC":"YT","Users":142613,"Percent of CC Pop":73.02,"Percent of Internet":0.0034,"Samples":11662},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"YT","Users":23332,"Percent of CC Pop":11.95,"Percent of Internet":0.0006,"Samples":1908},
+{"rank":3,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"YT","Users":14173,"Percent of CC Pop":7.26,"Percent of Internet":0.0003,"Samples":1159},
+{"rank":4,"AS":37614,"Description":"STOI-AS","CC":"YT","Users":12705,"Percent of CC Pop":6.51,"Percent of Internet":0.0003,"Samples":1039},
+{"rank":5,"AS":214095,"Description":"ESIMINTERNATIONAL","CC":"YT","Users":1871,"Percent of CC Pop":0.96,"Percent of Internet":0.0000,"Samples":153}
   ]
 }

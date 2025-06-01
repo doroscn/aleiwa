@@ -1,15 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":16058,"Description":"Gabon-Telecom","CC":"GA","Users":787510,"Percent of CC Pop":58.03,"Percent of Internet":0.0186,"Samples":676270},
-{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"GA","Users":390671,"Percent of CC Pop":28.79,"Percent of Internet":0.0092,"Samples":335487},
-{"rank":3,"AS":37616,"Description":"Airtel","CC":"GA","Users":174482,"Percent of CC Pop":12.86,"Percent of Internet":0.0041,"Samples":149836},
-{"rank":4,"AS":37582,"Description":"ANINF","CC":"GA","Users":2471,"Percent of CC Pop":0.18,"Percent of Internet":0.0001,"Samples":2122},
-{"rank":5,"AS":328485,"Description":"Reserved (afrinic)","CC":"GA","Users":769,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":661},
-{"rank":6,"AS":328304,"Description":"WAKA-AS","CC":"GA","Users":718,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":617},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"GA","Users":275,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":237}
+{"rank":1,"AS":16058,"Description":"Gabon-Telecom","CC":"GA","Users":801521,"Percent of CC Pop":59.02,"Percent of Internet":0.0189,"Samples":772666},
+{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"GA","Users":379884,"Percent of CC Pop":27.97,"Percent of Internet":0.0090,"Samples":366208},
+{"rank":3,"AS":37616,"Description":"Airtel","CC":"GA","Users":172154,"Percent of CC Pop":12.68,"Percent of Internet":0.0041,"Samples":165957},
+{"rank":4,"AS":37582,"Description":"ANINF","CC":"GA","Users":2470,"Percent of CC Pop":0.18,"Percent of Internet":0.0001,"Samples":2382},
+{"rank":5,"AS":328485,"Description":"Reserved (afrinic)","CC":"GA","Users":757,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":730},
+{"rank":6,"AS":328304,"Description":"WAKA-AS","CC":"GA","Users":681,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":657},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"GA","Users":282,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":272},
+{"rank":8,"AS":327876,"Description":"Societe-TLDC","CC":"GA","Users":159,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":154}
   ]
 }

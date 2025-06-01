@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":24757,"Description":"EthioNet-AS","CC":"ET","Users":24924338,"Percent of CC Pop":83.13,"Percent of Internet":0.5884,"Samples":5113540},
-{"rank":2,"AS":328988,"Description":"SAFARICOM-TEL","CC":"ET","Users":5016276,"Percent of CC Pop":16.73,"Percent of Internet":0.1184,"Samples":1029152},
-{"rank":3,"AS":13335,"Description":"CLOUDFLARENET","CC":"ET","Users":25223,"Percent of CC Pop":0.08,"Percent of Internet":0.0006,"Samples":5175},
-{"rank":4,"AS":329227,"Description":"WS-ASN","CC":"ET","Users":15358,"Percent of CC Pop":0.05,"Percent of Internet":0.0004,"Samples":3151}
+{"rank":1,"AS":24757,"Description":"EthioNet-AS","CC":"ET","Users":24880631,"Percent of CC Pop":82.92,"Percent of Internet":0.5873,"Samples":5057115},
+{"rank":2,"AS":328988,"Description":"SAFARICOM-TEL","CC":"ET","Users":5070116,"Percent of CC Pop":16.90,"Percent of Internet":0.1197,"Samples":1030527},
+{"rank":3,"AS":13335,"Description":"CLOUDFLARENET","CC":"ET","Users":41125,"Percent of CC Pop":0.14,"Percent of Internet":0.0010,"Samples":8359},
+{"rank":4,"AS":329227,"Description":"WS-ASN","CC":"ET","Users":13308,"Percent of CC Pop":0.04,"Percent of Internet":0.0003,"Samples":2705}
   ]
 }

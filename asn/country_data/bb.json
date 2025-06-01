@@ -1,14 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14813,"Description":"BB-COLUMBUS","CC":"BB","Users":181289,"Percent of CC Pop":74.72,"Percent of Internet":0.0043,"Samples":317913},
-{"rank":2,"AS":35900,"Description":"DIGI-BDS-ASN","CC":"BB","Users":58845,"Percent of CC Pop":24.25,"Percent of Internet":0.0014,"Samples":103192},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BB","Users":1590,"Percent of CC Pop":0.66,"Percent of Internet":0.0000,"Samples":2790},
-{"rank":4,"AS":174,"Description":"COGENT-174","CC":"BB","Users":388,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":681},
-{"rank":5,"AS":55033,"Description":"UWI-CH-ASN1","CC":"BB","Users":251,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":441},
-{"rank":6,"AS":10278,"Description":"CWWI-AS","CC":"BB","Users":150,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":264}
+{"rank":1,"AS":14813,"Description":"BB-COLUMBUS","CC":"BB","Users":181039,"Percent of CC Pop":74.61,"Percent of Internet":0.0043,"Samples":336313},
+{"rank":2,"AS":35900,"Description":"DIGI-BDS-ASN","CC":"BB","Users":58275,"Percent of CC Pop":24.02,"Percent of Internet":0.0014,"Samples":108258},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BB","Users":2900,"Percent of CC Pop":1.20,"Percent of Internet":0.0001,"Samples":5389},
+{"rank":4,"AS":55033,"Description":"UWI-CH-ASN1","CC":"BB","Users":188,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":350},
+{"rank":5,"AS":10278,"Description":"CWWI-AS","CC":"BB","Users":145,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":270}
   ]
 }

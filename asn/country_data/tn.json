@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37705,"Description":"TOPNET","CC":"TN","Users":2367236,"Percent of CC Pop":29.66,"Percent of Internet":0.0559,"Samples":2094824},
-{"rank":2,"AS":37693,"Description":"TUNISIANA","CC":"TN","Users":2312022,"Percent of CC Pop":28.96,"Percent of Internet":0.0546,"Samples":2045964},
-{"rank":3,"AS":37492,"Description":"ORANGE-","CC":"TN","Users":1584855,"Percent of CC Pop":19.85,"Percent of Internet":0.0374,"Samples":1402476},
-{"rank":4,"AS":327934,"Description":"Tunisie-Telecom","CC":"TN","Users":848989,"Percent of CC Pop":10.64,"Percent of Internet":0.0200,"Samples":751291},
-{"rank":5,"AS":37671,"Description":"GLOBALNET-AS","CC":"TN","Users":553513,"Percent of CC Pop":6.93,"Percent of Internet":0.0131,"Samples":489817},
-{"rank":6,"AS":2609,"Description":"TN-BB-AS Tunisia BackBone AS","CC":"TN","Users":149236,"Percent of CC Pop":1.87,"Percent of Internet":0.0035,"Samples":132063},
-{"rank":7,"AS":328880,"Description":"STE-INTERNET-SMART-SOLUTIONS-AS","CC":"TN","Users":125963,"Percent of CC Pop":1.58,"Percent of Internet":0.0030,"Samples":111468},
-{"rank":8,"AS":5438,"Description":"ATI-","CC":"TN","Users":21080,"Percent of CC Pop":0.26,"Percent of Internet":0.0005,"Samples":18655},
-{"rank":9,"AS":31245,"Description":"ATI-ISP","CC":"TN","Users":10496,"Percent of CC Pop":0.13,"Percent of Internet":0.0002,"Samples":9289},
-{"rank":10,"AS":37717,"Description":"EL-Khawarizmi","CC":"TN","Users":7352,"Percent of CC Pop":0.09,"Percent of Internet":0.0002,"Samples":6506},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"TN","Users":1126,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":997}
+{"rank":1,"AS":37705,"Description":"TOPNET","CC":"TN","Users":2347284,"Percent of CC Pop":29.40,"Percent of Internet":0.0554,"Samples":2076761},
+{"rank":2,"AS":37693,"Description":"TUNISIANA","CC":"TN","Users":2343955,"Percent of CC Pop":29.36,"Percent of Internet":0.0553,"Samples":2073816},
+{"rank":3,"AS":37492,"Description":"ORANGE-","CC":"TN","Users":1564754,"Percent of CC Pop":19.60,"Percent of Internet":0.0369,"Samples":1384417},
+{"rank":4,"AS":327934,"Description":"Tunisie-Telecom","CC":"TN","Users":862500,"Percent of CC Pop":10.80,"Percent of Internet":0.0204,"Samples":763098},
+{"rank":5,"AS":37671,"Description":"GLOBALNET-AS","CC":"TN","Users":551529,"Percent of CC Pop":6.91,"Percent of Internet":0.0130,"Samples":487966},
+{"rank":6,"AS":2609,"Description":"TN-BB-AS Tunisia BackBone AS","CC":"TN","Users":147915,"Percent of CC Pop":1.85,"Percent of Internet":0.0035,"Samples":130868},
+{"rank":7,"AS":328880,"Description":"STE-INTERNET-SMART-SOLUTIONS-AS","CC":"TN","Users":123926,"Percent of CC Pop":1.55,"Percent of Internet":0.0029,"Samples":109644},
+{"rank":8,"AS":5438,"Description":"ATI-","CC":"TN","Users":22410,"Percent of CC Pop":0.28,"Percent of Internet":0.0005,"Samples":19828},
+{"rank":9,"AS":31245,"Description":"ATI-ISP","CC":"TN","Users":10600,"Percent of CC Pop":0.13,"Percent of Internet":0.0003,"Samples":9379},
+{"rank":10,"AS":37717,"Description":"EL-Khawarizmi","CC":"TN","Users":8282,"Percent of CC Pop":0.10,"Percent of Internet":0.0002,"Samples":7328},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"TN","Users":782,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":692}
   ]
 }

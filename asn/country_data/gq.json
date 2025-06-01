@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37173,"Description":"GETESA","CC":"GQ","Users":261318,"Percent of CC Pop":48.79,"Percent of Internet":0.0062,"Samples":92984},
-{"rank":2,"AS":37337,"Description":"MUNI-EG","CC":"GQ","Users":154052,"Percent of CC Pop":28.76,"Percent of Internet":0.0036,"Samples":54816},
-{"rank":3,"AS":37529,"Description":"GITGE","CC":"GQ","Users":87764,"Percent of CC Pop":16.39,"Percent of Internet":0.0021,"Samples":31229},
-{"rank":4,"AS":328207,"Description":"OFFICE-TECH","CC":"GQ","Users":24298,"Percent of CC Pop":4.54,"Percent of Internet":0.0006,"Samples":8646},
-{"rank":5,"AS":329219,"Description":"Fenix-EG","CC":"GQ","Users":4881,"Percent of CC Pop":0.91,"Percent of Internet":0.0001,"Samples":1737},
-{"rank":6,"AS":37487,"Description":"GUINEANET","CC":"GQ","Users":3127,"Percent of CC Pop":0.58,"Percent of Internet":0.0001,"Samples":1113}
+{"rank":1,"AS":37173,"Description":"GETESA","CC":"GQ","Users":269994,"Percent of CC Pop":50.37,"Percent of Internet":0.0064,"Samples":99404},
+{"rank":2,"AS":37337,"Description":"MUNI-EG","CC":"GQ","Users":149412,"Percent of CC Pop":27.87,"Percent of Internet":0.0035,"Samples":55009},
+{"rank":3,"AS":37529,"Description":"GITGE","CC":"GQ","Users":84094,"Percent of CC Pop":15.69,"Percent of Internet":0.0020,"Samples":30961},
+{"rank":4,"AS":328207,"Description":"OFFICE-TECH","CC":"GQ","Users":23934,"Percent of CC Pop":4.47,"Percent of Internet":0.0006,"Samples":8812},
+{"rank":5,"AS":329219,"Description":"Fenix-EG","CC":"GQ","Users":4975,"Percent of CC Pop":0.93,"Percent of Internet":0.0001,"Samples":1832},
+{"rank":6,"AS":37487,"Description":"GUINEANET","CC":"GQ","Users":3487,"Percent of CC Pop":0.65,"Percent of Internet":0.0001,"Samples":1284}
   ]
 }

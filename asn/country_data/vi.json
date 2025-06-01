@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14434,"Description":"VIPNAS1","CC":"VI","Users":52153,"Percent of CC Pop":74.63,"Percent of Internet":0.0012,"Samples":78357},
-{"rank":2,"AS":22581,"Description":"ACE-STX","CC":"VI","Users":8098,"Percent of CC Pop":11.59,"Percent of Internet":0.0002,"Samples":12168},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VI","Users":4789,"Percent of CC Pop":6.85,"Percent of Internet":0.0001,"Samples":7196},
-{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK","CC":"VI","Users":3635,"Percent of CC Pop":5.20,"Percent of Internet":0.0001,"Samples":5462},
-{"rank":5,"AS":400099,"Description":"SMART-NET-01","CC":"VI","Users":416,"Percent of CC Pop":0.60,"Percent of Internet":0.0000,"Samples":626},
-{"rank":6,"AS":20243,"Description":"U","CC":"VI","Users":357,"Percent of CC Pop":0.51,"Percent of Internet":0.0000,"Samples":537},
-{"rank":7,"AS":16929,"Description":"Reserved (arin)","CC":"VI","Users":169,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":254},
-{"rank":8,"AS":400741,"Description":"ADM-TECH-01","CC":"VI","Users":133,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":200}
+{"rank":1,"AS":14434,"Description":"VIPNAS1","CC":"VI","Users":52182,"Percent of CC Pop":74.69,"Percent of Internet":0.0012,"Samples":88885},
+{"rank":2,"AS":22581,"Description":"ACE-STX","CC":"VI","Users":8735,"Percent of CC Pop":12.50,"Percent of Internet":0.0002,"Samples":14880},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VI","Users":4687,"Percent of CC Pop":6.71,"Percent of Internet":0.0001,"Samples":7984},
+{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK","CC":"VI","Users":3564,"Percent of CC Pop":5.10,"Percent of Internet":0.0001,"Samples":6072},
+{"rank":5,"AS":20243,"Description":"U","CC":"VI","Users":155,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":265},
+{"rank":6,"AS":16929,"Description":"Reserved (arin)","CC":"VI","Users":150,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":257},
+{"rank":7,"AS":400099,"Description":"SMART-NET-01","CC":"VI","Users":146,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":250},
+{"rank":8,"AS":400741,"Description":"ADM-TECH-01","CC":"VI","Users":102,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":174}
   ]
 }

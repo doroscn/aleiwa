@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30990,"Description":"ADJIB-AS","CC":"DJ","Users":1158981,"Percent of CC Pop":99.69,"Percent of Internet":0.0274,"Samples":171760},
-{"rank":2,"AS":329140,"Description":"AS5-AS","CC":"DJ","Users":2746,"Percent of CC Pop":0.24,"Percent of Internet":0.0001,"Samples":407}
+{"rank":1,"AS":30990,"Description":"ADJIB-AS","CC":"DJ","Users":1159326,"Percent of CC Pop":99.67,"Percent of Internet":0.0274,"Samples":177473},
+{"rank":2,"AS":329140,"Description":"AS5-AS","CC":"DJ","Users":2972,"Percent of CC Pop":0.26,"Percent of Internet":0.0001,"Samples":455}
   ]
 }

@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":36996,"Description":"TELECOM-NAMIBIA","CC":"NA","Users":521252,"Percent of CC Pop":42.76,"Percent of Internet":0.0123,"Samples":157770},
-{"rank":2,"AS":37009,"Description":"MTCASN","CC":"NA","Users":372518,"Percent of CC Pop":30.56,"Percent of Internet":0.0088,"Samples":112752},
-{"rank":3,"AS":33763,"Description":"Paratus","CC":"NA","Users":215009,"Percent of CC Pop":17.64,"Percent of Internet":0.0051,"Samples":65078},
-{"rank":4,"AS":36999,"Description":"TELECOM-NAMIBIA","CC":"NA","Users":87014,"Percent of CC Pop":7.14,"Percent of Internet":0.0021,"Samples":26337},
-{"rank":5,"AS":37513,"Description":"Polytechnic-","CC":"NA","Users":7232,"Percent of CC Pop":0.59,"Percent of Internet":0.0002,"Samples":2189},
-{"rank":6,"AS":30896,"Description":"Iway-Network-AS","CC":"NA","Users":5200,"Percent of CC Pop":0.43,"Percent of Internet":0.0001,"Samples":1574},
-{"rank":7,"AS":22735,"Description":"Govt-Namibia","CC":"NA","Users":2623,"Percent of CC Pop":0.22,"Percent of Internet":0.0001,"Samples":794},
-{"rank":8,"AS":36877,"Description":"IWAY_AFRICA","CC":"NA","Users":2415,"Percent of CC Pop":0.20,"Percent of Internet":0.0001,"Samples":731},
-{"rank":9,"AS":329395,"Description":"Rocketnet","CC":"NA","Users":2236,"Percent of CC Pop":0.18,"Percent of Internet":0.0001,"Samples":677},
-{"rank":10,"AS":329067,"Description":"Click","CC":"NA","Users":2025,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":613},
-{"rank":11,"AS":329400,"Description":"Loc-Eight-Mobile","CC":"NA","Users":733,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":222}
+{"rank":1,"AS":36996,"Description":"TELECOM-NAMIBIA","CC":"NA","Users":521853,"Percent of CC Pop":42.79,"Percent of Internet":0.0123,"Samples":159567},
+{"rank":2,"AS":37009,"Description":"MTCASN","CC":"NA","Users":377287,"Percent of CC Pop":30.94,"Percent of Internet":0.0089,"Samples":115363},
+{"rank":3,"AS":33763,"Description":"Paratus","CC":"NA","Users":211024,"Percent of CC Pop":17.30,"Percent of Internet":0.0050,"Samples":64525},
+{"rank":4,"AS":36999,"Description":"TELECOM-NAMIBIA","CC":"NA","Users":87183,"Percent of CC Pop":7.15,"Percent of Internet":0.0021,"Samples":26658},
+{"rank":5,"AS":37513,"Description":"Polytechnic-","CC":"NA","Users":6161,"Percent of CC Pop":0.51,"Percent of Internet":0.0001,"Samples":1884},
+{"rank":6,"AS":30896,"Description":"Iway-Network-AS","CC":"NA","Users":5304,"Percent of CC Pop":0.43,"Percent of Internet":0.0001,"Samples":1622},
+{"rank":7,"AS":22735,"Description":"Govt-Namibia","CC":"NA","Users":2671,"Percent of CC Pop":0.22,"Percent of Internet":0.0001,"Samples":817},
+{"rank":8,"AS":329395,"Description":"Rocketnet","CC":"NA","Users":2580,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":789},
+{"rank":9,"AS":36877,"Description":"IWAY_AFRICA","CC":"NA","Users":2223,"Percent of CC Pop":0.18,"Percent of Internet":0.0001,"Samples":680},
+{"rank":10,"AS":329067,"Description":"Click","CC":"NA","Users":2001,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":612},
+{"rank":11,"AS":329400,"Description":"Loc-Eight-Mobile","CC":"NA","Users":742,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":227}
   ]
 }

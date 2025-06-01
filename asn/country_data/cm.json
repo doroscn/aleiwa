@@ -1,20 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "17/05/2025",
+  "Date": "29/05/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30992,"Description":"MTN-NS-CAMEROON","CC":"CM","Users":3481569,"Percent of CC Pop":47.33,"Percent of Internet":0.0822,"Samples":1607018},
-{"rank":2,"AS":36912,"Description":"ORANGE","CC":"CM","Users":3164451,"Percent of CC Pop":43.02,"Percent of Internet":0.0747,"Samples":1460643},
-{"rank":3,"AS":15964,"Description":"CAMNET-AS","CC":"CM","Users":617097,"Percent of CC Pop":8.39,"Percent of Internet":0.0146,"Samples":284839},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CM","Users":57883,"Percent of CC Pop":0.79,"Percent of Internet":0.0014,"Samples":26718},
-{"rank":5,"AS":36905,"Description":"Creolink","CC":"CM","Users":14118,"Percent of CC Pop":0.19,"Percent of Internet":0.0003,"Samples":6517},
-{"rank":6,"AS":37475,"Description":"Reserved (afrinic)","CC":"CM","Users":6722,"Percent of CC Pop":0.09,"Percent of Internet":0.0002,"Samples":3103},
-{"rank":7,"AS":327820,"Description":"SWECOM","CC":"CM","Users":4885,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":2255},
-{"rank":8,"AS":36955,"Description":"Matrix-ASN1","CC":"CM","Users":4315,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":1992},
-{"rank":9,"AS":328866,"Description":"NEWTELNET","CC":"CM","Users":1603,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":740},
-{"rank":10,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CM","Users":1161,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":536},
-{"rank":11,"AS":37672,"Description":"INQ-DIGITAL-CAMEROON","CC":"CM","Users":669,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":309},
-{"rank":12,"AS":60171,"Description":"AFRIX-AS","CC":"CM","Users":353,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":163}
+{"rank":1,"AS":30992,"Description":"MTN-NS-CAMEROON","CC":"CM","Users":3607248,"Percent of CC Pop":49.00,"Percent of Internet":0.0851,"Samples":1750011},
+{"rank":2,"AS":36912,"Description":"ORANGE","CC":"CM","Users":3044634,"Percent of CC Pop":41.36,"Percent of Internet":0.0719,"Samples":1477066},
+{"rank":3,"AS":15964,"Description":"CAMNET-AS","CC":"CM","Users":593831,"Percent of CC Pop":8.07,"Percent of Internet":0.0140,"Samples":288090},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CM","Users":83337,"Percent of CC Pop":1.13,"Percent of Internet":0.0020,"Samples":40430},
+{"rank":5,"AS":36905,"Description":"Creolink","CC":"CM","Users":13274,"Percent of CC Pop":0.18,"Percent of Internet":0.0003,"Samples":6440},
+{"rank":6,"AS":37475,"Description":"Reserved (afrinic)","CC":"CM","Users":6618,"Percent of CC Pop":0.09,"Percent of Internet":0.0002,"Samples":3211},
+{"rank":7,"AS":327820,"Description":"SWECOM","CC":"CM","Users":4738,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":2299},
+{"rank":8,"AS":36955,"Description":"Matrix-ASN1","CC":"CM","Users":3553,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":1724},
+{"rank":9,"AS":328866,"Description":"NEWTELNET","CC":"CM","Users":1463,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":710},
+{"rank":10,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CM","Users":1216,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":590},
+{"rank":11,"AS":37672,"Description":"INQ-DIGITAL-CAMEROON","CC":"CM","Users":601,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":292},
+{"rank":12,"AS":60171,"Description":"AFRIX-AS","CC":"CM","Users":408,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":198}
   ]
 }
