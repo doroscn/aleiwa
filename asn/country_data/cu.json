@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/05/2025",
+  "Date": "29/06/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27725,"Description":"Empresa de Telecomunicaciones de Cuba, S.A.","CC":"CU","Users":6490931,"Percent of CC Pop":99.96,"Percent of Internet":0.1532,"Samples":976504},
-{"rank":2,"AS":13335,"Description":"CLOUDFLARENET","CC":"CU","Users":1282,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":193},
-{"rank":3,"AS":10569,"Description":"Red CENIAInternet","CC":"CU","Users":810,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":122}
+{"rank":1,"AS":27725,"Description":"Empresa de Telecomunicaciones de Cuba, S.A.","CC":"CU","Users":6490058,"Percent of CC Pop":99.96,"Percent of Internet":0.1531,"Samples":1314658},
+{"rank":2,"AS":13335,"Description":"CLOUDFLARENET","CC":"CU","Users":1021,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":207},
+{"rank":3,"AS":10569,"Description":"Red CENIAInternet","CC":"CU","Users":918,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":186}
   ]
 }

@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/05/2025",
+  "Date": "29/06/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37002,"Description":"Reunicable","CC":"RE","Users":171184,"Percent of CC Pop":31.25,"Percent of Internet":0.0040,"Samples":92422},
-{"rank":2,"AS":49902,"Description":"SRR-AS","CC":"RE","Users":129846,"Percent of CC Pop":23.70,"Percent of Internet":0.0031,"Samples":70104},
-{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"RE","Users":107207,"Percent of CC Pop":19.57,"Percent of Internet":0.0025,"Samples":57881},
-{"rank":4,"AS":327697,"Description":"TELCO-OI-AS","CC":"RE","Users":57818,"Percent of CC Pop":10.55,"Percent of Internet":0.0014,"Samples":31216},
-{"rank":5,"AS":3215,"Description":"France Telecom - Orange","CC":"RE","Users":50185,"Percent of CC Pop":9.16,"Percent of Internet":0.0012,"Samples":27095},
-{"rank":6,"AS":202023,"Description":"OSP-AS","CC":"RE","Users":14208,"Percent of CC Pop":2.59,"Percent of Internet":0.0003,"Samples":7671},
-{"rank":7,"AS":199140,"Description":"ORE-AS","CC":"RE","Users":10792,"Percent of CC Pop":1.97,"Percent of Internet":0.0003,"Samples":5827},
-{"rank":8,"AS":327956,"Description":"PARABOLE-REUNION","CC":"RE","Users":3185,"Percent of CC Pop":0.58,"Percent of Internet":0.0001,"Samples":1720},
-{"rank":9,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"RE","Users":1581,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":854},
-{"rank":10,"AS":34306,"Description":"MOBIUS-AS","CC":"RE","Users":961,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":519},
-{"rank":11,"AS":14593,"Description":"SPACEX-STARLINK","CC":"RE","Users":490,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":265}
+{"rank":1,"AS":37002,"Description":"Reunicable","CC":"RE","Users":182036,"Percent of CC Pop":33.21,"Percent of Internet":0.0043,"Samples":91905},
+{"rank":2,"AS":49902,"Description":"SRR-AS","CC":"RE","Users":130405,"Percent of CC Pop":23.79,"Percent of Internet":0.0031,"Samples":65838},
+{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"RE","Users":106122,"Percent of CC Pop":19.36,"Percent of Internet":0.0025,"Samples":53578},
+{"rank":4,"AS":327697,"Description":"TELCO-OI-AS","CC":"RE","Users":60754,"Percent of CC Pop":11.08,"Percent of Internet":0.0014,"Samples":30673},
+{"rank":5,"AS":3215,"Description":"France Telecom - Orange","CC":"RE","Users":40148,"Percent of CC Pop":7.32,"Percent of Internet":0.0009,"Samples":20270},
+{"rank":6,"AS":202023,"Description":"OSP-AS","CC":"RE","Users":12032,"Percent of CC Pop":2.20,"Percent of Internet":0.0003,"Samples":6075},
+{"rank":7,"AS":199140,"Description":"ORE-AS","CC":"RE","Users":11545,"Percent of CC Pop":2.11,"Percent of Internet":0.0003,"Samples":5829},
+{"rank":8,"AS":327956,"Description":"PARABOLE-REUNION","CC":"RE","Users":2568,"Percent of CC Pop":0.47,"Percent of Internet":0.0001,"Samples":1297},
+{"rank":9,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"RE","Users":1400,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":707},
+{"rank":10,"AS":14593,"Description":"SPACEX-STARLINK","CC":"RE","Users":572,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":289},
+{"rank":11,"AS":34306,"Description":"MOBIUS-AS","CC":"RE","Users":362,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":183}
   ]
 }

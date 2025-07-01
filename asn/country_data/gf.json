@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/05/2025",
+  "Date": "29/06/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3215,"Description":"France Telecom - Orange","CC":"GF","Users":56810,"Percent of CC Pop":31.61,"Percent of Internet":0.0013,"Samples":16959},
-{"rank":2,"AS":20776,"Description":"OUTREMER-AS","CC":"GF","Users":53215,"Percent of CC Pop":29.61,"Percent of Internet":0.0013,"Samples":15886},
-{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GF","Users":43286,"Percent of CC Pop":24.09,"Percent of Internet":0.0010,"Samples":12922},
-{"rank":4,"AS":48252,"Description":"DIGICELFWI","CC":"GF","Users":18561,"Percent of CC Pop":10.33,"Percent of Internet":0.0004,"Samples":5541},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GF","Users":5651,"Percent of CC Pop":3.14,"Percent of Internet":0.0001,"Samples":1687},
-{"rank":6,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"GF","Users":1061,"Percent of CC Pop":0.59,"Percent of Internet":0.0000,"Samples":317},
-{"rank":7,"AS":263175,"Description":"GUYACOM","CC":"GF","Users":1025,"Percent of CC Pop":0.57,"Percent of Internet":0.0000,"Samples":306}
+{"rank":1,"AS":3215,"Description":"France Telecom - Orange","CC":"GF","Users":54007,"Percent of CC Pop":29.99,"Percent of Internet":0.0013,"Samples":10323},
+{"rank":2,"AS":20776,"Description":"OUTREMER-AS","CC":"GF","Users":53536,"Percent of CC Pop":29.73,"Percent of Internet":0.0013,"Samples":10233},
+{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GF","Users":43229,"Percent of CC Pop":24.01,"Percent of Internet":0.0010,"Samples":8263},
+{"rank":4,"AS":48252,"Description":"DIGICELFWI","CC":"GF","Users":20822,"Percent of CC Pop":11.56,"Percent of Internet":0.0005,"Samples":3980},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GF","Users":6529,"Percent of CC Pop":3.63,"Percent of Internet":0.0002,"Samples":1248},
+{"rank":6,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"GF","Users":884,"Percent of CC Pop":0.49,"Percent of Internet":0.0000,"Samples":169},
+{"rank":7,"AS":263175,"Description":"GUYACOM","CC":"GF","Users":805,"Percent of CC Pop":0.45,"Percent of Internet":0.0000,"Samples":154}
   ]
 }

@@ -1,13 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/05/2025",
+  "Date": "29/06/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3855,"Description":"LOGIC-3855","CC":"BM","Users":38702,"Percent of CC Pop":61.50,"Percent of Internet":0.0009,"Samples":63487},
-{"rank":2,"AS":32020,"Description":"TRANSACT-BM-ASN","CC":"BM","Users":20771,"Percent of CC Pop":33.01,"Percent of Internet":0.0005,"Samples":34073},
-{"rank":3,"AS":11269,"Description":"LINKBERMUDA","CC":"BM","Users":1618,"Percent of CC Pop":2.57,"Percent of Internet":0.0000,"Samples":2655},
-{"rank":4,"AS":16413,"Description":"TELEBERMUDA","CC":"BM","Users":1579,"Percent of CC Pop":2.51,"Percent of Internet":0.0000,"Samples":2591},
-{"rank":5,"AS":55159,"Description":"PARADISE-MOBILE-ASN-01","CC":"BM","Users":88,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":145}
+{"rank":1,"AS":3855,"Description":"LOGIC-3855","CC":"BM","Users":39659,"Percent of CC Pop":63.03,"Percent of Internet":0.0009,"Samples":76906},
+{"rank":2,"AS":32020,"Description":"TRANSACT-BM-ASN","CC":"BM","Users":20388,"Percent of CC Pop":32.40,"Percent of Internet":0.0005,"Samples":39536},
+{"rank":3,"AS":16413,"Description":"TELEBERMUDA","CC":"BM","Users":1367,"Percent of CC Pop":2.17,"Percent of Internet":0.0000,"Samples":2651},
+{"rank":4,"AS":11269,"Description":"LINKBERMUDA","CC":"BM","Users":1124,"Percent of CC Pop":1.79,"Percent of Internet":0.0000,"Samples":2181},
+{"rank":5,"AS":55159,"Description":"PARADISE-MOBILE-ASN-01","CC":"BM","Users":124,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":242}
   ]
 }

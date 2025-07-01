@@ -1,9 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/05/2025",
+  "Date": "29/06/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6752,"Description":"ANDORRA Andorra Telecom","CC":"AD","Users":80572,"Percent of CC Pop":99.60,"Percent of Internet":0.0019,"Samples":70171}
+{"rank":1,"AS":6752,"Description":"ANDORRA Andorra Telecom","CC":"AD","Users":79910,"Percent of CC Pop":98.75,"Percent of Internet":0.0019,"Samples":69516},
+{"rank":2,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"AD","Users":535,"Percent of CC Pop":0.66,"Percent of Internet":0.0000,"Samples":466}
   ]
 }

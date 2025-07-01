@@ -1,22 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/05/2025",
+  "Date": "29/06/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":42961,"Description":"GPRS-AS ZAIN","CC":"KW","Users":1919228,"Percent of CC Pop":36.97,"Percent of Internet":0.0453,"Samples":809806},
-{"rank":2,"AS":29357,"Description":"WATANIYATELECOM-AS","CC":"KW","Users":1549195,"Percent of CC Pop":29.84,"Percent of Internet":0.0366,"Samples":653673},
-{"rank":3,"AS":47589,"Description":"KTC3G","CC":"KW","Users":1519044,"Percent of CC Pop":29.26,"Percent of Internet":0.0359,"Samples":640951},
-{"rank":4,"AS":21050,"Description":"FAST-TELCO","CC":"KW","Users":98885,"Percent of CC Pop":1.91,"Percent of Internet":0.0023,"Samples":41724},
-{"rank":5,"AS":9155,"Description":"QNET Kuwait","CC":"KW","Users":71613,"Percent of CC Pop":1.38,"Percent of Internet":0.0017,"Samples":30217},
-{"rank":6,"AS":3225,"Description":"GULFNET-KUWAIT","CC":"KW","Users":13627,"Percent of CC Pop":0.26,"Percent of Internet":0.0003,"Samples":5750},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"KW","Users":5344,"Percent of CC Pop":0.10,"Percent of Internet":0.0001,"Samples":2255},
-{"rank":8,"AS":6412,"Description":"KW KEMS Block-A, Floor 7, Souq Al-Kabeer Kuwait City, State of Kuwait P O Box 3623, Safat 13037 KW","CC":"KW","Users":3941,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":1663},
-{"rank":9,"AS":42781,"Description":"ZNETAS-","CC":"KW","Users":3291,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":1389},
-{"rank":10,"AS":196921,"Description":"BWIRELESS-KUWAIT","CC":"KW","Users":2296,"Percent of CC Pop":0.04,"Percent of Internet":0.0001,"Samples":969},
-{"rank":11,"AS":25242,"Description":"KUWAIT-UNIVERSITY Computer Information Systems Kuwait University Kuwait","CC":"KW","Users":1708,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":721},
-{"rank":12,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KW","Users":331,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":140},
-{"rank":13,"AS":36183,"Description":"AKAMAI-AS","CC":"KW","Users":324,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":137},
-{"rank":14,"AS":199729,"Description":"MOE","CC":"KW","Users":289,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":122}
+{"rank":1,"AS":42961,"Description":"GPRS-AS ZAIN","CC":"KW","Users":1874037,"Percent of CC Pop":36.08,"Percent of Internet":0.0442,"Samples":808088},
+{"rank":2,"AS":29357,"Description":"WATANIYATELECOM-AS","CC":"KW","Users":1569645,"Percent of CC Pop":30.22,"Percent of Internet":0.0370,"Samples":676834},
+{"rank":3,"AS":47589,"Description":"KTC3G","CC":"KW","Users":1526911,"Percent of CC Pop":29.39,"Percent of Internet":0.0360,"Samples":658407},
+{"rank":4,"AS":21050,"Description":"FAST-TELCO","CC":"KW","Users":105609,"Percent of CC Pop":2.03,"Percent of Internet":0.0025,"Samples":45539},
+{"rank":5,"AS":9155,"Description":"QNET Kuwait","CC":"KW","Users":70804,"Percent of CC Pop":1.36,"Percent of Internet":0.0017,"Samples":30531},
+{"rank":6,"AS":3225,"Description":"GULFNET-KUWAIT","CC":"KW","Users":14696,"Percent of CC Pop":0.28,"Percent of Internet":0.0003,"Samples":6337},
+{"rank":7,"AS":212330,"Description":"IRAQIXP","CC":"KW","Users":13613,"Percent of CC Pop":0.26,"Percent of Internet":0.0003,"Samples":5870},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"KW","Users":6080,"Percent of CC Pop":0.12,"Percent of Internet":0.0001,"Samples":2622},
+{"rank":9,"AS":6412,"Description":"KW KEMS Block-A, Floor 7, Souq Al-Kabeer Kuwait City, State of Kuwait P O Box 3623, Safat 13037 KW","CC":"KW","Users":4371,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":1885},
+{"rank":10,"AS":42781,"Description":"ZNETAS-","CC":"KW","Users":3302,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":1424},
+{"rank":11,"AS":196921,"Description":"BWIRELESS-KUWAIT","CC":"KW","Users":2499,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":1078},
+{"rank":12,"AS":25242,"Description":"KUWAIT-UNIVERSITY Computer Information Systems Kuwait University Kuwait","CC":"KW","Users":496,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":214},
+{"rank":13,"AS":36183,"Description":"AKAMAI-AS","CC":"KW","Users":343,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":148},
+{"rank":14,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KW","Users":336,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":145}
   ]
 }

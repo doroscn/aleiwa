@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/05/2025",
+  "Date": "29/06/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":38201,"Description":"KALIANET-PUBLIC-AS-AP Tonga Communications Internet Network","CC":"TO","Users":22213,"Percent of CC Pop":47.08,"Percent of Internet":0.0005,"Samples":17181},
-{"rank":2,"AS":38198,"Description":"DIGICELNET-TO Digicel Tonga Ltd","CC":"TO","Users":18906,"Percent of CC Pop":40.07,"Percent of Internet":0.0004,"Samples":14623},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TO","Users":4905,"Percent of CC Pop":10.40,"Percent of Internet":0.0001,"Samples":3794},
-{"rank":4,"AS":132831,"Description":"TOKOWIRELESSLTD-AS-AP TokoWireless Limited","CC":"TO","Users":1114,"Percent of CC Pop":2.36,"Percent of Internet":0.0000,"Samples":862}
+{"rank":1,"AS":38201,"Description":"KALIANET-PUBLIC-AS-AP Tonga Communications Internet Network","CC":"TO","Users":22778,"Percent of CC Pop":48.25,"Percent of Internet":0.0005,"Samples":23727},
+{"rank":2,"AS":38198,"Description":"DIGICELNET-TO Digicel Tonga Ltd","CC":"TO","Users":18893,"Percent of CC Pop":40.02,"Percent of Internet":0.0004,"Samples":19680},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TO","Users":4012,"Percent of CC Pop":8.50,"Percent of Internet":0.0001,"Samples":4180},
+{"rank":4,"AS":132831,"Description":"TOKOWIRELESSLTD-AS-AP TokoWireless Limited","CC":"TO","Users":1496,"Percent of CC Pop":3.17,"Percent of Internet":0.0000,"Samples":1559}
   ]
 }

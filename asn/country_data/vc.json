@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/05/2025",
+  "Date": "29/06/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":46408,"Description":"COLUMBUS-COMMUNICATION-SVG","CC":"VC","Users":62452,"Percent of CC Pop":77.41,"Percent of Internet":0.0015,"Samples":103079},
-{"rank":2,"AS":33582,"Description":"DIGICEL-OECS","CC":"VC","Users":17705,"Percent of CC Pop":21.95,"Percent of Internet":0.0004,"Samples":29223},
-{"rank":3,"AS":398901,"Description":"ITSD-VC-01","CC":"VC","Users":233,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":385},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VC","Users":216,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":357}
+{"rank":1,"AS":46408,"Description":"COLUMBUS-COMMUNICATION-SVG","CC":"VC","Users":63024,"Percent of CC Pop":78.11,"Percent of Internet":0.0015,"Samples":119344},
+{"rank":2,"AS":33582,"Description":"DIGICEL-OECS","CC":"VC","Users":17176,"Percent of CC Pop":21.29,"Percent of Internet":0.0004,"Samples":32525},
+{"rank":3,"AS":398901,"Description":"ITSD-VC-01","CC":"VC","Users":327,"Percent of CC Pop":0.41,"Percent of Internet":0.0000,"Samples":621},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VC","Users":83,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":158}
   ]
 }

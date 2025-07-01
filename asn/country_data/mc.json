@@ -1,9 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/05/2025",
+  "Date": "29/06/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6758,"Description":"AS6758","CC":"MC","Users":35783,"Percent of CC Pop":99.28,"Percent of Internet":0.0008,"Samples":20564}
+{"rank":1,"AS":6758,"Description":"AS6758","CC":"MC","Users":35221,"Percent of CC Pop":97.74,"Percent of Internet":0.0008,"Samples":16467},
+{"rank":2,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MC","Users":442,"Percent of CC Pop":1.23,"Percent of Internet":0.0000,"Samples":207}
   ]
 }

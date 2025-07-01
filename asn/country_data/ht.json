@@ -1,15 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/05/2025",
+  "Date": "29/06/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":52260,"Description":"Telecommunications de Haiti Teleco","CC":"HT","Users":863481,"Percent of CC Pop":58.04,"Percent of Internet":0.0204,"Samples":1009069},
-{"rank":2,"AS":27653,"Description":"Alpha Communications Network","CC":"HT","Users":497848,"Percent of CC Pop":33.46,"Percent of Internet":0.0118,"Samples":581788},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"HT","Users":94742,"Percent of CC Pop":6.37,"Percent of Internet":0.0022,"Samples":110717},
-{"rank":4,"AS":27759,"Description":"ACCESS HAITI S.A.","CC":"HT","Users":30762,"Percent of CC Pop":2.07,"Percent of Internet":0.0007,"Samples":35949},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"HT","Users":519,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":607},
-{"rank":6,"AS":263685,"Description":"SOGEBANK","CC":"HT","Users":209,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":245},
-{"rank":7,"AS":27774,"Description":"Haiti Networking Group S.A.","CC":"HT","Users":160,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":187}
+{"rank":1,"AS":52260,"Description":"Telecommunications de Haiti Teleco","CC":"HT","Users":843260,"Percent of CC Pop":56.62,"Percent of Internet":0.0199,"Samples":1073312},
+{"rank":2,"AS":27653,"Description":"Alpha Communications Network","CC":"HT","Users":516838,"Percent of CC Pop":34.70,"Percent of Internet":0.0122,"Samples":657838},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"HT","Users":95267,"Percent of CC Pop":6.40,"Percent of Internet":0.0022,"Samples":121257},
+{"rank":4,"AS":27759,"Description":"ACCESS HAITI S.A.","CC":"HT","Users":33176,"Percent of CC Pop":2.23,"Percent of Internet":0.0008,"Samples":42227},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"HT","Users":377,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":480},
+{"rank":6,"AS":263685,"Description":"SOGEBANK","CC":"HT","Users":236,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":301}
   ]
 }

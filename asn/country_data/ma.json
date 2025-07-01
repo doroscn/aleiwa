@@ -1,21 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/05/2025",
+  "Date": "29/06/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":36903,"Description":"MT-MPLS","CC":"MA","Users":15395033,"Percent of CC Pop":60.55,"Percent of Internet":0.3634,"Samples":3253213},
-{"rank":2,"AS":36925,"Description":"ASMedi","CC":"MA","Users":8001424,"Percent of CC Pop":31.47,"Percent of Internet":0.1889,"Samples":1690827},
-{"rank":3,"AS":6713,"Description":"IAM-AS","CC":"MA","Users":1628846,"Percent of CC Pop":6.41,"Percent of Internet":0.0384,"Samples":344201},
-{"rank":4,"AS":36884,"Description":"MAROCCONNECT","CC":"MA","Users":327055,"Percent of CC Pop":1.29,"Percent of Internet":0.0077,"Samples":69112},
-{"rank":5,"AS":30983,"Description":"MARWAN-AS","CC":"MA","Users":47104,"Percent of CC Pop":0.19,"Percent of Internet":0.0011,"Samples":9954},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"MA","Users":11400,"Percent of CC Pop":0.04,"Percent of Internet":0.0003,"Samples":2409},
-{"rank":7,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MA","Users":4382,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":926},
-{"rank":8,"AS":212238,"Description":"CDNEXT","CC":"MA","Users":2110,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":446},
-{"rank":9,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"MA","Users":1968,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":416},
-{"rank":10,"AS":29286,"Description":"SKYLOGIC-AS","CC":"MA","Users":1675,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":354},
-{"rank":11,"AS":136258,"Description":"ONEPROVIDER-AS BrainStorm Network, Inc","CC":"MA","Users":747,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":158},
-{"rank":12,"AS":36183,"Description":"AKAMAI-AS","CC":"MA","Users":714,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":151},
-{"rank":13,"AS":36941,"Description":"MTDS-AS","CC":"MA","Users":653,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":138}
+{"rank":1,"AS":36903,"Description":"MT-MPLS","CC":"MA","Users":15384925,"Percent of CC Pop":60.46,"Percent of Internet":0.3629,"Samples":3163022},
+{"rank":2,"AS":36925,"Description":"ASMedi","CC":"MA","Users":8074291,"Percent of CC Pop":31.73,"Percent of Internet":0.1905,"Samples":1660012},
+{"rank":3,"AS":6713,"Description":"IAM-AS","CC":"MA","Users":1585074,"Percent of CC Pop":6.23,"Percent of Internet":0.0374,"Samples":325879},
+{"rank":4,"AS":36884,"Description":"MAROCCONNECT","CC":"MA","Users":343480,"Percent of CC Pop":1.35,"Percent of Internet":0.0081,"Samples":70617},
+{"rank":5,"AS":30983,"Description":"MARWAN-AS","CC":"MA","Users":34529,"Percent of CC Pop":0.14,"Percent of Internet":0.0008,"Samples":7099},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"MA","Users":11751,"Percent of CC Pop":0.05,"Percent of Internet":0.0003,"Samples":2416},
+{"rank":7,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MA","Users":3871,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":796},
+{"rank":8,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"MA","Users":1551,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":319},
+{"rank":9,"AS":29286,"Description":"SKYLOGIC-AS","CC":"MA","Users":1269,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":261},
+{"rank":10,"AS":36941,"Description":"MTDS-AS","CC":"MA","Users":875,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":180},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS","CC":"MA","Users":749,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":154},
+{"rank":12,"AS":136258,"Description":"ONEPROVIDER-AS BrainStorm Network, Inc","CC":"MA","Users":627,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":129},
+{"rank":13,"AS":37738,"Description":"HOSTOWEB","CC":"MA","Users":603,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":124}
   ]
 }
