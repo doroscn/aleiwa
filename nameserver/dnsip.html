@@ -109,11 +109,11 @@
 			<script src="/assets/js/util.js"></script>
 			<script src="/assets/js/main.js"></script>
 			<script>
-				// 获取 URL 中的参数
 				const params = new URLSearchParams(window.location.search);
 				const code = params.get('code') || 'unknown';
+
+				let allData = []; 
 			
-				// 加载国家映射 JSON 文件
 				fetch('/data/country_map.json')
 			    	.then(response => response.json())
 			        .then(countryMap => {
@@ -138,6 +138,11 @@
     				    })
 					.then(response => response.json())
 					.then(data => {
+						allData = data;
+						renderTable(allData.slice(0, 100)); // 默认显示前100条
+						})
+						.catch(error => console.error('Error loading JSON:', error));
+					function renderTable(data) {
 						const tableBody = document.querySelector("#dnsTable tbody");
 						data.forEach(item => {
 							const row = document.createElement("tr");
@@ -152,8 +157,32 @@
 							`;
 							tableBody.appendChild(row);
 						});
-					})
-					.catch(error => console.error('Error loading JSON:', error));
+					}
+					document.addEventListener('DOMContentLoaded', () => {
+						const mainDiv = document.querySelector("#main .inner");
+		
+						const searchDiv = document.createElement("div");
+						searchDiv.style = "margin-bottom: 1em;";
+						searchDiv.innerHTML = `
+							<input type="text" id="searchInput" placeholder="Search by AS Number..." style="padding: 8px; width: 300px; border-radius: 4px; border: 1px solid #ccc;" />
+							<button id="showAllBtn" style="margin-left: 10px; padding: 8px 12px;">Show All</button>
+						`;
+						mainDiv.insertBefore(searchDiv, mainDiv.children[2]);
+
+						document.getElementById("searchInput").addEventListener("input", function () {
+							const keyword = this.value.trim().toLowerCase();
+							if (keyword === "") {
+								renderTable(allData.slice(0, 100)); // 恢复前100条
+							} else {
+								const filtered = allData.filter(item => item.as_number && item.as_number.toLowerCase().includes(keyword));
+							renderTable(filtered);
+							}
+						});
+
+						document.getElementById("showAllBtn").addEventListener("click", function () {
+						renderTable(allData);
+						});
+					});
 			</script>
 	</body>
 </html>
