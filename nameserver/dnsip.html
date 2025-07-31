@@ -139,11 +139,12 @@
 					.then(response => response.json())
 					.then(data => {
 						allData = data;
-						renderTable(allData.slice(0, 100)); // 默认显示前100条
+						renderTable(allData.slice(0, 100)); 
 						})
 						.catch(error => console.error('Error loading JSON:', error));
 					function renderTable(data) {
 						const tableBody = document.querySelector("#dnsTable tbody");
+						tableBody.innerHTML = ""; 
 						data.forEach(item => {
 							const row = document.createElement("tr");
 							row.innerHTML = `
@@ -164,8 +165,7 @@
 						const searchDiv = document.createElement("div");
 						searchDiv.style = "margin-bottom: 1em;";
 						searchDiv.innerHTML = `
-							<input type="text" id="searchInput" placeholder="Search by AS Number..." style="padding: 8px; width: 300px; border-radius: 4px; border: 1px solid #ccc;" />
-							<button id="showAllBtn" style="margin-left: 10px; padding: 8px 12px;">Show All</button>
+							<input type="text" id="searchInput" placeholder="Search by AS Number..." style="padding: 8px; width: 300px; border-radius: 4px; border: 1px solid #ccc;" /><button id="showAllBtn" style="margin-left: 10px; padding: 8px 12px;">Show All</button>
 						`;
 						mainDiv.insertBefore(searchDiv, mainDiv.children[2]);
 
