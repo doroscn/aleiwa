@@ -1,13 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9471,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":138455,"Percent of CC Pop":55.84,"Percent of Internet":0.0033,"Samples":47251},
-{"rank":2,"AS":55943,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":51261,"Percent of CC Pop":20.68,"Percent of Internet":0.0012,"Samples":17494},
-{"rank":3,"AS":138179,"Description":"PMT-AS-AP PACIFIC MOBILE TELECOM","CC":"PF","Users":41896,"Percent of CC Pop":16.90,"Percent of Internet":0.0010,"Samples":14298},
-{"rank":4,"AS":56017,"Description":"VITI-AS-PF VITI","CC":"PF","Users":15776,"Percent of CC Pop":6.36,"Percent of Internet":0.0004,"Samples":5384},
-{"rank":5,"AS":139263,"Description":"UDLPF-AS-AP Universite de la Polynesie Francaise","CC":"PF","Users":462,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":158}
+{"rank":1,"AS":9471,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":139058,"Percent of CC Pop":56.05,"Percent of Internet":0.0033,"Samples":53286},
+{"rank":2,"AS":55943,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":47054,"Percent of CC Pop":18.97,"Percent of Internet":0.0011,"Samples":18031},
+{"rank":3,"AS":138179,"Description":"PMT-AS-AP PACIFIC MOBILE TELECOM","CC":"PF","Users":46209,"Percent of CC Pop":18.63,"Percent of Internet":0.0011,"Samples":17707},
+{"rank":4,"AS":56017,"Description":"VITI-AS-PF VITI","CC":"PF","Users":15631,"Percent of CC Pop":6.30,"Percent of Internet":0.0004,"Samples":5990}
   ]
 }

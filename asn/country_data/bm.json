@@ -1,13 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3855,"Description":"LOGIC-3855","CC":"BM","Users":39659,"Percent of CC Pop":63.03,"Percent of Internet":0.0009,"Samples":76906},
-{"rank":2,"AS":32020,"Description":"TRANSACT-BM-ASN","CC":"BM","Users":20388,"Percent of CC Pop":32.40,"Percent of Internet":0.0005,"Samples":39536},
-{"rank":3,"AS":16413,"Description":"TELEBERMUDA","CC":"BM","Users":1367,"Percent of CC Pop":2.17,"Percent of Internet":0.0000,"Samples":2651},
-{"rank":4,"AS":11269,"Description":"LINKBERMUDA","CC":"BM","Users":1124,"Percent of CC Pop":1.79,"Percent of Internet":0.0000,"Samples":2181},
-{"rank":5,"AS":55159,"Description":"PARADISE-MOBILE-ASN-01","CC":"BM","Users":124,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":242}
+{"rank":1,"AS":3855,"Description":"LOGIC-3855","CC":"BM","Users":38119,"Percent of CC Pop":60.60,"Percent of Internet":0.0009,"Samples":79152},
+{"rank":2,"AS":32020,"Description":"TRANSACT-BM-ASN","CC":"BM","Users":21510,"Percent of CC Pop":34.19,"Percent of Internet":0.0005,"Samples":44664},
+{"rank":3,"AS":16413,"Description":"TELEBERMUDA","CC":"BM","Users":2017,"Percent of CC Pop":3.21,"Percent of Internet":0.0000,"Samples":4189},
+{"rank":4,"AS":11269,"Description":"LINKBERMUDA","CC":"BM","Users":502,"Percent of CC Pop":0.80,"Percent of Internet":0.0000,"Samples":1044},
+{"rank":5,"AS":19626,"Description":"EVC-AS","CC":"BM","Users":224,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":466},
+{"rank":6,"AS":55159,"Description":"PARADISE-MOBILE-ASN-01","CC":"BM","Users":160,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":333},
+{"rank":7,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"BM","Users":112,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":233},
+{"rank":8,"AS":62240,"Description":"CLOUVIDER Clouvider - Global ASN","CC":"BM","Users":94,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":196}
   ]
 }

@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":17893,"Description":"PALAU-AS-AP Palau National Communications Corp.","CC":"PW","Users":9351,"Percent of CC Pop":94.23,"Percent of Internet":0.0002,"Samples":21432},
-{"rank":2,"AS":133897,"Description":"PEACCDPT-AS-AP Palau Equipment Co. Inc.","CC":"PW","Users":357,"Percent of CC Pop":3.60,"Percent of Internet":0.0000,"Samples":819},
-{"rank":3,"AS":58932,"Description":"PMCI-AS-AP Palau Mobile Communications Inc.","CC":"PW","Users":210,"Percent of CC Pop":2.12,"Percent of Internet":0.0000,"Samples":483}
+{"rank":1,"AS":17893,"Description":"PALAU-AS-AP Palau National Communications Corp.","CC":"PW","Users":9334,"Percent of CC Pop":94.07,"Percent of Internet":0.0002,"Samples":21591},
+{"rank":2,"AS":133897,"Description":"PEACCDPT-AS-AP Palau Equipment Co. Inc.","CC":"PW","Users":483,"Percent of CC Pop":4.88,"Percent of Internet":0.0000,"Samples":1119},
+{"rank":3,"AS":58932,"Description":"PMCI-AS-AP Palau Mobile Communications Inc.","CC":"PW","Users":99,"Percent of CC Pop":1.00,"Percent of Internet":0.0000,"Samples":230}
   ]
 }

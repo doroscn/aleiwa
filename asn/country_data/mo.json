@@ -1,18 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":4609,"Description":"CTM-MO Companhia de Telecomunicacoes de Macau SARL","CC":"MO","Users":490105,"Percent of CC Pop":78.16,"Percent of Internet":0.0116,"Samples":1164935},
-{"rank":2,"AS":136167,"Description":"CHINATELECOM-AS-AP CHINA TELECOM MACAU COMPANY LIMITED","CC":"MO","Users":104539,"Percent of CC Pop":16.67,"Percent of Internet":0.0025,"Samples":248482},
-{"rank":3,"AS":133613,"Description":"MTEL-AS MTel telecommunication company ltd.","CC":"MO","Users":30909,"Percent of CC Pop":4.93,"Percent of Internet":0.0007,"Samples":73469},
-{"rank":4,"AS":62610,"Description":"ZEN-DPS","CC":"MO","Users":446,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":1061},
-{"rank":5,"AS":138164,"Description":"MUST-AS-AP Macau University of Science and Technology","CC":"MO","Users":300,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":715},
-{"rank":6,"AS":209854,"Description":"CYBERZONEHUB","CC":"MO","Users":207,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":493},
-{"rank":7,"AS":21859,"Description":"ZEN-ECN","CC":"MO","Users":197,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":469},
-{"rank":8,"AS":7582,"Description":"UMAC-AS-AP University of Macau","CC":"MO","Users":100,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":240},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"MO","Users":69,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":165},
-{"rank":10,"AS":134550,"Description":"CITM-NGIA-MRC-MO Centro de Informacoes Tecnologia de Macau","CC":"MO","Users":64,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":153}
+{"rank":1,"AS":4609,"Description":"CTM-MO Companhia de Telecomunicacoes de Macau SARL","CC":"MO","Users":486251,"Percent of CC Pop":77.47,"Percent of Internet":0.0115,"Samples":1783968},
+{"rank":2,"AS":136167,"Description":"CHINATELECOM-AS-AP CHINA TELECOM MACAU COMPANY LIMITED","CC":"MO","Users":107237,"Percent of CC Pop":17.08,"Percent of Internet":0.0025,"Samples":393434},
+{"rank":3,"AS":133613,"Description":"MTEL-AS MTel telecommunication company ltd.","CC":"MO","Users":31947,"Percent of CC Pop":5.09,"Percent of Internet":0.0008,"Samples":117210},
+{"rank":4,"AS":21859,"Description":"ZEN-ECN","CC":"MO","Users":1091,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":4004},
+{"rank":5,"AS":209854,"Description":"CYBERZONEHUB","CC":"MO","Users":455,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":1672},
+{"rank":6,"AS":62610,"Description":"ZEN-DPS","CC":"MO","Users":283,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":1040},
+{"rank":7,"AS":214808,"Description":"DUCKYCLOUD","CC":"MO","Users":146,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":537},
+{"rank":8,"AS":7582,"Description":"UMAC-AS-AP University of Macau","CC":"MO","Users":77,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":285},
+{"rank":9,"AS":40065,"Description":"CNSERVERS","CC":"MO","Users":74,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":273},
+{"rank":10,"AS":138164,"Description":"MUST-AS-AP Macau University of Science and Technology","CC":"MO","Users":39,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":144}
   ]
 }

@@ -1,19 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37524,"Description":"AFRICELL-","CC":"GM","Users":157505,"Percent of CC Pop":24.44,"Percent of Internet":0.0037,"Samples":164587},
-{"rank":2,"AS":37552,"Description":"Gamtel","CC":"GM","Users":139746,"Percent of CC Pop":21.68,"Percent of Internet":0.0033,"Samples":146029},
-{"rank":3,"AS":37309,"Description":"QCell","CC":"GM","Users":124916,"Percent of CC Pop":19.38,"Percent of Internet":0.0029,"Samples":130532},
-{"rank":4,"AS":25250,"Description":"GAMTEL-AS","CC":"GM","Users":111489,"Percent of CC Pop":17.30,"Percent of Internet":0.0026,"Samples":116502},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GM","Users":39651,"Percent of CC Pop":6.15,"Percent of Internet":0.0009,"Samples":41434},
-{"rank":6,"AS":37323,"Description":"NETPAGE","CC":"GM","Users":29381,"Percent of CC Pop":4.56,"Percent of Internet":0.0007,"Samples":30702},
-{"rank":7,"AS":328488,"Description":"DK-Telecom","CC":"GM","Users":21090,"Percent of CC Pop":3.27,"Percent of Internet":0.0005,"Samples":22039},
-{"rank":8,"AS":328140,"Description":"INSIST-NET-AS","CC":"GM","Users":16748,"Percent of CC Pop":2.60,"Percent of Internet":0.0004,"Samples":17502},
-{"rank":9,"AS":37503,"Description":"Unique-Solutions","CC":"GM","Users":2098,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":2193},
-{"rank":10,"AS":329179,"Description":"Sky-Telecom-AS","CC":"GM","Users":1436,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":1501},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"GM","Users":312,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":327}
+{"rank":1,"AS":37552,"Description":"Gamtel","CC":"GM","Users":187858,"Percent of CC Pop":29.09,"Percent of Internet":0.0044,"Samples":182604},
+{"rank":2,"AS":37524,"Description":"AFRICELL-","CC":"GM","Users":154287,"Percent of CC Pop":23.89,"Percent of Internet":0.0036,"Samples":149972},
+{"rank":3,"AS":37309,"Description":"QCell","CC":"GM","Users":120053,"Percent of CC Pop":18.59,"Percent of Internet":0.0028,"Samples":116696},
+{"rank":4,"AS":25250,"Description":"GAMTEL-AS","CC":"GM","Users":101773,"Percent of CC Pop":15.76,"Percent of Internet":0.0024,"Samples":98927},
+{"rank":5,"AS":37323,"Description":"NETPAGE","CC":"GM","Users":26710,"Percent of CC Pop":4.14,"Percent of Internet":0.0006,"Samples":25963},
+{"rank":6,"AS":328488,"Description":"DK-Telecom","CC":"GM","Users":23022,"Percent of CC Pop":3.56,"Percent of Internet":0.0005,"Samples":22379},
+{"rank":7,"AS":328140,"Description":"INSIST-NET-AS","CC":"GM","Users":16888,"Percent of CC Pop":2.62,"Percent of Internet":0.0004,"Samples":16416},
+{"rank":8,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GM","Users":11384,"Percent of CC Pop":1.76,"Percent of Internet":0.0003,"Samples":11066},
+{"rank":9,"AS":37503,"Description":"Unique-Solutions","CC":"GM","Users":1851,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":1800},
+{"rank":10,"AS":329179,"Description":"Sky-Telecom-AS","CC":"GM","Users":1455,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":1415},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"GM","Users":341,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":332},
+{"rank":12,"AS":29286,"Description":"SKYLOGIC-AS","CC":"GM","Users":169,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":165}
   ]
 }

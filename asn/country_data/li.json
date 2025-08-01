@@ -1,15 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20634,"Description":"TELECOM-LI Schaanerstrasse 1","CC":"LI","Users":15793,"Percent of CC Pop":39.89,"Percent of Internet":0.0004,"Samples":3651},
-{"rank":2,"AS":35223,"Description":"HOI-AS","CC":"LI","Users":7094,"Percent of CC Pop":17.92,"Percent of Internet":0.0002,"Samples":1640},
-{"rank":3,"AS":56653,"Description":"TV-COM-AG","CC":"LI","Users":6324,"Percent of CC Pop":15.97,"Percent of Internet":0.0001,"Samples":1462},
-{"rank":4,"AS":204342,"Description":"VESTRA vestra ICT LI & CH","CC":"LI","Users":3932,"Percent of CC Pop":9.93,"Percent of Internet":0.0001,"Samples":909},
-{"rank":5,"AS":15955,"Description":"SUPRANET","CC":"LI","Users":2820,"Percent of CC Pop":7.12,"Percent of Internet":0.0001,"Samples":652},
-{"rank":6,"AS":42162,"Description":"QNET","CC":"LI","Users":938,"Percent of CC Pop":2.37,"Percent of Internet":0.0000,"Samples":217},
-{"rank":7,"AS":62651,"Description":"NETPROTECT-62651","CC":"LI","Users":583,"Percent of CC Pop":1.47,"Percent of Internet":0.0000,"Samples":135}
+{"rank":1,"AS":20634,"Description":"TELECOM-LI Schaanerstrasse 1","CC":"LI","Users":13260,"Percent of CC Pop":33.47,"Percent of Internet":0.0003,"Samples":3708},
+{"rank":2,"AS":204342,"Description":"VESTRA vestra ICT LI & CH","CC":"LI","Users":7009,"Percent of CC Pop":17.69,"Percent of Internet":0.0002,"Samples":1960},
+{"rank":3,"AS":56653,"Description":"TV-COM-AG","CC":"LI","Users":5664,"Percent of CC Pop":14.30,"Percent of Internet":0.0001,"Samples":1584},
+{"rank":4,"AS":35223,"Description":"HOI-AS","CC":"LI","Users":5256,"Percent of CC Pop":13.27,"Percent of Internet":0.0001,"Samples":1470},
+{"rank":5,"AS":15955,"Description":"SUPRANET","CC":"LI","Users":3053,"Percent of CC Pop":7.71,"Percent of Internet":0.0001,"Samples":854},
+{"rank":6,"AS":44477,"Description":"THE-HOSTING","CC":"LI","Users":1784,"Percent of CC Pop":4.50,"Percent of Internet":0.0000,"Samples":499},
+{"rank":7,"AS":62651,"Description":"NETPROTECT-62651","CC":"LI","Users":1373,"Percent of CC Pop":3.47,"Percent of Internet":0.0000,"Samples":384},
+{"rank":8,"AS":42162,"Description":"QNET","CC":"LI","Users":650,"Percent of CC Pop":1.64,"Percent of Internet":0.0000,"Samples":182}
   ]
 }

@@ -1,18 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14434,"Description":"VIPNAS1","CC":"VI","Users":51307,"Percent of CC Pop":73.49,"Percent of Internet":0.0012,"Samples":94433},
-{"rank":2,"AS":22581,"Description":"ACE-STX","CC":"VI","Users":9676,"Percent of CC Pop":13.86,"Percent of Internet":0.0002,"Samples":17810},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VI","Users":4418,"Percent of CC Pop":6.33,"Percent of Internet":0.0001,"Samples":8132},
-{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK","CC":"VI","Users":3671,"Percent of CC Pop":5.26,"Percent of Internet":0.0001,"Samples":6757},
-{"rank":5,"AS":400741,"Description":"ADM-TECH-01","CC":"VI","Users":199,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":367},
-{"rank":6,"AS":16929,"Description":"Reserved (arin)","CC":"VI","Users":148,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":273},
-{"rank":7,"AS":400099,"Description":"SMART-NET-01","CC":"VI","Users":127,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":234},
-{"rank":8,"AS":20243,"Description":"U","CC":"VI","Users":99,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":184},
-{"rank":9,"AS":3356,"Description":"LEVEL3","CC":"VI","Users":69,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":128},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"VI","Users":66,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":123}
+{"rank":1,"AS":14434,"Description":"VIPNAS1","CC":"VI","Users":50764,"Percent of CC Pop":72.76,"Percent of Internet":0.0012,"Samples":87097},
+{"rank":2,"AS":22581,"Description":"ACE-STX","CC":"VI","Users":10385,"Percent of CC Pop":14.89,"Percent of Internet":0.0002,"Samples":17818},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VI","Users":4663,"Percent of CC Pop":6.68,"Percent of Internet":0.0001,"Samples":8001},
+{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK","CC":"VI","Users":3004,"Percent of CC Pop":4.31,"Percent of Internet":0.0001,"Samples":5154},
+{"rank":5,"AS":400099,"Description":"SMART-NET-01","CC":"VI","Users":359,"Percent of CC Pop":0.52,"Percent of Internet":0.0000,"Samples":617},
+{"rank":6,"AS":400741,"Description":"ADM-TECH-01","CC":"VI","Users":346,"Percent of CC Pop":0.50,"Percent of Internet":0.0000,"Samples":595},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"VI","Users":86,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":149}
   ]
 }

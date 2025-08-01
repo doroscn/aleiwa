@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TV","Users":5546,"Percent of CC Pop":88.26,"Percent of Internet":0.0001,"Samples":5092},
-{"rank":2,"AS":23917,"Description":"TTC-AS-AP Tuvalu Telecommunications Corporation","CC":"TV","Users":608,"Percent of CC Pop":9.69,"Percent of Internet":0.0000,"Samples":559}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TV","Users":5645,"Percent of CC Pop":89.79,"Percent of Internet":0.0001,"Samples":7317},
+{"rank":2,"AS":23917,"Description":"TTC-AS-AP Tuvalu Telecommunications Corporation","CC":"TV","Users":554,"Percent of CC Pop":8.82,"Percent of Internet":0.0000,"Samples":719}
   ]
 }

@@ -1,13 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":40945,"Description":"SATTEL","CC":"DM","Users":28009,"Percent of CC Pop":51.89,"Percent of Internet":0.0007,"Samples":45781},
-{"rank":2,"AS":11139,"Description":"CWC-ROC-11139","CC":"DM","Users":18883,"Percent of CC Pop":34.98,"Percent of Internet":0.0004,"Samples":30864},
-{"rank":3,"AS":14813,"Description":"BB-COLUMBUS","CC":"DM","Users":5090,"Percent of CC Pop":9.43,"Percent of Internet":0.0001,"Samples":8320},
-{"rank":4,"AS":33582,"Description":"DIGICEL-OECS","CC":"DM","Users":1598,"Percent of CC Pop":2.96,"Percent of Internet":0.0000,"Samples":2612},
-{"rank":5,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"DM","Users":305,"Percent of CC Pop":0.57,"Percent of Internet":0.0000,"Samples":500}
+{"rank":1,"AS":40945,"Description":"SATTEL","CC":"DM","Users":27468,"Percent of CC Pop":50.86,"Percent of Internet":0.0006,"Samples":51106},
+{"rank":2,"AS":11139,"Description":"CWC-ROC-11139","CC":"DM","Users":19889,"Percent of CC Pop":36.83,"Percent of Internet":0.0005,"Samples":37005},
+{"rank":3,"AS":14813,"Description":"BB-COLUMBUS","CC":"DM","Users":4321,"Percent of CC Pop":8.00,"Percent of Internet":0.0001,"Samples":8041},
+{"rank":4,"AS":33582,"Description":"DIGICEL-OECS","CC":"DM","Users":1605,"Percent of CC Pop":2.97,"Percent of Internet":0.0000,"Samples":2987},
+{"rank":5,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"DM","Users":600,"Percent of CC Pop":1.11,"Percent of Internet":0.0000,"Samples":1118},
+{"rank":6,"AS":399915,"Description":"EPIC-COMMUNICATIONS","CC":"DM","Users":79,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":148}
   ]
 }

@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29544,"Description":"MAURITEL","CC":"MR","Users":828965,"Percent of CC Pop":64.48,"Percent of Internet":0.0196,"Samples":645897},
-{"rank":2,"AS":37508,"Description":"MATTEL","CC":"MR","Users":276303,"Percent of CC Pop":21.49,"Percent of Internet":0.0065,"Samples":215285},
-{"rank":3,"AS":37541,"Description":"CHINGUITEL","CC":"MR","Users":90710,"Percent of CC Pop":7.06,"Percent of Internet":0.0021,"Samples":70678},
-{"rank":4,"AS":328997,"Description":"RIMATEL","CC":"MR","Users":77325,"Percent of CC Pop":6.01,"Percent of Internet":0.0018,"Samples":60249},
-{"rank":5,"AS":328549,"Description":"Sahel-Telecom","CC":"MR","Users":6587,"Percent of CC Pop":0.51,"Percent of Internet":0.0002,"Samples":5133},
-{"rank":6,"AS":329048,"Description":"NETCOM-AS","CC":"MR","Users":3963,"Percent of CC Pop":0.31,"Percent of Internet":0.0001,"Samples":3088},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"MR","Users":1051,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":819},
-{"rank":8,"AS":328850,"Description":"CSS-AS","CC":"MR","Users":736,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":574}
+{"rank":1,"AS":29544,"Description":"MAURITEL","CC":"MR","Users":846508,"Percent of CC Pop":65.69,"Percent of Internet":0.0200,"Samples":588946},
+{"rank":2,"AS":37508,"Description":"MATTEL","CC":"MR","Users":257477,"Percent of CC Pop":19.98,"Percent of Internet":0.0061,"Samples":179136},
+{"rank":3,"AS":37541,"Description":"CHINGUITEL","CC":"MR","Users":92615,"Percent of CC Pop":7.19,"Percent of Internet":0.0022,"Samples":64436},
+{"rank":4,"AS":328997,"Description":"RIMATEL","CC":"MR","Users":81546,"Percent of CC Pop":6.33,"Percent of Internet":0.0019,"Samples":56735},
+{"rank":5,"AS":328549,"Description":"Sahel-Telecom","CC":"MR","Users":7297,"Percent of CC Pop":0.57,"Percent of Internet":0.0002,"Samples":5077},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"MR","Users":1284,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":894},
+{"rank":7,"AS":329048,"Description":"NETCOM-AS","CC":"MR","Users":1246,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":867},
+{"rank":8,"AS":328850,"Description":"CSS-AS","CC":"MR","Users":652,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":454}
   ]
 }

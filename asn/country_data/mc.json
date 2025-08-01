@@ -1,10 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6758,"Description":"AS6758","CC":"MC","Users":35221,"Percent of CC Pop":97.74,"Percent of Internet":0.0008,"Samples":16467},
-{"rank":2,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MC","Users":442,"Percent of CC Pop":1.23,"Percent of Internet":0.0000,"Samples":207}
+{"rank":1,"AS":6758,"Description":"AS6758","CC":"MC","Users":33407,"Percent of CC Pop":92.73,"Percent of Internet":0.0008,"Samples":17149},
+{"rank":2,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MC","Users":1901,"Percent of CC Pop":5.28,"Percent of Internet":0.0000,"Samples":976},
+{"rank":3,"AS":13213,"Description":"UK2NET-AS","CC":"MC","Users":282,"Percent of CC Pop":0.78,"Percent of Internet":0.0000,"Samples":145}
   ]
 }

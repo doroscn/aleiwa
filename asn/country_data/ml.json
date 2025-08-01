@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30985,"Description":"IKATELNET","CC":"ML","Users":2153712,"Percent of CC Pop":59.04,"Percent of Internet":0.0508,"Samples":1552638},
-{"rank":2,"AS":21271,"Description":"SOTELMABGP","CC":"ML","Users":1376086,"Percent of CC Pop":37.73,"Percent of Internet":0.0325,"Samples":992038},
-{"rank":3,"AS":328253,"Description":"MALI-ATEL","CC":"ML","Users":85849,"Percent of CC Pop":2.35,"Percent of Internet":0.0020,"Samples":61890},
-{"rank":4,"AS":36864,"Description":"AFRIBONEMALI-AS","CC":"ML","Users":30231,"Percent of CC Pop":0.83,"Percent of Internet":0.0007,"Samples":21794},
-{"rank":5,"AS":328284,"Description":"SMDT1-AS","CC":"ML","Users":1478,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":1066},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"ML","Users":277,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":200}
+{"rank":1,"AS":30985,"Description":"IKATELNET","CC":"ML","Users":2164689,"Percent of CC Pop":59.19,"Percent of Internet":0.0510,"Samples":1126860},
+{"rank":2,"AS":21271,"Description":"SOTELMABGP","CC":"ML","Users":1370672,"Percent of CC Pop":37.48,"Percent of Internet":0.0323,"Samples":713523},
+{"rank":3,"AS":328253,"Description":"MALI-ATEL","CC":"ML","Users":85849,"Percent of CC Pop":2.35,"Percent of Internet":0.0020,"Samples":44690},
+{"rank":4,"AS":36864,"Description":"AFRIBONEMALI-AS","CC":"ML","Users":33809,"Percent of CC Pop":0.92,"Percent of Internet":0.0008,"Samples":17600},
+{"rank":5,"AS":328284,"Description":"SMDT1-AS","CC":"ML","Users":2111,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":1099},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"ML","Users":299,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":156}
   ]
 }

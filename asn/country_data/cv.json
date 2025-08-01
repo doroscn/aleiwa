@@ -1,12 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37517,"Description":"CVTS1","CC":"CV","Users":309091,"Percent of CC Pop":74.39,"Percent of Internet":0.0073,"Samples":129762},
-{"rank":2,"AS":37575,"Description":"TMAIS","CC":"CV","Users":95903,"Percent of CC Pop":23.08,"Percent of Internet":0.0023,"Samples":40262},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CV","Users":7560,"Percent of CC Pop":1.82,"Percent of Internet":0.0002,"Samples":3174},
-{"rank":4,"AS":327862,"Description":"NOSi","CC":"CV","Users":2701,"Percent of CC Pop":0.65,"Percent of Internet":0.0001,"Samples":1134}
+{"rank":1,"AS":37517,"Description":"CVTS1","CC":"CV","Users":312630,"Percent of CC Pop":75.18,"Percent of Internet":0.0074,"Samples":124496},
+{"rank":2,"AS":37575,"Description":"TMAIS","CC":"CV","Users":89719,"Percent of CC Pop":21.58,"Percent of Internet":0.0021,"Samples":35728},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CV","Users":9662,"Percent of CC Pop":2.32,"Percent of Internet":0.0002,"Samples":3848},
+{"rank":4,"AS":327862,"Description":"NOSi","CC":"CV","Users":3294,"Percent of CC Pop":0.79,"Percent of Internet":0.0001,"Samples":1312},
+{"rank":5,"AS":36492,"Description":"GOOGLEWIFI","CC":"CV","Users":356,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":142}
   ]
 }

@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11594,"Description":"APUA-","CC":"AG","Users":50187,"Percent of CC Pop":65.34,"Percent of Internet":0.0012,"Samples":90552},
-{"rank":2,"AS":33576,"Description":"DIG001","CC":"AG","Users":16410,"Percent of CC Pop":21.37,"Percent of Internet":0.0004,"Samples":29608},
-{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"AG","Users":3790,"Percent of CC Pop":4.94,"Percent of Internet":0.0001,"Samples":6839},
-{"rank":4,"AS":19246,"Description":"ACT2000","CC":"AG","Users":2704,"Percent of CC Pop":3.52,"Percent of Internet":0.0001,"Samples":4880},
-{"rank":5,"AS":14813,"Description":"BB-COLUMBUS","CC":"AG","Users":1428,"Percent of CC Pop":1.86,"Percent of Internet":0.0000,"Samples":2578},
-{"rank":6,"AS":396304,"Description":"ANU-DIGI","CC":"AG","Users":1300,"Percent of CC Pop":1.69,"Percent of Internet":0.0000,"Samples":2347},
-{"rank":7,"AS":398228,"Description":"STKITS","CC":"AG","Users":922,"Percent of CC Pop":1.20,"Percent of Internet":0.0000,"Samples":1664}
+{"rank":1,"AS":11594,"Description":"APUA-","CC":"AG","Users":50076,"Percent of CC Pop":65.17,"Percent of Internet":0.0012,"Samples":95795},
+{"rank":2,"AS":33576,"Description":"DIG001","CC":"AG","Users":16427,"Percent of CC Pop":21.38,"Percent of Internet":0.0004,"Samples":31426},
+{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"AG","Users":3876,"Percent of CC Pop":5.04,"Percent of Internet":0.0001,"Samples":7415},
+{"rank":4,"AS":19246,"Description":"ACT2000","CC":"AG","Users":3176,"Percent of CC Pop":4.13,"Percent of Internet":0.0001,"Samples":6076},
+{"rank":5,"AS":14813,"Description":"BB-COLUMBUS","CC":"AG","Users":2226,"Percent of CC Pop":2.90,"Percent of Internet":0.0001,"Samples":4260},
+{"rank":6,"AS":396304,"Description":"ANU-DIGI","CC":"AG","Users":656,"Percent of CC Pop":0.85,"Percent of Internet":0.0000,"Samples":1256},
+{"rank":7,"AS":398228,"Description":"STKITS","CC":"AG","Users":346,"Percent of CC Pop":0.45,"Percent of Internet":0.0000,"Samples":663}
   ]
 }

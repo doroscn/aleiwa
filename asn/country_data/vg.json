@@ -1,15 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"VG","Users":8556,"Percent of CC Pop":48.65,"Percent of Internet":0.0002,"Samples":22941},
-{"rank":2,"AS":396357,"Description":"BVI-DIG","CC":"VG","Users":4884,"Percent of CC Pop":27.77,"Percent of Internet":0.0001,"Samples":13095},
-{"rank":3,"AS":22069,"Description":"CARIB-23","CC":"VG","Users":3432,"Percent of CC Pop":19.51,"Percent of Internet":0.0001,"Samples":9202},
-{"rank":4,"AS":14813,"Description":"BB-COLUMBUS","CC":"VG","Users":248,"Percent of CC Pop":1.41,"Percent of Internet":0.0000,"Samples":665},
-{"rank":5,"AS":200313,"Description":"INTERNET-IT","CC":"VG","Users":169,"Percent of CC Pop":0.96,"Percent of Internet":0.0000,"Samples":455},
-{"rank":6,"AS":203230,"Description":"MULTITK-AS","CC":"VG","Users":138,"Percent of CC Pop":0.78,"Percent of Internet":0.0000,"Samples":370},
-{"rank":7,"AS":216475,"Description":"NKTELECOM","CC":"VG","Users":57,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":155}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"VG","Users":8380,"Percent of CC Pop":47.62,"Percent of Internet":0.0002,"Samples":25412},
+{"rank":2,"AS":396357,"Description":"BVI-DIG","CC":"VG","Users":4453,"Percent of CC Pop":25.30,"Percent of Internet":0.0001,"Samples":13503},
+{"rank":3,"AS":22069,"Description":"CARIB-23","CC":"VG","Users":3156,"Percent of CC Pop":17.94,"Percent of Internet":0.0001,"Samples":9572},
+{"rank":4,"AS":200313,"Description":"INTERNET-IT","CC":"VG","Users":1073,"Percent of CC Pop":6.10,"Percent of Internet":0.0000,"Samples":3254},
+{"rank":5,"AS":14813,"Description":"BB-COLUMBUS","CC":"VG","Users":296,"Percent of CC Pop":1.68,"Percent of Internet":0.0000,"Samples":898},
+{"rank":6,"AS":50597,"Description":"SCOPESKY","CC":"VG","Users":82,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":249},
+{"rank":7,"AS":203230,"Description":"MULTITK-AS","CC":"VG","Users":55,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":168},
+{"rank":8,"AS":200195,"Description":"VERASEL","CC":"VG","Users":48,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":146}
   ]
 }

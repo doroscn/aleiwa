@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":16058,"Description":"Gabon-Telecom","CC":"GA","Users":803760,"Percent of CC Pop":59.09,"Percent of Internet":0.0190,"Samples":710674},
-{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"GA","Users":370539,"Percent of CC Pop":27.24,"Percent of Internet":0.0087,"Samples":327626},
-{"rank":3,"AS":37616,"Description":"Airtel","CC":"GA","Users":181816,"Percent of CC Pop":13.37,"Percent of Internet":0.0043,"Samples":160760},
-{"rank":4,"AS":37582,"Description":"ANINF","CC":"GA","Users":2422,"Percent of CC Pop":0.18,"Percent of Internet":0.0001,"Samples":2142},
-{"rank":5,"AS":328304,"Description":"WAKA-AS","CC":"GA","Users":709,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":627},
-{"rank":6,"AS":328485,"Description":"Reserved (afrinic)","CC":"GA","Users":452,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":400},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"GA","Users":262,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":232}
+{"rank":1,"AS":16058,"Description":"Gabon-Telecom","CC":"GA","Users":758613,"Percent of CC Pop":55.68,"Percent of Internet":0.0179,"Samples":556930},
+{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"GA","Users":390169,"Percent of CC Pop":28.64,"Percent of Internet":0.0092,"Samples":286440},
+{"rank":3,"AS":37616,"Description":"Airtel","CC":"GA","Users":209635,"Percent of CC Pop":15.39,"Percent of Internet":0.0049,"Samples":153902},
+{"rank":4,"AS":37582,"Description":"ANINF","CC":"GA","Users":2581,"Percent of CC Pop":0.19,"Percent of Internet":0.0001,"Samples":1895},
+{"rank":5,"AS":328304,"Description":"WAKA-AS","CC":"GA","Users":907,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":666},
+{"rank":6,"AS":328485,"Description":"Reserved (afrinic)","CC":"GA","Users":177,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":130},
+{"rank":7,"AS":328429,"Description":"General-Business-Machines-AS","CC":"GA","Users":164,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":121}
   ]
 }

@@ -1,16 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15146,"Description":"CABLEBAHAMAS","CC":"BS","Users":229877,"Percent of CC Pop":60.39,"Percent of Internet":0.0054,"Samples":226174},
-{"rank":2,"AS":8014,"Description":"BATELNET","CC":"BS","Users":109318,"Percent of CC Pop":28.72,"Percent of Internet":0.0026,"Samples":107557},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BS","Users":34725,"Percent of CC Pop":9.12,"Percent of Internet":0.0008,"Samples":34166},
-{"rank":4,"AS":262287,"Description":"Latitude.sh LTDA","CC":"BS","Users":2845,"Percent of CC Pop":0.75,"Percent of Internet":0.0001,"Samples":2800},
-{"rank":5,"AS":397972,"Description":"CTF-BM-LTD","CC":"BS","Users":2034,"Percent of CC Pop":0.53,"Percent of Internet":0.0000,"Samples":2002},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"BS","Users":1000,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":984},
-{"rank":7,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"BS","Users":515,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":507},
-{"rank":8,"AS":9009,"Description":"M247","CC":"BS","Users":171,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":169}
+{"rank":1,"AS":15146,"Description":"CABLEBAHAMAS","CC":"BS","Users":236286,"Percent of CC Pop":62.05,"Percent of Internet":0.0056,"Samples":259161},
+{"rank":2,"AS":8014,"Description":"BATELNET","CC":"BS","Users":105276,"Percent of CC Pop":27.64,"Percent of Internet":0.0025,"Samples":115468},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BS","Users":30425,"Percent of CC Pop":7.99,"Percent of Internet":0.0007,"Samples":33371},
+{"rank":4,"AS":262287,"Description":"Latitude.sh LTDA","CC":"BS","Users":5169,"Percent of CC Pop":1.36,"Percent of Internet":0.0001,"Samples":5670},
+{"rank":5,"AS":397972,"Description":"CTF-BM-LTD","CC":"BS","Users":2453,"Percent of CC Pop":0.64,"Percent of Internet":0.0001,"Samples":2691},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"BS","Users":631,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":693},
+{"rank":7,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"BS","Users":229,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":252}
   ]
 }

@@ -1,21 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29571,"Description":"ORANGE-COTE-IVOIRE","CC":"CI","Users":8027633,"Percent of CC Pop":55.27,"Percent of Internet":0.1894,"Samples":4304825},
-{"rank":2,"AS":36974,"Description":"MTNCI-AS","CC":"CI","Users":3353494,"Percent of CC Pop":23.09,"Percent of Internet":0.0791,"Samples":1798314},
-{"rank":3,"AS":37190,"Description":"ATLANTIQUE-TELECOM-","CC":"CI","Users":2459365,"Percent of CC Pop":16.93,"Percent of Internet":0.0580,"Samples":1318837},
-{"rank":4,"AS":36924,"Description":"GVA-Canalbox","CC":"CI","Users":644868,"Percent of CC Pop":4.44,"Percent of Internet":0.0152,"Samples":345811},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CI","Users":23677,"Percent of CC Pop":0.16,"Percent of Internet":0.0006,"Samples":12697},
-{"rank":6,"AS":37381,"Description":"VIPNET","CC":"CI","Users":4380,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":2349},
-{"rank":7,"AS":37282,"Description":"MAINONE","CC":"CI","Users":3914,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":2099},
-{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CI","Users":3265,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":1751},
-{"rank":9,"AS":327746,"Description":"DATACONNECT-AS","CC":"CI","Users":613,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":329},
-{"rank":10,"AS":215672,"Description":"MOECHUANG-NETWORK","CC":"CI","Users":606,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":325},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"CI","Users":475,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":255},
-{"rank":12,"AS":328193,"Description":"SOCIETE-NATIONALE-DE-DEVELOPPEMENT-INFOR","CC":"CI","Users":434,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":233},
-{"rank":13,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CI","Users":246,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":132}
+{"rank":1,"AS":29571,"Description":"ORANGE-COTE-IVOIRE","CC":"CI","Users":8531613,"Percent of CC Pop":58.62,"Percent of Internet":0.2012,"Samples":3946626},
+{"rank":2,"AS":36974,"Description":"MTNCI-AS","CC":"CI","Users":2885024,"Percent of CC Pop":19.82,"Percent of Internet":0.0680,"Samples":1334579},
+{"rank":3,"AS":37190,"Description":"ATLANTIQUE-TELECOM-","CC":"CI","Users":2367400,"Percent of CC Pop":16.26,"Percent of Internet":0.0558,"Samples":1095132},
+{"rank":4,"AS":36924,"Description":"GVA-Canalbox","CC":"CI","Users":692323,"Percent of CC Pop":4.76,"Percent of Internet":0.0163,"Samples":320261},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CI","Users":62902,"Percent of CC Pop":0.43,"Percent of Internet":0.0015,"Samples":29098},
+{"rank":6,"AS":37381,"Description":"VIPNET","CC":"CI","Users":4883,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":2259},
+{"rank":7,"AS":37282,"Description":"MAINONE","CC":"CI","Users":3404,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":1575},
+{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CI","Users":3106,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":1437},
+{"rank":9,"AS":21859,"Description":"ZEN-ECN","CC":"CI","Users":1392,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":644},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"CI","Users":808,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":374},
+{"rank":11,"AS":327746,"Description":"DATACONNECT-AS","CC":"CI","Users":793,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":367},
+{"rank":12,"AS":328193,"Description":"SOCIETE-NATIONALE-DE-DEVELOPPEMENT-INFOR","CC":"CI","Users":313,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":145},
+{"rank":13,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CI","Users":274,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":127},
+{"rank":14,"AS":328290,"Description":"Vodacom-AS","CC":"CI","Users":272,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":126}
   ]
 }

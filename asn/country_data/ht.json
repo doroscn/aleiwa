@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":52260,"Description":"Telecommunications de Haiti Teleco","CC":"HT","Users":843260,"Percent of CC Pop":56.62,"Percent of Internet":0.0199,"Samples":1073312},
-{"rank":2,"AS":27653,"Description":"Alpha Communications Network","CC":"HT","Users":516838,"Percent of CC Pop":34.70,"Percent of Internet":0.0122,"Samples":657838},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"HT","Users":95267,"Percent of CC Pop":6.40,"Percent of Internet":0.0022,"Samples":121257},
-{"rank":4,"AS":27759,"Description":"ACCESS HAITI S.A.","CC":"HT","Users":33176,"Percent of CC Pop":2.23,"Percent of Internet":0.0008,"Samples":42227},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"HT","Users":377,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":480},
-{"rank":6,"AS":263685,"Description":"SOGEBANK","CC":"HT","Users":236,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":301}
+{"rank":1,"AS":52260,"Description":"Telecommunications de Haiti Teleco","CC":"HT","Users":838680,"Percent of CC Pop":56.26,"Percent of Internet":0.0198,"Samples":892195},
+{"rank":2,"AS":27653,"Description":"Alpha Communications Network","CC":"HT","Users":512069,"Percent of CC Pop":34.35,"Percent of Internet":0.0121,"Samples":544744},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"HT","Users":97242,"Percent of CC Pop":6.52,"Percent of Internet":0.0023,"Samples":103447},
+{"rank":4,"AS":27759,"Description":"ACCESS HAITI S.A.","CC":"HT","Users":42235,"Percent of CC Pop":2.83,"Percent of Internet":0.0010,"Samples":44930},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"HT","Users":356,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":379},
+{"rank":6,"AS":263685,"Description":"SOGEBANK","CC":"HT","Users":138,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":147}
   ]
 }

@@ -1,9 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":327769,"Description":"MTN-Bissau","CC":"GW","Users":93145,"Percent of CC Pop":99.91,"Percent of Internet":0.0022,"Samples":57153}
+{"rank":1,"AS":327769,"Description":"MTN-Bissau","CC":"GW","Users":93239,"Percent of CC Pop":99.83,"Percent of Internet":0.0022,"Samples":37220}
   ]
 }

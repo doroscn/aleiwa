@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/06/2025",
+  "Date": "29/07/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":328228,"Description":"SBIN-AS","CC":"BJ","Users":1162290,"Percent of CC Pop":48.47,"Percent of Internet":0.0274,"Samples":737133},
-{"rank":2,"AS":37424,"Description":"Spacetel","CC":"BJ","Users":715214,"Percent of CC Pop":29.82,"Percent of Internet":0.0169,"Samples":453594},
-{"rank":3,"AS":37136,"Description":"ETISALAT-AS","CC":"BJ","Users":436797,"Percent of CC Pop":18.21,"Percent of Internet":0.0103,"Samples":277020},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BJ","Users":36060,"Percent of CC Pop":1.50,"Percent of Internet":0.0009,"Samples":22870},
-{"rank":5,"AS":37090,"Description":"ISOCEL","CC":"BJ","Users":33536,"Percent of CC Pop":1.40,"Percent of Internet":0.0008,"Samples":21269},
-{"rank":6,"AS":28683,"Description":"SBIN","CC":"BJ","Users":8036,"Percent of CC Pop":0.34,"Percent of Internet":0.0002,"Samples":5097},
-{"rank":7,"AS":328702,"Description":"ADN-AS","CC":"BJ","Users":3125,"Percent of CC Pop":0.13,"Percent of Internet":0.0001,"Samples":1982},
-{"rank":8,"AS":37292,"Description":"OTI-AS","CC":"BJ","Users":1100,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":698},
-{"rank":9,"AS":328098,"Description":"JENY-SAS-AS","CC":"BJ","Users":832,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":528},
-{"rank":10,"AS":328092,"Description":"SUD-TELCOM-AS","CC":"BJ","Users":364,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":231},
-{"rank":11,"AS":329086,"Description":"FIRSTNET","CC":"BJ","Users":285,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":181}
+{"rank":1,"AS":328228,"Description":"SBIN-AS","CC":"BJ","Users":1177983,"Percent of CC Pop":49.01,"Percent of Internet":0.0278,"Samples":710278},
+{"rank":2,"AS":37424,"Description":"Spacetel","CC":"BJ","Users":688052,"Percent of CC Pop":28.63,"Percent of Internet":0.0162,"Samples":414869},
+{"rank":3,"AS":37136,"Description":"ETISALAT-AS","CC":"BJ","Users":457610,"Percent of CC Pop":19.04,"Percent of Internet":0.0108,"Samples":275921},
+{"rank":4,"AS":37090,"Description":"ISOCEL","CC":"BJ","Users":38558,"Percent of CC Pop":1.60,"Percent of Internet":0.0009,"Samples":23249},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BJ","Users":27845,"Percent of CC Pop":1.16,"Percent of Internet":0.0007,"Samples":16790},
+{"rank":6,"AS":28683,"Description":"SBIN","CC":"BJ","Users":7348,"Percent of CC Pop":0.31,"Percent of Internet":0.0002,"Samples":4431},
+{"rank":7,"AS":328702,"Description":"ADN-AS","CC":"BJ","Users":2625,"Percent of CC Pop":0.11,"Percent of Internet":0.0001,"Samples":1583},
+{"rank":8,"AS":37292,"Description":"OTI-AS","CC":"BJ","Users":1313,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":792},
+{"rank":9,"AS":328098,"Description":"JENY-SAS-AS","CC":"BJ","Users":880,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":531},
+{"rank":10,"AS":328092,"Description":"SUD-TELCOM-AS","CC":"BJ","Users":585,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":353},
+{"rank":11,"AS":329086,"Description":"FIRSTNET","CC":"BJ","Users":298,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":180}
   ]
 }
