@@ -60,7 +60,6 @@
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-							<!-- 国家名称动态显示 -->
 							<h1 id="countryTitle">Public DNS Servers</h1>
 							<span class="image main"><img src="/images/pic13.webp" alt="" /></span>
 							<table id="dnsTable">
@@ -109,12 +108,10 @@
 			<script src="/assets/js/util.js"></script>
 			<script src="/assets/js/main.js"></script>
 			<script>
-				// 获取 URL 中的参数
 				const params = new URLSearchParams(window.location.search);
 				const code = params.get('code') || 'unknown';
 			
-				// DOM 元素引用
-				let allData = []; // 存储全部数据
+				let allData = []; 
 				let filteredData = [];
 				let showAll = false;
 			
@@ -172,7 +169,7 @@
 					.then(response => response.json())
 					.then(data => {
 						allData = data;
-						filterAndRender(); // 初始化渲染
+						filterAndRender(); 
 					})
 					.catch(error => console.error('Error loading JSON:', error));
 			
