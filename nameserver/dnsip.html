@@ -109,49 +109,102 @@
 			<script src="/assets/js/util.js"></script>
 			<script src="/assets/js/main.js"></script>
 			<script>
+				// 获取 URL 中的参数
 				const params = new URLSearchParams(window.location.search);
 				const code = params.get('code') || 'unknown';
 			
+				// DOM 元素引用
+				let allData = []; // 存储全部数据
+				let filteredData = [];
+				let showAll = false;
+			
+				window.addEventListener('DOMContentLoaded', () => {
+					const mainDiv = document.querySelector("#main .inner");
+					const controlsDiv = document.createElement("div");
+					controlsDiv.style.marginBottom = "1em";
+			
+					const filterInput = document.createElement("input");
+					filterInput.type = "text";
+					filterInput.placeholder = "Filter by ASN (e.g. 13335)";
+					filterInput.style.marginRight = "10px";
+					filterInput.id = "asnFilter";
+			
+					const toggleButton = document.createElement("button");
+					toggleButton.textContent = "Show All";
+					toggleButton.id = "toggleRows";
+			
+					filterInput.addEventListener("input", () => {
+						filterAndRender();
+					});
+			
+					toggleButton.addEventListener("click", () => {
+						showAll = !showAll;
+						toggleButton.textContent = showAll ? "Show Top 100" : "Show All";
+						filterAndRender();
+					});
+			
+					controlsDiv.appendChild(filterInput);
+					controlsDiv.appendChild(toggleButton);
+					mainDiv.insertBefore(controlsDiv, document.getElementById("dnsTable"));
+				});
+			
 				fetch('/data/country_map.json')
-			    	.then(response => response.json())
-			        .then(countryMap => {
-			            const countryName = countryMap[code] || countryMap['unknown'];
-
- 			   	        document.title = `Aleiwa Globe DNS DNS list - Public DNS Servers in ${countryName}`;
-
-  			        	const countryTitle = document.getElementById('countryTitle');
- 		     	        countryTitle.textContent = `DNS servers in ${countryName}`;
-
+					.then(response => response.json())
+					.then(countryMap => {
+						const countryName = countryMap[code] || countryMap['unknown'];
+			
+						document.title = `Aleiwa Globe DNS DNS list - Public DNS Servers in ${countryName}`;
+						const countryTitle = document.getElementById('countryTitle');
+						countryTitle.textContent = `DNS servers in ${countryName}`;
+			
 						const metaDesc = document.createElement('meta');
-             		  	metaDesc.name = 'description';
-             		   	metaDesc.content = `Explore the list of public DNS servers in ${countryName}. See IPs, ASNs, availability and last check times.`;
-           			    document.head.appendChild(metaDesc);
-
-        		    	const metaKeywords = document.createElement('meta');
-          		   		metaKeywords.name = 'keywords';
-                		metaKeywords.content = `public dns, dns servers, dns in ${countryName}, aleiwa, globe dns`;
-                		document.head.appendChild(metaKeywords);
-
-   				        return fetch(`/dnsselect/${code}.json`);
-    				    })
+						metaDesc.name = 'description';
+						metaDesc.content = `Explore the list of public DNS servers in ${countryName}. See IPs, ASNs, availability and last check times.`;
+						document.head.appendChild(metaDesc);
+			
+						const metaKeywords = document.createElement('meta');
+						metaKeywords.name = 'keywords';
+						metaKeywords.content = `public dns, dns servers, dns in ${countryName}, aleiwa, globe dns`;
+						document.head.appendChild(metaKeywords);
+			
+						return fetch(`/dnsselect/${code}.json`);
+					})
 					.then(response => response.json())
 					.then(data => {
-						const tableBody = document.querySelector("#dnsTable tbody");
-						data.forEach(item => {
-							const row = document.createElement("tr");
-							row.innerHTML = `
-								<td>${item.ip}</td>
-								<td>${item.name}</td>
-								<td>${item.as_number}</td>
-								<td>${item.as_org}</td>
-								<td>${item.country_id}</td>
-								<td>${item.available}</td>
-								<td>${new Date(item.checked_at).toLocaleString()}</td>
-							`;
-							tableBody.appendChild(row);
-						});
+						allData = data;
+						filterAndRender(); // 初始化渲染
 					})
 					.catch(error => console.error('Error loading JSON:', error));
+			
+				function filterAndRender() {
+					const tableBody = document.querySelector("#dnsTable tbody");
+					const filterValue = document.getElementById("asnFilter")?.value?.trim();
+			
+					if (filterValue) {
+						filteredData = allData.filter(item =>
+							String(item.as_number).includes(filterValue)
+						);
+					} else {
+						filteredData = [...allData];
+					}
+			
+					const displayData = showAll ? filteredData : filteredData.slice(0, 100);
+			
+					tableBody.innerHTML = "";
+					displayData.forEach(item => {
+						const row = document.createElement("tr");
+						row.innerHTML = `
+							<td>${item.ip}</td>
+							<td>${item.name}</td>
+							<td>${item.as_number}</td>
+							<td>${item.as_org}</td>
+							<td>${item.country_id}</td>
+							<td>${item.available}</td>
+							<td>${new Date(item.checked_at).toLocaleString()}</td>
+						`;
+						tableBody.appendChild(row);
+					});
+				}
 			</script>
 	</body>
 </html>
