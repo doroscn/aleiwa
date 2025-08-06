@@ -62,7 +62,6 @@
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-							<!-- 国家名称动态显示 -->
 							<h1 id="countryTitle">TOP ASNs Information</h1>
 							<span class="image main"><img src="/images/pic13.jpg" alt="" /></span>
 							<p>Data updated: <span id="date"></span></p>
@@ -110,47 +109,86 @@
 			<script src="/assets/js/util.js"></script>
 			<script src="/assets/js/main.js"></script>
 			<script>
-				// 获取 URL 中的参数
 				const params = new URLSearchParams(window.location.search);
 				const code = params.get('code') || 'unknown';
-			
-				// 加载国家映射 JSON 文件
+
+				let allAsnData = [];
+				let filteredAsnData = [];
+				let showAll = false;
+
+				window.addEventListener('DOMContentLoaded', () => {
+					const mainDiv = document.querySelector("#main .inner");
+					const controlsDiv = document.createElement("div");
+					controlsDiv.style.marginBottom = "1em";
+
+					const filterInput = document.createElement("input");
+					filterInput.type = "text";
+					filterInput.placeholder = "Filter by AS Number (e.g. 13335)";
+					filterInput.style.marginRight = "10px";
+					filterInput.id = "asnFilter";
+
+					const toggleButton = document.createElement("button");
+					toggleButton.textContent = "Show All";
+					toggleButton.id = "toggleRows";
+
+					filterInput.addEventListener("input", () => {
+						filterAndRender();
+					});
+					toggleButton.addEventListener("click", () => {
+						showAll = !showAll;
+						toggleButton.textContent = showAll ? "Show Top 20" : "Show All";
+						filterAndRender();
+					});
+
+					controlsDiv.appendChild(filterInput);
+					controlsDiv.appendChild(toggleButton);
+					mainDiv.insertBefore(controlsDiv, document.querySelector("table"));
+				});
+				
 				fetch('/data/country_map.json')
-			    	.then(response => response.json())
-			        .then(countryMap => {
-  			  	        // 根据 code 获取国家名称
-			            const countryName = countryMap[code] || countryMap['unknown'];
+					.then(response => response.json())
+					.then(countryMap => {
+						const countryName = countryMap[code] || countryMap['unknown'];
 
- 			   	        // 动态修改页面 <title>
- 			   	        document.title = `Aleiwa TOP asn list-TOP isps list—asn asnname-TOP asns in ${countryName}`;
+						document.title = `Aleiwa TOP asn list-TOP isps list—asn asnname-TOP asns in ${countryName}`;
+						document.getElementById('countryTitle').textContent = `Top ASNs in ${countryName}`;
 
-   			      		// 动态修改页面 <h1> 内容
-  			        	const countryTitle = document.getElementById('countryTitle');
- 		     	        countryTitle.textContent = `DNS servers in ${countryName}`;
-
-  				        // 返回国家代码，加载对应的 JSON 数据文件
-   				        return fetch(`/asn/country_data/${code}.json`);
-    				    })
+						return fetch(`/asn/country_data/${code}.json`);
+					})
 					.then(response => response.json())
 					.then(data => {
-						// Set the dynamic date
 						document.getElementById('date').innerText = data.Date;
-						const tableBody = document.querySelector("#asnTable");
-						data.Data.forEach(item => {
-                        const row = document.createElement('tr');
-
-                        // Create cells for each data field
-                        row.innerHTML = `
-                            <td>${item.rank}</td>
-                            <td>${item.AS}</td>
-                            <td>${item.Description}</td>
-                            <td>${item['Percent of CC Pop']}</td>
-                            <td>${item['Percent of Internet']}</td>
-                        `;
-							tableBody.appendChild(row);
-						});
+						allAsnData = data.Data;
+						filterAndRender();
 					})
 					.catch(error => console.error('Error loading JSON:', error));
+
+				function filterAndRender() {
+					const filterValue = document.getElementById("asnFilter")?.value?.trim();
+					const tableBody = document.querySelector("#asnTable");
+
+					if (filterValue) {
+						filteredAsnData = allAsnData.filter(item =>
+						String(item.AS).includes(filterValue)
+						);
+					} else {
+						filteredAsnData = [...allAsnData];
+					}
+					const displayData = showAll ? filteredAsnData : filteredAsnData.slice(0, 20);
+					
+					tableBody.innerHTML = '';
+					displayData.forEach(item => {
+						const row = document.createElement('tr');
+						row.innerHTML = `
+							<td>${item.rank}</td>
+							<td>${item.AS}</td>
+							<td>${item.Description}</td>
+							<td>${item['Percent of CC Pop']}</td>
+							<td>${item['Percent of Internet']}</td>
+						`;
+						tableBody.appendChild(row);
+					});
+				}
 			</script>
 	</body>
 </html>
