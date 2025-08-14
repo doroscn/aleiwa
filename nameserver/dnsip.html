@@ -9,13 +9,13 @@
 		<meta name="keywords" content="public dns, dns servers, aleiwa, globe dns, dns list, dns ranking">
 		<meta name="google-adsense-account" content="ca-pub-6600663344964826">
 		<meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
-		<meta property="og:title" content="Public DNS in Philippines - Aleiwa DNS Tools">
-		<meta property="og:description" content="List of verified public DNS servers in United States of America.">
+		<meta property="og:title" content="Public DNS Servers - Aleiwa DNS Tools">
+		<meta property="og:description" content="List of verified public DNS servers.">
 		<meta property="og:image" content="/images/favicon-96x96.png">
-		<meta property="og:url" content="https://www.aleiwa.com/nameserver/dnsip.html?code=us">
+		<meta property="og:url" content="https://www.aleiwa.com/nameserver/dnsip.html">
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:title" content="Philippines Public DNS - Aleiwa">
-		<meta name="twitter:description" content="Explore real-time data of DNS servers in United States of America.">
+		<meta name="twitter:title" content="Public DNS Servers - Aleiwa">
+		<meta name="twitter:description" content="Explore real-time data of DNS servers.">
 		<link rel="stylesheet" href="/assets/css/main.css" />
 		<link rel="icon" href="/images/favicon-96x96.png" type="image/png">
 		<link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
@@ -149,20 +149,20 @@
 					.then(response => response.json())
 					.then(countryMap => {
 						const countryName = countryMap[code] || countryMap['unknown'];
-			
-						document.title = `Aleiwa Globe DNS DNS list - Public DNS Servers in ${countryName}`;
-						const countryTitle = document.getElementById('countryTitle');
-						countryTitle.textContent = `DNS servers in ${countryName}`;
-			
-						const metaDesc = document.createElement('meta');
-						metaDesc.name = 'description';
-						metaDesc.content = `Explore the list of public DNS servers in ${countryName}. See IPs, ASNs, availability and last check times.`;
-						document.head.appendChild(metaDesc);
-			
-						const metaKeywords = document.createElement('meta');
-						metaKeywords.name = 'keywords';
-						metaKeywords.content = `public dns, dns servers, dns in ${countryName}, aleiwa, globe dns`;
-						document.head.appendChild(metaKeywords);
+
+            		    //meta / title / OG / Twitter
+          			    document.title = `Public DNS Servers in ${countryName} - Aleiwa DNS Tools`;
+         			    document.querySelector('meta[name="description"]').setAttribute('content', `Explore the list of public DNS servers in ${countryName}. See IPs, ASNs, availability and last check times.`);
+        			    document.querySelector('meta[name="keywords"]').setAttribute('content', `public dns, dns servers, dns in ${countryName}, aleiwa, globe dns`);
+
+       			        document.querySelector('meta[property="og:title"]').setAttribute('content', `Public DNS Servers in ${countryName} - Aleiwa DNS Tools`);
+      			        document.querySelector('meta[property="og:description"]').setAttribute('content', `List of verified public DNS servers in ${countryName}.`);
+      			        document.querySelector('meta[property="og:url"]').setAttribute('content', window.location.href);
+
+    			        document.querySelector('meta[name="twitter:title"]').setAttribute('content', `Public DNS in ${countryName} - Aleiwa`);
+    			        document.querySelector('meta[name="twitter:description"]').setAttribute('content', `Explore real-time data of DNS servers in ${countryName}.`);
+
+    			        document.getElementById('countryTitle').textContent = `DNS servers in ${countryName}`;
 			
 						return fetch(`/dnsselect/${code}.json`);
 					})
