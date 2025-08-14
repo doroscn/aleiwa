@@ -9,17 +9,16 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="google-adsense-account" content="ca-pub-6600663344964826">
 		<meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
-		<meta property="og:title" content="TOP asns in United States of America - Aleiwa DNS Tools">
-		<meta property="og:description" content="TOP asns in United States of America.">
+		<meta property="og:title" content="TOP asns in Country - Aleiwa DNS Tools">
+		<meta property="og:description" content="TOP asns in Country.">
 		<meta property="og:image" content="/images/favicon-96x96.png">
-		<meta property="og:url" content="https://www.aleiwa.com/asn/asn.html?code=us">
+		<meta property="og:url" content="https://www.aleiwa.com/asn/asn.html">
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:title" content="TOP asns in United States of America - Aleiwa">
-		<meta name="twitter:description" content="TOP asns in United States of America.">
+		<meta name="twitter:title" content="TOP asns in Country - Aleiwa">
+		<meta name="twitter:description" content="TOP asns in Country.">
 		<link rel="stylesheet" href="/assets/css/main.css" />
 		<link rel="icon" href="/images/favicon-96x96.png" type="image/png">
 		<link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
-		<link rel="canonical" href="https://www.aleiwa.com/" />
 		<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -150,8 +149,48 @@
 					.then(countryMap => {
 						const countryName = countryMap[code] || countryMap['unknown'];
 
-						document.title = `Aleiwa TOP asn list-TOP isps list—asn asnname-TOP asns in ${countryName}`;
-						document.getElementById('countryTitle').textContent = `Top ASNs in ${countryName}`;
+          		     	 //Title
+         		        document.title = `Aleiwa TOP asn list-TOP isps list—asn asnname-TOP asns in ${countryName}`;
+        		    	document.getElementById('countryTitle').textContent = `Top ASNs in ${countryName}`;
+
+        		        //meta description
+        		        document.querySelector('meta[name="description"]').setAttribute(
+        		            'content',
+        		            `Explore top ASNs in ${countryName}, including rankings, ISP details, and network coverage statistics from Aleiwa.`
+            		    );
+
+            		    //OG
+           			    document.querySelector('meta[property="og:title"]').setAttribute(
+                		    'content',
+                		    `TOP ASNs in ${countryName} - Aleiwa DNS Tools`
+              			);
+         		    	document.querySelector('meta[property="og:description"]').setAttribute(
+         		           'content',
+         		           `Discover the top ASNs in ${countryName} with detailed ranking and network data.`
+         		       );
+         		    	document.querySelector('meta[property="og:url"]').setAttribute(
+          		        	'content',
+         		        	`https://www.aleiwa.com/asn/asn.html?code=${code}`
+         		       );
+
+              		 	 //Twitter
+             			document.querySelector('meta[name="twitter:title"]').setAttribute(
+                		    'content',
+                		    `TOP ASNs in ${countryName} - Aleiwa`
+              			);
+               			document.querySelector('meta[name="twitter:description"]').setAttribute(
+               		     'content',
+               		     `Explore the top ASNs in ${countryName} with ranking and ISP information.`
+            	 		);
+
+            	   		 //canonical
+               			let canonicalTag = document.querySelector('link[rel="canonical"]');
+               			 if (!canonicalTag) {
+               			     canonicalTag = document.createElement('link');
+               			     canonicalTag.setAttribute('rel', 'canonical');
+               			     document.head.appendChild(canonicalTag);
+               			 }
+            		    canonicalTag.setAttribute('href', `https://www.aleiwa.com/asn/asn.html?code=${code}`);
 
 						return fetch(`/asn/country_data/${code}.json`);
 					})
