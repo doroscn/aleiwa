@@ -1,14 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37057,"Description":"VODACOM-LESOTHO","CC":"LS","Users":399322,"Percent of CC Pop":50.07,"Percent of Internet":0.0094,"Samples":84508},
-{"rank":2,"AS":33567,"Description":"TELECOM-LESOTHO","CC":"LS","Users":383686,"Percent of CC Pop":48.10,"Percent of Internet":0.0090,"Samples":81199},
-{"rank":3,"AS":37642,"Description":"Comnet-Lesotho-AS","CC":"LS","Users":8368,"Percent of CC Pop":1.05,"Percent of Internet":0.0002,"Samples":1771},
-{"rank":4,"AS":327750,"Description":"JENNY-INTERNET","CC":"LS","Users":2882,"Percent of CC Pop":0.36,"Percent of Internet":0.0001,"Samples":610},
-{"rank":5,"AS":25695,"Description":"LEO","CC":"LS","Users":1904,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":403},
-{"rank":6,"AS":328567,"Description":"LEC-Communications","CC":"LS","Users":1058,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":224}
+{"rank":1,"AS":37057,"Description":"VODACOM-LESOTHO","CC":"LS","Users":392978,"Percent of CC Pop":49.25,"Percent of Internet":0.0093,"Samples":88147},
+{"rank":2,"AS":33567,"Description":"TELECOM-LESOTHO","CC":"LS","Users":388600,"Percent of CC Pop":48.70,"Percent of Internet":0.0092,"Samples":87165},
+{"rank":3,"AS":37642,"Description":"Comnet-Lesotho-AS","CC":"LS","Users":7703,"Percent of CC Pop":0.97,"Percent of Internet":0.0002,"Samples":1728},
+{"rank":4,"AS":327750,"Description":"JENNY-INTERNET","CC":"LS","Users":3615,"Percent of CC Pop":0.45,"Percent of Internet":0.0001,"Samples":811},
+{"rank":5,"AS":25695,"Description":"LEO","CC":"LS","Users":2081,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":467},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LS","Users":1734,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":389},
+{"rank":7,"AS":328567,"Description":"LEC-Communications","CC":"LS","Users":1114,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":250}
   ]
 }

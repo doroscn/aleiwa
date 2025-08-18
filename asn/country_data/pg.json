@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":139898,"Description":"DCL-AS-AP Digitec Communications Limited","CC":"PG","Users":676609,"Percent of CC Pop":46.11,"Percent of Internet":0.0160,"Samples":240004},
-{"rank":2,"AS":58460,"Description":"DIGICELPNG-AS-AP Digicel PNG Ltd","CC":"PG","Users":392111,"Percent of CC Pop":26.72,"Percent of Internet":0.0092,"Samples":139088},
-{"rank":3,"AS":38009,"Description":"TELIKOM-PNG-AS-AP Telikom PNG Satellite Tier 1 AS Internet Service","CC":"PG","Users":373403,"Percent of CC Pop":25.44,"Percent of Internet":0.0088,"Samples":132452},
-{"rank":4,"AS":17828,"Description":"PNGDATACOLIMITED-AS-PG PNG DATACO LTD","CC":"PG","Users":15093,"Percent of CC Pop":1.03,"Percent of Internet":0.0004,"Samples":5354},
-{"rank":5,"AS":63945,"Description":"DIGITECPNG-AS-AP Digitec PNG Limited","CC":"PG","Users":4657,"Percent of CC Pop":0.32,"Percent of Internet":0.0001,"Samples":1652},
-{"rank":6,"AS":136239,"Description":"CLICKPACIFICLTD-AS-AP CLICK PACIFIC LTD","CC":"PG","Users":1153,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":409},
-{"rank":7,"AS":134605,"Description":"COMSERVPNGLTD-AS-AP Comserv PNG Ltd","CC":"PG","Users":786,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":279},
-{"rank":8,"AS":138506,"Description":"PNTL-AS-AP PNG Nambawan Trophy Ltd","CC":"PG","Users":651,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":231},
-{"rank":9,"AS":60725,"Description":"O3B-AS SES Networks - Internet Service Provider operating GEO and MEO satellite constellation","CC":"PG","Users":603,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":214},
-{"rank":10,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"PG","Users":546,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":194},
-{"rank":11,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"PG","Users":366,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":130}
+{"rank":1,"AS":139898,"Description":"DCL-AS-AP Digitec Communications Limited","CC":"PG","Users":684708,"Percent of CC Pop":46.62,"Percent of Internet":0.0161,"Samples":251879},
+{"rank":2,"AS":58460,"Description":"DIGICELPNG-AS-AP Digicel PNG Ltd","CC":"PG","Users":384566,"Percent of CC Pop":26.18,"Percent of Internet":0.0091,"Samples":141468},
+{"rank":3,"AS":38009,"Description":"TELIKOM-PNG-AS-AP Telikom PNG Satellite Tier 1 AS Internet Service","CC":"PG","Users":374201,"Percent of CC Pop":25.48,"Percent of Internet":0.0088,"Samples":137655},
+{"rank":4,"AS":17828,"Description":"PNGDATACOLIMITED-AS-PG PNG DATACO LTD","CC":"PG","Users":15358,"Percent of CC Pop":1.05,"Percent of Internet":0.0004,"Samples":5650},
+{"rank":5,"AS":63945,"Description":"DIGITECPNG-AS-AP Digitec PNG Limited","CC":"PG","Users":4425,"Percent of CC Pop":0.30,"Percent of Internet":0.0001,"Samples":1628},
+{"rank":6,"AS":134605,"Description":"COMSERVPNGLTD-AS-AP Comserv PNG Ltd","CC":"PG","Users":1016,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":374},
+{"rank":7,"AS":136239,"Description":"CLICKPACIFICLTD-AS-AP CLICK PACIFIC LTD","CC":"PG","Users":975,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":359},
+{"rank":8,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"PG","Users":641,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":236},
+{"rank":9,"AS":138506,"Description":"PNTL-AS-AP PNG Nambawan Trophy Ltd","CC":"PG","Users":473,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":174},
+{"rank":10,"AS":45411,"Description":"APCSNET-AU APCS Australia","CC":"PG","Users":473,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":174},
+{"rank":11,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"PG","Users":473,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":174}
   ]
 }

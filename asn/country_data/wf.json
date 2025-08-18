@@ -1,9 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":45879,"Description":"OWF-AS-AP Orange Wallis & Futuna","CC":"WF","Users":6261,"Percent of CC Pop":100.00,"Percent of Internet":0.0001,"Samples":2589}
+{"rank":1,"AS":45879,"Description":"OWF-AS-AP Orange Wallis & Futuna","CC":"WF","Users":6260,"Percent of CC Pop":100.00,"Percent of Internet":0.0001,"Samples":2132}
   ]
 }

@@ -1,17 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"MQ","Users":64643,"Percent of CC Pop":32.13,"Percent of Internet":0.0015,"Samples":18419},
-{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MQ","Users":53212,"Percent of CC Pop":26.45,"Percent of Internet":0.0013,"Samples":15162},
-{"rank":3,"AS":48252,"Description":"DIGICELFWI","CC":"MQ","Users":30901,"Percent of CC Pop":15.36,"Percent of Internet":0.0007,"Samples":8805},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MQ","Users":19973,"Percent of CC Pop":9.93,"Percent of Internet":0.0005,"Samples":5691},
-{"rank":5,"AS":3215,"Description":"France Telecom - Orange","CC":"MQ","Users":18337,"Percent of CC Pop":9.12,"Percent of Internet":0.0004,"Samples":5225},
-{"rank":6,"AS":210595,"Description":"FREECARAIBE","CC":"MQ","Users":8279,"Percent of CC Pop":4.12,"Percent of Internet":0.0002,"Samples":2359},
-{"rank":7,"AS":214095,"Description":"ESIMINTERNATIONAL","CC":"MQ","Users":2119,"Percent of CC Pop":1.05,"Percent of Internet":0.0000,"Samples":604},
-{"rank":8,"AS":21502,"Description":"ASN-NUMERICABLE","CC":"MQ","Users":1912,"Percent of CC Pop":0.95,"Percent of Internet":0.0000,"Samples":545},
-{"rank":9,"AS":47798,"Description":"FR-MTVC","CC":"MQ","Users":551,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":157}
+{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"MQ","Users":66536,"Percent of CC Pop":33.08,"Percent of Internet":0.0016,"Samples":19483},
+{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MQ","Users":64627,"Percent of CC Pop":32.13,"Percent of Internet":0.0015,"Samples":18924},
+{"rank":3,"AS":48252,"Description":"DIGICELFWI","CC":"MQ","Users":41575,"Percent of CC Pop":20.67,"Percent of Internet":0.0010,"Samples":12174},
+{"rank":4,"AS":210595,"Description":"FREECARAIBE","CC":"MQ","Users":12523,"Percent of CC Pop":6.23,"Percent of Internet":0.0003,"Samples":3667},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MQ","Users":10989,"Percent of CC Pop":5.46,"Percent of Internet":0.0003,"Samples":3218},
+{"rank":6,"AS":21502,"Description":"ASN-NUMERICABLE","CC":"MQ","Users":2322,"Percent of CC Pop":1.15,"Percent of Internet":0.0001,"Samples":680},
+{"rank":7,"AS":3215,"Description":"France Telecom - Orange","CC":"MQ","Users":1386,"Percent of CC Pop":0.69,"Percent of Internet":0.0000,"Samples":406}
   ]
 }

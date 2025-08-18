@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8818,"Description":"Tele Greenland","CC":"GL","Users":40088,"Percent of CC Pop":99.22,"Percent of Internet":0.0009,"Samples":106384},
-{"rank":2,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"GL","Users":177,"Percent of CC Pop":0.44,"Percent of Internet":0.0000,"Samples":471},
-{"rank":3,"AS":209854,"Description":"CYBERZONEHUB","CC":"GL","Users":107,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":285}
+{"rank":1,"AS":8818,"Description":"Tele Greenland","CC":"GL","Users":39946,"Percent of CC Pop":98.86,"Percent of Internet":0.0009,"Samples":91423},
+{"rank":2,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"GL","Users":321,"Percent of CC Pop":0.79,"Percent of Internet":0.0000,"Samples":735},
+{"rank":3,"AS":209854,"Description":"CYBERZONEHUB","CC":"GL","Users":119,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":273}
   ]
 }

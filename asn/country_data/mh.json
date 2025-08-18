@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":24439,"Description":"NTAMAR-AS-AP MARSHALL ISLANDS NTA ISP AS","CC":"MH","Users":17998,"Percent of CC Pop":79.09,"Percent of Internet":0.0004,"Samples":19356},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MH","Users":4685,"Percent of CC Pop":20.59,"Percent of Internet":0.0001,"Samples":5039}
+{"rank":1,"AS":24439,"Description":"NTAMAR-AS-AP MARSHALL ISLANDS NTA ISP AS","CC":"MH","Users":17173,"Percent of CC Pop":75.43,"Percent of Internet":0.0004,"Samples":18778},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MH","Users":5515,"Percent of CC Pop":24.23,"Percent of Internet":0.0001,"Samples":6031}
   ]
 }

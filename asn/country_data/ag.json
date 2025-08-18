@@ -1,15 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11594,"Description":"APUA-","CC":"AG","Users":50076,"Percent of CC Pop":65.17,"Percent of Internet":0.0012,"Samples":95795},
-{"rank":2,"AS":33576,"Description":"DIG001","CC":"AG","Users":16427,"Percent of CC Pop":21.38,"Percent of Internet":0.0004,"Samples":31426},
-{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"AG","Users":3876,"Percent of CC Pop":5.04,"Percent of Internet":0.0001,"Samples":7415},
-{"rank":4,"AS":19246,"Description":"ACT2000","CC":"AG","Users":3176,"Percent of CC Pop":4.13,"Percent of Internet":0.0001,"Samples":6076},
-{"rank":5,"AS":14813,"Description":"BB-COLUMBUS","CC":"AG","Users":2226,"Percent of CC Pop":2.90,"Percent of Internet":0.0001,"Samples":4260},
-{"rank":6,"AS":396304,"Description":"ANU-DIGI","CC":"AG","Users":656,"Percent of CC Pop":0.85,"Percent of Internet":0.0000,"Samples":1256},
-{"rank":7,"AS":398228,"Description":"STKITS","CC":"AG","Users":346,"Percent of CC Pop":0.45,"Percent of Internet":0.0000,"Samples":663}
+{"rank":1,"AS":11594,"Description":"APUA-","CC":"AG","Users":51437,"Percent of CC Pop":66.92,"Percent of Internet":0.0012,"Samples":89463},
+{"rank":2,"AS":33576,"Description":"DIG001","CC":"AG","Users":16073,"Percent of CC Pop":20.91,"Percent of Internet":0.0004,"Samples":27956},
+{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"AG","Users":3394,"Percent of CC Pop":4.42,"Percent of Internet":0.0001,"Samples":5904},
+{"rank":4,"AS":19246,"Description":"ACT2000","CC":"AG","Users":3163,"Percent of CC Pop":4.12,"Percent of Internet":0.0001,"Samples":5503},
+{"rank":5,"AS":14813,"Description":"BB-COLUMBUS","CC":"AG","Users":2532,"Percent of CC Pop":3.30,"Percent of Internet":0.0001,"Samples":4405},
+{"rank":6,"AS":398228,"Description":"STKITS","CC":"AG","Users":129,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":225}
   ]
 }

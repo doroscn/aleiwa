@@ -1,12 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":45891,"Description":"SBT-AS-AP Solomon Telekom Co Ltd","CC":"SB","Users":87392,"Percent of CC Pop":84.70,"Percent of Internet":0.0021,"Samples":55469},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SB","Users":11449,"Percent of CC Pop":11.10,"Percent of Internet":0.0003,"Samples":7267},
-{"rank":3,"AS":132468,"Description":"SATSOL-NET-SB SATSOL LIMITED","CC":"SB","Users":2821,"Percent of CC Pop":2.73,"Percent of Internet":0.0001,"Samples":1791},
-{"rank":4,"AS":132462,"Description":"BEMOBILESI-AS-AP Bemobile Solomon Islands Ltd","CC":"SB","Users":1094,"Percent of CC Pop":1.06,"Percent of Internet":0.0000,"Samples":695}
+{"rank":1,"AS":45891,"Description":"SBT-AS-AP Solomon Telekom Co Ltd","CC":"SB","Users":84913,"Percent of CC Pop":82.21,"Percent of Internet":0.0020,"Samples":55046},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SB","Users":13323,"Percent of CC Pop":12.90,"Percent of Internet":0.0003,"Samples":8637},
+{"rank":3,"AS":132468,"Description":"SATSOL-NET-SB SATSOL LIMITED","CC":"SB","Users":3018,"Percent of CC Pop":2.92,"Percent of Internet":0.0001,"Samples":1957},
+{"rank":4,"AS":132462,"Description":"BEMOBILESI-AS-AP Bemobile Solomon Islands Ltd","CC":"SB","Users":1002,"Percent of CC Pop":0.97,"Percent of Internet":0.0000,"Samples":650},
+{"rank":5,"AS":134525,"Description":"SBT-AS-AP Solomon Telekom Co Ltd","CC":"SB","Users":822,"Percent of CC Pop":0.80,"Percent of Internet":0.0000,"Samples":533}
   ]
 }

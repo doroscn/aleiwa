@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6639,"Description":"CWCAYMAN","CC":"KY","Users":27098,"Percent of CC Pop":45.63,"Percent of Internet":0.0006,"Samples":39031},
-{"rank":2,"AS":36549,"Description":"LOGIC-36549","CC":"KY","Users":23825,"Percent of CC Pop":40.12,"Percent of Internet":0.0006,"Samples":34318},
-{"rank":3,"AS":13771,"Description":"DIGICEL-CAYMAN","CC":"KY","Users":3699,"Percent of CC Pop":6.23,"Percent of Internet":0.0001,"Samples":5329},
-{"rank":4,"AS":16437,"Description":"INFINITY-BROADBAND-LTD","CC":"KY","Users":3510,"Percent of CC Pop":5.91,"Percent of Internet":0.0001,"Samples":5056},
-{"rank":5,"AS":30689,"Description":"FLOW-NET","CC":"KY","Users":775,"Percent of CC Pop":1.31,"Percent of Internet":0.0000,"Samples":1117},
-{"rank":6,"AS":11139,"Description":"CWC-ROC-11139","CC":"KY","Users":210,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":303},
-{"rank":7,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"KY","Users":92,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":133}
+{"rank":1,"AS":6639,"Description":"CWCAYMAN","CC":"KY","Users":27623,"Percent of CC Pop":46.49,"Percent of Internet":0.0007,"Samples":35900},
+{"rank":2,"AS":36549,"Description":"LOGIC-36549","CC":"KY","Users":23925,"Percent of CC Pop":40.27,"Percent of Internet":0.0006,"Samples":31094},
+{"rank":3,"AS":13771,"Description":"DIGICEL-CAYMAN","CC":"KY","Users":3643,"Percent of CC Pop":6.13,"Percent of Internet":0.0001,"Samples":4735},
+{"rank":4,"AS":16437,"Description":"INFINITY-BROADBAND-LTD","CC":"KY","Users":3270,"Percent of CC Pop":5.51,"Percent of Internet":0.0001,"Samples":4251},
+{"rank":5,"AS":30689,"Description":"FLOW-NET","CC":"KY","Users":400,"Percent of CC Pop":0.67,"Percent of Internet":0.0000,"Samples":520},
+{"rank":6,"AS":11139,"Description":"CWC-ROC-11139","CC":"KY","Users":317,"Percent of CC Pop":0.53,"Percent of Internet":0.0000,"Samples":413},
+{"rank":7,"AS":62651,"Description":"NETPROTECT-62651","CC":"KY","Users":123,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":160}
   ]
 }

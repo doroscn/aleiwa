@@ -1,22 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6057,"Description":"Administracion Nacional de Telecomunicaciones","CC":"UY","Users":2136287,"Percent of CC Pop":87.70,"Percent of Internet":0.0504,"Samples":2090021},
-{"rank":2,"AS":19422,"Description":"Telefonica Moviles del Uruguay SA","CC":"UY","Users":185234,"Percent of CC Pop":7.60,"Percent of Internet":0.0044,"Samples":181223},
-{"rank":3,"AS":11664,"Description":"Techtel LMDS Comunicaciones Interactivas S.A.","CC":"UY","Users":87899,"Percent of CC Pop":3.61,"Percent of Internet":0.0021,"Samples":85996},
-{"rank":4,"AS":20255,"Description":"Tecnowind S.A.","CC":"UY","Users":8418,"Percent of CC Pop":0.35,"Percent of Internet":0.0002,"Samples":8236},
-{"rank":5,"AS":273854,"Description":"TELEMAS SOCIEDAD ANONIMA","CC":"UY","Users":4913,"Percent of CC Pop":0.20,"Percent of Internet":0.0001,"Samples":4807},
-{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK","CC":"UY","Users":4176,"Percent of CC Pop":0.17,"Percent of Internet":0.0001,"Samples":4086},
-{"rank":7,"AS":273002,"Description":"TRACTORAL SOCIEDAD ANONIMA","CC":"UY","Users":3607,"Percent of CC Pop":0.15,"Percent of Internet":0.0001,"Samples":3529},
-{"rank":8,"AS":273004,"Description":"MONTE CABLEVIDEO S A","CC":"UY","Users":2041,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":1997},
-{"rank":9,"AS":273012,"Description":"RISELCO SOCIEDAD ANONIMA","CC":"UY","Users":1353,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":1324},
-{"rank":10,"AS":273115,"Description":"PRAIAMAR SA","CC":"UY","Users":670,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":656},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"UY","Users":187,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":183},
-{"rank":12,"AS":1797,"Description":"Uruguay","CC":"UY","Users":187,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":183},
-{"rank":13,"AS":20002,"Description":"Telstar S.A.","CC":"UY","Users":165,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":162},
-{"rank":14,"AS":14234,"Description":"ZONAMERICA","CC":"UY","Users":165,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":162}
+{"rank":1,"AS":6057,"Description":"Administracion Nacional de Telecomunicaciones","CC":"UY","Users":2129619,"Percent of CC Pop":87.43,"Percent of Internet":0.0502,"Samples":2126748},
+{"rank":2,"AS":19422,"Description":"Telefonica Moviles del Uruguay SA","CC":"UY","Users":184499,"Percent of CC Pop":7.57,"Percent of Internet":0.0043,"Samples":184251},
+{"rank":3,"AS":11664,"Description":"Techtel LMDS Comunicaciones Interactivas S.A.","CC":"UY","Users":95314,"Percent of CC Pop":3.91,"Percent of Internet":0.0022,"Samples":95186},
+{"rank":4,"AS":20255,"Description":"Tecnowind S.A.","CC":"UY","Users":8358,"Percent of CC Pop":0.34,"Percent of Internet":0.0002,"Samples":8347},
+{"rank":5,"AS":273854,"Description":"TELEMAS SOCIEDAD ANONIMA","CC":"UY","Users":5560,"Percent of CC Pop":0.23,"Percent of Internet":0.0001,"Samples":5553},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK","CC":"UY","Users":4262,"Percent of CC Pop":0.17,"Percent of Internet":0.0001,"Samples":4257},
+{"rank":7,"AS":273002,"Description":"TRACTORAL SOCIEDAD ANONIMA","CC":"UY","Users":3294,"Percent of CC Pop":0.14,"Percent of Internet":0.0001,"Samples":3290},
+{"rank":8,"AS":273004,"Description":"MONTE CABLEVIDEO S A","CC":"UY","Users":1800,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":1798},
+{"rank":9,"AS":273012,"Description":"RISELCO SOCIEDAD ANONIMA","CC":"UY","Users":1357,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":1356},
+{"rank":10,"AS":273115,"Description":"PRAIAMAR SA","CC":"UY","Users":532,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":532},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"UY","Users":195,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":195},
+{"rank":12,"AS":1797,"Description":"Uruguay","CC":"UY","Users":188,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":188},
+{"rank":13,"AS":14234,"Description":"ZONAMERICA","CC":"UY","Users":182,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":182},
+{"rank":14,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"UY","Users":124,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":124}
   ]
 }

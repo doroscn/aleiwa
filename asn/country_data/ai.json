@@ -1,13 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"AI","Users":7994,"Percent of CC Pop":59.28,"Percent of Internet":0.0002,"Samples":21574},
-{"rank":2,"AS":2740,"Description":"CARIBCABLE","CC":"AI","Users":3038,"Percent of CC Pop":22.53,"Percent of Internet":0.0001,"Samples":8199},
-{"rank":3,"AS":396304,"Description":"ANU-DIGI","CC":"AI","Users":2113,"Percent of CC Pop":15.67,"Percent of Internet":0.0000,"Samples":5704},
-{"rank":4,"AS":61112,"Description":"AkileCloud Network","CC":"AI","Users":172,"Percent of CC Pop":1.28,"Percent of Internet":0.0000,"Samples":465},
-{"rank":5,"AS":33576,"Description":"DIG001","CC":"AI","Users":162,"Percent of CC Pop":1.20,"Percent of Internet":0.0000,"Samples":438}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"AI","Users":7780,"Percent of CC Pop":57.69,"Percent of Internet":0.0002,"Samples":22220},
+{"rank":2,"AS":396304,"Description":"ANU-DIGI","CC":"AI","Users":2915,"Percent of CC Pop":21.62,"Percent of Internet":0.0001,"Samples":8326},
+{"rank":3,"AS":2740,"Description":"CARIBCABLE","CC":"AI","Users":2652,"Percent of CC Pop":19.67,"Percent of Internet":0.0001,"Samples":7575},
+{"rank":4,"AS":33576,"Description":"DIG001","CC":"AI","Users":126,"Percent of CC Pop":0.94,"Percent of Internet":0.0000,"Samples":361}
   ]
 }

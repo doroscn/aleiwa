@@ -1,0 +1,15 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "15/08/2025",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":133606,"Description":"VIETTELTIMORLESTE-AS-AP Viettel Timor Leste","CC":"TL","Users":209184,"Percent of CC Pop":48.20,"Percent of Internet":0.0049,"Samples":89356},
+{"rank":2,"AS":58731,"Description":"TELINTLSA-AS Telekomunikasi Indonesia International T.L. S.A.","CC":"TL","Users":117999,"Percent of CC Pop":27.19,"Percent of Internet":0.0028,"Samples":50405},
+{"rank":3,"AS":38077,"Description":"TIMOR-TELECOM-AS-AP Timor Telecom, SA","CC":"TL","Users":84550,"Percent of CC Pop":19.48,"Percent of Internet":0.0020,"Samples":36117},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TL","Users":18313,"Percent of CC Pop":4.22,"Percent of Internet":0.0004,"Samples":7823},
+{"rank":5,"AS":136920,"Description":"GARDAMORLDA-AS-AP Gardamor, Lda","CC":"TL","Users":2214,"Percent of CC Pop":0.51,"Percent of Internet":0.0001,"Samples":946},
+{"rank":6,"AS":135065,"Description":"NIDOM-AS-AP National Directorate of Information and Technology","CC":"TL","Users":941,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":402},
+{"rank":7,"AS":139688,"Description":"TICTIMORIP-AS TIC TIMOR I.P.","CC":"TL","Users":547,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":234}
+  ]
+}

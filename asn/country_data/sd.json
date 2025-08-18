@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15706,"Description":"Sudatel","CC":"SD","Users":8552340,"Percent of CC Pop":48.79,"Percent of Internet":0.2017,"Samples":689302},
-{"rank":2,"AS":36998,"Description":"SDN-MOBITEL","CC":"SD","Users":3642147,"Percent of CC Pop":20.78,"Percent of Internet":0.0859,"Samples":293550},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SD","Users":3137879,"Percent of CC Pop":17.90,"Percent of Internet":0.0740,"Samples":252907},
-{"rank":4,"AS":36972,"Description":"MTN","CC":"SD","Users":2156727,"Percent of CC Pop":12.30,"Percent of Internet":0.0509,"Samples":173828},
-{"rank":5,"AS":33788,"Description":"KANARTEL","CC":"SD","Users":20633,"Percent of CC Pop":0.12,"Percent of Internet":0.0005,"Samples":1663},
-{"rank":6,"AS":37211,"Description":"MAX-NET-FOR-INTERNET-SERVICES","CC":"SD","Users":12357,"Percent of CC Pop":0.07,"Percent of Internet":0.0003,"Samples":996},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"SD","Users":4714,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":380},
-{"rank":8,"AS":328824,"Description":"Lulu-AS","CC":"SD","Users":3076,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":248}
+{"rank":1,"AS":15706,"Description":"Sudatel","CC":"SD","Users":8395936,"Percent of CC Pop":47.84,"Percent of Internet":0.1979,"Samples":749349},
+{"rank":2,"AS":36998,"Description":"SDN-MOBITEL","CC":"SD","Users":3639035,"Percent of CC Pop":20.73,"Percent of Internet":0.0858,"Samples":324789},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SD","Users":3307063,"Percent of CC Pop":18.84,"Percent of Internet":0.0780,"Samples":295160},
+{"rank":4,"AS":36972,"Description":"MTN","CC":"SD","Users":2165232,"Percent of CC Pop":12.34,"Percent of Internet":0.0510,"Samples":193250},
+{"rank":5,"AS":33788,"Description":"KANARTEL","CC":"SD","Users":22229,"Percent of CC Pop":0.13,"Percent of Internet":0.0005,"Samples":1984},
+{"rank":6,"AS":37211,"Description":"MAX-NET-FOR-INTERNET-SERVICES","CC":"SD","Users":12414,"Percent of CC Pop":0.07,"Percent of Internet":0.0003,"Samples":1108},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"SD","Users":5232,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":467},
+{"rank":8,"AS":328824,"Description":"Lulu-AS","CC":"SD","Users":3148,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":281}
   ]
 }

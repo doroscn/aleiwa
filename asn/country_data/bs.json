@@ -1,15 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15146,"Description":"CABLEBAHAMAS","CC":"BS","Users":236286,"Percent of CC Pop":62.05,"Percent of Internet":0.0056,"Samples":259161},
-{"rank":2,"AS":8014,"Description":"BATELNET","CC":"BS","Users":105276,"Percent of CC Pop":27.64,"Percent of Internet":0.0025,"Samples":115468},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BS","Users":30425,"Percent of CC Pop":7.99,"Percent of Internet":0.0007,"Samples":33371},
-{"rank":4,"AS":262287,"Description":"Latitude.sh LTDA","CC":"BS","Users":5169,"Percent of CC Pop":1.36,"Percent of Internet":0.0001,"Samples":5670},
-{"rank":5,"AS":397972,"Description":"CTF-BM-LTD","CC":"BS","Users":2453,"Percent of CC Pop":0.64,"Percent of Internet":0.0001,"Samples":2691},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"BS","Users":631,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":693},
-{"rank":7,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"BS","Users":229,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":252}
+{"rank":1,"AS":15146,"Description":"CABLEBAHAMAS","CC":"BS","Users":241987,"Percent of CC Pop":63.52,"Percent of Internet":0.0057,"Samples":255323},
+{"rank":2,"AS":8014,"Description":"BATELNET","CC":"BS","Users":105952,"Percent of CC Pop":27.81,"Percent of Internet":0.0025,"Samples":111791},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BS","Users":24547,"Percent of CC Pop":6.44,"Percent of Internet":0.0006,"Samples":25900},
+{"rank":4,"AS":262287,"Description":"Latitude.sh LTDA","CC":"BS","Users":5310,"Percent of CC Pop":1.39,"Percent of Internet":0.0001,"Samples":5603},
+{"rank":5,"AS":397972,"Description":"CTF-BM-LTD","CC":"BS","Users":2126,"Percent of CC Pop":0.56,"Percent of Internet":0.0001,"Samples":2244},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"BS","Users":578,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":610},
+{"rank":7,"AS":22357,"Description":"SECURE-SHORE-ASN","CC":"BS","Users":141,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":149},
+{"rank":8,"AS":62651,"Description":"NETPROTECT-62651","CC":"BS","Users":133,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":141}
   ]
 }

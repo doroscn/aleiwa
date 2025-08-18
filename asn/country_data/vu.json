@@ -1,12 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9249,"Description":"VUTELECOM-AS01-VU-AP Telecom Vanuatu Limited","CC":"VU","Users":34552,"Percent of CC Pop":34.87,"Percent of Internet":0.0008,"Samples":371},
-{"rank":2,"AS":132429,"Description":"DIGICELVANUATU-VU Digicel Vanuatu LTD","CC":"VU","Users":24587,"Percent of CC Pop":24.81,"Percent of Internet":0.0006,"Samples":264},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VU","Users":22724,"Percent of CC Pop":22.93,"Percent of Internet":0.0005,"Samples":244},
-{"rank":4,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"VU","Users":14249,"Percent of CC Pop":14.38,"Percent of Internet":0.0003,"Samples":153}
+{"rank":1,"AS":9249,"Description":"VUTELECOM-AS01-VU-AP Telecom Vanuatu Limited","CC":"VU","Users":40876,"Percent of CC Pop":41.21,"Percent of Internet":0.0010,"Samples":403},
+{"rank":2,"AS":132429,"Description":"DIGICELVANUATU-VU Digicel Vanuatu LTD","CC":"VU","Users":24140,"Percent of CC Pop":24.34,"Percent of Internet":0.0006,"Samples":238},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VU","Users":19271,"Percent of CC Pop":19.43,"Percent of Internet":0.0005,"Samples":190}
   ]
 }

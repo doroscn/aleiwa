@@ -1,10 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"NR","Users":4806,"Percent of CC Pop":67.30,"Percent of Internet":0.0001,"Samples":7960},
-{"rank":2,"AS":140504,"Description":"DIGICELNAURU-AS-AP Digicel Nauru Corporation","CC":"NR","Users":2202,"Percent of CC Pop":30.84,"Percent of Internet":0.0001,"Samples":3647}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"NR","Users":4468,"Percent of CC Pop":62.55,"Percent of Internet":0.0001,"Samples":7459},
+{"rank":2,"AS":140504,"Description":"DIGICELNAURU-AS-AP Digicel Nauru Corporation","CC":"NR","Users":2419,"Percent of CC Pop":33.87,"Percent of Internet":0.0001,"Samples":4039},
+{"rank":3,"AS":55722,"Description":"CENPAC-AS-AP Cenpac Net Inc","CC":"NR","Users":159,"Percent of CC Pop":2.23,"Percent of Internet":0.0000,"Samples":266},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET","CC":"NR","Users":81,"Percent of CC Pop":1.14,"Percent of Internet":0.0000,"Samples":136}
   ]
 }

@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30990,"Description":"ADJIB-AS","CC":"DJ","Users":1156244,"Percent of CC Pop":99.17,"Percent of Internet":0.0273,"Samples":150388},
-{"rank":2,"AS":13335,"Description":"CLOUDFLARENET","CC":"DJ","Users":5527,"Percent of CC Pop":0.47,"Percent of Internet":0.0001,"Samples":719},
-{"rank":3,"AS":329140,"Description":"AS5-AS","CC":"DJ","Users":3775,"Percent of CC Pop":0.32,"Percent of Internet":0.0001,"Samples":491}
+{"rank":1,"AS":30990,"Description":"ADJIB-AS","CC":"DJ","Users":1157633,"Percent of CC Pop":99.23,"Percent of Internet":0.0273,"Samples":145178},
+{"rank":2,"AS":13335,"Description":"CLOUDFLARENET","CC":"DJ","Users":4887,"Percent of CC Pop":0.42,"Percent of Internet":0.0001,"Samples":613},
+{"rank":3,"AS":329140,"Description":"AS5-AS","CC":"DJ","Users":3683,"Percent of CC Pop":0.32,"Percent of Internet":0.0001,"Samples":462}
   ]
 }

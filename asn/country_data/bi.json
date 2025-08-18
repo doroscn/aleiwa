@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":327799,"Description":"VIETTEL-BURUNDI","CC":"BI","Users":752687,"Percent of CC Pop":87.42,"Percent of Internet":0.0177,"Samples":270038},
-{"rank":2,"AS":37336,"Description":"UCOM-WIC","CC":"BI","Users":44622,"Percent of CC Pop":5.18,"Percent of Internet":0.0011,"Samples":16009},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BI","Users":21295,"Percent of CC Pop":2.47,"Percent of Internet":0.0005,"Samples":7640},
-{"rank":4,"AS":25429,"Description":"CBINET-AS CBINET Burundi","CC":"BI","Users":14580,"Percent of CC Pop":1.69,"Percent of Internet":0.0003,"Samples":5231},
-{"rank":5,"AS":37545,"Description":"BBSS","CC":"BI","Users":14449,"Percent of CC Pop":1.68,"Percent of Internet":0.0003,"Samples":5184},
-{"rank":6,"AS":37586,"Description":"Reserved (afrinic)","CC":"BI","Users":6578,"Percent of CC Pop":0.76,"Percent of Internet":0.0002,"Samples":2360},
-{"rank":7,"AS":37429,"Description":"Spidernet","CC":"BI","Users":3673,"Percent of CC Pop":0.43,"Percent of Internet":0.0001,"Samples":1318},
-{"rank":8,"AS":327798,"Description":"BERNET","CC":"BI","Users":2876,"Percent of CC Pop":0.33,"Percent of Internet":0.0001,"Samples":1032}
+{"rank":1,"AS":327799,"Description":"VIETTEL-BURUNDI","CC":"BI","Users":761045,"Percent of CC Pop":88.29,"Percent of Internet":0.0179,"Samples":281468},
+{"rank":2,"AS":37336,"Description":"UCOM-WIC","CC":"BI","Users":40974,"Percent of CC Pop":4.75,"Percent of Internet":0.0010,"Samples":15154},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BI","Users":24769,"Percent of CC Pop":2.87,"Percent of Internet":0.0006,"Samples":9161},
+{"rank":4,"AS":37545,"Description":"BBSS","CC":"BI","Users":14238,"Percent of CC Pop":1.65,"Percent of Internet":0.0003,"Samples":5266},
+{"rank":5,"AS":25429,"Description":"CBINET-AS CBINET Burundi","CC":"BI","Users":14168,"Percent of CC Pop":1.64,"Percent of Internet":0.0003,"Samples":5240},
+{"rank":6,"AS":37429,"Description":"Spidernet","CC":"BI","Users":3282,"Percent of CC Pop":0.38,"Percent of Internet":0.0001,"Samples":1214},
+{"rank":7,"AS":327798,"Description":"BERNET","CC":"BI","Users":2625,"Percent of CC Pop":0.30,"Percent of Internet":0.0001,"Samples":971},
+{"rank":8,"AS":37586,"Description":"Reserved (afrinic)","CC":"BI","Users":738,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":273}
   ]
 }

@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20634,"Description":"TELECOM-LI Schaanerstrasse 1","CC":"LI","Users":13260,"Percent of CC Pop":33.47,"Percent of Internet":0.0003,"Samples":3708},
-{"rank":2,"AS":204342,"Description":"VESTRA vestra ICT LI & CH","CC":"LI","Users":7009,"Percent of CC Pop":17.69,"Percent of Internet":0.0002,"Samples":1960},
-{"rank":3,"AS":56653,"Description":"TV-COM-AG","CC":"LI","Users":5664,"Percent of CC Pop":14.30,"Percent of Internet":0.0001,"Samples":1584},
-{"rank":4,"AS":35223,"Description":"HOI-AS","CC":"LI","Users":5256,"Percent of CC Pop":13.27,"Percent of Internet":0.0001,"Samples":1470},
-{"rank":5,"AS":15955,"Description":"SUPRANET","CC":"LI","Users":3053,"Percent of CC Pop":7.71,"Percent of Internet":0.0001,"Samples":854},
-{"rank":6,"AS":44477,"Description":"THE-HOSTING","CC":"LI","Users":1784,"Percent of CC Pop":4.50,"Percent of Internet":0.0000,"Samples":499},
-{"rank":7,"AS":62651,"Description":"NETPROTECT-62651","CC":"LI","Users":1373,"Percent of CC Pop":3.47,"Percent of Internet":0.0000,"Samples":384},
-{"rank":8,"AS":42162,"Description":"QNET","CC":"LI","Users":650,"Percent of CC Pop":1.64,"Percent of Internet":0.0000,"Samples":182}
+{"rank":1,"AS":20634,"Description":"TELECOM-LI Schaanerstrasse 1","CC":"LI","Users":12472,"Percent of CC Pop":31.48,"Percent of Internet":0.0003,"Samples":3864},
+{"rank":2,"AS":204342,"Description":"VESTRA vestra ICT LI & CH","CC":"LI","Users":7446,"Percent of CC Pop":18.79,"Percent of Internet":0.0002,"Samples":2307},
+{"rank":3,"AS":56653,"Description":"TV-COM-AG","CC":"LI","Users":5426,"Percent of CC Pop":13.69,"Percent of Internet":0.0001,"Samples":1681},
+{"rank":4,"AS":35223,"Description":"HOI-AS","CC":"LI","Users":4967,"Percent of CC Pop":12.54,"Percent of Internet":0.0001,"Samples":1539},
+{"rank":5,"AS":44477,"Description":"THE-HOSTING","CC":"LI","Users":3153,"Percent of CC Pop":7.96,"Percent of Internet":0.0001,"Samples":977},
+{"rank":6,"AS":15955,"Description":"SUPRANET","CC":"LI","Users":2856,"Percent of CC Pop":7.21,"Percent of Internet":0.0001,"Samples":885},
+{"rank":7,"AS":62651,"Description":"NETPROTECT-62651","CC":"LI","Users":1446,"Percent of CC Pop":3.65,"Percent of Internet":0.0000,"Samples":448},
+{"rank":8,"AS":206478,"Description":"LILIFE","CC":"LI","Users":435,"Percent of CC Pop":1.10,"Percent of Internet":0.0000,"Samples":135}
   ]
 }

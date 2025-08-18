@@ -1,10 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/07/2025",
+  "Date": "15/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":396304,"Description":"ANU-DIGI","CC":"MS","Users":1592,"Percent of CC Pop":66.42,"Percent of Internet":0.0000,"Samples":1826},
-{"rank":2,"AS":11139,"Description":"CWC-ROC-11139","CC":"MS","Users":728,"Percent of CC Pop":30.37,"Percent of Internet":0.0000,"Samples":835}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"MS","Users":1018,"Percent of CC Pop":42.51,"Percent of Internet":0.0000,"Samples":122}
   ]
 }
