@@ -18,7 +18,7 @@ Aleiwa offers a suite of practical, free network diagnostics and intelligence to
 - 🌍 **DNS Lookup**: Query LDNS IPs by country and ASN. Useful for reverse validation and DNS-based traffic steering analysis.
 - 🔍 **Looking Glass**: Collection of test portals from major ASNs for link and performance validation to your infrastructure.
 - 📊 **ASN Rankings**: Lists the top 10 ASNs by IP address count for each country.
-- 📅 **Holiday Calendar**: Displays upcoming public holidays by country, useful for CDN or business planning.
+- 📅 **Network News Blog**: Collects the latest information about networks in different countries, helping you understand and solve network issues.
 
 ---
 
@@ -74,7 +74,7 @@ Aleiwa 提供多种免费实用的网络诊断与信息查询工具，包括：
 - 🌍 **DNS 查询**：全球各国家各asn的ldns ip 查询，适用于当地网络反向验证，用于调度分析；
 - 🔍 **Looking Glass**：主流ASN的测试链接地址，可用于验证运营商到自己网络环境的链路和效果。
 - 📊 **ASN 排行榜**：根据国家展示前 10 大 ASN 及其 IP 数量
-- 📅 **节假日检测**：展示各国家/地区近期公共节假日（适用于 CDN/业务判断）
+- 📅 **网络资讯Blog**：收集各国家各网络最新资讯情况，可以帮助您了解网络问题和解决问题。 
 
 ---
 
