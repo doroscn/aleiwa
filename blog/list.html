@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Aleiwa Blog - Network Events Timeline</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="description" content="Timeline of global network events: Country, date, and detailed analysis.">
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+    <style>
+        .timeline { list-style: none; padding: 0; }
+        .timeline li { margin: 1.5em 0; padding: 1em; border-left: 3px solid #888; }
+        .timeline .date { font-weight: bold; color: #444; }
+        .timeline .country { font-size: 0.9em; color: #777; }
+        .filter-bar { margin: 1em 0; }
+        .filter-bar input, .filter-bar select {
+            padding: 6px; margin-right: 10px; border: 1px solid #ccc; border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+        <header id="header">
+            <div class="inner">
+                <a href="/index.html" class="logo"><span class="title">Aleiwa</span></a>
+                <nav><ul><li><a href="#menu">Menu</a></li></ul></nav>
+            </div>
+        </header>
+
+        <nav id="menu">
+            <h2>Menu</h2>
+            <ul>
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/topisps.html">Top ISPs info</a></li>
+                <li><a href="/dns.html">Best Public DNS Servers</a></li>
+                <li><a href="/privacy.html">Privacy</a></li>
+                <li><a href="/about.html">About</a></li>
+            </ul>
+        </nav>
+
+        <div id="main">
+            <div class="inner">
+                <header>
+                    <h1>Global Network Events Timeline</h1>
+                    <p>Explore chronological records of network-related events by country.</p>
+                </header>
+
+                <!-- Filter -->
+                <div class="filter-bar">
+                    <input type="text" id="searchInput" placeholder="Search by keyword...">
+                    <select id="countryFilter">
+                        <option value="">All Countries</option>
+                    </select>
+                    <select id="yearFilter">
+                        <option value="">All Years</option>
+                    </select>
+                </div>
+
+                <!-- Timeline -->
+                <ul class="timeline" id="timeline"></ul>
+            </div>
+        </div>
+
+        <footer id="footer">
+            <div class="inner">
+                <section><h2>Follow</h2></section>
+                <ul class="copyright">
+                    <li>&copy; 2025 Aleiwa Network Tools. All rights reserved</li>
+                </ul>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        let posts = [];
+
+        // Fetch JSON
+        fetch('/blog/posts.json')
+            .then(response => response.json())
+            .then(data => {
+                posts = data;
+                renderFilters();
+                renderTimeline(posts);
+            });
+
+        function renderTimeline(data) {
+            const timeline = document.getElementById("timeline");
+            timeline.innerHTML = "";
+            data.forEach(post => {
+                const li = document.createElement("li");
+                li.innerHTML = `
+                    <div class="date">${post.date}</div>
+                    <div class="country">${post.country}</div>
+                    <div class="title"><a href="${post.url}">${post.title}</a></div>
+                `;
+                timeline.appendChild(li);
+            });
+        }
+
+        function renderFilters() {
+            const countries = [...new Set(posts.map(p => p.country))].sort();
+            const years = [...new Set(posts.map(p => p.date.slice(0,4)))].sort().reverse();
+
+            const countryFilter = document.getElementById("countryFilter");
+            countries.forEach(c => {
+                const opt = document.createElement("option");
+                opt.value = c;
+                opt.textContent = c;
+                countryFilter.appendChild(opt);
+            });
+
+            const yearFilter = document.getElementById("yearFilter");
+            years.forEach(y => {
+                const opt = document.createElement("option");
+                opt.value = y;
+                opt.textContent = y;
+                yearFilter.appendChild(opt);
+            });
+        }
+
+        // Filters
+        document.getElementById("searchInput").addEventListener("input", applyFilters);
+        document.getElementById("countryFilter").addEventListener("change", applyFilters);
+        document.getElementById("yearFilter").addEventListener("change", applyFilters);
+
+        function applyFilters() {
+            const keyword = document.getElementById("searchInput").value.toLowerCase();
+            const country = document.getElementById("countryFilter").value;
+            const year = document.getElementById("yearFilter").value;
+
+            let filtered = posts.filter(p => {
+                return (!keyword || p.title.toLowerCase().includes(keyword)) &&
+                       (!country || p.country === country) &&
+                       (!year || p.date.startsWith(year));
+            });
+
+            renderTimeline(filtered);
+        }
+    </script>
+</body>
+</html>
