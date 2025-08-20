@@ -5,6 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="description" content="Timeline of global network events: Country, date, and detailed analysis.">
+    <meta name="google-adsense-account" content="ca-pub-6600663344964826">
+    <meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
+    <link rel="icon" href="/images/favicon-96x96.png" type="image/png">
+    <link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="/assets/css/main.css" />
     <noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
     <style>
@@ -20,26 +24,39 @@
 </head>
 <body>
     <div id="wrapper">
-        <header id="header">
-            <div class="inner">
-                <a href="/index.html" class="logo"><span class="title">Aleiwa</span></a>
-                <nav><ul><li><a href="#menu">Menu</a></li></ul></nav>
-            </div>
-        </header>
+				<!-- Header -->
+                <header id="header">
+                    <div class="inner">
 
-        <nav id="menu">
-            <h2>Menu</h2>
-            <ul>
-                <li><a href="/index.html">Home</a></li>
-                <li><a href="/topisps.html">Top ISPs info</a></li>
-                <li><a href="/dns.html">Best Public DNS Servers</a></li>
-                <li><a href="/privacy.html">Privacy</a></li>
-                <li><a href="/about.html">About</a></li>
-            </ul>
-        </nav>
+                        <!-- Logo -->
+                            <a href="/index.html" class="logo">
+                                <span class="symbol"><img src="/images/logo2.svg" alt="" /></span><span class="title">Aleiwa</span>
+                            </a>
 
-        <div id="main">
-            <div class="inner">
+                        <!-- Nav -->
+                            <nav>
+                                <ul>
+                                    <li><a href="#menu">Menu</a></li>
+                                </ul>
+                            </nav>
+
+                    </div>
+                </header>
+
+            <!-- Menu -->
+                <nav id="menu">
+                    <h2>Menu</h2>
+                    <ul>
+                        <li><a href="/index.html">Home</a></li>
+                        <li><a href="/topisps.html">Top ISPs info</a></li>
+                        <li><a href="/dns.html">Best Public DNS Servers</a></li>
+                        <li><a href="/privacy.html">Privacy</a></li>
+                        <li><a href="/about.html">About</a></li>
+                    </ul>
+                </nav>
+
+            <div id="main">
+             <div class="inner">
                 <header>
                     <h1>Global Network Events Timeline</h1>
                     <p>Explore chronological records of network-related events by country.</p>
@@ -58,20 +75,35 @@
 
                 <!-- Timeline -->
                 <ul class="timeline" id="timeline"></ul>
+             </div>
             </div>
-        </div>
 
-        <footer id="footer">
-            <div class="inner">
-                <section><h2>Follow</h2></section>
-                <ul class="copyright">
-                    <li>&copy; 2025 Aleiwa Network Tools. All rights reserved</li>
-                </ul>
-            </div>
-        </footer>
+				<!-- Footer -->
+				<footer id="footer">
+					<div class="inner">
+						<section>
+							<h2>Follow</h2>
+							<ul class="icons">
+								<li><a href="https://x.com/AleiwaTool" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/jash.zheng.5" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="https://github.com/aleiwa-network" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="jash_zheng@gmail.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+						</section>
+						<ul class="copyright">
+							<li>&copy; 2025 Aleiwa Network Tools. All rights reserved</li><li>Design: <a href="/about.html">Aleiwa</a></li>
+						</ul>
+					</div>
+				</footer>
     </div>
 
-    <script>
+		<!-- Scripts -->
+        <script src="/assets/js/jquery.min.js"></script>
+        <script src="/assets/js/browser.min.js"></script>
+        <script src="/assets/js/breakpoints.min.js"></script>
+        <script src="/assets/js/util.js"></script>
+        <script src="/assets/js/main.js"></script> 
+        <script>
         let posts = [];
 
         // Fetch JSON
@@ -136,6 +168,16 @@
 
             renderTimeline(filtered);
         }
-    </script>
+        </script>
+
+    	<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZGPJPS5L54"></script>
+		<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+			
+				gtag('config', 'G-ZGPJPS5L54');
+		</script>   
 </body>
 </html>
