@@ -60,46 +60,60 @@
                                 <strong>Window</strong>: Aug 20, 2025 12:36–13:49 China Standard Time (UTC+8) • 04:36–05:49 UTC
                             </head>
 
-                                <section>
-                                  <h2>Introduction</h2>
-                                  <p>In recent years, Deutsche Telekom (DTAG) has become the focus of industry scrutiny over its interconnection behavior. Operators, content networks and forums have repeatedly reported that direct connectivity to DTAG can be expensive or constrained, and that in some critical exchange points DTAG’s peering capacity appears limited. This has resulted in frustrated peers, congested paths, and visible service degradation for end users in Germany.</p>
-                                </section>
-                              
-                                <section>
-                                  <h2>Timeline & Key Moments</h2>
-                                  <p>The issue did not appear overnight — it evolved over a decade as commercial practices, regulatory actions and market structure changed:</p>
-                                  <ul>
-                                    <li><strong>2010s:</strong> Early disputes and regulator attention to how dominant incumbents manage interconnection.</li>
-                                    <li><strong>Mid‑2010s:</strong> High‑profile conflicts between transit providers and large national carriers highlighted capacity provisioning and contractual gaps.</li>
-                                    <li><strong>2020s:</strong> Content platforms and large cloud providers publicly disclosed disagreements with DTAG on peering terms, sometimes resulting in removed or reduced direct peering and visible user impact.</li>
-                                  </ul>
-                                </section>
-                              
-                                <section>
-                                  <h2>Why This Happens — Root Causes</h2>
-                                  <p>There are several interacting causes behind the perception that "peering prices are uniform but bandwidth to DTAG is small":</p>
-                                  <ol>
-                                    <li><strong>Market power and bargaining leverage.</strong> DTAG’s dominant local footprint and large consumer base give it strong leverage in negotiations. Operators on the sending side (transit providers, CDNs) often face either paid peering requests or selective peering terms.</li>
-                                    <li><strong>Selective capacity staging at IXs.</strong> Networks choose where to allocate port capacity and how much to provision at specific exchange points. Even when an IX’s aggregate capacity grows, individual networks can limit their announced capacity or port sizes at particular sites.</li>
-                                    <li><strong>Contractual terms and traffic ratio rules.</strong> Peering agreements commonly include ratio clauses, minimums, or fees. These terms can functionally restrict settlement‑free peering and push traffic into paid arrangements.</li>
-                                    <li><strong>Business incentives and monetization.</strong> Treating interconnection as a revenue opportunity leads incumbents to prefer paid arrangements over free settlement‑based peering — which can translate to apparent bandwidth constraints for those unwilling to pay.</li>
-                                    <li><strong>Regulatory lag.</strong> Even when authorities review complaints, remediation takes time. Complaints around capacity or abuses do not immediately change commercial behavior.</li>
-                                  </ol>
-                                </section>
-                              
-                                <section>
-                                  <h2>Representative Cases</h2>
-                                  <p>Several well‑documented disputes illustrate the dynamics above. Transit providers have raised grievances claiming insufficient expansion at exchange points, while some content providers opted to withdraw into different routing strategies rather than accept onerous peering terms. These public and private disputes helped expose the structural issues that lead to congestion and service impact.</p>
-                                </section>
-                              
-                                <section>
-                                  <h2>Impact on the Ecosystem</h2>
-                                  <ul>
-                                    <li><strong>End‑user experience:</strong> Video buffering, slow downloads and higher latency for services that traverse congested links.</li>
-                                    <li><strong>Cost pressure on smaller providers:</strong> Smaller ISPs and content operators often must pay or build redundant links to avoid degraded service.</li>
-                                    <li><strong>Market distortions:</strong> If incumbents regularly monetize interconnection, it raises barriers to entry and can stifle innovation.</li>
-                                  </ul>
-                                </section>  
+							<h2>Timeline (CST, UTC+8)</h2>
+							<table>
+							  <thead><tr><th>Time</th><th>Event</th></tr></thead>
+							  <tbody>
+								<tr><td>12:36</td><td>First reproducible TCP/443 resets observed on cross-border paths; HTTP/80 remains normal.</td></tr>
+								<tr><td>12:40–13:40</td><td>Consistent resets during TLS ClientHello; repeated across multiple prefixes/ASNs.</td></tr>
+								<tr><td>13:49</td><td>Behavior ceased; TCP/443 resumed normal operation.</td></tr>
+							  </tbody>
+							</table>
+					  
+							<h2>Observed Symptoms</h2>
+							<ul>
+							  <li><strong>TCP/443:</strong> Connections reset (RST), either post-three-way handshake or during TLS ClientHello/ServerHello exchange.</li>
+							  <li><strong>TCP/80:</strong> Unaffected; HTTP requests completed normally.</li>
+							  <li><strong>Scope:</strong> Affected only when the path traversed CN cross-border interconnect; intra-CN and non-CN↔non-CN paths not observed to fail.</li>
+							  <li><strong>Packet captures (indicative):</strong> no application-layer response; abrupt RST from path or endpoint midpoint.</li>
+							</ul>
+					  
+							<h2>Measurement Methodology</h2>
+							<p>We validated across multiple vantage points (different CN eyeball ASNs and non-CN destinations), rotating SNI, IPs, and providers.</p>
+							<details>
+							  <summary>Reproduce / Test Commands</summary>
+							  <p class="muted">Replace <code>DEST_IP</code> and <code>HOSTNAME</code> with your targets. Use a CN source and a non-CN destination.</p>
+					  <pre><code># Quick TCP/443 handshake vs HTTP/80
+					  # 443 likely RST during window; 80 OK
+					  curl -I --max-time 5 https://HOSTNAME/ --resolve HOSTNAME:443:DEST_IP
+					  curl -I --max-time 5 http://HOSTNAME/  --resolve HOSTNAME:80:DEST_IP
+					  
+					  # OpenSSL handshake verbosity
+					  echo | openssl s_client -connect DEST_IP:443 -servername HOSTNAME -brief -tls1_2
+					  
+					  # TCP connect timing (requires tcptraceroute or hping3)
+					  tcptraceroute DEST_IP 443
+					  tcptraceroute DEST_IP 80
+					  
+					  # Packet capture (server or client side as allowed)
+					  sudo tcpdump -nni any 'tcp and (port 443 or port 80)'
+					  </code></pre>
+							</details>
+					  
+							<h2>What Might Explain This? (Hypotheses)</h2>
+							<ul>
+							  <li><strong>Interconnect policy event or transient filtering:</strong> Mid-path device injecting RST on port 443 flows, e.g., triggered by TLS ClientHello properties.</li>
+							  <li><strong>Misconfiguration / maintenance:</strong> Short-lived change affecting cross-border 443 flows only.</li>
+							  <li><strong>Not observed:</strong> No evidence that TCP/80 or DNS transport (53/UDP) were impacted in the same window.</li>
+							</ul>
+							<p class="muted"><em>Note:</em> These are technical hypotheses based on symptoms. We do not assert intent or definitive root cause.</p>
+					  
+							<h2>Impact</h2>
+							<ul>
+							  <li>HTTPS availability degraded for CN users accessing non-CN services.</li>
+							  <li>Automations relying on TLS/443 (APIs, package repos, updates) intermittently failed.</li>
+							  <li>Plain HTTP remained a functional fallback, if enabled.</li>
+							</ul>
                         </div>
                     </div>
                     
