@@ -68,6 +68,13 @@ table {
     background-color: #f1f1f1;
 }
 
+code, pre { 
+	font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; 
+}
+pre { 
+	background:#0b1020; color:#e5e7eb; padding:14px; border-radius:10px; overflow:auto; 
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }
