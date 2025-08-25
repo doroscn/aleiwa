@@ -1,6 +1,6 @@
 [
   {
-    "ip": "43.241.138.152",
+    "ip": "43.241.138.93",
     "name": "cust-Sangay-Dorji-gw3-plg.tashicell.com.",
     "as_number": 23955,
     "as_org": "Tashi InfoComm Limited",
@@ -10,9 +10,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-07-24T00:54:47Z",
+    "checked_at": "2025-08-25T00:50:35Z",
     "created_at": "2023-03-13T19:48:08.419879Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "202.144.140.220",
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-07-24T00:54:54Z",
+    "checked_at": "2025-08-25T00:50:43Z",
     "created_at": "2023-03-14T02:30:39.695074Z",
     "available": false
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6578947368421053,
-    "checked_at": "2025-07-24T00:55:02Z",
+    "checked_at": "2025-08-25T00:50:50Z",
     "created_at": "2023-03-16T09:33:36.939746Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-07-24T00:55:03Z",
+    "checked_at": "2025-08-25T00:50:51Z",
     "created_at": "2023-03-16T23:58:57.300937Z",
     "available": false
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6739130434782609,
-    "checked_at": "2025-07-24T00:55:10Z",
+    "checked_at": "2025-08-25T00:50:59Z",
     "created_at": "2023-03-17T08:00:08.589586Z",
     "available": false
   }
