@@ -1007,24 +1007,6 @@
     "index": 32
   },
   {
-    "country_id": "br",
-    "checked_at": "2025-07-29T01:00:22Z",
-    "ip_availability_ratio%": 53.14,
-    "index": 27
-  },
-  {
-    "country_id": "af",
-    "checked_at": "2025-07-30T00:56:21Z",
-    "ip_availability_ratio%": 61.54,
-    "index": 0
-  },
-  {
-    "country_id": "io",
-    "checked_at": "2025-07-31T00:55:01Z",
-    "ip_availability_ratio%": 0.00,
-    "index": 28
-  },
-  {
     "country_id": "al",
     "checked_at": "2025-08-01T01:01:10Z",
     "ip_availability_ratio%": 82.14,
@@ -1197,5 +1179,23 @@
     "checked_at": "2025-08-29T00:45:59Z",
     "ip_availability_ratio%": 83.33,
     "index": 26
+  },
+  {
+    "country_id": "br",
+    "checked_at": "2025-08-30T00:43:23Z",
+    "ip_availability_ratio%": 54.28,
+    "index": 27
+  },
+  {
+    "country_id": "af",
+    "checked_at": "2025-08-31T00:50:51Z",
+    "ip_availability_ratio%": 61.54,
+    "index": 0
+  },
+  {
+    "country_id": "io",
+    "checked_at": "2025-09-01T00:56:45Z",
+    "ip_availability_ratio%": 0.00,
+    "index": 28
   }
 ]
