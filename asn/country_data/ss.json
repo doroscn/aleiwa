@@ -1,0 +1,27 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/08/2025",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SS","Users":343480,"Percent of CC Pop":30.05,"Percent of Internet":0.0081,"Samples":51781},
+{"rank":2,"AS":37594,"Description":"MTN","CC":"SS","Users":324707,"Percent of CC Pop":28.41,"Percent of Internet":0.0077,"Samples":48951},
+{"rank":3,"AS":37376,"Description":"ZAIN-South-Sudan","CC":"SS","Users":194926,"Percent of CC Pop":17.05,"Percent of Internet":0.0046,"Samples":29386},
+{"rank":4,"AS":328755,"Description":"Digitel-Holdings","CC":"SS","Users":179643,"Percent of CC Pop":15.72,"Percent of Internet":0.0042,"Samples":27082},
+{"rank":5,"AS":328535,"Description":"Juba-Network","CC":"SS","Users":29982,"Percent of CC Pop":2.62,"Percent of Internet":0.0007,"Samples":4520},
+{"rank":6,"AS":36892,"Description":"IPTECH","CC":"SS","Users":13359,"Percent of CC Pop":1.17,"Percent of Internet":0.0003,"Samples":2014},
+{"rank":7,"AS":328586,"Description":"HORIZON-IT-SOLUTIONS-LTD","CC":"SS","Users":10633,"Percent of CC Pop":0.93,"Percent of Internet":0.0003,"Samples":1603},
+{"rank":8,"AS":37406,"Description":"RCS","CC":"SS","Users":10009,"Percent of CC Pop":0.88,"Percent of Internet":0.0002,"Samples":1509},
+{"rank":9,"AS":328605,"Description":"MUYA-FIBER","CC":"SS","Users":6414,"Percent of CC Pop":0.56,"Percent of Internet":0.0002,"Samples":967},
+{"rank":10,"AS":327786,"Description":"TELECOM-4G","CC":"SS","Users":6288,"Percent of CC Pop":0.55,"Percent of Internet":0.0001,"Samples":948},
+{"rank":11,"AS":37584,"Description":"FastNetAS","CC":"SS","Users":6089,"Percent of CC Pop":0.53,"Percent of Internet":0.0001,"Samples":918},
+{"rank":12,"AS":328697,"Description":"Smart-Network-Limited","CC":"SS","Users":4716,"Percent of CC Pop":0.41,"Percent of Internet":0.0001,"Samples":711},
+{"rank":13,"AS":328610,"Description":"DELTANET-FIBER","CC":"SS","Users":3701,"Percent of CC Pop":0.32,"Percent of Internet":0.0001,"Samples":558},
+{"rank":14,"AS":328614,"Description":"Eden-Technologies-Ltd","CC":"SS","Users":3436,"Percent of CC Pop":0.30,"Percent of Internet":0.0001,"Samples":518},
+{"rank":15,"AS":328708,"Description":"DishNet-Africa-Ltd","CC":"SS","Users":1426,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":215},
+{"rank":16,"AS":328546,"Description":"Trinity-Technologies-AS","CC":"SS","Users":1386,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":209},
+{"rank":17,"AS":29286,"Description":"SKYLOGIC-AS","CC":"SS","Users":1147,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":173},
+{"rank":18,"AS":328491,"Description":"Super-NET-AS","CC":"SS","Users":855,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":129},
+{"rank":19,"AS":13335,"Description":"CLOUDFLARENET","CC":"SS","Users":842,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":127}
+  ]
+}

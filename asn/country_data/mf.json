@@ -1,0 +1,13 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/08/2025",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":393894,"Description":"MSR-CABLE-TV","CC":"MF","Users":7596,"Percent of CC Pop":42.36,"Percent of Internet":0.0002,"Samples":3139},
+{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MF","Users":5004,"Percent of CC Pop":27.90,"Percent of Internet":0.0001,"Samples":2068},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MF","Users":3782,"Percent of CC Pop":21.09,"Percent of Internet":0.0001,"Samples":1563},
+{"rank":4,"AS":262181,"Description":"Coral Telecom N.V.","CC":"MF","Users":438,"Percent of CC Pop":2.44,"Percent of Internet":0.0000,"Samples":181},
+{"rank":5,"AS":33392,"Description":"DAUPHIN-TELECOM","CC":"MF","Users":418,"Percent of CC Pop":2.33,"Percent of Internet":0.0000,"Samples":173}
+  ]
+}

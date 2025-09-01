@@ -1,22 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37577,"Description":"Orange-","CC":"BF","Users":2453810,"Percent of CC Pop":52.25,"Percent of Internet":0.0578,"Samples":833054},
-{"rank":2,"AS":25543,"Description":"FasoNet-AS","CC":"BF","Users":953032,"Percent of CC Pop":20.29,"Percent of Internet":0.0225,"Samples":323549},
-{"rank":3,"AS":36924,"Description":"GVA-Canalbox","CC":"BF","Users":710074,"Percent of CC Pop":15.12,"Percent of Internet":0.0167,"Samples":241066},
-{"rank":4,"AS":37526,"Description":"Telecel-Faso","CC":"BF","Users":484017,"Percent of CC Pop":10.31,"Percent of Internet":0.0114,"Samples":164321},
-{"rank":5,"AS":327871,"Description":"ANPTIC","CC":"BF","Users":46975,"Percent of CC Pop":1.00,"Percent of Internet":0.0011,"Samples":15948},
-{"rank":6,"AS":37721,"Description":"Virtual-Technologies-Solutions-SA","CC":"BF","Users":27841,"Percent of CC Pop":0.59,"Percent of Internet":0.0007,"Samples":9452},
-{"rank":7,"AS":329041,"Description":"ANDE1-AS","CC":"BF","Users":3861,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":1311},
-{"rank":8,"AS":329485,"Description":"Bridge-Fiber","CC":"BF","Users":3690,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":1253},
-{"rank":9,"AS":37163,"Description":"IPSYSTEM","CC":"BF","Users":3449,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":1171},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"BF","Users":2624,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":891},
-{"rank":11,"AS":37073,"Description":"IPP-burkina-as","CC":"BF","Users":2580,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":876},
-{"rank":12,"AS":37008,"Description":"Alink-Faso","CC":"BF","Users":2288,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":777},
-{"rank":13,"AS":328716,"Description":"VIPNET-BUKINA-FASO","CC":"BF","Users":550,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":187},
-{"rank":14,"AS":60171,"Description":"AFRIX-AS","CC":"BF","Users":453,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":154}
+{"rank":1,"AS":37577,"Description":"Orange-","CC":"BF","Users":2497935,"Percent of CC Pop":53.14,"Percent of Internet":0.0589,"Samples":878151},
+{"rank":2,"AS":25543,"Description":"FasoNet-AS","CC":"BF","Users":939133,"Percent of CC Pop":19.98,"Percent of Internet":0.0221,"Samples":330153},
+{"rank":3,"AS":36924,"Description":"GVA-Canalbox","CC":"BF","Users":713791,"Percent of CC Pop":15.19,"Percent of Internet":0.0168,"Samples":250934},
+{"rank":4,"AS":37526,"Description":"Telecel-Faso","CC":"BF","Users":455999,"Percent of CC Pop":9.70,"Percent of Internet":0.0107,"Samples":160307},
+{"rank":5,"AS":327871,"Description":"ANPTIC","CC":"BF","Users":43268,"Percent of CC Pop":0.92,"Percent of Internet":0.0010,"Samples":15211},
+{"rank":6,"AS":37721,"Description":"Virtual-Technologies-Solutions-SA","CC":"BF","Users":27572,"Percent of CC Pop":0.59,"Percent of Internet":0.0006,"Samples":9693},
+{"rank":7,"AS":329041,"Description":"ANDE1-AS","CC":"BF","Users":4977,"Percent of CC Pop":0.11,"Percent of Internet":0.0001,"Samples":1750},
+{"rank":8,"AS":37163,"Description":"IPSYSTEM","CC":"BF","Users":4411,"Percent of CC Pop":0.09,"Percent of Internet":0.0001,"Samples":1551},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"BF","Users":4076,"Percent of CC Pop":0.09,"Percent of Internet":0.0001,"Samples":1433},
+{"rank":10,"AS":329485,"Description":"Bridge-Fiber","CC":"BF","Users":3117,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":1096},
+{"rank":11,"AS":37073,"Description":"IPP-burkina-as","CC":"BF","Users":2295,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":807},
+{"rank":12,"AS":37008,"Description":"Alink-Faso","CC":"BF","Users":1897,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":667},
+{"rank":13,"AS":328716,"Description":"VIPNET-BUKINA-FASO","CC":"BF","Users":526,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":185},
+{"rank":14,"AS":60171,"Description":"AFRIX-AS","CC":"BF","Users":395,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":139}
   ]
 }

@@ -1,10 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":10131,"Description":"CKTELECOM-CK-AP Telecom Cook Islands","CC":"CK","Users":4807,"Percent of CC Pop":50.61,"Percent of Internet":0.0001,"Samples":14899},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CK","Users":4664,"Percent of CC Pop":49.11,"Percent of Internet":0.0001,"Samples":14457}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CK","Users":4758,"Percent of CC Pop":50.10,"Percent of Internet":0.0001,"Samples":15091},
+{"rank":2,"AS":10131,"Description":"CKTELECOM-CK-AP Telecom Cook Islands","CC":"CK","Users":4647,"Percent of CC Pop":48.93,"Percent of Internet":0.0001,"Samples":14738},
+{"rank":3,"AS":152093,"Description":"VAKANETLIMITED-AS-AP VakaNet Limited","CC":"CK","Users":89,"Percent of CC Pop":0.95,"Percent of Internet":0.0000,"Samples":285}
   ]
 }

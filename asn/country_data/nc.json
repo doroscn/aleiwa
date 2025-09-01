@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":56089,"Description":"OFFRATEL-AS-AP OFFRATEL","CC":"NC","Users":82012,"Percent of CC Pop":30.40,"Percent of Internet":0.0019,"Samples":33211},
-{"rank":2,"AS":18200,"Description":"OPT-NC-AS-AP Office des Postes et Telecommunications New-Caledonia","CC":"NC","Users":57752,"Percent of CC Pop":21.41,"Percent of Internet":0.0014,"Samples":23387},
-{"rank":3,"AS":17480,"Description":"CANL CANL","CC":"NC","Users":51267,"Percent of CC Pop":19.01,"Percent of Internet":0.0012,"Samples":20761},
-{"rank":4,"AS":56055,"Description":"MLS-NC Micro Logic Systems","CC":"NC","Users":35747,"Percent of CC Pop":13.25,"Percent of Internet":0.0008,"Samples":14476},
-{"rank":5,"AS":45345,"Description":"NAUTILE-NC-AS-AP Nautile","CC":"NC","Users":32305,"Percent of CC Pop":11.98,"Percent of Internet":0.0008,"Samples":13082},
-{"rank":6,"AS":45461,"Description":"TELENET-AS-AP TeleNet","CC":"NC","Users":10349,"Percent of CC Pop":3.84,"Percent of Internet":0.0002,"Samples":4191}
+{"rank":1,"AS":56089,"Description":"OFFRATEL-AS-AP OFFRATEL","CC":"NC","Users":85649,"Percent of CC Pop":31.74,"Percent of Internet":0.0020,"Samples":31224},
+{"rank":2,"AS":18200,"Description":"OPT-NC-AS-AP Office des Postes et Telecommunications New-Caledonia","CC":"NC","Users":58847,"Percent of CC Pop":21.81,"Percent of Internet":0.0014,"Samples":21453},
+{"rank":3,"AS":17480,"Description":"CANL CANL","CC":"NC","Users":49838,"Percent of CC Pop":18.47,"Percent of Internet":0.0012,"Samples":18169},
+{"rank":4,"AS":56055,"Description":"MLS-NC Micro Logic Systems","CC":"NC","Users":32831,"Percent of CC Pop":12.17,"Percent of Internet":0.0008,"Samples":11969},
+{"rank":5,"AS":45345,"Description":"NAUTILE-NC-AS-AP Nautile","CC":"NC","Users":30585,"Percent of CC Pop":11.33,"Percent of Internet":0.0007,"Samples":11150},
+{"rank":6,"AS":45461,"Description":"TELENET-AS-AP TeleNet","CC":"NC","Users":11718,"Percent of CC Pop":4.34,"Percent of Internet":0.0003,"Samples":4272}
   ]
 }

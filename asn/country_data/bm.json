@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3855,"Description":"LOGIC-3855","CC":"BM","Users":37974,"Percent of CC Pop":60.38,"Percent of Internet":0.0009,"Samples":77157},
-{"rank":2,"AS":32020,"Description":"TRANSACT-BM-ASN","CC":"BM","Users":21227,"Percent of CC Pop":33.75,"Percent of Internet":0.0005,"Samples":43129},
-{"rank":3,"AS":16413,"Description":"TELEBERMUDA","CC":"BM","Users":2356,"Percent of CC Pop":3.75,"Percent of Internet":0.0001,"Samples":4787},
-{"rank":4,"AS":11269,"Description":"LINKBERMUDA","CC":"BM","Users":464,"Percent of CC Pop":0.74,"Percent of Internet":0.0000,"Samples":944},
-{"rank":5,"AS":19626,"Description":"EVC-AS","CC":"BM","Users":250,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":509},
-{"rank":6,"AS":55159,"Description":"PARADISE-MOBILE-ASN-01","CC":"BM","Users":210,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":428},
-{"rank":7,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"BM","Users":151,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":308},
-{"rank":8,"AS":62240,"Description":"CLOUVIDER Clouvider - Global ASN","CC":"BM","Users":105,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":215}
+{"rank":1,"AS":3855,"Description":"LOGIC-3855","CC":"BM","Users":38002,"Percent of CC Pop":60.43,"Percent of Internet":0.0009,"Samples":76798},
+{"rank":2,"AS":32020,"Description":"TRANSACT-BM-ASN","CC":"BM","Users":21111,"Percent of CC Pop":33.57,"Percent of Internet":0.0005,"Samples":42663},
+{"rank":3,"AS":16413,"Description":"TELEBERMUDA","CC":"BM","Users":2303,"Percent of CC Pop":3.66,"Percent of Internet":0.0001,"Samples":4655},
+{"rank":4,"AS":11269,"Description":"LINKBERMUDA","CC":"BM","Users":525,"Percent of CC Pop":0.83,"Percent of Internet":0.0000,"Samples":1061},
+{"rank":5,"AS":55159,"Description":"PARADISE-MOBILE-ASN-01","CC":"BM","Users":286,"Percent of CC Pop":0.45,"Percent of Internet":0.0000,"Samples":578},
+{"rank":6,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"BM","Users":224,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":453},
+{"rank":7,"AS":19626,"Description":"EVC-AS","CC":"BM","Users":223,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":451},
+{"rank":8,"AS":62240,"Description":"CLOUVIDER Clouvider - Global ASN","CC":"BM","Users":90,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":183}
   ]
 }

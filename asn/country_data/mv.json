@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":7642,"Description":"DHIRAAGU-MV-AP DHIVEHI RAAJJEYGE GULHUN PLC","CC":"MV","Users":206223,"Percent of CC Pop":57.44,"Percent of Internet":0.0049,"Samples":293575},
-{"rank":2,"AS":55944,"Description":"OOREDOO-MV Ooredoo Maldives Plc","CC":"MV","Users":134509,"Percent of CC Pop":37.46,"Percent of Internet":0.0032,"Samples":191484},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MV","Users":6166,"Percent of CC Pop":1.72,"Percent of Internet":0.0001,"Samples":8778},
-{"rank":4,"AS":136238,"Description":"SATLINKPVTLTD-AS-AP SatLink Pvt Ltd","CC":"MV","Users":4695,"Percent of CC Pop":1.31,"Percent of Internet":0.0001,"Samples":6684},
-{"rank":5,"AS":24016,"Description":"RAAJJEONLINE-AS Focus Infocom Private Limited","CC":"MV","Users":3459,"Percent of CC Pop":0.96,"Percent of Internet":0.0001,"Samples":4925},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"MV","Users":2435,"Percent of CC Pop":0.68,"Percent of Internet":0.0001,"Samples":3467},
-{"rank":7,"AS":137477,"Description":"VILLA-STC-AS-AP Villa Shipping and Trading Company Pvt. Ltd.","CC":"MV","Users":708,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":1009},
-{"rank":8,"AS":139082,"Description":"SEPCL-AS-AP Singha Estate Public Company Limited","CC":"MV","Users":673,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":959}
+{"rank":1,"AS":7642,"Description":"DHIRAAGU-MV-AP DHIVEHI RAAJJEYGE GULHUN PLC","CC":"MV","Users":207234,"Percent of CC Pop":57.73,"Percent of Internet":0.0049,"Samples":298079},
+{"rank":2,"AS":55944,"Description":"OOREDOO-MV Ooredoo Maldives Plc","CC":"MV","Users":134794,"Percent of CC Pop":37.55,"Percent of Internet":0.0032,"Samples":193884},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MV","Users":6120,"Percent of CC Pop":1.70,"Percent of Internet":0.0001,"Samples":8803},
+{"rank":4,"AS":136238,"Description":"SATLINKPVTLTD-AS-AP SatLink Pvt Ltd","CC":"MV","Users":4430,"Percent of CC Pop":1.23,"Percent of Internet":0.0001,"Samples":6372},
+{"rank":5,"AS":24016,"Description":"RAAJJEONLINE-AS Focus Infocom Private Limited","CC":"MV","Users":3236,"Percent of CC Pop":0.90,"Percent of Internet":0.0001,"Samples":4655},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"MV","Users":1685,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":2424},
+{"rank":7,"AS":139082,"Description":"SEPCL-AS-AP Singha Estate Public Company Limited","CC":"MV","Users":693,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":997},
+{"rank":8,"AS":137477,"Description":"VILLA-STC-AS-AP Villa Shipping and Trading Company Pvt. Ltd.","CC":"MV","Users":650,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":935}
   ]
 }

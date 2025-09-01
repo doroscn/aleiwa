@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":17893,"Description":"PALAU-AS-AP Palau National Communications Corp.","CC":"PW","Users":9198,"Percent of CC Pop":92.70,"Percent of Internet":0.0002,"Samples":19830},
-{"rank":2,"AS":133897,"Description":"PEACCDPT-AS-AP Palau Equipment Co. Inc.","CC":"PW","Users":694,"Percent of CC Pop":7.00,"Percent of Internet":0.0000,"Samples":1498}
+{"rank":1,"AS":17893,"Description":"PALAU-AS-AP Palau National Communications Corp.","CC":"PW","Users":9095,"Percent of CC Pop":91.66,"Percent of Internet":0.0002,"Samples":19452},
+{"rank":2,"AS":133897,"Description":"PEACCDPT-AS-AP Palau Equipment Co. Inc.","CC":"PW","Users":807,"Percent of CC Pop":8.13,"Percent of Internet":0.0000,"Samples":1726}
   ]
 }

@@ -1,15 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14434,"Description":"VIPNAS1","CC":"VI","Users":51612,"Percent of CC Pop":74.00,"Percent of Internet":0.0012,"Samples":80850},
-{"rank":2,"AS":22581,"Description":"ACE-STX","CC":"VI","Users":9765,"Percent of CC Pop":14.00,"Percent of Internet":0.0002,"Samples":15297},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VI","Users":4715,"Percent of CC Pop":6.76,"Percent of Internet":0.0001,"Samples":7387},
-{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK","CC":"VI","Users":2697,"Percent of CC Pop":3.87,"Percent of Internet":0.0001,"Samples":4225},
-{"rank":5,"AS":400099,"Description":"SMART-NET-01","CC":"VI","Users":444,"Percent of CC Pop":0.64,"Percent of Internet":0.0000,"Samples":696},
-{"rank":6,"AS":400741,"Description":"ADM-TECH-01","CC":"VI","Users":295,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":463},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"VI","Users":91,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":144}
+{"rank":1,"AS":14434,"Description":"VIPNAS1","CC":"VI","Users":51380,"Percent of CC Pop":73.69,"Percent of Internet":0.0012,"Samples":64459},
+{"rank":2,"AS":22581,"Description":"ACE-STX","CC":"VI","Users":9764,"Percent of CC Pop":14.00,"Percent of Internet":0.0002,"Samples":12250},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VI","Users":4916,"Percent of CC Pop":7.05,"Percent of Internet":0.0001,"Samples":6168},
+{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK","CC":"VI","Users":2626,"Percent of CC Pop":3.77,"Percent of Internet":0.0001,"Samples":3295},
+{"rank":5,"AS":400099,"Description":"SMART-NET-01","CC":"VI","Users":498,"Percent of CC Pop":0.72,"Percent of Internet":0.0000,"Samples":626},
+{"rank":6,"AS":400741,"Description":"ADM-TECH-01","CC":"VI","Users":291,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":366}
   ]
 }

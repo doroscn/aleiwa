@@ -1,12 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":46650,"Description":"ASN46650-CCGL","CC":"GD","Users":66883,"Percent of CC Pop":82.62,"Percent of Internet":0.0016,"Samples":128359},
-{"rank":2,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"GD","Users":13318,"Percent of CC Pop":16.45,"Percent of Internet":0.0003,"Samples":25560},
-{"rank":3,"AS":393629,"Description":"GDGR","CC":"GD","Users":524,"Percent of CC Pop":0.65,"Percent of Internet":0.0000,"Samples":1006},
-{"rank":4,"AS":30272,"Description":"GOG-ASN1-GND","CC":"GD","Users":159,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":306}
+{"rank":1,"AS":46650,"Description":"ASN46650-CCGL","CC":"GD","Users":67534,"Percent of CC Pop":83.41,"Percent of Internet":0.0016,"Samples":128406},
+{"rank":2,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"GD","Users":12646,"Percent of CC Pop":15.62,"Percent of Internet":0.0003,"Samples":24046},
+{"rank":3,"AS":393629,"Description":"GDGR","CC":"GD","Users":688,"Percent of CC Pop":0.85,"Percent of Internet":0.0000,"Samples":1310}
   ]
 }

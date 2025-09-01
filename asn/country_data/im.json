@@ -1,0 +1,17 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/08/2025",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":13122,"Description":"MANX-AS MANX-TELECOM Autonomous System","CC":"IM","Users":34582,"Percent of CC Pop":73.88,"Percent of Internet":0.0008,"Samples":92494},
+{"rank":2,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"IM","Users":7961,"Percent of CC Pop":17.01,"Percent of Internet":0.0002,"Samples":21295},
+{"rank":3,"AS":42455,"Description":"WI-MANX-AS","CC":"IM","Users":2228,"Percent of CC Pop":4.76,"Percent of Internet":0.0001,"Samples":5960},
+{"rank":4,"AS":15766,"Description":"DOMICILIUM-AS","CC":"IM","Users":906,"Percent of CC Pop":1.94,"Percent of Internet":0.0000,"Samples":2425},
+{"rank":5,"AS":13173,"Description":"FORESHORE-AS","CC":"IM","Users":320,"Percent of CC Pop":0.69,"Percent of Internet":0.0000,"Samples":858},
+{"rank":6,"AS":201898,"Description":"AS-BLUEWAVE","CC":"IM","Users":269,"Percent of CC Pop":0.58,"Percent of Internet":0.0000,"Samples":721},
+{"rank":7,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"IM","Users":252,"Percent of CC Pop":0.54,"Percent of Internet":0.0000,"Samples":675},
+{"rank":8,"AS":13213,"Description":"UK2NET-AS","CC":"IM","Users":102,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":273},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"IM","Users":56,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":151}
+  ]
+}

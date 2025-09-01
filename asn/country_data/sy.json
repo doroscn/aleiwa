@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS STE PDN Internal AS","CC":"SY","Users":8650050,"Percent of CC Pop":89.76,"Percent of Internet":0.2039,"Samples":2358158},
-{"rank":2,"AS":48065,"Description":"SYRIATEL-AS","CC":"SY","Users":824249,"Percent of CC Pop":8.55,"Percent of Internet":0.0194,"Samples":224705},
-{"rank":3,"AS":215900,"Description":"TULIPGROUP","CC":"SY","Users":102297,"Percent of CC Pop":1.06,"Percent of Internet":0.0024,"Samples":27888},
-{"rank":4,"AS":213812,"Description":"ALFATEH","CC":"SY","Users":43507,"Percent of CC Pop":0.45,"Percent of Internet":0.0010,"Samples":11861},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"SY","Users":14228,"Percent of CC Pop":0.15,"Percent of Internet":0.0003,"Samples":3879},
-{"rank":6,"AS":9009,"Description":"M247","CC":"SY","Users":2373,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":647}
+{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS STE PDN Internal AS","CC":"SY","Users":8183874,"Percent of CC Pop":84.80,"Percent of Internet":0.1929,"Samples":2175780},
+{"rank":2,"AS":48065,"Description":"SYRIATEL-AS","CC":"SY","Users":1281244,"Percent of CC Pop":13.28,"Percent of Internet":0.0302,"Samples":340634},
+{"rank":3,"AS":215900,"Description":"TULIPGROUP","CC":"SY","Users":111114,"Percent of CC Pop":1.15,"Percent of Internet":0.0026,"Samples":29541},
+{"rank":4,"AS":213812,"Description":"ALFATEH","CC":"SY","Users":57435,"Percent of CC Pop":0.60,"Percent of Internet":0.0014,"Samples":15270},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"SY","Users":14353,"Percent of CC Pop":0.15,"Percent of Internet":0.0003,"Samples":3816},
+{"rank":6,"AS":9009,"Description":"M247","CC":"SY","Users":2384,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":634}
   ]
 }

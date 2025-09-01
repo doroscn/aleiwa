@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":139759,"Description":"FMTELECOM-AS-AP FSM Telecommunications Corporation","CC":"FM","Users":24967,"Percent of CC Pop":55.61,"Percent of Internet":0.0006,"Samples":37683},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"FM","Users":9986,"Percent of CC Pop":22.24,"Percent of Internet":0.0002,"Samples":15073},
-{"rank":3,"AS":45193,"Description":"AS45193 FSM Telecommunications Corporation","CC":"FM","Users":3821,"Percent of CC Pop":8.51,"Percent of Internet":0.0001,"Samples":5768},
-{"rank":4,"AS":38875,"Description":"AS38875 FSM Telecommunications Corporation","CC":"FM","Users":3789,"Percent of CC Pop":8.44,"Percent of Internet":0.0001,"Samples":5720},
-{"rank":5,"AS":56294,"Description":"VMVAULT-AS-AP VMvault Pty Ltd","CC":"FM","Users":955,"Percent of CC Pop":2.13,"Percent of Internet":0.0000,"Samples":1442},
-{"rank":6,"AS":58524,"Description":"AS58524 FSM Telecom","CC":"FM","Users":954,"Percent of CC Pop":2.13,"Percent of Internet":0.0000,"Samples":1440},
-{"rank":7,"AS":142139,"Description":"BOOMINC-AS-AP Boom! Inc.","CC":"FM","Users":420,"Percent of CC Pop":0.94,"Percent of Internet":0.0000,"Samples":635}
+{"rank":1,"AS":139759,"Description":"FMTELECOM-AS-AP FSM Telecommunications Corporation","CC":"FM","Users":26506,"Percent of CC Pop":59.02,"Percent of Internet":0.0006,"Samples":39929},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"FM","Users":8316,"Percent of CC Pop":18.52,"Percent of Internet":0.0002,"Samples":12528},
+{"rank":3,"AS":45193,"Description":"AS45193 FSM Telecommunications Corporation","CC":"FM","Users":4079,"Percent of CC Pop":9.08,"Percent of Internet":0.0001,"Samples":6146},
+{"rank":4,"AS":38875,"Description":"AS38875 FSM Telecommunications Corporation","CC":"FM","Users":3797,"Percent of CC Pop":8.46,"Percent of Internet":0.0001,"Samples":5721},
+{"rank":5,"AS":56294,"Description":"VMVAULT-AS-AP VMvault Pty Ltd","CC":"FM","Users":957,"Percent of CC Pop":2.13,"Percent of Internet":0.0000,"Samples":1442},
+{"rank":6,"AS":58524,"Description":"AS58524 FSM Telecom","CC":"FM","Users":850,"Percent of CC Pop":1.89,"Percent of Internet":0.0000,"Samples":1281},
+{"rank":7,"AS":142139,"Description":"BOOMINC-AS-AP Boom! Inc.","CC":"FM","Users":400,"Percent of CC Pop":0.89,"Percent of Internet":0.0000,"Samples":604}
   ]
 }

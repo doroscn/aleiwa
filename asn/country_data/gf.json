@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"GF","Users":78518,"Percent of CC Pop":43.47,"Percent of Internet":0.0019,"Samples":17576},
-{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GF","Users":46635,"Percent of CC Pop":25.82,"Percent of Internet":0.0011,"Samples":10439},
-{"rank":3,"AS":48252,"Description":"DIGICELFWI","CC":"GF","Users":36114,"Percent of CC Pop":19.99,"Percent of Internet":0.0009,"Samples":8084},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GF","Users":15921,"Percent of CC Pop":8.81,"Percent of Internet":0.0004,"Samples":3564},
-{"rank":5,"AS":263175,"Description":"GUYACOM","CC":"GF","Users":1853,"Percent of CC Pop":1.03,"Percent of Internet":0.0000,"Samples":415},
-{"rank":6,"AS":16028,"Description":"Orange Caraibe","CC":"GF","Users":839,"Percent of CC Pop":0.46,"Percent of Internet":0.0000,"Samples":188}
+{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"GF","Users":75719,"Percent of CC Pop":41.88,"Percent of Internet":0.0018,"Samples":21242},
+{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GF","Users":49676,"Percent of CC Pop":27.48,"Percent of Internet":0.0012,"Samples":13936},
+{"rank":3,"AS":48252,"Description":"DIGICELFWI","CC":"GF","Users":35004,"Percent of CC Pop":19.36,"Percent of Internet":0.0008,"Samples":9820},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GF","Users":16881,"Percent of CC Pop":9.34,"Percent of Internet":0.0004,"Samples":4736},
+{"rank":5,"AS":263175,"Description":"GUYACOM","CC":"GF","Users":1632,"Percent of CC Pop":0.90,"Percent of Internet":0.0000,"Samples":458},
+{"rank":6,"AS":16028,"Description":"Orange Caraibe","CC":"GF","Users":1393,"Percent of CC Pop":0.77,"Percent of Internet":0.0000,"Samples":391}
   ]
 }

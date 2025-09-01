@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":16058,"Description":"Gabon-Telecom","CC":"GA","Users":733982,"Percent of CC Pop":53.82,"Percent of Internet":0.0173,"Samples":535090},
-{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"GA","Users":399342,"Percent of CC Pop":29.28,"Percent of Internet":0.0094,"Samples":291130},
-{"rank":3,"AS":37616,"Description":"Airtel","CC":"GA","Users":226272,"Percent of CC Pop":16.59,"Percent of Internet":0.0053,"Samples":164958},
-{"rank":4,"AS":37582,"Description":"ANINF","CC":"GA","Users":2986,"Percent of CC Pop":0.22,"Percent of Internet":0.0001,"Samples":2177},
-{"rank":5,"AS":328304,"Description":"WAKA-AS","CC":"GA","Users":707,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":516},
-{"rank":6,"AS":328429,"Description":"General-Business-Machines-AS","CC":"GA","Users":187,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":137}
+{"rank":1,"AS":16058,"Description":"Gabon-Telecom","CC":"GA","Users":728976,"Percent of CC Pop":53.42,"Percent of Internet":0.0172,"Samples":554214},
+{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"GA","Users":397892,"Percent of CC Pop":29.16,"Percent of Internet":0.0094,"Samples":302503},
+{"rank":3,"AS":37616,"Description":"Airtel","CC":"GA","Users":233394,"Percent of CC Pop":17.10,"Percent of Internet":0.0055,"Samples":177441},
+{"rank":4,"AS":37582,"Description":"ANINF","CC":"GA","Users":3150,"Percent of CC Pop":0.23,"Percent of Internet":0.0001,"Samples":2395},
+{"rank":5,"AS":328304,"Description":"WAKA-AS","CC":"GA","Users":757,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":576},
+{"rank":6,"AS":328429,"Description":"General-Business-Machines-AS","CC":"GA","Users":220,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":168}
   ]
 }

@@ -1,13 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6752,"Description":"ANDORRA Andorra Telecom","CC":"AD","Users":77084,"Percent of CC Pop":95.23,"Percent of Internet":0.0018,"Samples":61874},
-{"rank":2,"AS":212238,"Description":"CDNEXT","CC":"AD","Users":1258,"Percent of CC Pop":1.55,"Percent of Internet":0.0000,"Samples":1010},
-{"rank":3,"AS":209854,"Description":"CYBERZONEHUB","CC":"AD","Users":1093,"Percent of CC Pop":1.35,"Percent of Internet":0.0000,"Samples":878},
-{"rank":4,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"AD","Users":614,"Percent of CC Pop":0.76,"Percent of Internet":0.0000,"Samples":493},
-{"rank":5,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"AD","Users":599,"Percent of CC Pop":0.74,"Percent of Internet":0.0000,"Samples":481}
+{"rank":1,"AS":6752,"Description":"ANDORRA Andorra Telecom","CC":"AD","Users":76728,"Percent of CC Pop":94.78,"Percent of Internet":0.0018,"Samples":64835},
+{"rank":2,"AS":212238,"Description":"CDNEXT","CC":"AD","Users":1765,"Percent of CC Pop":2.18,"Percent of Internet":0.0000,"Samples":1492},
+{"rank":3,"AS":209854,"Description":"CYBERZONEHUB","CC":"AD","Users":1454,"Percent of CC Pop":1.80,"Percent of Internet":0.0000,"Samples":1229},
+{"rank":4,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"AD","Users":633,"Percent of CC Pop":0.78,"Percent of Internet":0.0000,"Samples":535}
   ]
 }

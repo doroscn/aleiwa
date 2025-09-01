@@ -1,11 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6758,"Description":"Monaco Telecom S.A.","CC":"MC","Users":32968,"Percent of CC Pop":91.52,"Percent of Internet":0.0008,"Samples":16833},
-{"rank":2,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MC","Users":2311,"Percent of CC Pop":6.42,"Percent of Internet":0.0001,"Samples":1180},
-{"rank":3,"AS":13213,"Description":"UK2NET-AS","CC":"MC","Users":287,"Percent of CC Pop":0.80,"Percent of Internet":0.0000,"Samples":147}
+{"rank":1,"AS":6758,"Description":"AS6758","CC":"MC","Users":32801,"Percent of CC Pop":91.07,"Percent of Internet":0.0008,"Samples":15853},
+{"rank":2,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MC","Users":2348,"Percent of CC Pop":6.52,"Percent of Internet":0.0001,"Samples":1135},
+{"rank":3,"AS":13213,"Description":"UK2NET-AS","CC":"MC","Users":287,"Percent of CC Pop":0.80,"Percent of Internet":0.0000,"Samples":139},
+{"rank":4,"AS":9009,"Description":"M247","CC":"MC","Users":248,"Percent of CC Pop":0.69,"Percent of Internet":0.0000,"Samples":120}
   ]
 }

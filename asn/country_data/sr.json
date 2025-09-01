@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27775,"Description":"Telecommunicationcompany Suriname - TeleSur","CC":"SR","Users":292883,"Percent of CC Pop":85.77,"Percent of Internet":0.0069,"Samples":624873},
-{"rank":2,"AS":52398,"Description":"Digicel Suriname NV","CC":"SR","Users":44848,"Percent of CC Pop":13.13,"Percent of Internet":0.0011,"Samples":95685},
-{"rank":3,"AS":265822,"Description":"PARBONET N.V.","CC":"SR","Users":3669,"Percent of CC Pop":1.07,"Percent of Internet":0.0001,"Samples":7828}
+{"rank":1,"AS":27775,"Description":"Telecommunicationcompany Suriname - TeleSur","CC":"SR","Users":291869,"Percent of CC Pop":85.44,"Percent of Internet":0.0069,"Samples":648864},
+{"rank":2,"AS":52398,"Description":"Digicel Suriname NV","CC":"SR","Users":45650,"Percent of CC Pop":13.36,"Percent of Internet":0.0011,"Samples":101488},
+{"rank":3,"AS":265822,"Description":"PARBONET N.V.","CC":"SR","Users":3970,"Percent of CC Pop":1.16,"Percent of Internet":0.0001,"Samples":8826}
   ]
 }

@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37054,"Description":"Telecom-Malagasy","CC":"MG","Users":2413166,"Percent of CC Pop":49.63,"Percent of Internet":0.0569,"Samples":293781},
-{"rank":2,"AS":37037,"Description":"ORANGEMG-AS","CC":"MG","Users":1441315,"Percent of CC Pop":29.64,"Percent of Internet":0.0340,"Samples":175467},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MG","Users":570983,"Percent of CC Pop":11.74,"Percent of Internet":0.0135,"Samples":69512},
-{"rank":4,"AS":37303,"Description":"AIRTELMADA","CC":"MG","Users":320451,"Percent of CC Pop":6.59,"Percent of Internet":0.0076,"Samples":39012},
-{"rank":5,"AS":328411,"Description":"Gulfsat-Madagascar-AS","CC":"MG","Users":111334,"Percent of CC Pop":2.29,"Percent of Internet":0.0026,"Samples":13554},
-{"rank":6,"AS":37608,"Description":"iRENALA-AS","CC":"MG","Users":3975,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":484},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"MG","Users":1297,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":158}
+{"rank":1,"AS":37054,"Description":"Telecom-Malagasy","CC":"MG","Users":2405520,"Percent of CC Pop":49.43,"Percent of Internet":0.0567,"Samples":287714},
+{"rank":2,"AS":37037,"Description":"ORANGEMG-AS","CC":"MG","Users":1427716,"Percent of CC Pop":29.34,"Percent of Internet":0.0336,"Samples":170763},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MG","Users":593633,"Percent of CC Pop":12.20,"Percent of Internet":0.0140,"Samples":71002},
+{"rank":4,"AS":37303,"Description":"AIRTELMADA","CC":"MG","Users":318563,"Percent of CC Pop":6.55,"Percent of Internet":0.0075,"Samples":38102},
+{"rank":5,"AS":328411,"Description":"Gulfsat-Madagascar-AS","CC":"MG","Users":114785,"Percent of CC Pop":2.36,"Percent of Internet":0.0027,"Samples":13729},
+{"rank":6,"AS":37608,"Description":"iRENALA-AS","CC":"MG","Users":4974,"Percent of CC Pop":0.10,"Percent of Internet":0.0001,"Samples":595},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"MG","Users":1346,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":161}
   ]
 }

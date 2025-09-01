@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"VG","Users":8255,"Percent of CC Pop":46.89,"Percent of Internet":0.0002,"Samples":22530},
-{"rank":2,"AS":396357,"Description":"BVI-DIG","CC":"VG","Users":4379,"Percent of CC Pop":24.88,"Percent of Internet":0.0001,"Samples":11953},
-{"rank":3,"AS":22069,"Description":"CARIB-23","CC":"VG","Users":3068,"Percent of CC Pop":17.43,"Percent of Internet":0.0001,"Samples":8374},
-{"rank":4,"AS":200313,"Description":"INTERNET-IT","CC":"VG","Users":1235,"Percent of CC Pop":7.02,"Percent of Internet":0.0000,"Samples":3372},
-{"rank":5,"AS":14813,"Description":"BB-COLUMBUS","CC":"VG","Users":329,"Percent of CC Pop":1.87,"Percent of Internet":0.0000,"Samples":898},
-{"rank":6,"AS":200195,"Description":"VERASEL","CC":"VG","Users":181,"Percent of CC Pop":1.03,"Percent of Internet":0.0000,"Samples":495},
-{"rank":7,"AS":50597,"Description":"SCOPESKY","CC":"VG","Users":113,"Percent of CC Pop":0.65,"Percent of Internet":0.0000,"Samples":310}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"VG","Users":8435,"Percent of CC Pop":47.90,"Percent of Internet":0.0002,"Samples":21977},
+{"rank":2,"AS":396357,"Description":"BVI-DIG","CC":"VG","Users":4205,"Percent of CC Pop":23.88,"Percent of Internet":0.0001,"Samples":10957},
+{"rank":3,"AS":22069,"Description":"CARIB-23","CC":"VG","Users":3075,"Percent of CC Pop":17.47,"Percent of Internet":0.0001,"Samples":8014},
+{"rank":4,"AS":200313,"Description":"INTERNET-IT","CC":"VG","Users":1387,"Percent of CC Pop":7.88,"Percent of Internet":0.0000,"Samples":3616},
+{"rank":5,"AS":200195,"Description":"VERASEL","CC":"VG","Users":260,"Percent of CC Pop":1.48,"Percent of Internet":0.0000,"Samples":679},
+{"rank":6,"AS":50597,"Description":"SCOPESKY","CC":"VG","Users":116,"Percent of CC Pop":0.66,"Percent of Internet":0.0000,"Samples":304},
+{"rank":7,"AS":14813,"Description":"BB-COLUMBUS","CC":"VG","Users":89,"Percent of CC Pop":0.51,"Percent of Internet":0.0000,"Samples":233}
   ]
 }

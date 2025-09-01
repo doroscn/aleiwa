@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":139898,"Description":"DCL-AS-AP Digitec Communications Limited","CC":"PG","Users":684708,"Percent of CC Pop":46.62,"Percent of Internet":0.0161,"Samples":251879},
-{"rank":2,"AS":58460,"Description":"DIGICELPNG-AS-AP Digicel PNG Ltd","CC":"PG","Users":384566,"Percent of CC Pop":26.18,"Percent of Internet":0.0091,"Samples":141468},
-{"rank":3,"AS":38009,"Description":"TELIKOM-PNG-AS-AP Telikom PNG Satellite Tier 1 AS Internet Service","CC":"PG","Users":374201,"Percent of CC Pop":25.48,"Percent of Internet":0.0088,"Samples":137655},
-{"rank":4,"AS":17828,"Description":"PNGDATACOLIMITED-AS-PG PNG DATACO LTD","CC":"PG","Users":15358,"Percent of CC Pop":1.05,"Percent of Internet":0.0004,"Samples":5650},
-{"rank":5,"AS":63945,"Description":"DIGITECPNG-AS-AP Digitec PNG Limited","CC":"PG","Users":4425,"Percent of CC Pop":0.30,"Percent of Internet":0.0001,"Samples":1628},
-{"rank":6,"AS":134605,"Description":"COMSERVPNGLTD-AS-AP Comserv PNG Ltd","CC":"PG","Users":1016,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":374},
-{"rank":7,"AS":136239,"Description":"CLICKPACIFICLTD-AS-AP CLICK PACIFIC LTD","CC":"PG","Users":975,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":359},
-{"rank":8,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"PG","Users":641,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":236},
-{"rank":9,"AS":138506,"Description":"PNTL-AS-AP PNG Nambawan Trophy Ltd","CC":"PG","Users":473,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":174},
-{"rank":10,"AS":45411,"Description":"APCSNET-AU APCS Australia","CC":"PG","Users":473,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":174},
-{"rank":11,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"PG","Users":473,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":174}
+{"rank":1,"AS":139898,"Description":"DCL-AS-AP Digitec Communications Limited","CC":"PG","Users":706115,"Percent of CC Pop":48.05,"Percent of Internet":0.0166,"Samples":263178},
+{"rank":2,"AS":58460,"Description":"DIGICELPNG-AS-AP Digicel PNG Ltd","CC":"PG","Users":370980,"Percent of CC Pop":25.24,"Percent of Internet":0.0087,"Samples":138269},
+{"rank":3,"AS":38009,"Description":"TELIKOM-PNG-AS-AP Telikom PNG Satellite Tier 1 AS Internet Service","CC":"PG","Users":368281,"Percent of CC Pop":25.06,"Percent of Internet":0.0087,"Samples":137263},
+{"rank":4,"AS":17828,"Description":"PNGDATACOLIMITED-AS-PG PNG DATACO LTD","CC":"PG","Users":15615,"Percent of CC Pop":1.06,"Percent of Internet":0.0004,"Samples":5820},
+{"rank":5,"AS":63945,"Description":"DIGITECPNG-AS-AP Digitec PNG Limited","CC":"PG","Users":3313,"Percent of CC Pop":0.23,"Percent of Internet":0.0001,"Samples":1235},
+{"rank":6,"AS":136239,"Description":"CLICKPACIFICLTD-AS-AP CLICK PACIFIC LTD","CC":"PG","Users":1008,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":376},
+{"rank":7,"AS":134605,"Description":"COMSERVPNGLTD-AS-AP Comserv PNG Ltd","CC":"PG","Users":877,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":327},
+{"rank":8,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"PG","Users":646,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":241},
+{"rank":9,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"PG","Users":520,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":194},
+{"rank":10,"AS":45411,"Description":"APCSNET-AU APCS Australia","CC":"PG","Users":509,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":190},
+{"rank":11,"AS":138506,"Description":"PNTL-AS-AP PNG Nambawan Trophy Ltd","CC":"PG","Users":448,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":167}
   ]
 }

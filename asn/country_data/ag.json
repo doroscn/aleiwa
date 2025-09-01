@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11594,"Description":"APUA-","CC":"AG","Users":51437,"Percent of CC Pop":66.92,"Percent of Internet":0.0012,"Samples":89463},
-{"rank":2,"AS":33576,"Description":"DIG001","CC":"AG","Users":16073,"Percent of CC Pop":20.91,"Percent of Internet":0.0004,"Samples":27956},
-{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"AG","Users":3394,"Percent of CC Pop":4.42,"Percent of Internet":0.0001,"Samples":5904},
-{"rank":4,"AS":19246,"Description":"ACT2000","CC":"AG","Users":3163,"Percent of CC Pop":4.12,"Percent of Internet":0.0001,"Samples":5503},
-{"rank":5,"AS":14813,"Description":"BB-COLUMBUS","CC":"AG","Users":2532,"Percent of CC Pop":3.30,"Percent of Internet":0.0001,"Samples":4405},
-{"rank":6,"AS":398228,"Description":"STKITS","CC":"AG","Users":129,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":225}
+{"rank":1,"AS":11594,"Description":"APUA-","CC":"AG","Users":52166,"Percent of CC Pop":67.86,"Percent of Internet":0.0012,"Samples":85326},
+{"rank":2,"AS":33576,"Description":"DIG001","CC":"AG","Users":16661,"Percent of CC Pop":21.67,"Percent of Internet":0.0004,"Samples":27253},
+{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"AG","Users":3523,"Percent of CC Pop":4.58,"Percent of Internet":0.0001,"Samples":5764},
+{"rank":4,"AS":19246,"Description":"ACT2000","CC":"AG","Users":3167,"Percent of CC Pop":4.12,"Percent of Internet":0.0001,"Samples":5181},
+{"rank":5,"AS":14813,"Description":"BB-COLUMBUS","CC":"AG","Users":1160,"Percent of CC Pop":1.51,"Percent of Internet":0.0000,"Samples":1898},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK","CC":"AG","Users":93,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":153}
   ]
 }

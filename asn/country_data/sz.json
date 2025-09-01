@@ -1,17 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":328169,"Description":"SWAZI-MOBILE","CC":"SZ","Users":238726,"Percent of CC Pop":57.53,"Percent of Internet":0.0056,"Samples":183080},
-{"rank":2,"AS":327765,"Description":"SwaziMTN-Ltd","CC":"SZ","Users":98734,"Percent of CC Pop":23.79,"Percent of Internet":0.0023,"Samples":75720},
-{"rank":3,"AS":19711,"Description":"SWAZINET","CC":"SZ","Users":44554,"Percent of CC Pop":10.74,"Percent of Internet":0.0011,"Samples":34169},
-{"rank":4,"AS":327750,"Description":"JENNY-INTERNET","CC":"SZ","Users":16994,"Percent of CC Pop":4.10,"Percent of Internet":0.0004,"Samples":13033},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SZ","Users":10503,"Percent of CC Pop":2.53,"Percent of Internet":0.0002,"Samples":8055},
-{"rank":6,"AS":329095,"Description":"AFRIMETRO-AS","CC":"SZ","Users":1738,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":1333},
-{"rank":7,"AS":328628,"Description":"Wanderport","CC":"SZ","Users":1656,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":1270},
-{"rank":8,"AS":32398,"Description":"REALNET-ASN-1","CC":"SZ","Users":1584,"Percent of CC Pop":0.38,"Percent of Internet":0.0000,"Samples":1215},
-{"rank":9,"AS":329223,"Description":"Chakaza-Holdings","CC":"SZ","Users":369,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":283}
+{"rank":1,"AS":328169,"Description":"SWAZI-MOBILE","CC":"SZ","Users":238502,"Percent of CC Pop":57.46,"Percent of Internet":0.0056,"Samples":190766},
+{"rank":2,"AS":327765,"Description":"SwaziMTN-Ltd","CC":"SZ","Users":103010,"Percent of CC Pop":24.82,"Percent of Internet":0.0024,"Samples":82393},
+{"rank":3,"AS":19711,"Description":"SWAZINET","CC":"SZ","Users":42329,"Percent of CC Pop":10.20,"Percent of Internet":0.0010,"Samples":33857},
+{"rank":4,"AS":327750,"Description":"JENNY-INTERNET","CC":"SZ","Users":16314,"Percent of CC Pop":3.93,"Percent of Internet":0.0004,"Samples":13049},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SZ","Users":9831,"Percent of CC Pop":2.37,"Percent of Internet":0.0002,"Samples":7864},
+{"rank":6,"AS":32398,"Description":"REALNET-ASN-1","CC":"SZ","Users":1756,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":1405},
+{"rank":7,"AS":328628,"Description":"Wanderport","CC":"SZ","Users":1666,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":1333},
+{"rank":8,"AS":329095,"Description":"AFRIMETRO-AS","CC":"SZ","Users":1420,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":1136},
+{"rank":9,"AS":329223,"Description":"Chakaza-Holdings","CC":"SZ","Users":215,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":172}
   ]
 }

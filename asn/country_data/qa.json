@@ -1,22 +1,23 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8781,"Description":"QA-ISP","CC":"QA","Users":1798027,"Percent of CC Pop":66.32,"Percent of Internet":0.0424,"Samples":1150702},
-{"rank":2,"AS":48728,"Description":"VODAFONEQATAR","CC":"QA","Users":597355,"Percent of CC Pop":22.03,"Percent of Internet":0.0141,"Samples":382296},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"QA","Users":189151,"Percent of CC Pop":6.98,"Percent of Internet":0.0045,"Samples":121053},
-{"rank":4,"AS":42298,"Description":"GCC-MPLS-PEERING GCC MPLS peering","CC":"QA","Users":53395,"Percent of CC Pop":1.97,"Percent of Internet":0.0013,"Samples":34172},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"QA","Users":39429,"Percent of CC Pop":1.45,"Percent of Internet":0.0009,"Samples":25234},
-{"rank":6,"AS":211559,"Description":"VODAFONEQA-ISP","CC":"QA","Users":24149,"Percent of CC Pop":0.89,"Percent of Internet":0.0006,"Samples":15455},
-{"rank":7,"AS":200612,"Description":"GULFBRIDGEINTERNATIONAL","CC":"QA","Users":5745,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":3677},
-{"rank":8,"AS":138915,"Description":"KAOPU-HK Kaopu Cloud HK Limited","CC":"QA","Users":1087,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":696},
-{"rank":9,"AS":29384,"Description":"QATAR-FOUNDATION","CC":"QA","Users":409,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":262},
-{"rank":10,"AS":198499,"Description":"QUNIV","CC":"QA","Users":401,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":257},
-{"rank":11,"AS":36183,"Description":"AKAMAI-AS","CC":"QA","Users":343,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":220},
-{"rank":12,"AS":34945,"Description":"QF-HBKU-ASN","CC":"QA","Users":331,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":212},
-{"rank":13,"AS":9009,"Description":"M247","CC":"QA","Users":310,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":199},
-{"rank":14,"AS":8075,"Description":"MICROSOFT-CORP-MSN-AS-BLOCK","CC":"QA","Users":303,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":194}
+{"rank":1,"AS":8781,"Description":"QA-ISP","CC":"QA","Users":1811008,"Percent of CC Pop":66.78,"Percent of Internet":0.0427,"Samples":1170155},
+{"rank":2,"AS":48728,"Description":"VODAFONEQATAR","CC":"QA","Users":598496,"Percent of CC Pop":22.07,"Percent of Internet":0.0141,"Samples":386709},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"QA","Users":186470,"Percent of CC Pop":6.88,"Percent of Internet":0.0044,"Samples":120485},
+{"rank":4,"AS":42298,"Description":"GCC-MPLS-PEERING GCC MPLS peering","CC":"QA","Users":42170,"Percent of CC Pop":1.55,"Percent of Internet":0.0010,"Samples":27248},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"QA","Users":39745,"Percent of CC Pop":1.47,"Percent of Internet":0.0009,"Samples":25681},
+{"rank":6,"AS":211559,"Description":"VODAFONEQA-ISP","CC":"QA","Users":24412,"Percent of CC Pop":0.90,"Percent of Internet":0.0006,"Samples":15774},
+{"rank":7,"AS":200612,"Description":"GULFBRIDGEINTERNATIONAL","CC":"QA","Users":5173,"Percent of CC Pop":0.19,"Percent of Internet":0.0001,"Samples":3343},
+{"rank":8,"AS":138915,"Description":"KAOPU-HK Kaopu Cloud HK Limited","CC":"QA","Users":1575,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":1018},
+{"rank":9,"AS":198499,"Description":"QUNIV","CC":"QA","Users":527,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":341},
+{"rank":10,"AS":29384,"Description":"QATAR-FOUNDATION","CC":"QA","Users":490,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":317},
+{"rank":11,"AS":9009,"Description":"M247","CC":"QA","Users":342,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":221},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS","CC":"QA","Users":266,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":172},
+{"rank":13,"AS":34945,"Description":"QF-HBKU-ASN","CC":"QA","Users":247,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":160},
+{"rank":14,"AS":8075,"Description":"MICROSOFT-CORP-MSN-AS-BLOCK","CC":"QA","Users":246,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":159},
+{"rank":15,"AS":394089,"Description":"GCP-ENTERPRISE-USER-TRAFFIC","CC":"QA","Users":229,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":148}
   ]
 }

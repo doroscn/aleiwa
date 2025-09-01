@@ -1,0 +1,12 @@
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/08/2025",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":27781,"Description":"SMITCOMS N.V.","CC":"SX","Users":13384,"Percent of CC Pop":54.78,"Percent of Internet":0.0003,"Samples":38640},
+{"rank":2,"AS":27734,"Description":"New Technologies Group N.V.","CC":"SX","Users":7550,"Percent of CC Pop":30.91,"Percent of Internet":0.0002,"Samples":21798},
+{"rank":3,"AS":262181,"Description":"Coral Telecom N.V.","CC":"SX","Users":1997,"Percent of CC Pop":8.18,"Percent of Internet":0.0000,"Samples":5768},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SX","Users":1485,"Percent of CC Pop":6.08,"Percent of Internet":0.0000,"Samples":4288}
+  ]
+}

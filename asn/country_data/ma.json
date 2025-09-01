@@ -1,21 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":36903,"Description":"MT-MPLS","CC":"MA","Users":15308891,"Percent of CC Pop":60.09,"Percent of Internet":0.3609,"Samples":3941000},
-{"rank":2,"AS":36925,"Description":"ASMedi","CC":"MA","Users":8177900,"Percent of CC Pop":32.10,"Percent of Internet":0.1928,"Samples":2105254},
-{"rank":3,"AS":6713,"Description":"IAM-AS","CC":"MA","Users":1636520,"Percent of CC Pop":6.42,"Percent of Internet":0.0386,"Samples":421293},
-{"rank":4,"AS":36884,"Description":"MAROCCONNECT","CC":"MA","Users":315562,"Percent of CC Pop":1.24,"Percent of Internet":0.0074,"Samples":81236},
-{"rank":5,"AS":30983,"Description":"MARWAN-AS","CC":"MA","Users":18517,"Percent of CC Pop":0.07,"Percent of Internet":0.0004,"Samples":4767},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"MA","Users":9186,"Percent of CC Pop":0.04,"Percent of Internet":0.0002,"Samples":2365},
-{"rank":7,"AS":37738,"Description":"HOSTOWEB","CC":"MA","Users":1817,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":468},
-{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"MA","Users":1476,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":380},
-{"rank":9,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"MA","Users":1406,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":362},
-{"rank":10,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MA","Users":1347,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":347},
-{"rank":11,"AS":36183,"Description":"AKAMAI-AS","CC":"MA","Users":590,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":152},
-{"rank":12,"AS":136258,"Description":"ONEPROVIDER-AS BrainStorm Network, Inc","CC":"MA","Users":547,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":141},
-{"rank":13,"AS":62651,"Description":"NETPROTECT-62651","CC":"MA","Users":504,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":130}
+{"rank":1,"AS":36903,"Description":"MT-MPLS","CC":"MA","Users":15280162,"Percent of CC Pop":59.96,"Percent of Internet":0.3601,"Samples":4130064},
+{"rank":2,"AS":36925,"Description":"ASMedi","CC":"MA","Users":8225313,"Percent of CC Pop":32.28,"Percent of Internet":0.1938,"Samples":2223214},
+{"rank":3,"AS":6713,"Description":"IAM-AS","CC":"MA","Users":1651090,"Percent of CC Pop":6.48,"Percent of Internet":0.0389,"Samples":446272},
+{"rank":4,"AS":36884,"Description":"MAROCCONNECT","CC":"MA","Users":295942,"Percent of CC Pop":1.16,"Percent of Internet":0.0070,"Samples":79990},
+{"rank":5,"AS":30983,"Description":"MARWAN-AS","CC":"MA","Users":12867,"Percent of CC Pop":0.05,"Percent of Internet":0.0003,"Samples":3478},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"MA","Users":9049,"Percent of CC Pop":0.04,"Percent of Internet":0.0002,"Samples":2446},
+{"rank":7,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MA","Users":1842,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":498},
+{"rank":8,"AS":37738,"Description":"HOSTOWEB","CC":"MA","Users":1687,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":456},
+{"rank":9,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"MA","Users":1650,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":446},
+{"rank":10,"AS":29286,"Description":"SKYLOGIC-AS","CC":"MA","Users":1413,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":382},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS","CC":"MA","Users":591,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":160},
+{"rank":12,"AS":62651,"Description":"NETPROTECT-62651","CC":"MA","Users":543,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":147},
+{"rank":13,"AS":136258,"Description":"ONEPROVIDER-AS BrainStorm Network, Inc","CC":"MA","Users":543,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":147},
+{"rank":14,"AS":9009,"Description":"M247","CC":"MA","Users":443,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":120}
   ]
 }

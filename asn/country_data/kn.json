@@ -1,13 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "15/08/2025",
+  "Date": "28/08/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"KN","Users":19684,"Percent of CC Pop":48.17,"Percent of Internet":0.0005,"Samples":35808},
-{"rank":2,"AS":36290,"Description":"THECABLE-STKITTS-01","CC":"KN","Users":14387,"Percent of CC Pop":35.21,"Percent of Internet":0.0003,"Samples":26171},
-{"rank":3,"AS":398228,"Description":"STKITS","CC":"KN","Users":4629,"Percent of CC Pop":11.33,"Percent of Internet":0.0001,"Samples":8421},
-{"rank":4,"AS":14813,"Description":"BB-COLUMBUS","CC":"KN","Users":1883,"Percent of CC Pop":4.61,"Percent of Internet":0.0000,"Samples":3427},
-{"rank":5,"AS":33576,"Description":"DIG001","CC":"KN","Users":117,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":214}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"KN","Users":20193,"Percent of CC Pop":49.41,"Percent of Internet":0.0005,"Samples":32772},
+{"rank":2,"AS":36290,"Description":"THECABLE-STKITTS-01","CC":"KN","Users":14172,"Percent of CC Pop":34.68,"Percent of Internet":0.0003,"Samples":23000},
+{"rank":3,"AS":398228,"Description":"STKITS","CC":"KN","Users":4883,"Percent of CC Pop":11.95,"Percent of Internet":0.0001,"Samples":7926},
+{"rank":4,"AS":14813,"Description":"BB-COLUMBUS","CC":"KN","Users":1244,"Percent of CC Pop":3.05,"Percent of Internet":0.0000,"Samples":2020},
+{"rank":5,"AS":174,"Description":"COGENT-174","CC":"KN","Users":117,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":191},
+{"rank":6,"AS":33576,"Description":"DIG001","CC":"KN","Users":113,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":185},
+{"rank":7,"AS":397382,"Description":"ECCB-CENTRALBANK","CC":"KN","Users":91,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":149}
   ]
 }
