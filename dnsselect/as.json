@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6973684210526315,
-    "checked_at": "2025-08-04T00:59:30Z",
+    "checked_at": "2025-09-05T00:44:47Z",
     "created_at": "2021-09-24T03:58:17.66873Z",
     "available": false
   },
@@ -25,12 +25,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6973684210526315,
-    "checked_at": "2025-08-04T00:59:30Z",
+    "checked_at": "2025-09-05T00:44:55Z",
     "created_at": "2021-09-24T03:58:17.66873Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "38.101.165.21",
+    "ip": "38.101.165.215",
     "name": "ip-dynamic-38-101-165-215.dynamic.samoatelco.com",
     "as_number": 9751,
     "as_org": "AMERICAN SAMOA TELECOMMUNICATIONS AUTHORITY",
@@ -40,8 +40,8 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6973684210526315,
-    "checked_at": "2025-08-04T00:59:30Z",
+    "checked_at": "2025-09-05T00:44:55Z",
     "created_at": "2021-09-24T03:58:17.66873Z",
-    "available": false
+    "available": true
   }
 ]
