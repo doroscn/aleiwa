@@ -1,0 +1,208 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+        <title>Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis</title>
+		<meta name="keywords" content="Red Sea Submarine Cable Cuts (Sep 2025) — Impact on Middle East ⇄ Asia ⇄ Europe Routes">
+        <meta name="description" content="Red Sea Submarine Cable Cuts (Sep 2025) — Impact on Middle East ⇄ Asia ⇄ Europe Routes">
+		<meta charset="utf-8" />
+	    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    	<link rel="stylesheet" href="/assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+        <meta name="google-adsense-account" content="ca-pub-6600663344964826">
+        <meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
+        <link rel="icon" href="/images/favicon-96x96.png" type="image/png">
+		<link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="/index.html" class="logo">
+									<span class="symbol"><img src="/images/logo2.svg" alt="" /></span><span class="title">Aleiwa</span>
+								</a>
+
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="/index.html">Home</a></li>
+							<li><a href="/topisps.html">Top ISPs info</a></li>
+							<li><a href="/dns.html">Best Public DNS Servers</a></li>
+							<li><a href="/blog/index.html">Blog</a></li>
+                            <li><a href="/privacy.html">Privacy</a></li>
+							<li><a href="/about.html">About</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+                            <head>
+                                <meta charset="utf-8" />
+                                <meta name="viewport" content="width=device-width, initial-scale=1" />
+                                <h1>Red Sea Submarine Cable Cuts (Sep 2025)</h1>
+                                <div class="meta">Published: Date: Sep 6, 2025</div>
+                            </head>
+                            <p class="lead"><strong>Summary:</strong> Starting in early September 2025, multiple submarine cables in the Red Sea were cut or damaged near the Bab el-Mandeb / Jeddah corridor. The damage forced large volumes of traffic to reroute via alternate, longer paths (often through Singapore/Asia) and produced elevated latency and packet loss—particularly visible on Tata Communications (AS6453) segments. Repairs and capacity restoration are expected to take days-to-weeks depending on vessel availability and security in the region.</p>
+
+                            <h2>Confirmed reports & sources</h2>
+                            <ul>
+                              <li><a href="https://www.reuters.com/world/middle-east/red-sea-cable-cuts-disrupt-internet-across-asia-middle-east-2025-09-06/?utm_source=chatgpt.com" target="_blank" rel="noopener">Reuters — Red Sea cable cuts disrupt internet across Asia and the Middle East</a></li>
+                              <li><a href="https://www.itpro.com/business/business-strategy/microsoft-warns-of-slow-azure-traffic?utm_source=chatgpt.com" target="_blank" rel="noopener">ITPro — Microsoft warns of slow Azure traffic</a></li>
+                              <li><a href="https://apnews.com/article/0b08fc5f02daf72710e0010c11ea21ae?utm_source=chatgpt.com" target="_blank" rel="noopener">AP News — Commercial shipping likely cut Red Sea cables, experts say</a></li>
+                              <li><a href="https://www.aljazeera.com/news/2025/9/7/internet-disruptions-in-middle-east-and-south-asia-after-red-sea-cable-cuts" target="_blank" rel="noopener">Al Jazeera — Internet disruptions in Middle East and South Asia after Red Sea cable cuts</a></li>
+                              <li><a href="https://www.thenationalnews.com/future/technology/2025/09/07/middle-east-internet-slowdowns-could-last-months-after-red-sea-cable-damage/" target="_blank" rel="noopener">The National — Repairs may take weeks or months</a></li>
+                            </ul>
+                        
+                            <h2>Observed network evidence</h2>
+                            <p>Operator telemetry and user MTR traces (example captured from UAE → London) showed:</p>
+                            <ul>
+                              <li>Transit via unexpected Asian hops (e.g., Singapore/India) rather than direct Mediterranean/Red Sea paths.</li>
+                              <li>Large increase in round-trip time (RTT) to ~250–320ms for European destinations that normally show 60–120ms.</li>
+                              <li>High and persistent packet loss on Tata (AS6453) backbone hops (40%–>80% observed on some traces).</li>
+                            </ul>
+                            <img src="/images/blog/aue-mtr.png" alt="MTR trace"> 
+                            <h2>Timeline (high level)</h2>
+                            <table>
+                              <thead><tr><th>When</th><th>Event</th></tr></thead>
+                              <tbody>
+                                <tr><td>Sep 6–7, 2025</td><td>Multiple undersea cable systems in the Red Sea reported cut/damage (SMW4, IMEWE and others reported by media & network monitors).</td></tr>
+                                <tr><td>Sep 7–9, 2025</td><td>Traffic shifts observed: major operators (including Tata/AS6453) reroute traffic via Asia and alternative Mediterranean/Africa paths; increased latency & loss reported across impacted regions.</td></tr>
+                                <tr><td>Ongoing</td><td>Repair scheduling and cable ship availability remain the limiting factors—restoration may take days to weeks.</td></tr>
+                              </tbody>
+                            </table>
+                        
+                            <h2>How to verify from your vantage</h2>
+                            <p>Run these checks from affected PoPs to confirm reroute & impact (replace <code>DEST_IP</code> or <code>HOSTNAME</code> accordingly):</p>
+                            <pre><code># MTR (TCP) to destination
+                        mtr -T -P 443 -c 50 DEST_IP
+                        
+                        # TCP traceroute (shows TCP path)
+                        tcptraceroute DEST_IP 443
+                        
+                        # Compare latency & hops to a European IP and to an Asia IP
+                        mtr -c 40 -T -P 443 8.8.8.8
+                        mtr -c 40 -T -P 443 1.1.1.1
+                        
+                        # Packet capture during test (client side)
+                        sudo tcpdump -nni any 'tcp and (host DEST_IP) and port 443' -w /tmp/capture.pcap
+                        </code></pre>
+                        
+                            <h2>Root cause hypotheses</h2>
+                            <ul>
+                              <li><strong>Physical cut / anchor drag:</strong> Ship anchor or other maritime activity damaging multiple fiber systems in a constrained chokepoint (Bab el-Mandeb / Jeddah area).</li>
+                              <li><strong>Simultaneous faults:</strong> Multiple systems impacted or one failure causing cascading effects on multiple operator routings.</li>
+                              <li><strong>Operational reroutes causing congestion:</strong> Rapid reroute of high-volume circuits onto alternate paths (Asia↔Europe) congesting those backbones (Tata/other), causing packet loss.</li>
+                            </ul>
+                        
+                            <h2>Impacted operators & regions (examples)</h2>
+                            <ul>
+                              <li>India, Pakistan, UAE, and other Middle East & South Asia regions experienced degraded performance.</li>
+                              <li>Tata Communications (AS6453) frequently observed carrying the rerouted traffic and showing high loss in some traces.</li>
+                              <li>Major cloud providers (e.g., Microsoft Azure) warned of increased latency for customers in affected regions.</li>
+                            </ul>
+                        
+                            <h2>Operational recommendations</h2>
+                            <ul>
+                              <li><strong>Traffic engineering:</strong> Broadcast alternate prefixes and leverage dynamic BGP (MED/local-pref) to steer traffic to less-congested egress points where available.</li>
+                              <li><strong>Diversify egress points:</strong> Use additional submarine cable entries (Africa/Med) or private backhaul to reduce dependence on a single chokepoint.</li>
+                              <li><strong>Anycast & POP placement:</strong> Temporarily shift critical services to POPs with healthy return paths to customers (e.g., regionally colocated caches).</li>
+                              <li><strong>Rate limiting & anti-congestion:</strong> Apply per-prefix QoS to avoid amplifying congestion on overloaded backbone segments.</li>
+                              <li><strong>Customer comms & mitigations:</strong> Publish clear status updates and recommended fallbacks (mirrors, alternate API endpoints, retry strategies).</li>
+                              <li><strong>Monitor & alert:</strong> Add RST/packet-loss/RTT spike alerts aggregated by ASN and egress location for faster detection.</li>
+                            </ul>
+                        
+                            <h2>References & further reading</h2>
+                            <ul>
+                              <li><a href="https://www.reuters.com/world/middle-east/red-sea-cable-cuts-disrupt-internet-across-asia-middle-east-2025-09-06/?utm_source=chatgpt.com" target="_blank" rel="noopener">Reuters: Red Sea cable cuts disrupt internet across Asia and the Middle East</a></li>
+                              <li><a href="https://www.itpro.com/business/business-strategy/microsoft-warns-of-slow-azure-traffic?utm_source=chatgpt.com" target="_blank" rel="noopener">ITPro: Microsoft warns of slow Azure traffic</a></li>
+                              <li><a href="https://apnews.com/article/0b08fc5f02daf72710e0010c11ea21ae?utm_source=chatgpt.com" target="_blank" rel="noopener">AP News: Commercial shipping likely cut Red Sea cables</a></li>
+                              <li><a href="https://www.aljazeera.com/news/2025/9/7/internet-disruptions-in-middle-east-and-south-asia-after-red-sea-cable-cuts" target="_blank" rel="noopener">Al Jazeera: Internet disruptions in Middle East and South Asia</a></li>
+                              <li><a href="https://www.thenationalnews.com/future/technology/2025/09/07/middle-east-internet-slowdowns-could-last-months-after-red-sea-cable-damage/" target="_blank" rel="noopener">The National: Repairs may take weeks or months</a></li>
+                            </ul>
+                        
+                        </div>
+                    </div>
+                    
+				<!-- Footer -->
+                <footer id="footer">
+                    <div class="inner">
+                        <section>
+                            <h2>Follow</h2>
+                            <ul class="icons">
+                                <li><a href="https://x.com/AleiwaTool" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+                                <li><a href="https://www.facebook.com/jash.zheng.5" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+                                <li><a href="https://github.com/aleiwa-network" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+                                <li><a href="jash_zheng@gmail.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+                            </ul>
+                        </section>
+                        <ul class="copyright">
+                            <li>&copy; 2025 Aleiwa Network Tools. All rights reserved</li><li>Design: <a href="/about.html">Aleiwa</a></li>
+                        </ul>
+                    </div>
+                </footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/browser.min.js"></script>
+			<script src="/assets/js/breakpoints.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<script src="/assets/js/main.js"></script>
+			<script type="/application/ld+json">
+				{
+				  "@context": "https://schema.org",
+				  "@type": "ItemList",
+				  "name": "Aleiwa Network Tools Collection",
+				  "url": "https://www.aleiwa.com/",
+				  "description": "A curated list of professional network analysis tools including ISP rankings, DNS servers, and route diagnostics.",
+				  "itemListElement": [
+					{
+					  "@type": "ListItem",
+					  "position": 1,
+					  "item": {
+						"@type": "WebApplication",
+						"name": "Top ISPs Ranking",
+						"url": "https://www.aleiwa.com/topisps.html"
+					  }
+					},
+					{
+					  "@type": "ListItem",
+					  "position": 2,
+					  "item": {
+						"@type": "WebApplication",
+						"name": "Public DNS Server Analyzer",
+						"url": "https://www.aleiwa.com/dns.html"
+					  }
+					}
+				  ]
+				}
+			</script>
+			<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZGPJPS5L54"></script>
+			<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+			
+				gtag('config', 'G-ZGPJPS5L54');
+			</script>   
+	</body>
+</html>
