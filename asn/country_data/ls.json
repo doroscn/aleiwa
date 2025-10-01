@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37057,"Description":"VODACOM-LESOTHO","CC":"LS","Users":395605,"Percent of CC Pop":49.56,"Percent of Internet":0.0093,"Samples":88610},
-{"rank":2,"AS":33567,"Description":"TELECOM-LESOTHO","CC":"LS","Users":385524,"Percent of CC Pop":48.29,"Percent of Internet":0.0091,"Samples":86352},
-{"rank":3,"AS":37642,"Description":"Comnet-Lesotho-AS","CC":"LS","Users":7424,"Percent of CC Pop":0.93,"Percent of Internet":0.0002,"Samples":1663},
-{"rank":4,"AS":327750,"Description":"JENNY-INTERNET","CC":"LS","Users":3674,"Percent of CC Pop":0.46,"Percent of Internet":0.0001,"Samples":823},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LS","Users":2634,"Percent of CC Pop":0.33,"Percent of Internet":0.0001,"Samples":590},
-{"rank":6,"AS":25695,"Description":"LEO","CC":"LS","Users":2026,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":454},
-{"rank":7,"AS":328567,"Description":"LEC-Communications","CC":"LS","Users":1227,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":275}
+{"rank":1,"AS":37057,"Description":"VODACOM-LESOTHO","CC":"LS","Users":404936,"Percent of CC Pop":50.68,"Percent of Internet":0.0095,"Samples":91378},
+{"rank":2,"AS":33567,"Description":"TELECOM-LESOTHO","CC":"LS","Users":373221,"Percent of CC Pop":46.71,"Percent of Internet":0.0088,"Samples":84221},
+{"rank":3,"AS":37642,"Description":"Comnet-Lesotho-AS","CC":"LS","Users":7418,"Percent of CC Pop":0.93,"Percent of Internet":0.0002,"Samples":1674},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LS","Users":6217,"Percent of CC Pop":0.78,"Percent of Internet":0.0001,"Samples":1403},
+{"rank":5,"AS":327750,"Description":"JENNY-INTERNET","CC":"LS","Users":4294,"Percent of CC Pop":0.54,"Percent of Internet":0.0001,"Samples":969},
+{"rank":6,"AS":25695,"Description":"LEO","CC":"LS","Users":1639,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":370},
+{"rank":7,"AS":328567,"Description":"LEC-Communications","CC":"LS","Users":979,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":221}
   ]
 }

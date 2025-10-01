@@ -1,14 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"MQ","Users":71573,"Percent of CC Pop":35.58,"Percent of Internet":0.0017,"Samples":29732},
-{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MQ","Users":70425,"Percent of CC Pop":35.01,"Percent of Internet":0.0017,"Samples":29255},
-{"rank":3,"AS":48252,"Description":"DIGICELFWI","CC":"MQ","Users":32086,"Percent of CC Pop":15.95,"Percent of Internet":0.0008,"Samples":13329},
-{"rank":4,"AS":210595,"Description":"FREECARAIBE","CC":"MQ","Users":13529,"Percent of CC Pop":6.73,"Percent of Internet":0.0003,"Samples":5620},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MQ","Users":10563,"Percent of CC Pop":5.25,"Percent of Internet":0.0002,"Samples":4388},
-{"rank":6,"AS":21502,"Description":"ASN-NUMERICABLE","CC":"MQ","Users":2063,"Percent of CC Pop":1.03,"Percent of Internet":0.0000,"Samples":857}
+{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"MQ","Users":78248,"Percent of CC Pop":38.91,"Percent of Internet":0.0018,"Samples":33099},
+{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MQ","Users":71406,"Percent of CC Pop":35.51,"Percent of Internet":0.0017,"Samples":30205},
+{"rank":3,"AS":48252,"Description":"DIGICELFWI","CC":"MQ","Users":23621,"Percent of CC Pop":11.75,"Percent of Internet":0.0006,"Samples":9992},
+{"rank":4,"AS":210595,"Description":"FREECARAIBE","CC":"MQ","Users":14375,"Percent of CC Pop":7.15,"Percent of Internet":0.0003,"Samples":6081},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MQ","Users":10886,"Percent of CC Pop":5.41,"Percent of Internet":0.0003,"Samples":4605},
+{"rank":6,"AS":21502,"Description":"ASN-NUMERICABLE","CC":"MQ","Users":1349,"Percent of CC Pop":0.67,"Percent of Internet":0.0000,"Samples":571},
+{"rank":7,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"MQ","Users":390,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":165},
+{"rank":8,"AS":204802,"Description":"FREEDOM-NETWORK","CC":"MQ","Users":347,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":147}
   ]
 }

@@ -1,13 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15344,"Description":"ASN15344-SLU","CC":"LC","Users":75878,"Percent of CC Pop":73.25,"Percent of Internet":0.0018,"Samples":154241},
-{"rank":2,"AS":33582,"Description":"DIGICEL-OECS","CC":"LC","Users":25566,"Percent of CC Pop":24.68,"Percent of Internet":0.0006,"Samples":51970},
-{"rank":3,"AS":14813,"Description":"BB-COLUMBUS","CC":"LC","Users":1904,"Percent of CC Pop":1.84,"Percent of Internet":0.0000,"Samples":3871},
-{"rank":4,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"LC","Users":122,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":250},
-{"rank":5,"AS":397961,"Description":"GOVERNMENT-OF-SAINT-LUCIA","CC":"LC","Users":73,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":150}
+{"rank":1,"AS":15344,"Description":"ASN15344-SLU","CC":"LC","Users":74435,"Percent of CC Pop":71.84,"Percent of Internet":0.0018,"Samples":142580},
+{"rank":2,"AS":33582,"Description":"DIGICEL-OECS","CC":"LC","Users":28824,"Percent of CC Pop":27.82,"Percent of Internet":0.0007,"Samples":55213},
+{"rank":3,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"LC","Users":229,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":440},
+{"rank":4,"AS":14813,"Description":"BB-COLUMBUS","CC":"LC","Users":86,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":166}
   ]
 }
