@@ -1,22 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":36988,"Description":"Africell-Lintel","CC":"SL","Users":682453,"Percent of CC Pop":42.59,"Percent of Internet":0.0161,"Samples":865629},
-{"rank":2,"AS":37164,"Description":"ZAIN-","CC":"SL","Users":561401,"Percent of CC Pop":35.03,"Percent of Internet":0.0132,"Samples":712086},
-{"rank":3,"AS":328297,"Description":"Qcell-AS","CC":"SL","Users":304873,"Percent of CC Pop":19.03,"Percent of Internet":0.0072,"Samples":386704},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SL","Users":14485,"Percent of CC Pop":0.90,"Percent of Internet":0.0003,"Samples":18374},
-{"rank":5,"AS":328581,"Description":"Fiber-One","CC":"SL","Users":14454,"Percent of CC Pop":0.90,"Percent of Internet":0.0003,"Samples":18334},
-{"rank":6,"AS":329109,"Description":"ZL5-AS","CC":"SL","Users":9015,"Percent of CC Pop":0.56,"Percent of Internet":0.0002,"Samples":11435},
-{"rank":7,"AS":209049,"Description":"MICHCOM","CC":"SL","Users":7638,"Percent of CC Pop":0.48,"Percent of Internet":0.0002,"Samples":9689},
-{"rank":8,"AS":328258,"Description":"Zen-Internet","CC":"SL","Users":2088,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":2649},
-{"rank":9,"AS":37449,"Description":"ONLIME-","CC":"SL","Users":1959,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":2485},
-{"rank":10,"AS":327990,"Description":"AI-NETWORKS-LIMITED","CC":"SL","Users":1448,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":1837},
-{"rank":11,"AS":328236,"Description":"PCS-Holdings-Limited","CC":"SL","Users":1105,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":1402},
-{"rank":12,"AS":37208,"Description":"AFCOM-","CC":"SL","Users":750,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":952},
-{"rank":13,"AS":37723,"Description":"Cajutel-ASN","CC":"SL","Users":573,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":728},
-{"rank":14,"AS":13335,"Description":"CLOUDFLARENET","CC":"SL","Users":100,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":128}
+{"rank":1,"AS":36988,"Description":"Africell-Lintel","CC":"SL","Users":697324,"Percent of CC Pop":43.44,"Percent of Internet":0.0164,"Samples":1129716},
+{"rank":2,"AS":37164,"Description":"ZAIN-","CC":"SL","Users":553851,"Percent of CC Pop":34.51,"Percent of Internet":0.0130,"Samples":897279},
+{"rank":3,"AS":328297,"Description":"Qcell-AS","CC":"SL","Users":301825,"Percent of CC Pop":18.80,"Percent of Internet":0.0071,"Samples":488979},
+{"rank":4,"AS":328581,"Description":"Fiber-One","CC":"SL","Users":13873,"Percent of CC Pop":0.86,"Percent of Internet":0.0003,"Samples":22476},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SL","Users":13270,"Percent of CC Pop":0.83,"Percent of Internet":0.0003,"Samples":21499},
+{"rank":6,"AS":329109,"Description":"ZL5-AS","CC":"SL","Users":8973,"Percent of CC Pop":0.56,"Percent of Internet":0.0002,"Samples":14538},
+{"rank":7,"AS":209049,"Description":"MICHCOM","CC":"SL","Users":6970,"Percent of CC Pop":0.43,"Percent of Internet":0.0002,"Samples":11293},
+{"rank":8,"AS":328258,"Description":"Zen-Internet","CC":"SL","Users":2699,"Percent of CC Pop":0.17,"Percent of Internet":0.0001,"Samples":4373},
+{"rank":9,"AS":37449,"Description":"ONLIME-","CC":"SL","Users":2190,"Percent of CC Pop":0.14,"Percent of Internet":0.0001,"Samples":3548},
+{"rank":10,"AS":327990,"Description":"AI-NETWORKS-LIMITED","CC":"SL","Users":1895,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":3071},
+{"rank":11,"AS":37208,"Description":"AFCOM-","CC":"SL","Users":839,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":1360},
+{"rank":12,"AS":328236,"Description":"PCS-Holdings-Limited","CC":"SL","Users":634,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":1028},
+{"rank":13,"AS":37723,"Description":"Cajutel-ASN","CC":"SL","Users":599,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":971},
+{"rank":14,"AS":328289,"Description":"Ceedee-Investment-AS","CC":"SL","Users":98,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":160}
   ]
 }

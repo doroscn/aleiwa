@@ -1,14 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"GF","Users":75719,"Percent of CC Pop":41.88,"Percent of Internet":0.0018,"Samples":21242},
-{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GF","Users":49676,"Percent of CC Pop":27.48,"Percent of Internet":0.0012,"Samples":13936},
-{"rank":3,"AS":48252,"Description":"DIGICELFWI","CC":"GF","Users":35004,"Percent of CC Pop":19.36,"Percent of Internet":0.0008,"Samples":9820},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GF","Users":16881,"Percent of CC Pop":9.34,"Percent of Internet":0.0004,"Samples":4736},
-{"rank":5,"AS":263175,"Description":"GUYACOM","CC":"GF","Users":1632,"Percent of CC Pop":0.90,"Percent of Internet":0.0000,"Samples":458},
-{"rank":6,"AS":16028,"Description":"Orange Caraibe","CC":"GF","Users":1393,"Percent of CC Pop":0.77,"Percent of Internet":0.0000,"Samples":391}
+{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"GF","Users":77078,"Percent of CC Pop":42.55,"Percent of Internet":0.0018,"Samples":24080},
+{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GF","Users":54476,"Percent of CC Pop":30.07,"Percent of Internet":0.0013,"Samples":17019},
+{"rank":3,"AS":48252,"Description":"DIGICELFWI","CC":"GF","Users":28507,"Percent of CC Pop":15.74,"Percent of Internet":0.0007,"Samples":8906},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GF","Users":15876,"Percent of CC Pop":8.76,"Percent of Internet":0.0004,"Samples":4960},
+{"rank":5,"AS":16028,"Description":"Orange Caraibe","CC":"GF","Users":2330,"Percent of CC Pop":1.29,"Percent of Internet":0.0001,"Samples":728},
+{"rank":6,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"GF","Users":1667,"Percent of CC Pop":0.92,"Percent of Internet":0.0000,"Samples":521},
+{"rank":7,"AS":263175,"Description":"GUYACOM","CC":"GF","Users":1097,"Percent of CC Pop":0.61,"Percent of Internet":0.0000,"Samples":343}
   ]
 }

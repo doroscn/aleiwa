@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14434,"Description":"VIPNAS1","CC":"VI","Users":51380,"Percent of CC Pop":73.69,"Percent of Internet":0.0012,"Samples":64459},
-{"rank":2,"AS":22581,"Description":"ACE-STX","CC":"VI","Users":9764,"Percent of CC Pop":14.00,"Percent of Internet":0.0002,"Samples":12250},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VI","Users":4916,"Percent of CC Pop":7.05,"Percent of Internet":0.0001,"Samples":6168},
-{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK","CC":"VI","Users":2626,"Percent of CC Pop":3.77,"Percent of Internet":0.0001,"Samples":3295},
-{"rank":5,"AS":400099,"Description":"SMART-NET-01","CC":"VI","Users":498,"Percent of CC Pop":0.72,"Percent of Internet":0.0000,"Samples":626},
-{"rank":6,"AS":400741,"Description":"ADM-TECH-01","CC":"VI","Users":291,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":366}
+{"rank":1,"AS":14434,"Description":"VIPNAS1","CC":"VI","Users":53004,"Percent of CC Pop":76.07,"Percent of Internet":0.0012,"Samples":57353},
+{"rank":2,"AS":22581,"Description":"ACE-STX","CC":"VI","Users":7628,"Percent of CC Pop":10.95,"Percent of Internet":0.0002,"Samples":8254},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VI","Users":5467,"Percent of CC Pop":7.85,"Percent of Internet":0.0001,"Samples":5916},
+{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK","CC":"VI","Users":2726,"Percent of CC Pop":3.91,"Percent of Internet":0.0001,"Samples":2950},
+{"rank":5,"AS":400099,"Description":"SMART-NET-01","CC":"VI","Users":380,"Percent of CC Pop":0.55,"Percent of Internet":0.0000,"Samples":412},
+{"rank":6,"AS":20243,"Description":"U","CC":"VI","Users":212,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":230}
   ]
 }

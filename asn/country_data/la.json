@@ -1,23 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":131267,"Description":"UNITEL-LA Star Telecom","CC":"LA","Users":1290058,"Percent of CC Pop":52.90,"Percent of Internet":0.0304,"Samples":703929},
-{"rank":2,"AS":9873,"Description":"TELECOM-LA-AS-AP Lao Telecom Communication, LTC","CC":"LA","Users":945330,"Percent of CC Pop":38.76,"Percent of Internet":0.0223,"Samples":515826},
-{"rank":3,"AS":10226,"Description":"ETL-IX-AS-AP ETL Company Limited","CC":"LA","Users":149535,"Percent of CC Pop":6.13,"Percent of Internet":0.0035,"Samples":81595},
-{"rank":4,"AS":24337,"Description":"SKYTELECOM-AS-AP SkytelecomTransit provider and ISP in Vientiene.","CC":"LA","Users":24889,"Percent of CC Pop":1.02,"Percent of Internet":0.0006,"Samples":13581},
-{"rank":5,"AS":23900,"Description":"PLANET-ONLINE-AS-LA Planet Online Laos, Internet Service Provider in LAO PDR","CC":"LA","Users":9623,"Percent of CC Pop":0.39,"Percent of Internet":0.0002,"Samples":5251},
-{"rank":6,"AS":56309,"Description":"SIAMDATA-TH Siamdata Communication Co.,Ltd.","CC":"LA","Users":5292,"Percent of CC Pop":0.22,"Percent of Internet":0.0001,"Samples":2888},
-{"rank":7,"AS":153347,"Description":"LCTLAOS-AS-AP Lao Communication Technology Sole Co., Ltd","CC":"LA","Users":4852,"Percent of CC Pop":0.20,"Percent of Internet":0.0001,"Samples":2648},
-{"rank":8,"AS":140635,"Description":"THREEC-LINKTECNOLOGYSOLECOLTD-AS-AP 3C Link Technology Sole Co., Ltd.","CC":"LA","Users":2776,"Percent of CC Pop":0.11,"Percent of Internet":0.0001,"Samples":1515},
-{"rank":9,"AS":135059,"Description":"LAPSCL-AS-AP Lao Asia Pacific Satellite Co., Ltd.","CC":"LA","Users":1616,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":882},
-{"rank":10,"AS":137905,"Description":"REVO-AS-AP Mangkone Technology Co. Ltd.","CC":"LA","Users":1354,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":739},
-{"rank":11,"AS":138934,"Description":"SLTNETWORKCOLTD-AS-AP SLT Network Co.,LTD","CC":"LA","Users":894,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":488},
-{"rank":12,"AS":206092,"Description":"SECFIREWALLAS","CC":"LA","Users":582,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":318},
-{"rank":13,"AS":136748,"Description":"ETERNLAOSCOMMUNICATIONTECHNOLOGYSOLECOLTD-AS-AP Etern Laos Communication Technology Sole Co .,Ltd","CC":"LA","Users":555,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":303},
-{"rank":14,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"LA","Users":414,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":226},
-{"rank":15,"AS":13335,"Description":"CLOUDFLARENET","CC":"LA","Users":390,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":213}
+{"rank":1,"AS":131267,"Description":"UNITEL-LA Star Telecom","CC":"LA","Users":1344374,"Percent of CC Pop":55.07,"Percent of Internet":0.0317,"Samples":696087},
+{"rank":2,"AS":9873,"Description":"TELECOM-LA-AS-AP Lao Telecom Communication, LTC","CC":"LA","Users":901230,"Percent of CC Pop":36.92,"Percent of Internet":0.0212,"Samples":466637},
+{"rank":3,"AS":10226,"Description":"ETL-IX-AS-AP ETL Company Limited","CC":"LA","Users":142350,"Percent of CC Pop":5.83,"Percent of Internet":0.0034,"Samples":73706},
+{"rank":4,"AS":24337,"Description":"SKYTELECOM-AS-AP SkytelecomTransit provider and ISP in Vientiene.","CC":"LA","Users":26490,"Percent of CC Pop":1.09,"Percent of Internet":0.0006,"Samples":13716},
+{"rank":5,"AS":23900,"Description":"PLANET-ONLINE-AS-LA Planet Online Laos, Internet Service Provider in LAO PDR","CC":"LA","Users":9054,"Percent of CC Pop":0.37,"Percent of Internet":0.0002,"Samples":4688},
+{"rank":6,"AS":153347,"Description":"LCTLAOS-AS-AP Lao Communication Technology Sole Co., Ltd","CC":"LA","Users":5141,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":2662},
+{"rank":7,"AS":56309,"Description":"SIAMDATA-TH Siamdata Communication Co.,Ltd.","CC":"LA","Users":3671,"Percent of CC Pop":0.15,"Percent of Internet":0.0001,"Samples":1901},
+{"rank":8,"AS":140635,"Description":"THREEC-LINKTECNOLOGYSOLECOLTD-AS-AP 3C Link Technology Sole Co., Ltd.","CC":"LA","Users":3169,"Percent of CC Pop":0.13,"Percent of Internet":0.0001,"Samples":1641},
+{"rank":9,"AS":135059,"Description":"LAPSCL-AS-AP Lao Asia Pacific Satellite Co., Ltd.","CC":"LA","Users":1929,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":999},
+{"rank":10,"AS":138934,"Description":"SLTNETWORKCOLTD-AS-AP SLT Network Co.,LTD","CC":"LA","Users":1234,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":639},
+{"rank":11,"AS":137905,"Description":"REVO-AS-AP Mangkone Technology Co. Ltd.","CC":"LA","Users":1087,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":563},
+{"rank":12,"AS":140952,"Description":"STL-AS-AP Strong Technology, LLC","CC":"LA","Users":407,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":211},
+{"rank":13,"AS":136748,"Description":"ETERNLAOSCOMMUNICATIONTECHNOLOGYSOLECOLTD-AS-AP Etern Laos Communication Technology Sole Co .,Ltd","CC":"LA","Users":305,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":158}
   ]
 }

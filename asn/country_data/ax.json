@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3238,"Description":"ALCOM","CC":"AX","Users":13442,"Percent of CC Pop":84.24,"Percent of Internet":0.0003,"Samples":11144},
-{"rank":2,"AS":200134,"Description":"IPCONNECT","CC":"AX","Users":2459,"Percent of CC Pop":15.41,"Percent of Internet":0.0001,"Samples":2039}
+{"rank":1,"AS":3238,"Description":"ALCOM","CC":"AX","Users":13288,"Percent of CC Pop":83.27,"Percent of Internet":0.0003,"Samples":13104},
+{"rank":2,"AS":200134,"Description":"IPCONNECT","CC":"AX","Users":2619,"Percent of CC Pop":16.41,"Percent of Internet":0.0001,"Samples":2583}
   ]
 }

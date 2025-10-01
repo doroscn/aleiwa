@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":52233,"Description":"Columbus Communications Curacao NV","CC":"CW","Users":58312,"Percent of CC Pop":54.66,"Percent of Internet":0.0014,"Samples":150844},
-{"rank":2,"AS":11081,"Description":"United Telecommunication Services UTS","CC":"CW","Users":27045,"Percent of CC Pop":25.35,"Percent of Internet":0.0006,"Samples":69961},
-{"rank":3,"AS":27660,"Description":"Curacao Telecom","CC":"CW","Users":21285,"Percent of CC Pop":19.95,"Percent of Internet":0.0005,"Samples":55062}
+{"rank":1,"AS":52233,"Description":"Columbus Communications Curacao NV","CC":"CW","Users":57561,"Percent of CC Pop":53.93,"Percent of Internet":0.0014,"Samples":148571},
+{"rank":2,"AS":11081,"Description":"United Telecommunication Services UTS","CC":"CW","Users":26476,"Percent of CC Pop":24.81,"Percent of Internet":0.0006,"Samples":68339},
+{"rank":3,"AS":27660,"Description":"Curacao Telecom","CC":"CW","Users":22617,"Percent of CC Pop":21.19,"Percent of Internet":0.0005,"Samples":58377}
   ]
 }

@@ -1,21 +1,23 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29571,"Description":"ORANGE-COTE-IVOIRE","CC":"CI","Users":8613625,"Percent of CC Pop":59.06,"Percent of Internet":0.2030,"Samples":4211131},
-{"rank":2,"AS":36974,"Description":"MTNCI-AS","CC":"CI","Users":2743911,"Percent of CC Pop":18.81,"Percent of Internet":0.0647,"Samples":1341476},
-{"rank":3,"AS":37190,"Description":"ATLANTIQUE-TELECOM-","CC":"CI","Users":2367249,"Percent of CC Pop":16.23,"Percent of Internet":0.0558,"Samples":1157329},
-{"rank":4,"AS":36924,"Description":"GVA-Canalbox","CC":"CI","Users":756183,"Percent of CC Pop":5.18,"Percent of Internet":0.0178,"Samples":369692},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CI","Users":86910,"Percent of CC Pop":0.60,"Percent of Internet":0.0020,"Samples":42490},
-{"rank":6,"AS":21859,"Description":"ZEN-ECN","CC":"CI","Users":3804,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":1860},
-{"rank":7,"AS":37381,"Description":"VIPNET","CC":"CI","Users":3671,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":1795},
-{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CI","Users":3278,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":1603},
-{"rank":9,"AS":37282,"Description":"MAINONE","CC":"CI","Users":3092,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":1512},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"CI","Users":807,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":395},
-{"rank":11,"AS":327746,"Description":"DATACONNECT-AS","CC":"CI","Users":711,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":348},
-{"rank":12,"AS":328290,"Description":"Vodacom-AS","CC":"CI","Users":492,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":241},
-{"rank":13,"AS":174,"Description":"COGENT-174","CC":"CI","Users":317,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":155}
+{"rank":1,"AS":29571,"Description":"ORANGE-COTE-IVOIRE","CC":"CI","Users":8235310,"Percent of CC Pop":56.35,"Percent of Internet":0.1940,"Samples":4881218},
+{"rank":2,"AS":36974,"Description":"MTNCI-AS","CC":"CI","Users":3017277,"Percent of CC Pop":20.65,"Percent of Internet":0.0711,"Samples":1788395},
+{"rank":3,"AS":37190,"Description":"ATLANTIQUE-TELECOM-","CC":"CI","Users":2471515,"Percent of CC Pop":16.91,"Percent of Internet":0.0582,"Samples":1464912},
+{"rank":4,"AS":36924,"Description":"GVA-Canalbox","CC":"CI","Users":785132,"Percent of CC Pop":5.37,"Percent of Internet":0.0185,"Samples":465362},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CI","Users":90419,"Percent of CC Pop":0.62,"Percent of Internet":0.0021,"Samples":53593},
+{"rank":6,"AS":37381,"Description":"VIPNET","CC":"CI","Users":3672,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":2177},
+{"rank":7,"AS":21859,"Description":"ZEN-ECN","CC":"CI","Users":3267,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":1937},
+{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CI","Users":2945,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":1746},
+{"rank":9,"AS":37282,"Description":"MAINONE","CC":"CI","Users":1916,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":1136},
+{"rank":10,"AS":328290,"Description":"Vodacom-AS","CC":"CI","Users":684,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":406},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"CI","Users":678,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":402},
+{"rank":12,"AS":327746,"Description":"DATACONNECT-AS","CC":"CI","Users":541,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":321},
+{"rank":13,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CI","Users":281,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":167},
+{"rank":14,"AS":174,"Description":"COGENT-174","CC":"CI","Users":261,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":155},
+{"rank":15,"AS":328729,"Description":"Groupement-Des-Services-Eau-Electricite","CC":"CI","Users":253,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":150}
   ]
 }

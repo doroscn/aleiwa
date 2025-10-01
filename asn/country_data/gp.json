@@ -1,19 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"GP","Users":69806,"Percent of CC Pop":31.97,"Percent of Internet":0.0016,"Samples":50580},
-{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GP","Users":61710,"Percent of CC Pop":28.27,"Percent of Internet":0.0015,"Samples":44714},
-{"rank":3,"AS":16028,"Description":"Orange Caraibe","CC":"GP","Users":50465,"Percent of CC Pop":23.11,"Percent of Internet":0.0012,"Samples":36566},
-{"rank":4,"AS":210595,"Description":"FREECARAIBE","CC":"GP","Users":9619,"Percent of CC Pop":4.41,"Percent of Internet":0.0002,"Samples":6970},
-{"rank":5,"AS":48252,"Description":"DIGICELFWI","CC":"GP","Users":8941,"Percent of CC Pop":4.10,"Percent of Internet":0.0002,"Samples":6479},
-{"rank":6,"AS":33392,"Description":"DAUPHIN-TELECOM","CC":"GP","Users":6476,"Percent of CC Pop":2.97,"Percent of Internet":0.0002,"Samples":4693},
-{"rank":7,"AS":3215,"Description":"France Telecom - Orange","CC":"GP","Users":5626,"Percent of CC Pop":2.58,"Percent of Internet":0.0001,"Samples":4077},
-{"rank":8,"AS":21502,"Description":"ASN-NUMERICABLE","CC":"GP","Users":2587,"Percent of CC Pop":1.19,"Percent of Internet":0.0001,"Samples":1875},
-{"rank":9,"AS":36511,"Description":"NETDT-GUA","CC":"GP","Users":1754,"Percent of CC Pop":0.80,"Percent of Internet":0.0000,"Samples":1271},
-{"rank":10,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GP","Users":712,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":516},
-{"rank":11,"AS":47798,"Description":"FR-MTVC","CC":"GP","Users":362,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":263}
+{"rank":1,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GP","Users":65571,"Percent of CC Pop":30.03,"Percent of Internet":0.0015,"Samples":57195},
+{"rank":2,"AS":20776,"Description":"OUTREMER-AS","CC":"GP","Users":63819,"Percent of CC Pop":29.23,"Percent of Internet":0.0015,"Samples":55667},
+{"rank":3,"AS":16028,"Description":"Orange Caraibe","CC":"GP","Users":49428,"Percent of CC Pop":22.64,"Percent of Internet":0.0012,"Samples":43114},
+{"rank":4,"AS":48252,"Description":"DIGICELFWI","CC":"GP","Users":13333,"Percent of CC Pop":6.11,"Percent of Internet":0.0003,"Samples":11630},
+{"rank":5,"AS":210595,"Description":"FREECARAIBE","CC":"GP","Users":8388,"Percent of CC Pop":3.84,"Percent of Internet":0.0002,"Samples":7317},
+{"rank":6,"AS":3215,"Description":"France Telecom - Orange","CC":"GP","Users":6945,"Percent of CC Pop":3.18,"Percent of Internet":0.0002,"Samples":6058},
+{"rank":7,"AS":33392,"Description":"DAUPHIN-TELECOM","CC":"GP","Users":6374,"Percent of CC Pop":2.92,"Percent of Internet":0.0002,"Samples":5560},
+{"rank":8,"AS":21502,"Description":"ASN-NUMERICABLE","CC":"GP","Users":2368,"Percent of CC Pop":1.08,"Percent of Internet":0.0001,"Samples":2066},
+{"rank":9,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GP","Users":943,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":823},
+{"rank":10,"AS":36511,"Description":"NETDT-GUA","CC":"GP","Users":489,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":427},
+{"rank":11,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"GP","Users":300,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":262},
+{"rank":12,"AS":47798,"Description":"FR-MTVC","CC":"GP","Users":267,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":233}
   ]
 }

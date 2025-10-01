@@ -1,20 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":36947,"Description":"ALGTEL-AS","CC":"DZ","Users":14453080,"Percent of CC Pop":55.91,"Percent of Internet":0.3406,"Samples":6544985},
-{"rank":2,"AS":327712,"Description":"ATM","CC":"DZ","Users":4612146,"Percent of CC Pop":17.84,"Percent of Internet":0.1087,"Samples":2088581},
-{"rank":3,"AS":327931,"Description":"Optimum-Telecom-Algeria","CC":"DZ","Users":3490388,"Percent of CC Pop":13.50,"Percent of Internet":0.0823,"Samples":1580600},
-{"rank":4,"AS":33779,"Description":"wataniya-telecom-as","CC":"DZ","Users":3276312,"Percent of CC Pop":12.67,"Percent of Internet":0.0772,"Samples":1483657},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"DZ","Users":11248,"Percent of CC Pop":0.04,"Percent of Internet":0.0003,"Samples":5094},
-{"rank":6,"AS":36891,"Description":"ICOSNET-AS","CC":"DZ","Users":2327,"Percent of CC Pop":0.01,"Percent of Internet":0.0001,"Samples":1054},
-{"rank":7,"AS":209854,"Description":"CYBERZONEHUB","CC":"DZ","Users":2091,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":947},
-{"rank":8,"AS":212238,"Description":"CDNEXT","CC":"DZ","Users":1353,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":613},
-{"rank":9,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"DZ","Users":1177,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":533},
-{"rank":10,"AS":22363,"Description":"PHMGMT-AS1","CC":"DZ","Users":889,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":403},
-{"rank":11,"AS":9009,"Description":"M247","CC":"DZ","Users":735,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":333},
-{"rank":12,"AS":21391,"Description":"TDA-AS","CC":"DZ","Users":337,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":153}
+{"rank":1,"AS":36947,"Description":"ALGTEL-AS","CC":"DZ","Users":14479707,"Percent of CC Pop":55.95,"Percent of Internet":0.3411,"Samples":8109907},
+{"rank":2,"AS":327712,"Description":"ATM","CC":"DZ","Users":4709340,"Percent of CC Pop":18.20,"Percent of Internet":0.1109,"Samples":2637644},
+{"rank":3,"AS":327931,"Description":"Optimum-Telecom-Algeria","CC":"DZ","Users":3423299,"Percent of CC Pop":13.23,"Percent of Internet":0.0806,"Samples":1917348},
+{"rank":4,"AS":33779,"Description":"wataniya-telecom-as","CC":"DZ","Users":3243015,"Percent of CC Pop":12.53,"Percent of Internet":0.0764,"Samples":1816373},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"DZ","Users":14876,"Percent of CC Pop":0.06,"Percent of Internet":0.0004,"Samples":8332},
+{"rank":6,"AS":212238,"Description":"CDNEXT","CC":"DZ","Users":2367,"Percent of CC Pop":0.01,"Percent of Internet":0.0001,"Samples":1326},
+{"rank":7,"AS":36891,"Description":"ICOSNET-AS","CC":"DZ","Users":2333,"Percent of CC Pop":0.01,"Percent of Internet":0.0001,"Samples":1307},
+{"rank":8,"AS":209854,"Description":"CYBERZONEHUB","CC":"DZ","Users":2165,"Percent of CC Pop":0.01,"Percent of Internet":0.0001,"Samples":1213},
+{"rank":9,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"DZ","Users":1198,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":671},
+{"rank":10,"AS":22363,"Description":"PHMGMT-AS1","CC":"DZ","Users":733,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":411},
+{"rank":11,"AS":9009,"Description":"M247","CC":"DZ","Users":689,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":386},
+{"rank":12,"AS":62651,"Description":"NETPROTECT-62651","CC":"DZ","Users":394,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":221}
   ]
 }

@@ -1,18 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":327802,"Description":"MILLICOM-CHAD","CC":"TD","Users":809058,"Percent of CC Pop":47.15,"Percent of Internet":0.0191,"Samples":197891},
-{"rank":2,"AS":327756,"Description":"AIRTEL-","CC":"TD","Users":603955,"Percent of CC Pop":35.19,"Percent of Internet":0.0142,"Samples":147724},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TD","Users":282602,"Percent of CC Pop":16.47,"Percent of Internet":0.0067,"Samples":69123},
-{"rank":4,"AS":327975,"Description":"ILNET-TELECOM","CC":"TD","Users":9403,"Percent of CC Pop":0.55,"Percent of Internet":0.0002,"Samples":2300},
-{"rank":5,"AS":327864,"Description":"ALBIDEYNET","CC":"TD","Users":2686,"Percent of CC Pop":0.16,"Percent of Internet":0.0001,"Samples":657},
-{"rank":6,"AS":328594,"Description":"SAFITELCHAD-AS","CC":"TD","Users":2424,"Percent of CC Pop":0.14,"Percent of Internet":0.0001,"Samples":593},
-{"rank":7,"AS":329207,"Description":"NBSS1-AS","CC":"TD","Users":2175,"Percent of CC Pop":0.13,"Percent of Internet":0.0001,"Samples":532},
-{"rank":8,"AS":37462,"Description":"Prestabist","CC":"TD","Users":1582,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":387},
-{"rank":9,"AS":328310,"Description":"GLOBALTEL-Networks","CC":"TD","Users":1373,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":336},
-{"rank":10,"AS":328604,"Description":"Sahel-Tele-Internet-AS","CC":"TD","Users":490,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":120}
+{"rank":1,"AS":327802,"Description":"MILLICOM-CHAD","CC":"TD","Users":792515,"Percent of CC Pop":46.07,"Percent of Internet":0.0187,"Samples":218645},
+{"rank":2,"AS":327756,"Description":"AIRTEL-","CC":"TD","Users":618930,"Percent of CC Pop":35.98,"Percent of Internet":0.0146,"Samples":170755},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TD","Users":293888,"Percent of CC Pop":17.08,"Percent of Internet":0.0069,"Samples":81080},
+{"rank":4,"AS":327975,"Description":"ILNET-TELECOM","CC":"TD","Users":6741,"Percent of CC Pop":0.39,"Percent of Internet":0.0002,"Samples":1860},
+{"rank":5,"AS":327864,"Description":"ALBIDEYNET","CC":"TD","Users":2794,"Percent of CC Pop":0.16,"Percent of Internet":0.0001,"Samples":771},
+{"rank":6,"AS":328594,"Description":"SAFITELCHAD-AS","CC":"TD","Users":1873,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":517},
+{"rank":7,"AS":328310,"Description":"GLOBALTEL-Networks","CC":"TD","Users":1308,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":361},
+{"rank":8,"AS":329207,"Description":"NBSS1-AS","CC":"TD","Users":942,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":260},
+{"rank":9,"AS":37462,"Description":"Prestabist","CC":"TD","Users":826,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":228}
   ]
 }

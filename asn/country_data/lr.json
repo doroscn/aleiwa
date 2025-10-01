@@ -1,17 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37094,"Description":"OrangeLiberia","CC":"LR","Users":271061,"Percent of CC Pop":50.66,"Percent of Internet":0.0064,"Samples":490351},
-{"rank":2,"AS":37410,"Description":"LONESTAR","CC":"LR","Users":234854,"Percent of CC Pop":43.89,"Percent of Internet":0.0055,"Samples":424853},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LR","Users":15079,"Percent of CC Pop":2.82,"Percent of Internet":0.0004,"Samples":27279},
-{"rank":4,"AS":328136,"Description":"Telecel-Liberia-AS","CC":"LR","Users":5330,"Percent of CC Pop":1.00,"Percent of Internet":0.0001,"Samples":9643},
-{"rank":5,"AS":328196,"Description":"POWERNET","CC":"LR","Users":3144,"Percent of CC Pop":0.59,"Percent of Internet":0.0001,"Samples":5689},
-{"rank":6,"AS":329082,"Description":"CSLL1-AS","CC":"LR","Users":2570,"Percent of CC Pop":0.48,"Percent of Internet":0.0001,"Samples":4650},
-{"rank":7,"AS":37203,"Description":"LIBTELCO","CC":"LR","Users":1503,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":2719},
-{"rank":8,"AS":37580,"Description":"ELECTROSHACK","CC":"LR","Users":1210,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":2189},
-{"rank":9,"AS":329496,"Description":"GOWIFI","CC":"LR","Users":223,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":404}
+{"rank":1,"AS":37094,"Description":"OrangeLiberia","CC":"LR","Users":303748,"Percent of CC Pop":56.67,"Percent of Internet":0.0072,"Samples":636680},
+{"rank":2,"AS":37410,"Description":"LONESTAR","CC":"LR","Users":204015,"Percent of CC Pop":38.06,"Percent of Internet":0.0048,"Samples":427633},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LR","Users":15759,"Percent of CC Pop":2.94,"Percent of Internet":0.0004,"Samples":33033},
+{"rank":4,"AS":328136,"Description":"Telecel-Liberia-AS","CC":"LR","Users":4988,"Percent of CC Pop":0.93,"Percent of Internet":0.0001,"Samples":10457},
+{"rank":5,"AS":328196,"Description":"POWERNET","CC":"LR","Users":2854,"Percent of CC Pop":0.53,"Percent of Internet":0.0001,"Samples":5983},
+{"rank":6,"AS":329082,"Description":"CSLL1-AS","CC":"LR","Users":2159,"Percent of CC Pop":0.40,"Percent of Internet":0.0001,"Samples":4526},
+{"rank":7,"AS":37203,"Description":"LIBTELCO","CC":"LR","Users":1349,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":2829},
+{"rank":8,"AS":37580,"Description":"ELECTROSHACK","CC":"LR","Users":871,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":1826},
+{"rank":9,"AS":329496,"Description":"GOWIFI","CC":"LR","Users":189,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":398}
   ]
 }

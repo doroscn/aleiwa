@@ -1,18 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2025",
+  "Date": "27/09/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":36890,"Description":"MTNRW-ASN","CC":"RW","Users":1819605,"Percent of CC Pop":49.91,"Percent of Internet":0.0429,"Samples":317977},
-{"rank":2,"AS":327707,"Description":"AIRTEL-","CC":"RW","Users":646733,"Percent of CC Pop":17.74,"Percent of Internet":0.0152,"Samples":113017},
-{"rank":3,"AS":36924,"Description":"GVA-Canalbox","CC":"RW","Users":591935,"Percent of CC Pop":16.24,"Percent of Internet":0.0140,"Samples":103441},
-{"rank":4,"AS":37228,"Description":"Olleh-Rwanda-Networks","CC":"RW","Users":301509,"Percent of CC Pop":8.27,"Percent of Internet":0.0071,"Samples":52689},
-{"rank":5,"AS":37006,"Description":"LiquidTelecommunicationRwanda","CC":"RW","Users":183776,"Percent of CC Pop":5.04,"Percent of Internet":0.0043,"Samples":32115},
-{"rank":6,"AS":37654,"Description":"RwEdNet-AS","CC":"RW","Users":67313,"Percent of CC Pop":1.85,"Percent of Internet":0.0016,"Samples":11763},
-{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK","CC":"RW","Users":29138,"Percent of CC Pop":0.80,"Percent of Internet":0.0007,"Samples":5092},
-{"rank":8,"AS":22690,"Description":"AxiomNET-AS","CC":"RW","Users":2546,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":445},
-{"rank":9,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"RW","Users":1361,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":238},
-{"rank":10,"AS":37282,"Description":"MAINONE","CC":"RW","Users":743,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":130}
+{"rank":1,"AS":36890,"Description":"MTNRW-ASN","CC":"RW","Users":1677450,"Percent of CC Pop":45.93,"Percent of Internet":0.0395,"Samples":333090},
+{"rank":2,"AS":327707,"Description":"AIRTEL-","CC":"RW","Users":591728,"Percent of CC Pop":16.20,"Percent of Internet":0.0139,"Samples":117499},
+{"rank":3,"AS":36924,"Description":"GVA-Canalbox","CC":"RW","Users":545240,"Percent of CC Pop":14.93,"Percent of Internet":0.0128,"Samples":108268},
+{"rank":4,"AS":37075,"Description":"ZAINUGAS","CC":"RW","Users":302136,"Percent of CC Pop":8.27,"Percent of Internet":0.0071,"Samples":59995},
+{"rank":5,"AS":37228,"Description":"Olleh-Rwanda-Networks","CC":"RW","Users":272801,"Percent of CC Pop":7.47,"Percent of Internet":0.0064,"Samples":54170},
+{"rank":6,"AS":37006,"Description":"LiquidTelecommunicationRwanda","CC":"RW","Users":161243,"Percent of CC Pop":4.41,"Percent of Internet":0.0038,"Samples":32018},
+{"rank":7,"AS":37654,"Description":"RwEdNet-AS","CC":"RW","Users":69874,"Percent of CC Pop":1.91,"Percent of Internet":0.0016,"Samples":13875},
+{"rank":8,"AS":14593,"Description":"SPACEX-STARLINK","CC":"RW","Users":28015,"Percent of CC Pop":0.77,"Percent of Internet":0.0007,"Samples":5563},
+{"rank":9,"AS":22690,"Description":"AxiomNET-AS","CC":"RW","Users":2135,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":424}
   ]
 }
