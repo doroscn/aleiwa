@@ -1013,12 +1013,6 @@
     "index": 31
   },
   {
-    "country_id": "ba",
-    "checked_at": "2025-09-28T00:51:47Z",
-    "ip_availability_ratio%": 77.14,
-    "index": 25
-  },
-  {
     "country_id": "bw",
     "checked_at": "2025-09-29T00:47:01Z",
     "ip_availability_ratio%": 77.78,
@@ -1197,5 +1191,11 @@
     "checked_at": "2025-10-28T00:46:47Z",
     "ip_availability_ratio%": 85.57,
     "index": 24
+  },
+  {
+    "country_id": "ba",
+    "checked_at": "2025-10-29T00:51:32Z",
+    "ip_availability_ratio%": 78.10,
+    "index": 25
   }
 ]
