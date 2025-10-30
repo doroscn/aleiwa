@@ -1,0 +1,174 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+    <title>Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis</title>
+	<meta name="keywords" content="Suspected IIX Jakarta Traffic Outage — October 30 2025">
+    <meta name="description" content="Suspected IIX Jakarta Traffic Outage — October 30 2025">
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="/assets/css/main.css" />
+	<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+    <meta name="google-adsense-account" content="ca-pub-6600663344964826">
+    <meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
+    <link rel="icon" href="/images/favicon-96x96.png" type="image/png">
+	<link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="/index.html" class="logo">
+									<span class="symbol"><img src="/images/logo2.svg" alt="" /></span><span class="title">Aleiwa</span>
+								</a>
+
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="/index.html">Home</a></li>
+							<li><a href="/topisps.html">Top ISPs info</a></li>
+							<li><a href="/dns.html">Best Public DNS Servers</a></li>
+							<li><a href="/blog/index.html">Blog</a></li>
+         				    <li><a href="/privacy.html">Privacy</a></li>
+							<li><a href="/about.html">About</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>Suspected IIX Jakarta Traffic Outage — October 30 2025</h1>
+							<div class="meta">
+							  Date observed: October 30 2025 | Locator: IIX Jakarta (Indonesia Internet Exchange) | Status: Under investigation
+							</div>
+						
+							<div class="lead">
+							  Monitoring panels from IIX Jakarta indicate a large-scale traffic collapse across multiple peers between approximately 01:30 and 02:30 local time. Traffic for some nodes remained near zero until around 08:00. While no official outage confirmation has been published, the data suggests a significant disruption at exchange-level.
+							</div>
+						
+							<section>
+							  <h2>Observed Evidence</h2>
+							  <p>Below are two key screenshots from the IIX monitoring dashboard showing peer-throughput behaviour:</p>
+							  <img src="/images/blog/iix-jakarta-huawei-peer-drop.png" alt="Huawei Cloud – Arista / 136907 peer throughput drop at IIX Jakarta" />
+							  <img src="/images/blog/iix-jakarta-multiple-peers-drop.png" alt="Multiple IIX Jakarta peers throughput collapse on Oct 30" />
+							  <p>In the first image, the "Huawei Cloud – Arista / 136907" peer line falls sharply to near-zero at roughly the 1:30–2:30 window and remains suppressed until ~08:00. The second image shows dozens of peers following similar patterns.</p>
+							</section>
+						
+							<section>
+							  <h2>Potential Impact</h2>
+							  <ul>
+								<li>The Jakarta exchange is a major regional hub: disruptions here could affect many Indonesian ISPs and content providers.</li>
+								<li>Prolonged outage (>6 hours) increases risk of traffic rerouting via alternate paths (e.g., Singapore) with higher latency and costs.</li>
+								<li>Downstream services — content delivery, cloud access, VPNs — could face severe slowdowns or failures.</li>
+							  </ul>
+							</section>
+						
+							<section>
+							  <h2>Investigation Notes & Checklist</h2>
+							  <table>
+								<thead><tr><th>Check</th><th>Status</th></tr></thead>
+								<tbody>
+								  <tr><td>IIX LG / route-server snapshot at time window</td><td>Need capture</td></tr>
+								  <tr><td>BGP withdrawals impacting Indonesian prefixes</td><td>Pending query</td></tr>
+								  <tr><td>News or ISP NOC bulletin confirming outage</td><td>None publicly found</td></tr>
+								  <tr><td>Social media reports (Indonesian language)</td><td>Searching in progress</td></tr>
+								</tbody>
+							  </table>
+							  <p class="note">If you have logs, screenshots or BGP dumps for this time-window, please archive them for correlation and share with your operations team.</p>
+							</section>
+						
+							<section>
+							  <h2>Next Steps & Recommendations</h2>
+							  <ul>
+								<li>Capture and archive IIX LG graphs for all major peers in the 01:00–10:00 window.</li>
+								<li>Run active tests from Jakarta vantage: <code>mtr</code>, <code>traceroute</code>, <code>tcping</code> to regional/ international endpoints.</li>
+								<li>Monitor Indonesian national monitoring services and IX status pages for retrospective bulletins.</li>
+								<li>Downstream operators should verify whether traffic was rerouted via Singapore or other alternate paths and assess latency/packet-loss impact.</li>
+								<li>Ensure fallback paths from Indonesian data centres are in place in case exchange-level disruptions occur again.</li>
+							  </ul>
+							</section>
+                        </div>
+                    </div>
+                    
+				<!-- Footer -->
+                <footer id="footer">
+                    <div class="inner">
+                        <section>
+                            <h2>Follow</h2>
+                            <ul class="icons">
+                                <li><a href="https://x.com/AleiwaTool" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+                                <li><a href="https://www.facebook.com/jash.zheng.5" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+                                <li><a href="https://github.com/aleiwa-network" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+                                <li><a href="jash_zheng@gmail.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+                            </ul>
+                        </section>
+                        <ul class="copyright">
+                            <li>&copy; 2025 Aleiwa Network Tools. All rights reserved</li><li>Design: <a href="/about.html">Aleiwa</a></li>
+                        </ul>
+                    </div>
+                </footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/browser.min.js"></script>
+			<script src="/assets/js/breakpoints.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<script src="/assets/js/main.js"></script>
+			<script type="/application/ld+json">
+				{
+				  "@context": "https://schema.org",
+				  "@type": "ItemList",
+				  "name": "Aleiwa Network Tools Collection",
+				  "url": "https://www.aleiwa.com/",
+				  "description": "A curated list of professional network analysis tools including ISP rankings, DNS servers, and route diagnostics.",
+				  "itemListElement": [
+					{
+					  "@type": "ListItem",
+					  "position": 1,
+					  "item": {
+						"@type": "WebApplication",
+						"name": "Top ISPs Ranking",
+						"url": "https://www.aleiwa.com/topisps.html"
+					  }
+					},
+					{
+					  "@type": "ListItem",
+					  "position": 2,
+					  "item": {
+						"@type": "WebApplication",
+						"name": "Public DNS Server Analyzer",
+						"url": "https://www.aleiwa.com/dns.html"
+					  }
+					}
+				  ]
+				}
+			</script>
+			<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZGPJPS5L54"></script>
+			<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+			
+				gtag('config', 'G-ZGPJPS5L54');
+			</script>   
+	</body>
+</html>
