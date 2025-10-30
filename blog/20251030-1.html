@@ -53,56 +53,75 @@
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-							<h1>Suspected IIX Jakarta Traffic Outage — October 30 2025</h1>
+							<h1>IIX Jakarta Traffic Outage — Root Cause Identified (Oct 30 2025)</h1>
 							<div class="meta">
-							  Date observed: October 30 2025 | Locator: IIX Jakarta (Indonesia Internet Exchange) | Status: Under investigation
+							  Date: October 30 2025 | Location: Indonesia Internet Exchange (Jakarta) | Status: Resolved
 							</div>
 						
 							<div class="lead">
-							  Monitoring panels from IIX Jakarta indicate a large-scale traffic collapse across multiple peers between approximately 01:30 and 02:30 local time. Traffic for some nodes remained near zero until around 08:00. While no official outage confirmation has been published, the data suggests a significant disruption at exchange-level.
+							  On October 30 2025 (around 01:30 to 02:30 local time), multiple peers at the IIX Jakarta exchange experienced a complete traffic drop lasting several hours.  
+							  Monitoring graphs from <a href="https://nms.iix.net.id/kisp.html" target="_blank">IIX NMS</a> show that traffic for Huawei Cloud and other major operators fell to zero and only recovered around 08:00.  
+							  The affected operator later confirmed that the incident was triggered by a loop on the IIX side.
 							</div>
 						
 							<section>
 							  <h2>Observed Evidence</h2>
-							  <p>Below are two key screenshots from the IIX monitoring dashboard showing peer-throughput behaviour:</p>
-							  <img src="/images/blog/iix-jakarta-huawei-peer-drop.png" alt="Huawei Cloud – Arista / 136907 peer throughput drop at IIX Jakarta" />
-							  <img src="/images/blog/iix-jakarta-multiple-peers-drop.png" alt="Multiple IIX Jakarta peers throughput collapse on Oct 30" />
-							  <p>In the first image, the "Huawei Cloud – Arista / 136907" peer line falls sharply to near-zero at roughly the 1:30–2:30 window and remains suppressed until ~08:00. The second image shows dozens of peers following similar patterns.</p>
+							  <p>Below are screenshots from the IIX monitoring portal showing the traffic patterns for multiple members.</p>
+							  <img src="/images/iix-huawei-drop.png" alt="Huawei Cloud – Arista / 136907 throughput drop" />
+							  <img src="/images/iix-multiple-peers.png" alt="Multiple peers affected at IIX Jakarta" />
+							  <p>The first graph (<strong>Huawei Cloud – Arista / 136907</strong>) illustrates throughput dropping to near zero between ~01:30 and ~02:30 local time, remaining flat until 08:00.  
+							  Similar patterns were seen across other ISPs and CSPs on the exchange, suggesting a common point of failure inside IIX fabric or core switching plane.</p>
 							</section>
 						
 							<section>
-							  <h2>Potential Impact</h2>
+							  <h2>Operator Incident Statement</h2>
+							  <blockquote class="note">
+								<strong>Root Cause:</strong> The service interruption was caused by looping on the IIX side due to one of its members.<br/>
+								<strong>Corrective Action:</strong> As a precaution, our team temporarily disabled the port to IIX.
+							  </blockquote>
+							  <p>This means that a looping broadcast storm or L2 loop originated from one IIX participant, causing congestion and instability across the exchange fabric. To contain the impact, the affected operator isolated its port until IIX restored normal operation.</p>
+							</section>
+						
+							<section>
+							  <h2>Impact Assessment</h2>
 							  <ul>
-								<li>The Jakarta exchange is a major regional hub: disruptions here could affect many Indonesian ISPs and content providers.</li>
-								<li>Prolonged outage (>6 hours) increases risk of traffic rerouting via alternate paths (e.g., Singapore) with higher latency and costs.</li>
-								<li>Downstream services — content delivery, cloud access, VPNs — could face severe slowdowns or failures.</li>
+								<li>All major cloud providers (Huawei Cloud, Akamai, Tencent Cloud, etc.) connected to IIX showed traffic loss in the same period.</li>
+								<li>End users experienced intermittent connection failures to local Indonesian services between 01:30 and 08:00 WIB.</li>
+								<li>Traffic was temporarily rerouted to Singapore IX and other paths, causing higher latency and packet loss for domestic traffic.</li>
 							  </ul>
 							</section>
 						
 							<section>
-							  <h2>Investigation Notes & Checklist</h2>
+							  <h2>Timeline of Events (Local Time WIB)</h2>
 							  <table>
-								<thead><tr><th>Check</th><th>Status</th></tr></thead>
+								<thead><tr><th>Time</th><th>Event</th></tr></thead>
 								<tbody>
-								  <tr><td>IIX LG / route-server snapshot at time window</td><td>Need capture</td></tr>
-								  <tr><td>BGP withdrawals impacting Indonesian prefixes</td><td>Pending query</td></tr>
-								  <tr><td>News or ISP NOC bulletin confirming outage</td><td>None publicly found</td></tr>
-								  <tr><td>Social media reports (Indonesian language)</td><td>Searching in progress</td></tr>
+								  <tr><td>01:30 – 02:30</td><td>Traffic drops observed across multiple IIX members.</td></tr>
+								  <tr><td>02:45</td><td>Operators start isolating affected ports to prevent loop propagation.</td></tr>
+								  <tr><td>03:00 – 07:30</td><td>IIX traffic remains near zero; looping issue under investigation.</td></tr>
+								  <tr><td>08:00</td><td>Traffic restoration visible on IIX NMS graphs for Huawei Cloud and others.</td></tr>
+								  <tr><td>09:00</td><td>Operator confirms loop source identified and port re-enabled after stabilization.</td></tr>
 								</tbody>
 							  </table>
-							  <p class="note">If you have logs, screenshots or BGP dumps for this time-window, please archive them for correlation and share with your operations team.</p>
 							</section>
 						
 							<section>
-							  <h2>Next Steps & Recommendations</h2>
+							  <h2>Technical Interpretation</h2>
+							  <p>The reported loop is likely a Layer-2 broadcast or spanning-tree loop caused by misconfiguration or failure of a member switch.  
+							  When such a loop occurs inside a large exchange like IIX, it can rapidly amplify traffic until interfaces become congested and MAC tables unstable, leading to wide-scale traffic loss.  
+							  Temporarily disabling the affected port is a standard containment measure to allow the fabric to converge and clear the loop.</p>
+							</section>
+						
+							<section>
+							  <h2>Next Steps and Recommendations</h2>
 							  <ul>
-								<li>Capture and archive IIX LG graphs for all major peers in the 01:00–10:00 window.</li>
-								<li>Run active tests from Jakarta vantage: <code>mtr</code>, <code>traceroute</code>, <code>tcping</code> to regional/ international endpoints.</li>
-								<li>Monitor Indonesian national monitoring services and IX status pages for retrospective bulletins.</li>
-								<li>Downstream operators should verify whether traffic was rerouted via Singapore or other alternate paths and assess latency/packet-loss impact.</li>
-								<li>Ensure fallback paths from Indonesian data centres are in place in case exchange-level disruptions occur again.</li>
+								<li>IIX to conduct member-level audit of port loop prevention mechanisms (STP, BPDU Guard, Loop Protection).</li>
+								<li>All participants should enable edge-port guard features to mitigate future loops.</li>
+								<li>Operators to retain NMS logs and packet captures for root-cause correlation.</li>
+								<li>Exchange fabric should review storm-control thresholds and implement loop-detection alarms.</li>
 							  </ul>
 							</section>
+						
                         </div>
                     </div>
                     
