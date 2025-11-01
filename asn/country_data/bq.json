@@ -1,13 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27745,"Description":"Telefonia Bonairiano N.V.","CC":"BQ","Users":7222,"Percent of CC Pop":47.88,"Percent of Internet":0.0002,"Samples":14992},
-{"rank":2,"AS":27694,"Description":"Flamingo TV Bonaire N.V.","CC":"BQ","Users":3530,"Percent of CC Pop":23.40,"Percent of Internet":0.0001,"Samples":7328},
-{"rank":3,"AS":28104,"Description":"Eutel N.V.","CC":"BQ","Users":2814,"Percent of CC Pop":18.66,"Percent of Internet":0.0001,"Samples":5842},
-{"rank":4,"AS":262188,"Description":"Satel NV","CC":"BQ","Users":1116,"Percent of CC Pop":7.40,"Percent of Internet":0.0000,"Samples":2318},
-{"rank":5,"AS":27660,"Description":"Curacao Telecom","CC":"BQ","Users":374,"Percent of CC Pop":2.48,"Percent of Internet":0.0000,"Samples":777}
+{"rank":1,"AS":27745,"Description":"Telefonia Bonairiano N.V.","CC":"BQ","Users":6830,"Percent of CC Pop":45.26,"Percent of Internet":0.0002,"Samples":13523},
+{"rank":2,"AS":27694,"Description":"Flamingo TV Bonaire N.V.","CC":"BQ","Users":3453,"Percent of CC Pop":22.88,"Percent of Internet":0.0001,"Samples":6837},
+{"rank":3,"AS":28104,"Description":"Eutel N.V.","CC":"BQ","Users":3210,"Percent of CC Pop":21.28,"Percent of Internet":0.0001,"Samples":6357},
+{"rank":4,"AS":262188,"Description":"Satel NV","CC":"BQ","Users":959,"Percent of CC Pop":6.36,"Percent of Internet":0.0000,"Samples":1900},
+{"rank":5,"AS":27660,"Description":"Curacao Telecom","CC":"BQ","Users":610,"Percent of CC Pop":4.05,"Percent of Internet":0.0000,"Samples":1209}
   ]
 }

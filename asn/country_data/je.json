@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8681,"Description":"JT","CC":"JE","Users":39914,"Percent of CC Pop":63.58,"Percent of Internet":0.0009,"Samples":92905},
-{"rank":2,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"JE","Users":14592,"Percent of CC Pop":23.24,"Percent of Internet":0.0003,"Samples":33965},
-{"rank":3,"AS":13208,"Description":"NEWTELSOLUTIONS-AS Channel Islands","CC":"JE","Users":5436,"Percent of CC Pop":8.66,"Percent of Internet":0.0001,"Samples":12654},
-{"rank":4,"AS":61143,"Description":"JERSEY-AIRTEL","CC":"JE","Users":1990,"Percent of CC Pop":3.17,"Percent of Internet":0.0000,"Samples":4634},
-{"rank":5,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"JE","Users":405,"Percent of CC Pop":0.65,"Percent of Internet":0.0000,"Samples":945},
-{"rank":6,"AS":13173,"Description":"FORESHORE-AS","CC":"JE","Users":320,"Percent of CC Pop":0.51,"Percent of Internet":0.0000,"Samples":745}
+{"rank":1,"AS":8681,"Description":"JT","CC":"JE","Users":38009,"Percent of CC Pop":60.50,"Percent of Internet":0.0009,"Samples":88995},
+{"rank":2,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"JE","Users":17137,"Percent of CC Pop":27.27,"Percent of Internet":0.0004,"Samples":40124},
+{"rank":3,"AS":13208,"Description":"NEWTELSOLUTIONS-AS Channel Islands","CC":"JE","Users":5440,"Percent of CC Pop":8.66,"Percent of Internet":0.0001,"Samples":12739},
+{"rank":4,"AS":61143,"Description":"JERSEY-AIRTEL","CC":"JE","Users":1753,"Percent of CC Pop":2.79,"Percent of Internet":0.0000,"Samples":4105},
+{"rank":5,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"JE","Users":266,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":624},
+{"rank":6,"AS":212238,"Description":"CDNEXT","CC":"JE","Users":64,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":150}
   ]
 }

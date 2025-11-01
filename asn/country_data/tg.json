@@ -1,16 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":24691,"Description":"TOGOTEL-AS TogoTelecom, Togo","CC":"TG","Users":725145,"Percent of CC Pop":48.64,"Percent of Internet":0.0171,"Samples":756694},
-{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"TG","Users":479835,"Percent of CC Pop":32.18,"Percent of Internet":0.0113,"Samples":500712},
-{"rank":3,"AS":37229,"Description":"ATLANTIQUE-TELECOM-","CC":"TG","Users":225709,"Percent of CC Pop":15.14,"Percent of Internet":0.0053,"Samples":235529},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET","CC":"TG","Users":55826,"Percent of CC Pop":3.74,"Percent of Internet":0.0013,"Samples":58255},
-{"rank":5,"AS":30982,"Description":"CAFENET","CC":"TG","Users":3428,"Percent of CC Pop":0.23,"Percent of Internet":0.0001,"Samples":3578},
-{"rank":6,"AS":328282,"Description":"TEOLIS-SAU","CC":"TG","Users":534,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":558},
-{"rank":7,"AS":212238,"Description":"CDNEXT","CC":"TG","Users":195,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":204},
-{"rank":8,"AS":329010,"Description":"SDN1-AS","CC":"TG","Users":155,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":162}
+{"rank":1,"AS":24691,"Description":"TOGOTEL-AS TogoTelecom, Togo","CC":"TG","Users":714135,"Percent of CC Pop":47.80,"Percent of Internet":0.0168,"Samples":642109},
+{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"TG","Users":508879,"Percent of CC Pop":34.06,"Percent of Internet":0.0120,"Samples":457555},
+{"rank":3,"AS":37229,"Description":"ATLANTIQUE-TELECOM-","CC":"TG","Users":224330,"Percent of CC Pop":15.02,"Percent of Internet":0.0053,"Samples":201705},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET","CC":"TG","Users":42308,"Percent of CC Pop":2.83,"Percent of Internet":0.0010,"Samples":38041},
+{"rank":5,"AS":30982,"Description":"CAFENET","CC":"TG","Users":3131,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":2816},
+{"rank":6,"AS":329010,"Description":"SDN1-AS","CC":"TG","Users":371,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":334},
+{"rank":7,"AS":328282,"Description":"TEOLIS-SAU","CC":"TG","Users":306,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":276},
+{"rank":8,"AS":212238,"Description":"CDNEXT","CC":"TG","Users":234,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":211},
+{"rank":9,"AS":328293,"Description":"RDED-AS","CC":"TG","Users":150,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":135}
   ]
 }

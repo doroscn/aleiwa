@@ -1,13 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":45891,"Description":"SBT-AS-AP Solomon Telekom Co Ltd","CC":"SB","Users":82557,"Percent of CC Pop":79.73,"Percent of Internet":0.0019,"Samples":54250},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SB","Users":15185,"Percent of CC Pop":14.67,"Percent of Internet":0.0004,"Samples":9979},
-{"rank":3,"AS":132468,"Description":"SATSOL-NET-SB SATSOL LIMITED","CC":"SB","Users":3509,"Percent of CC Pop":3.39,"Percent of Internet":0.0001,"Samples":2306},
-{"rank":4,"AS":132462,"Description":"BEMOBILESI-AS-AP Bemobile Solomon Islands Ltd","CC":"SB","Users":1144,"Percent of CC Pop":1.11,"Percent of Internet":0.0000,"Samples":752},
-{"rank":5,"AS":134525,"Description":"SBT-AS-AP Solomon Telekom Co Ltd","CC":"SB","Users":969,"Percent of CC Pop":0.94,"Percent of Internet":0.0000,"Samples":637}
+{"rank":1,"AS":45891,"Description":"SBT-AS-AP Solomon Telekom Co Ltd","CC":"SB","Users":88449,"Percent of CC Pop":85.26,"Percent of Internet":0.0021,"Samples":46186},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SB","Users":8952,"Percent of CC Pop":8.63,"Percent of Internet":0.0002,"Samples":4675},
+{"rank":3,"AS":132468,"Description":"SATSOL-NET-SB SATSOL LIMITED","CC":"SB","Users":3521,"Percent of CC Pop":3.39,"Percent of Internet":0.0001,"Samples":1839},
+{"rank":4,"AS":132462,"Description":"BEMOBILESI-AS-AP Bemobile Solomon Islands Ltd","CC":"SB","Users":2137,"Percent of CC Pop":2.06,"Percent of Internet":0.0001,"Samples":1116},
+{"rank":5,"AS":134525,"Description":"SBT-AS-AP Solomon Telekom Co Ltd","CC":"SB","Users":356,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":186},
+{"rank":6,"AS":139609,"Description":"SISCC-AS-AP Solomon Islands Submarine Cable Company","CC":"SB","Users":271,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":142}
   ]
 }

@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15146,"Description":"CABLEBAHAMAS","CC":"BS","Users":240347,"Percent of CC Pop":63.05,"Percent of Internet":0.0057,"Samples":243182},
-{"rank":2,"AS":8014,"Description":"BATELNET","CC":"BS","Users":109686,"Percent of CC Pop":28.77,"Percent of Internet":0.0026,"Samples":110980},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BS","Users":25742,"Percent of CC Pop":6.75,"Percent of Internet":0.0006,"Samples":26046},
-{"rank":4,"AS":262287,"Description":"Latitude.sh LTDA","CC":"BS","Users":2509,"Percent of CC Pop":0.66,"Percent of Internet":0.0001,"Samples":2539},
-{"rank":5,"AS":397972,"Description":"CTF-BM-LTD","CC":"BS","Users":1589,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":1608},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"BS","Users":533,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":540},
-{"rank":7,"AS":62651,"Description":"NETPROTECT-62651","CC":"BS","Users":404,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":409},
-{"rank":8,"AS":22357,"Description":"SECURE-SHORE-ASN","CC":"BS","Users":259,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":263}
+{"rank":1,"AS":15146,"Description":"CABLEBAHAMAS","CC":"BS","Users":237299,"Percent of CC Pop":62.22,"Percent of Internet":0.0056,"Samples":260549},
+{"rank":2,"AS":8014,"Description":"BATELNET","CC":"BS","Users":110658,"Percent of CC Pop":29.01,"Percent of Internet":0.0026,"Samples":121500},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BS","Users":29945,"Percent of CC Pop":7.85,"Percent of Internet":0.0007,"Samples":32880},
+{"rank":4,"AS":397972,"Description":"CTF-BM-LTD","CC":"BS","Users":1452,"Percent of CC Pop":0.38,"Percent of Internet":0.0000,"Samples":1595},
+{"rank":5,"AS":262287,"Description":"Latitude.sh LTDA","CC":"BS","Users":831,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":913},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"BS","Users":534,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":587},
+{"rank":7,"AS":62651,"Description":"NETPROTECT-62651","CC":"BS","Users":337,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":371},
+{"rank":8,"AS":22357,"Description":"SECURE-SHORE-ASN","CC":"BS","Users":195,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":215}
   ]
 }

@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20661,"Description":"TURKMENTELECOM-AS","CC":"TM","Users":1513184,"Percent of CC Pop":86.30,"Percent of Internet":0.0356,"Samples":8624},
-{"rank":2,"AS":59974,"Description":"TMCELL-NET","CC":"TM","Users":156336,"Percent of CC Pop":8.92,"Percent of Internet":0.0037,"Samples":891},
-{"rank":3,"AS":51495,"Description":"AGTS-AS","CC":"TM","Users":67728,"Percent of CC Pop":3.86,"Percent of Internet":0.0016,"Samples":386}
+{"rank":1,"AS":20661,"Description":"TURKMENTELECOM-AS","CC":"TM","Users":1515526,"Percent of CC Pop":86.35,"Percent of Internet":0.0357,"Samples":6951},
+{"rank":2,"AS":59974,"Description":"TMCELL-NET","CC":"TM","Users":138885,"Percent of CC Pop":7.91,"Percent of Internet":0.0033,"Samples":637},
+{"rank":3,"AS":51495,"Description":"AGTS-AS","CC":"TM","Users":78926,"Percent of CC Pop":4.50,"Percent of Internet":0.0019,"Samples":362}
   ]
 }

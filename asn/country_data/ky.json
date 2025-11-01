@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6639,"Description":"CWCAYMAN","CC":"KY","Users":29378,"Percent of CC Pop":49.40,"Percent of Internet":0.0007,"Samples":36605},
-{"rank":2,"AS":36549,"Description":"LOGIC-36549","CC":"KY","Users":21716,"Percent of CC Pop":36.52,"Percent of Internet":0.0005,"Samples":27059},
-{"rank":3,"AS":13771,"Description":"DIGICEL-CAYMAN","CC":"KY","Users":3928,"Percent of CC Pop":6.61,"Percent of Internet":0.0001,"Samples":4895},
-{"rank":4,"AS":16437,"Description":"INFINITY-BROADBAND-LTD","CC":"KY","Users":3678,"Percent of CC Pop":6.19,"Percent of Internet":0.0001,"Samples":4583},
-{"rank":5,"AS":30689,"Description":"FLOW-NET","CC":"KY","Users":354,"Percent of CC Pop":0.60,"Percent of Internet":0.0000,"Samples":442},
-{"rank":6,"AS":11139,"Description":"CWC-ROC-11139","CC":"KY","Users":223,"Percent of CC Pop":0.38,"Percent of Internet":0.0000,"Samples":278}
+{"rank":1,"AS":6639,"Description":"CWCAYMAN","CC":"KY","Users":26670,"Percent of CC Pop":44.82,"Percent of Internet":0.0006,"Samples":39695},
+{"rank":2,"AS":36549,"Description":"LOGIC-36549","CC":"KY","Users":23231,"Percent of CC Pop":39.04,"Percent of Internet":0.0005,"Samples":34577},
+{"rank":3,"AS":13771,"Description":"DIGICEL-CAYMAN","CC":"KY","Users":5287,"Percent of CC Pop":8.89,"Percent of Internet":0.0001,"Samples":7870},
+{"rank":4,"AS":16437,"Description":"INFINITY-BROADBAND-LTD","CC":"KY","Users":3532,"Percent of CC Pop":5.94,"Percent of Internet":0.0001,"Samples":5257},
+{"rank":5,"AS":30689,"Description":"FLOW-NET","CC":"KY","Users":552,"Percent of CC Pop":0.93,"Percent of Internet":0.0000,"Samples":823},
+{"rank":6,"AS":11139,"Description":"CWC-ROC-11139","CC":"KY","Users":137,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":205}
   ]
 }

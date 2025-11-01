@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":10094,"Description":"UNN-BN Unified National Networks","CC":"BN","Users":498629,"Percent of CC Pop":99.07,"Percent of Internet":0.0117,"Samples":503429},
-{"rank":2,"AS":10101,"Description":"SIMPUR-BN UNN-","CC":"BN","Users":3342,"Percent of CC Pop":0.66,"Percent of Internet":0.0001,"Samples":3375},
-{"rank":3,"AS":13335,"Description":"CLOUDFLARENET","CC":"BN","Users":516,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":521},
-{"rank":4,"AS":133875,"Description":"BSPC-NON-AS-AP Brunei Shell Petroleum Company Sdn Bhd","CC":"BN","Users":409,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":413}
+{"rank":1,"AS":10094,"Description":"UNN-BN Unified National Networks","CC":"BN","Users":498761,"Percent of CC Pop":99.04,"Percent of Internet":0.0117,"Samples":455912},
+{"rank":2,"AS":10101,"Description":"SIMPUR-BN UNN-","CC":"BN","Users":3334,"Percent of CC Pop":0.66,"Percent of Internet":0.0001,"Samples":3048},
+{"rank":3,"AS":13335,"Description":"CLOUDFLARENET","CC":"BN","Users":598,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":547},
+{"rank":4,"AS":133875,"Description":"BSPC-NON-AS-AP Brunei Shell Petroleum Company Sdn Bhd","CC":"BN","Users":486,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":445}
   ]
 }

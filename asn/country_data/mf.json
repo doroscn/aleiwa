@@ -1,13 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":393894,"Description":"MSR-CABLE-TV","CC":"MF","Users":9835,"Percent of CC Pop":54.81,"Percent of Internet":0.0002,"Samples":3068},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MF","Users":5222,"Percent of CC Pop":29.10,"Percent of Internet":0.0001,"Samples":1629},
-{"rank":3,"AS":262181,"Description":"Coral Telecom N.V.","CC":"MF","Users":1102,"Percent of CC Pop":6.15,"Percent of Internet":0.0000,"Samples":344},
-{"rank":4,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MF","Users":570,"Percent of CC Pop":3.18,"Percent of Internet":0.0000,"Samples":178},
-{"rank":5,"AS":395916,"Description":"THDTEL","CC":"MF","Users":503,"Percent of CC Pop":2.80,"Percent of Internet":0.0000,"Samples":157}
+{"rank":1,"AS":393894,"Description":"MSR-CABLE-TV","CC":"MF","Users":8145,"Percent of CC Pop":45.36,"Percent of Internet":0.0002,"Samples":2767},
+{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MF","Users":4848,"Percent of CC Pop":27.00,"Percent of Internet":0.0001,"Samples":1647},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MF","Users":2758,"Percent of CC Pop":15.36,"Percent of Internet":0.0001,"Samples":937},
+{"rank":4,"AS":262181,"Description":"Coral Telecom N.V.","CC":"MF","Users":1171,"Percent of CC Pop":6.52,"Percent of Internet":0.0000,"Samples":398},
+{"rank":5,"AS":395916,"Description":"THDTEL","CC":"MF","Users":747,"Percent of CC Pop":4.16,"Percent of Internet":0.0000,"Samples":254}
   ]
 }

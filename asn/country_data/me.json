@@ -1,18 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":43940,"Description":"MTEL-AS","CC":"ME","Users":208109,"Percent of CC Pop":45.18,"Percent of Internet":0.0049,"Samples":422476},
-{"rank":2,"AS":8585,"Description":"INTERNET-CG","CC":"ME","Users":166711,"Percent of CC Pop":36.19,"Percent of Internet":0.0039,"Samples":338435},
-{"rank":3,"AS":15397,"Description":"TELENORMONTENEGRO","CC":"ME","Users":51573,"Percent of CC Pop":11.20,"Percent of Internet":0.0012,"Samples":104697},
-{"rank":4,"AS":42560,"Description":"BA-TELEMACH-AS Telemach d.o.o. Sarajevo","CC":"ME","Users":28742,"Percent of CC Pop":6.24,"Percent of Internet":0.0007,"Samples":58349},
-{"rank":5,"AS":31042,"Description":"SERBIA-BROADBAND-AS Serbia BroadBand-Srpske Kablovske mreze d.o.o.","CC":"ME","Users":2894,"Percent of CC Pop":0.63,"Percent of Internet":0.0001,"Samples":5877},
-{"rank":6,"AS":198961,"Description":"ORION-TELEKOM-MONTENEGRO","CC":"ME","Users":951,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":1932},
-{"rank":7,"AS":47881,"Description":"MNNEWS-AS","CC":"ME","Users":849,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":1724},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"ME","Users":146,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":297},
-{"rank":9,"AS":202644,"Description":"MEWIRELESS","CC":"ME","Users":115,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":235},
-{"rank":10,"AS":203506,"Description":"MOD-","CC":"ME","Users":102,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":209}
+{"rank":1,"AS":43940,"Description":"MTEL-AS","CC":"ME","Users":202108,"Percent of CC Pop":43.88,"Percent of Internet":0.0048,"Samples":413056},
+{"rank":2,"AS":8585,"Description":"INTERNET-CG","CC":"ME","Users":162509,"Percent of CC Pop":35.28,"Percent of Internet":0.0038,"Samples":332125},
+{"rank":3,"AS":15397,"Description":"TELENORMONTENEGRO","CC":"ME","Users":54406,"Percent of CC Pop":11.81,"Percent of Internet":0.0013,"Samples":111193},
+{"rank":4,"AS":42560,"Description":"BA-TELEMACH-AS Telemach d.o.o. Sarajevo","CC":"ME","Users":38548,"Percent of CC Pop":8.37,"Percent of Internet":0.0009,"Samples":78782},
+{"rank":5,"AS":198961,"Description":"ORION-TELEKOM-MONTENEGRO","CC":"ME","Users":928,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":1898},
+{"rank":6,"AS":47881,"Description":"MNNEWS-AS","CC":"ME","Users":699,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":1429},
+{"rank":7,"AS":209847,"Description":"THE","CC":"ME","Users":486,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":994},
+{"rank":8,"AS":44477,"Description":"-Reserved AS-","CC":"ME","Users":161,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":331},
+{"rank":9,"AS":202644,"Description":"MEWIRELESS","CC":"ME","Users":112,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":229},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"ME","Users":102,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":209},
+{"rank":11,"AS":203506,"Description":"MOD-","CC":"ME","Users":97,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":199},
+{"rank":12,"AS":40981,"Description":"UNIVCG","CC":"ME","Users":80,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":165}
   ]
 }

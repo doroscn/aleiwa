@@ -1,12 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6758,"Description":"AS6758","CC":"MC","Users":32991,"Percent of CC Pop":91.61,"Percent of Internet":0.0008,"Samples":11540},
-{"rank":2,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MC","Users":1046,"Percent of CC Pop":2.91,"Percent of Internet":0.0000,"Samples":366},
-{"rank":3,"AS":212238,"Description":"CDNEXT","CC":"MC","Users":1032,"Percent of CC Pop":2.87,"Percent of Internet":0.0000,"Samples":361},
-{"rank":4,"AS":9009,"Description":"M247","CC":"MC","Users":357,"Percent of CC Pop":0.99,"Percent of Internet":0.0000,"Samples":125}
+{"rank":1,"AS":6758,"Description":"AS6758","CC":"MC","Users":33443,"Percent of CC Pop":92.89,"Percent of Internet":0.0008,"Samples":12744},
+{"rank":2,"AS":212238,"Description":"CDNEXT","CC":"MC","Users":1815,"Percent of CC Pop":5.04,"Percent of Internet":0.0000,"Samples":692}
   ]
 }

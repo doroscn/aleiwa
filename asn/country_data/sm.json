@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15433,"Description":"TISM Telecom Italia San Marino.","CC":"SM","Users":17330,"Percent of CC Pop":93.85,"Percent of Internet":0.0004,"Samples":21873},
-{"rank":2,"AS":196874,"Description":"TELENET-RSM TeleneT San Marino","CC":"SM","Users":945,"Percent of CC Pop":5.12,"Percent of Internet":0.0000,"Samples":1193},
-{"rank":3,"AS":212841,"Description":"SM-AASS","CC":"SM","Users":158,"Percent of CC Pop":0.86,"Percent of Internet":0.0000,"Samples":200}
+{"rank":1,"AS":15433,"Description":"TISM Telecom Italia San Marino.","CC":"SM","Users":17031,"Percent of CC Pop":92.23,"Percent of Internet":0.0004,"Samples":21559},
+{"rank":2,"AS":196874,"Description":"TELENET-RSM TeleneT San Marino","CC":"SM","Users":1315,"Percent of CC Pop":7.12,"Percent of Internet":0.0000,"Samples":1665},
+{"rank":3,"AS":212841,"Description":"SM-AASS","CC":"SM","Users":95,"Percent of CC Pop":0.52,"Percent of Internet":0.0000,"Samples":121}
   ]
 }

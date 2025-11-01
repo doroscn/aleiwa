@@ -1,17 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14813,"Description":"BB-COLUMBUS","CC":"BB","Users":178374,"Percent of CC Pop":73.49,"Percent of Internet":0.0042,"Samples":460187},
-{"rank":2,"AS":35900,"Description":"DIGI-BDS-ASN","CC":"BB","Users":59875,"Percent of CC Pop":24.67,"Percent of Internet":0.0014,"Samples":154473},
-{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"BB","Users":2718,"Percent of CC Pop":1.12,"Percent of Internet":0.0001,"Samples":7013},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BB","Users":856,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":2210},
-{"rank":5,"AS":33582,"Description":"DIGICEL-OECS","CC":"BB","Users":375,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":970},
-{"rank":6,"AS":55033,"Description":"UWI-CH-ASN1","CC":"BB","Users":162,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":419},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"BB","Users":123,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":318},
-{"rank":8,"AS":396304,"Description":"ANU-DIGI","CC":"BB","Users":105,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":273},
-{"rank":9,"AS":13150,"Description":"CATON","CC":"BB","Users":68,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":176}
+{"rank":1,"AS":14813,"Description":"BB-COLUMBUS","CC":"BB","Users":180315,"Percent of CC Pop":74.29,"Percent of Internet":0.0042,"Samples":500673},
+{"rank":2,"AS":35900,"Description":"DIGI-BDS-ASN","CC":"BB","Users":59308,"Percent of CC Pop":24.43,"Percent of Internet":0.0014,"Samples":164679},
+{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"BB","Users":2156,"Percent of CC Pop":0.89,"Percent of Internet":0.0001,"Samples":5987},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BB","Users":334,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":928},
+{"rank":5,"AS":55033,"Description":"UWI-CH-ASN1","CC":"BB","Users":248,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":689},
+{"rank":6,"AS":33582,"Description":"DIGICEL-OECS","CC":"BB","Users":200,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":557},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"BB","Users":48,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":134},
+{"rank":8,"AS":396304,"Description":"ANU-DIGI","CC":"BB","Users":43,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":122}
   ]
 }

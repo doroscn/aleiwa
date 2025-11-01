@@ -1,15 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":133606,"Description":"VIETTELTIMORLESTE-AS-AP Viettel Timor Leste","CC":"TL","Users":210697,"Percent of CC Pop":48.47,"Percent of Internet":0.0050,"Samples":91077},
-{"rank":2,"AS":58731,"Description":"TELINTLSA-AS Telekomunikasi Indonesia International T.L. S.A.","CC":"TL","Users":114902,"Percent of CC Pop":26.43,"Percent of Internet":0.0027,"Samples":49668},
-{"rank":3,"AS":38077,"Description":"TIMOR-TELECOM-AS-AP Timor Telecom, SA","CC":"TL","Users":87115,"Percent of CC Pop":20.04,"Percent of Internet":0.0021,"Samples":37657},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TL","Users":19233,"Percent of CC Pop":4.42,"Percent of Internet":0.0005,"Samples":8314},
-{"rank":5,"AS":136920,"Description":"GARDAMORLDA-AS-AP Gardamor, Lda","CC":"TL","Users":1374,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":594},
-{"rank":6,"AS":135065,"Description":"NIDOM-AS-AP National Directorate of Information and Technology","CC":"TL","Users":610,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":264},
-{"rank":7,"AS":139688,"Description":"TICTIMORIP-AS TIC TIMOR I.P.","CC":"TL","Users":393,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":170}
+{"rank":1,"AS":133606,"Description":"VIETTELTIMORLESTE-AS-AP Viettel Timor Leste","CC":"TL","Users":203443,"Percent of CC Pop":46.75,"Percent of Internet":0.0048,"Samples":78242},
+{"rank":2,"AS":58731,"Description":"TELINTLSA-AS Telekomunikasi Indonesia International T.L. S.A.","CC":"TL","Users":120209,"Percent of CC Pop":27.62,"Percent of Internet":0.0028,"Samples":46231},
+{"rank":3,"AS":38077,"Description":"TIMOR-TELECOM-AS-AP Timor Telecom, SA","CC":"TL","Users":85434,"Percent of CC Pop":19.63,"Percent of Internet":0.0020,"Samples":32857},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TL","Users":23245,"Percent of CC Pop":5.34,"Percent of Internet":0.0005,"Samples":8940},
+{"rank":5,"AS":136920,"Description":"GARDAMORLDA-AS-AP Gardamor, Lda","CC":"TL","Users":1791,"Percent of CC Pop":0.41,"Percent of Internet":0.0000,"Samples":689},
+{"rank":6,"AS":135065,"Description":"NIDOM-AS-AP National Directorate of Information and Technology","CC":"TL","Users":488,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":188}
   ]
 }

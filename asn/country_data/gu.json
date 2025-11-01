@@ -1,17 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9246,"Description":"GTA-AP Teleguam Holdings, LLC","CC":"GU","Users":41456,"Percent of CC Pop":27.45,"Percent of Internet":0.0010,"Samples":44114},
-{"rank":2,"AS":7131,"Description":"PTIPACIFICAINC-AS-AP PTI Pacifica Inc.","CC":"GU","Users":39434,"Percent of CC Pop":26.11,"Percent of Internet":0.0009,"Samples":41962},
-{"rank":3,"AS":3605,"Description":"ERX-KUENTOS-AS Guam Cablevision, LLC.","CC":"GU","Users":35229,"Percent of CC Pop":23.32,"Percent of Internet":0.0008,"Samples":37487},
-{"rank":4,"AS":21996,"Description":"GUAMCELL","CC":"GU","Users":23358,"Percent of CC Pop":15.46,"Percent of Internet":0.0006,"Samples":24856},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GU","Users":10275,"Percent of CC Pop":6.80,"Percent of Internet":0.0002,"Samples":10934},
-{"rank":6,"AS":17456,"Description":"PDSGUAM-USTRANSPORT-AS-GU-AP Pacific Data Systems","CC":"GU","Users":515,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":549},
-{"rank":7,"AS":395400,"Description":"UNIVERSITY-GUAM","CC":"GU","Users":256,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":273},
-{"rank":8,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"GU","Users":208,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":222},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"GU","Users":148,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":158}
+{"rank":1,"AS":9246,"Description":"GTA-AP Teleguam Holdings, LLC","CC":"GU","Users":41266,"Percent of CC Pop":27.30,"Percent of Internet":0.0010,"Samples":37347},
+{"rank":2,"AS":3605,"Description":"ERX-KUENTOS-AS Guam Cablevision, LLC.","CC":"GU","Users":36139,"Percent of CC Pop":23.91,"Percent of Internet":0.0009,"Samples":32707},
+{"rank":3,"AS":7131,"Description":"PTIPACIFICAINC-AS-AP PTI Pacifica Inc.","CC":"GU","Users":35759,"Percent of CC Pop":23.66,"Percent of Internet":0.0008,"Samples":32363},
+{"rank":4,"AS":21996,"Description":"GUAMCELL","CC":"GU","Users":26248,"Percent of CC Pop":17.37,"Percent of Internet":0.0006,"Samples":23756},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GU","Users":10101,"Percent of CC Pop":6.68,"Percent of Internet":0.0002,"Samples":9142},
+{"rank":6,"AS":17456,"Description":"PDSGUAM-USTRANSPORT-AS-GU-AP Pacific Data Systems","CC":"GU","Users":780,"Percent of CC Pop":0.52,"Percent of Internet":0.0000,"Samples":706},
+{"rank":7,"AS":395400,"Description":"UNIVERSITY-GUAM","CC":"GU","Users":279,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":253},
+{"rank":8,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"GU","Users":238,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":216},
+{"rank":9,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"GU","Users":133,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":121}
   ]
 }

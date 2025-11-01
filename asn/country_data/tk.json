@@ -1,9 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":55523,"Description":"TELETOK-AS-AP Telecommunications Tokelau Corporation - Teletok","CC":"TK","Users":1044,"Percent of CC Pop":97.99,"Percent of Internet":0.0000,"Samples":195}
+{"rank":1,"AS":55523,"Description":"TELETOK-AS-AP Telecommunications Tokelau Corporation - Teletok","CC":"TK","Users":1040,"Percent of CC Pop":97.58,"Percent of Internet":0.0000,"Samples":202}
   ]
 }

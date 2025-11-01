@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15389,"Description":"FAROESE-TELECOM-AS","CC":"FO","Users":43898,"Percent of CC Pop":81.31,"Percent of Internet":0.0010,"Samples":54268},
-{"rank":2,"AS":20963,"Description":"NEMAFAROE","CC":"FO","Users":9748,"Percent of CC Pop":18.06,"Percent of Internet":0.0002,"Samples":12051},
-{"rank":3,"AS":206928,"Description":"PF-ELEKTRON","CC":"FO","Users":244,"Percent of CC Pop":0.45,"Percent of Internet":0.0000,"Samples":302}
+{"rank":1,"AS":15389,"Description":"FAROESE-TELECOM-AS","CC":"FO","Users":44777,"Percent of CC Pop":82.91,"Percent of Internet":0.0011,"Samples":62026},
+{"rank":2,"AS":20963,"Description":"NEMAFAROE","CC":"FO","Users":9003,"Percent of CC Pop":16.67,"Percent of Internet":0.0002,"Samples":12471},
+{"rank":3,"AS":206928,"Description":"PF-ELEKTRON","CC":"FO","Users":169,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":235}
   ]
 }

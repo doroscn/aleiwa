@@ -1,17 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20634,"Description":"TELECOM-LI Schaanerstrasse 1","CC":"LI","Users":17580,"Percent of CC Pop":44.34,"Percent of Internet":0.0004,"Samples":5811},
-{"rank":2,"AS":204342,"Description":"VESTRA vestra ICT LI & CH","CC":"LI","Users":7279,"Percent of CC Pop":18.36,"Percent of Internet":0.0002,"Samples":2406},
-{"rank":3,"AS":35223,"Description":"HOI-AS","CC":"LI","Users":3893,"Percent of CC Pop":9.82,"Percent of Internet":0.0001,"Samples":1287},
-{"rank":4,"AS":44477,"Description":"THE-HOSTING","CC":"LI","Users":3675,"Percent of CC Pop":9.27,"Percent of Internet":0.0001,"Samples":1215},
-{"rank":5,"AS":56653,"Description":"TV-COM-AG","CC":"LI","Users":2423,"Percent of CC Pop":6.11,"Percent of Internet":0.0001,"Samples":801},
-{"rank":6,"AS":15955,"Description":"SUPRANET","CC":"LI","Users":1902,"Percent of CC Pop":4.80,"Percent of Internet":0.0000,"Samples":629},
-{"rank":7,"AS":62651,"Description":"NETPROTECT-62651","CC":"LI","Users":995,"Percent of CC Pop":2.51,"Percent of Internet":0.0000,"Samples":329},
-{"rank":8,"AS":206478,"Description":"LILIFE","CC":"LI","Users":426,"Percent of CC Pop":1.08,"Percent of Internet":0.0000,"Samples":141},
-{"rank":9,"AS":198288,"Description":"NEWSNET","CC":"LI","Users":366,"Percent of CC Pop":0.92,"Percent of Internet":0.0000,"Samples":121}
+{"rank":1,"AS":20634,"Description":"TELECOM-LI Schaanerstrasse 1","CC":"LI","Users":18872,"Percent of CC Pop":47.58,"Percent of Internet":0.0004,"Samples":6136},
+{"rank":2,"AS":204342,"Description":"VESTRA vestra ICT LI & CH","CC":"LI","Users":6492,"Percent of CC Pop":16.37,"Percent of Internet":0.0002,"Samples":2111},
+{"rank":3,"AS":35223,"Description":"HOI-AS","CC":"LI","Users":4182,"Percent of CC Pop":10.55,"Percent of Internet":0.0001,"Samples":1360},
+{"rank":4,"AS":15955,"Description":"SUPRANET","CC":"LI","Users":2448,"Percent of CC Pop":6.17,"Percent of Internet":0.0001,"Samples":796},
+{"rank":5,"AS":56653,"Description":"TV-COM-AG","CC":"LI","Users":2177,"Percent of CC Pop":5.49,"Percent of Internet":0.0001,"Samples":708},
+{"rank":6,"AS":44477,"Description":"-Reserved AS-","CC":"LI","Users":1337,"Percent of CC Pop":3.37,"Percent of Internet":0.0000,"Samples":435},
+{"rank":7,"AS":209847,"Description":"THE","CC":"LI","Users":1208,"Percent of CC Pop":3.05,"Percent of Internet":0.0000,"Samples":393},
+{"rank":8,"AS":62651,"Description":"NETPROTECT-62651","CC":"LI","Users":633,"Percent of CC Pop":1.60,"Percent of Internet":0.0000,"Samples":206},
+{"rank":9,"AS":212238,"Description":"CDNEXT","CC":"LI","Users":578,"Percent of CC Pop":1.46,"Percent of Internet":0.0000,"Samples":188},
+{"rank":10,"AS":206478,"Description":"LILIFE","CC":"LI","Users":513,"Percent of CC Pop":1.29,"Percent of Internet":0.0000,"Samples":167}
   ]
 }

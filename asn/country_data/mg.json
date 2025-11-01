@@ -1,14 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37054,"Description":"Telecom-Malagasy","CC":"MG","Users":2390532,"Percent of CC Pop":49.03,"Percent of Internet":0.0563,"Samples":258467},
-{"rank":2,"AS":37037,"Description":"ORANGEMG-AS","CC":"MG","Users":1411167,"Percent of CC Pop":28.94,"Percent of Internet":0.0332,"Samples":152577},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MG","Users":614551,"Percent of CC Pop":12.60,"Percent of Internet":0.0145,"Samples":66446},
-{"rank":4,"AS":37303,"Description":"AIRTELMADA","CC":"MG","Users":328594,"Percent of CC Pop":6.74,"Percent of Internet":0.0077,"Samples":35528},
-{"rank":5,"AS":328411,"Description":"Gulfsat-Madagascar-AS","CC":"MG","Users":124258,"Percent of CC Pop":2.55,"Percent of Internet":0.0029,"Samples":13435},
-{"rank":6,"AS":37608,"Description":"iRENALA-AS","CC":"MG","Users":5688,"Percent of CC Pop":0.12,"Percent of Internet":0.0001,"Samples":615}
+{"rank":1,"AS":37054,"Description":"Telecom-Malagasy","CC":"MG","Users":2524182,"Percent of CC Pop":51.66,"Percent of Internet":0.0594,"Samples":220652},
+{"rank":2,"AS":37037,"Description":"ORANGEMG-AS","CC":"MG","Users":1556456,"Percent of CC Pop":31.85,"Percent of Internet":0.0366,"Samples":136058},
+{"rank":3,"AS":37303,"Description":"AIRTELMADA","CC":"MG","Users":362408,"Percent of CC Pop":7.42,"Percent of Internet":0.0085,"Samples":31680},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MG","Users":301000,"Percent of CC Pop":6.16,"Percent of Internet":0.0071,"Samples":26312},
+{"rank":5,"AS":328411,"Description":"Gulfsat-Madagascar-AS","CC":"MG","Users":135811,"Percent of CC Pop":2.78,"Percent of Internet":0.0032,"Samples":11872},
+{"rank":6,"AS":37608,"Description":"iRENALA-AS","CC":"MG","Users":4450,"Percent of CC Pop":0.09,"Percent of Internet":0.0001,"Samples":389},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"MG","Users":1510,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":132}
   ]
 }

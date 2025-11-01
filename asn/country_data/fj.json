@@ -1,17 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":38442,"Description":"VODAFONEFIJI-AS-FJ Vodafone Fiji Limited","CC":"FJ","Users":321992,"Percent of CC Pop":60.85,"Percent of Internet":0.0076,"Samples":258866},
-{"rank":2,"AS":45355,"Description":"DIGICELPACIFIC-1-AP Digicel Fiji Limited","CC":"FJ","Users":147346,"Percent of CC Pop":27.84,"Percent of Internet":0.0035,"Samples":118459},
-{"rank":3,"AS":4638,"Description":"IS-FJ-AS Telecom Fiji Limited","CC":"FJ","Users":48060,"Percent of CC Pop":9.08,"Percent of Internet":0.0011,"Samples":38638},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"FJ","Users":8408,"Percent of CC Pop":1.59,"Percent of Internet":0.0002,"Samples":6760},
-{"rank":5,"AS":136921,"Description":"FNU-AS-AP Fiji National University","CC":"FJ","Users":1406,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":1131},
-{"rank":6,"AS":24390,"Description":"USP-AS-AP The University of the South Pacific","CC":"FJ","Users":708,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":570},
-{"rank":7,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"FJ","Users":355,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":286},
-{"rank":8,"AS":9241,"Description":"FINTEL-FJ Fiji International Telecomunications Ltd","CC":"FJ","Users":310,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":250},
-{"rank":9,"AS":135647,"Description":"AFL-AS-AP Airports Fiji Limited","CC":"FJ","Users":266,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":214}
+{"rank":1,"AS":38442,"Description":"VODAFONEFIJI-AS-FJ Vodafone Fiji Limited","CC":"FJ","Users":317593,"Percent of CC Pop":59.98,"Percent of Internet":0.0075,"Samples":225135},
+{"rank":2,"AS":45355,"Description":"DIGICELPACIFIC-1-AP Digicel Fiji Limited","CC":"FJ","Users":152492,"Percent of CC Pop":28.80,"Percent of Internet":0.0036,"Samples":108099},
+{"rank":3,"AS":4638,"Description":"IS-FJ-AS Telecom Fiji Limited","CC":"FJ","Users":48194,"Percent of CC Pop":9.10,"Percent of Internet":0.0011,"Samples":34164},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"FJ","Users":8984,"Percent of CC Pop":1.70,"Percent of Internet":0.0002,"Samples":6369},
+{"rank":5,"AS":24390,"Description":"USP-AS-AP The University of the South Pacific","CC":"FJ","Users":705,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":500},
+{"rank":6,"AS":136921,"Description":"FNU-AS-AP Fiji National University","CC":"FJ","Users":593,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":421},
+{"rank":7,"AS":135647,"Description":"AFL-AS-AP Airports Fiji Limited","CC":"FJ","Users":236,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":168},
+{"rank":8,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"FJ","Users":180,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":128}
   ]
 }

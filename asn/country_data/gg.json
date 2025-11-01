@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"GG","Users":28913,"Percent of CC Pop":82.03,"Percent of Internet":0.0007,"Samples":66320},
-{"rank":2,"AS":8681,"Description":"JT","CC":"GG","Users":6015,"Percent of CC Pop":17.07,"Percent of Internet":0.0001,"Samples":13798},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GG","Users":268,"Percent of CC Pop":0.76,"Percent of Internet":0.0000,"Samples":615}
+{"rank":1,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"GG","Users":28586,"Percent of CC Pop":81.08,"Percent of Internet":0.0007,"Samples":57966},
+{"rank":2,"AS":8681,"Description":"JT","CC":"GG","Users":6139,"Percent of CC Pop":17.41,"Percent of Internet":0.0001,"Samples":12449},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GG","Users":494,"Percent of CC Pop":1.40,"Percent of Internet":0.0000,"Samples":1003}
   ]
 }

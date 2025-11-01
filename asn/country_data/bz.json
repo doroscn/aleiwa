@@ -1,21 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/09/2025",
+  "Date": "29/10/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":10269,"Description":"Belize Telemedia Limited","CC":"BZ","Users":129438,"Percent of CC Pop":59.68,"Percent of Internet":0.0030,"Samples":232537},
-{"rank":2,"AS":262239,"Description":"Speednet Communications Limited","CC":"BZ","Users":25437,"Percent of CC Pop":11.73,"Percent of Internet":0.0006,"Samples":45699},
-{"rank":3,"AS":263824,"Description":"Central TV and Internet Limited","CC":"BZ","Users":21268,"Percent of CC Pop":9.81,"Percent of Internet":0.0005,"Samples":38209},
-{"rank":4,"AS":264663,"Description":"CENTAUR CABLE","CC":"BZ","Users":18883,"Percent of CC Pop":8.71,"Percent of Internet":0.0004,"Samples":33925},
-{"rank":5,"AS":265727,"Description":"Infinite Wireless & Networking","CC":"BZ","Users":6272,"Percent of CC Pop":2.89,"Percent of Internet":0.0001,"Samples":11268},
-{"rank":6,"AS":28094,"Description":"Southern Cable Network","CC":"BZ","Users":5540,"Percent of CC Pop":2.55,"Percent of Internet":0.0001,"Samples":9954},
-{"rank":7,"AS":264640,"Description":"Alternative Networks Ltd","CC":"BZ","Users":3832,"Percent of CC Pop":1.77,"Percent of Internet":0.0001,"Samples":6885},
-{"rank":8,"AS":264779,"Description":"Alliance IP Belize Ltd","CC":"BZ","Users":3146,"Percent of CC Pop":1.45,"Percent of Internet":0.0001,"Samples":5653},
-{"rank":9,"AS":265818,"Description":"CORAL CABLE VISION LIMITED","CC":"BZ","Users":2189,"Percent of CC Pop":1.01,"Percent of Internet":0.0001,"Samples":3934},
-{"rank":10,"AS":265826,"Description":"BROADBAND BELIZE LTD","CC":"BZ","Users":257,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":463},
-{"rank":11,"AS":12684,"Description":"SES-LUX-AS","CC":"BZ","Users":189,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":341},
-{"rank":12,"AS":266762,"Description":"SMART COM BELIZE LIMITED","CC":"BZ","Users":82,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":149},
-{"rank":13,"AS":42532,"Description":"VEESP-LV-AS","CC":"BZ","Users":69,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":124}
+{"rank":1,"AS":10269,"Description":"Belize Telemedia Limited","CC":"BZ","Users":131075,"Percent of CC Pop":60.36,"Percent of Internet":0.0031,"Samples":239022},
+{"rank":2,"AS":262239,"Description":"Speednet Communications Limited","CC":"BZ","Users":23746,"Percent of CC Pop":10.94,"Percent of Internet":0.0006,"Samples":43303},
+{"rank":3,"AS":263824,"Description":"Central TV and Internet Limited","CC":"BZ","Users":22511,"Percent of CC Pop":10.37,"Percent of Internet":0.0005,"Samples":41051},
+{"rank":4,"AS":264663,"Description":"CENTAUR CABLE","CC":"BZ","Users":19592,"Percent of CC Pop":9.02,"Percent of Internet":0.0005,"Samples":35727},
+{"rank":5,"AS":28094,"Description":"Southern Cable Network","CC":"BZ","Users":6196,"Percent of CC Pop":2.85,"Percent of Internet":0.0001,"Samples":11299},
+{"rank":6,"AS":265727,"Description":"Infinite Wireless & Networking","CC":"BZ","Users":6000,"Percent of CC Pop":2.76,"Percent of Internet":0.0001,"Samples":10942},
+{"rank":7,"AS":264779,"Description":"Alliance IP Belize Ltd","CC":"BZ","Users":2636,"Percent of CC Pop":1.21,"Percent of Internet":0.0001,"Samples":4808},
+{"rank":8,"AS":265818,"Description":"CORAL CABLE VISION LIMITED","CC":"BZ","Users":2344,"Percent of CC Pop":1.08,"Percent of Internet":0.0001,"Samples":4275},
+{"rank":9,"AS":264640,"Description":"Alternative Networks Ltd","CC":"BZ","Users":2317,"Percent of CC Pop":1.07,"Percent of Internet":0.0001,"Samples":4226},
+{"rank":10,"AS":265826,"Description":"BROADBAND BELIZE LTD","CC":"BZ","Users":218,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":399},
+{"rank":11,"AS":12684,"Description":"SES-LUX-AS","CC":"BZ","Users":149,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":273},
+{"rank":12,"AS":266762,"Description":"SMART COM BELIZE LIMITED","CC":"BZ","Users":77,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":141}
   ]
 }
