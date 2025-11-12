@@ -1013,12 +1013,6 @@
     "index": 30
   },
   {
-    "country_id": "ar",
-    "checked_at": "2025-10-12T00:48:17Z",
-    "ip_availability_ratio%": 60.52,
-    "index": 8
-  },
-  {
     "country_id": "am",
     "checked_at": "2025-10-13T00:49:57Z",
     "ip_availability_ratio%": 80.16,
@@ -1197,5 +1191,11 @@
     "checked_at": "2025-11-11T00:50:22Z",
     "ip_availability_ratio%": 80.00,
     "index": 7
+  },
+  {
+    "country_id": "ar",
+    "checked_at": "2025-11-12T00:50:13Z",
+    "ip_availability_ratio%": 60.38,
+    "index": 8
   }
 ]
