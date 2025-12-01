@@ -1,11 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15389,"Description":"FAROESE-TELECOM-AS","CC":"FO","Users":44777,"Percent of CC Pop":82.91,"Percent of Internet":0.0011,"Samples":62026},
-{"rank":2,"AS":20963,"Description":"NEMAFAROE","CC":"FO","Users":9003,"Percent of CC Pop":16.67,"Percent of Internet":0.0002,"Samples":12471},
-{"rank":3,"AS":206928,"Description":"PF-ELEKTRON","CC":"FO","Users":169,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":235}
+{"rank":1,"AS":15389,"Description":"FAROESE-TELECOM-AS","CC":"FO","Users":43081,"Percent of CC Pop":87.10,"Percent of Internet":0.0010,"Samples":109043},
+{"rank":2,"AS":20963,"Description":"NEMAFAROE","CC":"FO","Users":10635,"Percent of CC Pop":21.50,"Percent of Internet":0.0003,"Samples":26560},
+{"rank":3,"AS":206928,"Description":"PF-ELEKTRON","CC":"FO","Users":257,"Percent of CC Pop":0.52,"Percent of Internet":0.0000,"Samples":459},
+{"rank":4,"AS":209175,"Description":"KRINGVARP_FOROYA","CC":"FO","Users":127,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":34},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"FO","Users":91,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":114},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"FO","Users":75,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":23},
+{"rank":7,"AS":36183,"Description":"AKAMAI-AS","CC":"FO","Users":73,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":32}
   ]
 }

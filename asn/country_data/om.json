@@ -1,16 +1,25 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":28885,"Description":"OMANTEL-NAP-AS OmanTel NAP","CC":"OM","Users":2202573,"Percent of CC Pop":53.77,"Percent of Internet":0.0519,"Samples":1074864},
-{"rank":2,"AS":50010,"Description":"NAWRAS-AS Sultanate of Oman","CC":"OM","Users":1066946,"Percent of CC Pop":26.05,"Percent of Internet":0.0251,"Samples":520674},
-{"rank":3,"AS":204170,"Description":"AWASR","CC":"OM","Users":654470,"Percent of CC Pop":15.98,"Percent of Internet":0.0154,"Samples":319384},
-{"rank":4,"AS":212661,"Description":"VODAFONE-OMAN","CC":"OM","Users":158072,"Percent of CC Pop":3.86,"Percent of Internet":0.0037,"Samples":77140},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"OM","Users":7336,"Percent of CC Pop":0.18,"Percent of Internet":0.0002,"Samples":3580},
-{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK","CC":"OM","Users":4563,"Percent of CC Pop":0.11,"Percent of Internet":0.0001,"Samples":2227},
-{"rank":7,"AS":138915,"Description":"KAOPU-HK Kaopu Cloud HK Limited","CC":"OM","Users":1399,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":683},
-{"rank":8,"AS":55256,"Description":"NETSKOPE","CC":"OM","Users":331,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":162}
+{"rank":1,"AS":28885,"Description":"OMANTEL-NAP-AS OmanTel NAP","CC":"OM","Users":2205503,"Percent of CC Pop":50.02,"Percent of Internet":0.0529,"Samples":2117835},
+{"rank":2,"AS":50010,"Description":"NAWRAS-AS Sultanate of Oman","CC":"OM","Users":1060837,"Percent of CC Pop":24.06,"Percent of Internet":0.0254,"Samples":1020541},
+{"rank":3,"AS":204170,"Description":"AWASR","CC":"OM","Users":644032,"Percent of CC Pop":14.61,"Percent of Internet":0.0154,"Samples":619080},
+{"rank":4,"AS":212661,"Description":"VODAFONE-OMAN","CC":"OM","Users":165568,"Percent of CC Pop":3.75,"Percent of Internet":0.0040,"Samples":159679},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"OM","Users":7863,"Percent of CC Pop":0.18,"Percent of Internet":0.0002,"Samples":7453},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK","CC":"OM","Users":5003,"Percent of CC Pop":0.11,"Percent of Internet":0.0001,"Samples":4799},
+{"rank":7,"AS":138915,"Description":"KAOPU-HK Kaopu Cloud HK Limited","CC":"OM","Users":1676,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":1523},
+{"rank":8,"AS":204974,"Description":"OM-PETROLUEM","CC":"OM","Users":1118,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":368},
+{"rank":9,"AS":55256,"Description":"NETSKOPE","CC":"OM","Users":605,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":445},
+{"rank":10,"AS":206350,"Description":"OMREN","CC":"OM","Users":482,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":61},
+{"rank":11,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"OM","Users":324,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":17},
+{"rank":12,"AS":54113,"Description":"FASTLY","CC":"OM","Users":314,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":14},
+{"rank":13,"AS":44444,"Description":"FORCEPOINT-CLOUD-AS","CC":"OM","Users":255,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":26},
+{"rank":14,"AS":54253,"Description":"ORCL-CHICAGO-PP","CC":"OM","Users":255,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":11},
+{"rank":15,"AS":36183,"Description":"AKAMAI-AS","CC":"OM","Users":231,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":78},
+{"rank":16,"AS":9009,"Description":"M247","CC":"OM","Users":145,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":18},
+{"rank":17,"AS":138627,"Description":"CATONETWORKSINC-AS-AP Cato Networks, Inc.","CC":"OM","Users":134,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

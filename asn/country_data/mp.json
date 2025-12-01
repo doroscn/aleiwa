@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":7131,"Description":"PTIPACIFICAINC-AS-AP PTI Pacifica Inc.","CC":"MP","Users":17778,"Percent of CC Pop":64.23,"Percent of Internet":0.0004,"Samples":22904},
-{"rank":2,"AS":3605,"Description":"ERX-KUENTOS-AS Guam Cablevision, LLC.","CC":"MP","Users":9011,"Percent of CC Pop":32.56,"Percent of Internet":0.0002,"Samples":11609},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MP","Users":888,"Percent of CC Pop":3.21,"Percent of Internet":0.0000,"Samples":1144}
+{"rank":1,"AS":7131,"Description":"PTIPACIFICAINC-AS-AP PTI Pacifica Inc.","CC":"MP","Users":14606,"Percent of CC Pop":46.14,"Percent of Internet":0.0004,"Samples":30592},
+{"rank":2,"AS":3605,"Description":"ERX-KUENTOS-AS Guam Cablevision, LLC.","CC":"MP","Users":11378,"Percent of CC Pop":35.94,"Percent of Internet":0.0003,"Samples":17858},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MP","Users":1675,"Percent of CC Pop":5.29,"Percent of Internet":0.0000,"Samples":2400}
   ]
 }

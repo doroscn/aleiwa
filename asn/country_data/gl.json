@@ -1,10 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8818,"Description":"Tele Greenland","CC":"GL","Users":40039,"Percent of CC Pop":99.06,"Percent of Internet":0.0009,"Samples":123708},
-{"rank":2,"AS":212238,"Description":"CDNEXT","CC":"GL","Users":336,"Percent of CC Pop":0.83,"Percent of Internet":0.0000,"Samples":1039}
+{"rank":1,"AS":8818,"Description":"Tele Greenland","CC":"GL","Users":40059,"Percent of CC Pop":98.99,"Percent of Internet":0.0010,"Samples":233490},
+{"rank":2,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"GL","Users":484,"Percent of CC Pop":1.20,"Percent of Internet":0.0000,"Samples":457},
+{"rank":3,"AS":212238,"Description":"CDNEXT","CC":"GL","Users":307,"Percent of CC Pop":0.76,"Percent of Internet":0.0000,"Samples":1285},
+{"rank":4,"AS":209854,"Description":"CYBERZONEHUB","CC":"GL","Users":68,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":149},
+{"rank":5,"AS":36183,"Description":"AKAMAI-AS","CC":"GL","Users":41,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":28},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"GL","Users":34,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":36}
   ]
 }

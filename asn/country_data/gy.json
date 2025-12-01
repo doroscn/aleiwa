@@ -1,16 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":19863,"Description":"Guyana Telephone & Telegraph Co.","CC":"GY","Users":173207,"Percent of CC Pop":52.65,"Percent of Internet":0.0041,"Samples":568001},
-{"rank":2,"AS":52253,"Description":"E-Networks Inc.","CC":"GY","Users":92519,"Percent of CC Pop":28.12,"Percent of Internet":0.0022,"Samples":303401},
-{"rank":3,"AS":52433,"Description":"U Mobile Cellular Inc.","CC":"GY","Users":43011,"Percent of CC Pop":13.07,"Percent of Internet":0.0010,"Samples":141048},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GY","Users":13726,"Percent of CC Pop":4.17,"Percent of Internet":0.0003,"Samples":45015},
-{"rank":5,"AS":264694,"Description":"EGOVERNMENT UNIT","CC":"GY","Users":5479,"Percent of CC Pop":1.67,"Percent of Internet":0.0001,"Samples":17970},
-{"rank":6,"AS":270108,"Description":"XEN1 NETWORKS INC","CC":"GY","Users":920,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":3017},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"GY","Users":70,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":231},
-{"rank":8,"AS":11139,"Description":"CWC-ROC-11139","CC":"GY","Users":60,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":198}
+{"rank":1,"AS":19863,"Description":"Guyana Telephone & Telegraph Co.","CC":"GY","Users":175049,"Percent of CC Pop":55.21,"Percent of Internet":0.0042,"Samples":1134022},
+{"rank":2,"AS":52253,"Description":"E-Networks Inc.","CC":"GY","Users":91403,"Percent of CC Pop":28.83,"Percent of Internet":0.0022,"Samples":591083},
+{"rank":3,"AS":52433,"Description":"U Mobile Cellular Inc.","CC":"GY","Users":42618,"Percent of CC Pop":13.44,"Percent of Internet":0.0010,"Samples":276210},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GY","Users":13501,"Percent of CC Pop":4.26,"Percent of Internet":0.0003,"Samples":87156},
+{"rank":5,"AS":264694,"Description":"EGOVERNMENT UNIT","CC":"GY","Users":4984,"Percent of CC Pop":1.57,"Percent of Internet":0.0001,"Samples":32236},
+{"rank":6,"AS":270108,"Description":"XEN1 NETWORKS INC","CC":"GY","Users":1120,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":7323},
+{"rank":7,"AS":11139,"Description":"CWC-ROC-11139","CC":"GY","Users":108,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":371},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"GY","Users":108,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":567},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS","CC":"GY","Users":33,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":72}
   ]
 }

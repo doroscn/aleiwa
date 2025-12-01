@@ -1,9 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":58057,"Description":"SECUREBIT Securebit Autonomous System","CC":"AQ","Users":613,"Percent of CC Pop":95.48,"Percent of Internet":0.0000,"Samples":17},
+{"rank":2,"AS":13335,"Description":"CLOUDFLARENET","CC":"AQ","Users":606,"Percent of CC Pop":94.39,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

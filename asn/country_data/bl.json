@@ -1,9 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BL","Users":5897,"Percent of CC Pop":97.03,"Percent of Internet":0.0001,"Samples":294}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BL","Users":5991,"Percent of CC Pop":110.29,"Percent of Internet":0.0001,"Samples":811},
+{"rank":2,"AS":396950,"Description":"COMSTBARTH-AS","CC":"BL","Users":4721,"Percent of CC Pop":86.91,"Percent of Internet":0.0001,"Samples":10}
   ]
 }

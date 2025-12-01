@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":139759,"Description":"FMTELECOM-AS-AP FSM Telecommunications Corporation","CC":"FM","Users":29474,"Percent of CC Pop":65.53,"Percent of Internet":0.0007,"Samples":41782},
-{"rank":2,"AS":45193,"Description":"AS45193 FSM Telecommunications Corporation","CC":"FM","Users":7031,"Percent of CC Pop":15.63,"Percent of Internet":0.0002,"Samples":9968},
-{"rank":3,"AS":38875,"Description":"AS38875 FSM Telecommunications Corporation","CC":"FM","Users":4276,"Percent of CC Pop":9.51,"Percent of Internet":0.0001,"Samples":6062},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"FM","Users":3199,"Percent of CC Pop":7.11,"Percent of Internet":0.0001,"Samples":4535},
-{"rank":5,"AS":58524,"Description":"AS58524 FSM Telecom","CC":"FM","Users":641,"Percent of CC Pop":1.43,"Percent of Internet":0.0000,"Samples":910},
-{"rank":6,"AS":142139,"Description":"BOOMINC-AS-AP Boom! Inc.","CC":"FM","Users":355,"Percent of CC Pop":0.79,"Percent of Internet":0.0000,"Samples":504}
+{"rank":1,"AS":139759,"Description":"FMTELECOM-AS-AP FSM Telecommunications Corporation","CC":"FM","Users":27425,"Percent of CC Pop":12.88,"Percent of Internet":0.0007,"Samples":77884},
+{"rank":2,"AS":45193,"Description":"AS45193 FSM Telecommunications Corporation","CC":"FM","Users":6497,"Percent of CC Pop":3.05,"Percent of Internet":0.0002,"Samples":18448},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"FM","Users":5222,"Percent of CC Pop":2.45,"Percent of Internet":0.0001,"Samples":15066},
+{"rank":4,"AS":38875,"Description":"AS38875 FSM Telecommunications Corporation","CC":"FM","Users":4626,"Percent of CC Pop":2.17,"Percent of Internet":0.0001,"Samples":12888},
+{"rank":5,"AS":58524,"Description":"AS58524 FSM Telecom","CC":"FM","Users":704,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":1866},
+{"rank":6,"AS":142139,"Description":"BOOMINC-AS-AP Boom! Inc.","CC":"FM","Users":605,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":1337}
   ]
 }

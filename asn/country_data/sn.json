@@ -1,17 +1,23 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8346,"Description":"SONATEL SONATEL-AS Autonomous System","CC":"SN","Users":5385266,"Percent of CC Pop":80.25,"Percent of Internet":0.1268,"Samples":4031820},
-{"rank":2,"AS":37649,"Description":"Tigo","CC":"SN","Users":724059,"Percent of CC Pop":10.79,"Percent of Internet":0.0170,"Samples":542086},
-{"rank":3,"AS":37559,"Description":"ORANGE-BISSAU","CC":"SN","Users":387807,"Percent of CC Pop":5.78,"Percent of Internet":0.0091,"Samples":290342},
-{"rank":4,"AS":37196,"Description":"SUDATEL-SENEGAL","CC":"SN","Users":179869,"Percent of CC Pop":2.68,"Percent of Internet":0.0042,"Samples":134664},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"SN","Users":26111,"Percent of CC Pop":0.39,"Percent of Internet":0.0006,"Samples":19549},
-{"rank":6,"AS":328148,"Description":"ADIE-AS","CC":"SN","Users":3300,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":2471},
-{"rank":7,"AS":327809,"Description":"ARC-Informatique","CC":"SN","Users":2402,"Percent of CC Pop":0.04,"Percent of Internet":0.0001,"Samples":1799},
-{"rank":8,"AS":328259,"Description":"WAW-SAS","CC":"SN","Users":1083,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":811},
-{"rank":9,"AS":212238,"Description":"CDNEXT","CC":"SN","Users":191,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":143}
+{"rank":1,"AS":8346,"Description":"SONATEL SONATEL-AS Autonomous System","CC":"SN","Users":5402462,"Percent of CC Pop":87.55,"Percent of Internet":0.1295,"Samples":8224483},
+{"rank":2,"AS":37649,"Description":"Tigo","CC":"SN","Users":724652,"Percent of CC Pop":11.74,"Percent of Internet":0.0174,"Samples":1117289},
+{"rank":3,"AS":37559,"Description":"ORANGE-BISSAU","CC":"SN","Users":350616,"Percent of CC Pop":5.68,"Percent of Internet":0.0084,"Samples":540544},
+{"rank":4,"AS":37196,"Description":"SUDATEL-SENEGAL","CC":"SN","Users":185262,"Percent of CC Pop":3.00,"Percent of Internet":0.0044,"Samples":282505},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"SN","Users":25889,"Percent of CC Pop":0.42,"Percent of Internet":0.0006,"Samples":39195},
+{"rank":6,"AS":328148,"Description":"ADIE-AS","CC":"SN","Users":3708,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":5470},
+{"rank":7,"AS":327809,"Description":"ARC-Informatique","CC":"SN","Users":2560,"Percent of CC Pop":0.04,"Percent of Internet":0.0001,"Samples":3724},
+{"rank":8,"AS":328259,"Description":"WAW-SAS","CC":"SN","Users":1165,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":1757},
+{"rank":9,"AS":212238,"Description":"CDNEXT","CC":"SN","Users":391,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":347},
+{"rank":10,"AS":13150,"Description":"CATON","CC":"SN","Users":330,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":25},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS","CC":"SN","Users":188,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":202},
+{"rank":12,"AS":55256,"Description":"NETSKOPE","CC":"SN","Users":165,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":16},
+{"rank":13,"AS":328558,"Description":"Senelec-AS","CC":"SN","Users":159,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":11},
+{"rank":14,"AS":54113,"Description":"FASTLY","CC":"SN","Users":129,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":30},
+{"rank":15,"AS":394089,"Description":"GCP-ENTERPRISE-USER-TRAFFIC","CC":"SN","Users":125,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

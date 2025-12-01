@@ -1,16 +1,25 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"MQ","Users":73378,"Percent of CC Pop":36.49,"Percent of Internet":0.0017,"Samples":41080},
-{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MQ","Users":52511,"Percent of CC Pop":26.11,"Percent of Internet":0.0012,"Samples":29398},
-{"rank":3,"AS":16028,"Description":"Orange Caraibe","CC":"MQ","Users":34783,"Percent of CC Pop":17.30,"Percent of Internet":0.0008,"Samples":19473},
-{"rank":4,"AS":48252,"Description":"DIGICELFWI","CC":"MQ","Users":19564,"Percent of CC Pop":9.73,"Percent of Internet":0.0005,"Samples":10953},
-{"rank":5,"AS":210595,"Description":"FREECARAIBE","CC":"MQ","Users":12769,"Percent of CC Pop":6.35,"Percent of Internet":0.0003,"Samples":7149},
-{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MQ","Users":6939,"Percent of CC Pop":3.45,"Percent of Internet":0.0002,"Samples":3885},
-{"rank":7,"AS":204802,"Description":"FREEDOM-NETWORK","CC":"MQ","Users":391,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":219},
-{"rank":8,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"MQ","Users":332,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":186}
+{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"MQ","Users":72428,"Percent of CC Pop":35.09,"Percent of Internet":0.0017,"Samples":131029},
+{"rank":2,"AS":16028,"Description":"Orange Caraibe","CC":"MQ","Users":67431,"Percent of CC Pop":32.67,"Percent of Internet":0.0016,"Samples":79614},
+{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MQ","Users":54615,"Percent of CC Pop":26.46,"Percent of Internet":0.0013,"Samples":93723},
+{"rank":4,"AS":48252,"Description":"DIGICELFWI","CC":"MQ","Users":21494,"Percent of CC Pop":10.41,"Percent of Internet":0.0005,"Samples":41105},
+{"rank":5,"AS":210595,"Description":"FREECARAIBE","CC":"MQ","Users":13191,"Percent of CC Pop":6.39,"Percent of Internet":0.0003,"Samples":16824},
+{"rank":6,"AS":51207,"Description":"FREEM","CC":"MQ","Users":9472,"Percent of CC Pop":4.59,"Percent of Internet":0.0002,"Samples":4029},
+{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK","CC":"MQ","Users":8416,"Percent of CC Pop":4.08,"Percent of Internet":0.0002,"Samples":14981},
+{"rank":8,"AS":21502,"Description":"ASN-NUMERICABLE","CC":"MQ","Users":2252,"Percent of CC Pop":1.09,"Percent of Internet":0.0001,"Samples":524},
+{"rank":9,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"MQ","Users":671,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":359},
+{"rank":10,"AS":204802,"Description":"FREEDOM-NETWORK","CC":"MQ","Users":570,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":611},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"MQ","Users":444,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":140},
+{"rank":12,"AS":47798,"Description":"FR-MTVC","CC":"MQ","Users":405,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":437},
+{"rank":13,"AS":60046,"Description":"CT_MARTINIQUE","CC":"MQ","Users":367,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":123},
+{"rank":14,"AS":63351,"Description":"ASN-SCF-45","CC":"MQ","Users":259,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":221},
+{"rank":15,"AS":36183,"Description":"AKAMAI-AS","CC":"MQ","Users":204,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":60},
+{"rank":16,"AS":54113,"Description":"FASTLY","CC":"MQ","Users":138,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":12},
+{"rank":17,"AS":215931,"Description":"BARNACONSULTING","CC":"MQ","Users":126,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":26}
   ]
 }

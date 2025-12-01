@@ -1,9 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8978,"Description":"ASN-HOLYSEE Holy See Secretariat of State Department of Telecommunications","CC":"VA","Users":274,"Percent of CC Pop":93.83,"Percent of Internet":0.0000,"Samples":152}
+{"rank":1,"AS":8978,"Description":"ASN-HOLYSEE Holy See Secretariat of State Department of Telecommunications","CC":"VA","Users":282,"Percent of CC Pop":64.09,"Percent of Internet":0.0000,"Samples":335},
+{"rank":2,"AS":58061,"Description":"SCALAXY-AS","CC":"VA","Users":213,"Percent of CC Pop":48.41,"Percent of Internet":0.0000,"Samples":15}
   ]
 }

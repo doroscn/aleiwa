@@ -1,14 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS STE PDN Internal AS","CC":"SY","Users":7421325,"Percent of CC Pop":76.39,"Percent of Internet":0.1747,"Samples":2054652},
-{"rank":2,"AS":48065,"Description":"SYRIATEL-AS","CC":"SY","Users":2072814,"Percent of CC Pop":21.34,"Percent of Internet":0.0488,"Samples":573875},
-{"rank":3,"AS":215900,"Description":"TULIPGROUP","CC":"SY","Users":148177,"Percent of CC Pop":1.53,"Percent of Internet":0.0035,"Samples":41024},
-{"rank":4,"AS":213812,"Description":"ALFATEH","CC":"SY","Users":56205,"Percent of CC Pop":0.58,"Percent of Internet":0.0013,"Samples":15561},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"SY","Users":15195,"Percent of CC Pop":0.16,"Percent of Internet":0.0004,"Samples":4207},
-{"rank":6,"AS":9009,"Description":"M247","CC":"SY","Users":1061,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":294}
+{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS STE PDN Internal AS","CC":"SY","Users":7489475,"Percent of CC Pop":111.39,"Percent of Internet":0.1795,"Samples":4154235},
+{"rank":2,"AS":48065,"Description":"SYRIATEL-AS","CC":"SY","Users":2005223,"Percent of CC Pop":29.82,"Percent of Internet":0.0481,"Samples":1109620},
+{"rank":3,"AS":214707,"Description":"RCELL","CC":"SY","Users":149068,"Percent of CC Pop":2.22,"Percent of Internet":0.0036,"Samples":17434},
+{"rank":4,"AS":215900,"Description":"TULIPGROUP","CC":"SY","Users":96808,"Percent of CC Pop":1.44,"Percent of Internet":0.0023,"Samples":53863},
+{"rank":5,"AS":213812,"Description":"ALFATEH","CC":"SY","Users":56119,"Percent of CC Pop":0.83,"Percent of Internet":0.0013,"Samples":25965},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"SY","Users":14957,"Percent of CC Pop":0.22,"Percent of Internet":0.0004,"Samples":8297},
+{"rank":7,"AS":208972,"Description":"GIBIRNET-","CC":"SY","Users":3190,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":109},
+{"rank":8,"AS":42083,"Description":"GUNEYDOGUTELEKOM","CC":"SY","Users":2800,"Percent of CC Pop":0.04,"Percent of Internet":0.0001,"Samples":61},
+{"rank":9,"AS":9009,"Description":"M247","CC":"SY","Users":2174,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":621},
+{"rank":10,"AS":16276,"Description":"OVH","CC":"SY","Users":200,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

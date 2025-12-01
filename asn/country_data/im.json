@@ -1,16 +1,24 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":13122,"Description":"MANX-AS MANX-TELECOM Autonomous System","CC":"IM","Users":34845,"Percent of CC Pop":74.42,"Percent of Internet":0.0008,"Samples":90797},
-{"rank":2,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"IM","Users":8584,"Percent of CC Pop":18.33,"Percent of Internet":0.0002,"Samples":22369},
-{"rank":3,"AS":42455,"Description":"WI-MANX-AS","CC":"IM","Users":1982,"Percent of CC Pop":4.23,"Percent of Internet":0.0000,"Samples":5167},
-{"rank":4,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"IM","Users":553,"Percent of CC Pop":1.18,"Percent of Internet":0.0000,"Samples":1443},
-{"rank":5,"AS":201898,"Description":"AS-BLUEWAVE","CC":"IM","Users":268,"Percent of CC Pop":0.57,"Percent of Internet":0.0000,"Samples":699},
-{"rank":6,"AS":15766,"Description":"DOMICILIUM-AS","CC":"IM","Users":175,"Percent of CC Pop":0.38,"Percent of Internet":0.0000,"Samples":458},
-{"rank":7,"AS":13173,"Description":"FORESHORE-AS","CC":"IM","Users":121,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":316},
-{"rank":8,"AS":13213,"Description":"UK2NET-AS","CC":"IM","Users":115,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":301}
+{"rank":1,"AS":13122,"Description":"MANX-AS MANX-TELECOM Autonomous System","CC":"IM","Users":34651,"Percent of CC Pop":74.09,"Percent of Internet":0.0008,"Samples":179582},
+{"rank":2,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"IM","Users":8701,"Percent of CC Pop":18.60,"Percent of Internet":0.0002,"Samples":44573},
+{"rank":3,"AS":42455,"Description":"WI-MANX-AS","CC":"IM","Users":2093,"Percent of CC Pop":4.48,"Percent of Internet":0.0001,"Samples":10604},
+{"rank":4,"AS":13173,"Description":"FORESHORE-AS","CC":"IM","Users":724,"Percent of CC Pop":1.55,"Percent of Internet":0.0000,"Samples":602},
+{"rank":5,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"IM","Users":458,"Percent of CC Pop":0.98,"Percent of Internet":0.0000,"Samples":1715},
+{"rank":6,"AS":15766,"Description":"DOMICILIUM-AS","CC":"IM","Users":384,"Percent of CC Pop":0.82,"Percent of Internet":0.0000,"Samples":1964},
+{"rank":7,"AS":201898,"Description":"AS-BLUEWAVE","CC":"IM","Users":265,"Percent of CC Pop":0.57,"Percent of Internet":0.0000,"Samples":1347},
+{"rank":8,"AS":212238,"Description":"CDNEXT","CC":"IM","Users":184,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":203},
+{"rank":9,"AS":13213,"Description":"UK2NET-AS","CC":"IM","Users":143,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":471},
+{"rank":10,"AS":62240,"Description":"CLOUVIDER Clouvider - Global ASN","CC":"IM","Users":90,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":88},
+{"rank":11,"AS":14537,"Description":"CL-1379-14537","CC":"IM","Users":89,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":77},
+{"rank":12,"AS":212873,"Description":"HOBARTON","CC":"IM","Users":69,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":137},
+{"rank":13,"AS":36183,"Description":"AKAMAI-AS","CC":"IM","Users":47,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":131},
+{"rank":14,"AS":9009,"Description":"M247","CC":"IM","Users":47,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":189},
+{"rank":15,"AS":13335,"Description":"CLOUDFLARENET","CC":"IM","Users":43,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":147},
+{"rank":16,"AS":54113,"Description":"FASTLY","CC":"IM","Users":30,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":15}
   ]
 }

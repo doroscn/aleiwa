@@ -1,19 +1,24 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37461,"Description":"ORANGE-","CC":"GN","Users":1878347,"Percent of CC Pop":90.52,"Percent of Internet":0.0442,"Samples":2678395},
-{"rank":2,"AS":37612,"Description":"Areeba-Guinea-AS","CC":"GN","Users":128824,"Percent of CC Pop":6.21,"Percent of Internet":0.0030,"Samples":183695},
-{"rank":3,"AS":37665,"Description":"MouNa","CC":"GN","Users":34002,"Percent of CC Pop":1.64,"Percent of Internet":0.0008,"Samples":48485},
-{"rank":4,"AS":328923,"Description":"KTSU-AS","CC":"GN","Users":10273,"Percent of CC Pop":0.50,"Percent of Internet":0.0002,"Samples":14649},
-{"rank":5,"AS":37141,"Description":"ETI-AS","CC":"GN","Users":6546,"Percent of CC Pop":0.32,"Percent of Internet":0.0002,"Samples":9335},
-{"rank":6,"AS":37427,"Description":"Cellcom","CC":"GN","Users":4277,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":6099},
-{"rank":7,"AS":328899,"Description":"Afribone-AS","CC":"GN","Users":4193,"Percent of CC Pop":0.20,"Percent of Internet":0.0001,"Samples":5980},
-{"rank":8,"AS":328965,"Description":"LNSS1-AS","CC":"GN","Users":3292,"Percent of CC Pop":0.16,"Percent of Internet":0.0001,"Samples":4695},
-{"rank":9,"AS":37430,"Description":"vdctelecom","CC":"GN","Users":3217,"Percent of CC Pop":0.16,"Percent of Internet":0.0001,"Samples":4588},
-{"rank":10,"AS":328244,"Description":"Skyvision-Guinee-AS","CC":"GN","Users":1230,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":1755},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"GN","Users":670,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":956}
+{"rank":1,"AS":37461,"Description":"ORANGE-","CC":"GN","Users":1869476,"Percent of CC Pop":99.19,"Percent of Internet":0.0448,"Samples":5259777},
+{"rank":2,"AS":37612,"Description":"Areeba-Guinea-AS","CC":"GN","Users":127864,"Percent of CC Pop":6.78,"Percent of Internet":0.0031,"Samples":356197},
+{"rank":3,"AS":37665,"Description":"MouNa","CC":"GN","Users":36529,"Percent of CC Pop":1.94,"Percent of Internet":0.0009,"Samples":94563},
+{"rank":4,"AS":328923,"Description":"KTSU-AS","CC":"GN","Users":12279,"Percent of CC Pop":0.65,"Percent of Internet":0.0003,"Samples":31868},
+{"rank":5,"AS":37141,"Description":"ETI-AS","CC":"GN","Users":7192,"Percent of CC Pop":0.38,"Percent of Internet":0.0002,"Samples":18258},
+{"rank":6,"AS":328899,"Description":"Afribone-AS","CC":"GN","Users":4822,"Percent of CC Pop":0.26,"Percent of Internet":0.0001,"Samples":13097},
+{"rank":7,"AS":37427,"Description":"Cellcom","CC":"GN","Users":4232,"Percent of CC Pop":0.22,"Percent of Internet":0.0001,"Samples":10882},
+{"rank":8,"AS":37430,"Description":"vdctelecom","CC":"GN","Users":3984,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":10124},
+{"rank":9,"AS":328965,"Description":"LNSS1-AS","CC":"GN","Users":3439,"Percent of CC Pop":0.18,"Percent of Internet":0.0001,"Samples":8804},
+{"rank":10,"AS":328244,"Description":"Skyvision-Guinee-AS","CC":"GN","Users":1691,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":4470},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"GN","Users":666,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":1512},
+{"rank":12,"AS":329594,"Description":"AVISTA","CC":"GN","Users":383,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":147},
+{"rank":13,"AS":329293,"Description":"SOGEB-SA","CC":"GN","Users":274,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":64},
+{"rank":14,"AS":328107,"Description":"GUILAB-AS","CC":"GN","Users":158,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":59},
+{"rank":15,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GN","Users":68,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":13},
+{"rank":16,"AS":36183,"Description":"AKAMAI-AS","CC":"GN","Users":53,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

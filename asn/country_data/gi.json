@@ -1,12 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8301,"Description":"GIBTELECOMNET","CC":"GI","Users":12241,"Percent of CC Pop":34.18,"Percent of Internet":0.0003,"Samples":20082},
-{"rank":2,"AS":202087,"Description":"AJSEGIB-AS","CC":"GI","Users":12134,"Percent of CC Pop":33.88,"Percent of Internet":0.0003,"Samples":19908},
-{"rank":3,"AS":34803,"Description":"BGL","CC":"GI","Users":11336,"Percent of CC Pop":31.65,"Percent of Internet":0.0003,"Samples":18598},
-{"rank":4,"AS":8772,"Description":"NLINELLC","CC":"GI","Users":78,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":128}
+{"rank":1,"AS":202087,"Description":"AJSEGIB-AS","CC":"GI","Users":12713,"Percent of CC Pop":33.55,"Percent of Internet":0.0003,"Samples":40874},
+{"rank":2,"AS":8301,"Description":"GIBTELECOMNET","CC":"GI","Users":12204,"Percent of CC Pop":32.21,"Percent of Internet":0.0003,"Samples":39314},
+{"rank":3,"AS":34803,"Description":"BGL","CC":"GI","Users":10667,"Percent of CC Pop":28.15,"Percent of Internet":0.0003,"Samples":34160},
+{"rank":4,"AS":8772,"Description":"NLINELLC","CC":"GI","Users":322,"Percent of CC Pop":0.85,"Percent of Internet":0.0000,"Samples":643},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"GI","Users":60,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":48},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS","CC":"GI","Users":58,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":18},
+{"rank":7,"AS":196775,"Description":"BAY-MANAGEMENT","CC":"GI","Users":54,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":43}
   ]
 }

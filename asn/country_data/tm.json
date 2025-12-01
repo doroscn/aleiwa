@@ -1,11 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20661,"Description":"TURKMENTELECOM-AS","CC":"TM","Users":1515526,"Percent of CC Pop":86.35,"Percent of Internet":0.0357,"Samples":6951},
-{"rank":2,"AS":59974,"Description":"TMCELL-NET","CC":"TM","Users":138885,"Percent of CC Pop":7.91,"Percent of Internet":0.0033,"Samples":637},
-{"rank":3,"AS":51495,"Description":"AGTS-AS","CC":"TM","Users":78926,"Percent of CC Pop":4.50,"Percent of Internet":0.0019,"Samples":362}
+{"rank":1,"AS":20661,"Description":"TURKMENTELECOM-AS","CC":"TM","Users":1498807,"Percent of CC Pop":91.36,"Percent of Internet":0.0359,"Samples":14092},
+{"rank":2,"AS":59974,"Description":"TMCELL-NET","CC":"TM","Users":167684,"Percent of CC Pop":10.22,"Percent of Internet":0.0040,"Samples":1392},
+{"rank":3,"AS":51495,"Description":"AGTS-AS","CC":"TM","Users":74616,"Percent of CC Pop":4.55,"Percent of Internet":0.0018,"Samples":610},
+{"rank":4,"AS":215487,"Description":"TEHNOMERKEZ","CC":"TM","Users":34267,"Percent of CC Pop":2.09,"Percent of Internet":0.0008,"Samples":12},
+{"rank":5,"AS":204579,"Description":"TH","CC":"TM","Users":30755,"Percent of CC Pop":1.87,"Percent of Internet":0.0007,"Samples":79},
+{"rank":6,"AS":205471,"Description":"CDMA-AGTS-AS","CC":"TM","Users":30237,"Percent of CC Pop":1.84,"Percent of Internet":0.0007,"Samples":94}
   ]
 }

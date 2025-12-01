@@ -1,15 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37173,"Description":"GETESA","CC":"GQ","Users":304688,"Percent of CC Pop":56.30,"Percent of Internet":0.0072,"Samples":76177},
-{"rank":2,"AS":37337,"Description":"MUNI-EG","CC":"GQ","Users":134491,"Percent of CC Pop":24.85,"Percent of Internet":0.0032,"Samples":33625},
-{"rank":3,"AS":328311,"Description":"Conexxia-AS","CC":"GQ","Users":49512,"Percent of CC Pop":9.15,"Percent of Internet":0.0012,"Samples":12379},
-{"rank":4,"AS":37529,"Description":"GITGE","CC":"GQ","Users":21958,"Percent of CC Pop":4.06,"Percent of Internet":0.0005,"Samples":5490},
-{"rank":5,"AS":328207,"Description":"OFFICE-TECH","CC":"GQ","Users":17590,"Percent of CC Pop":3.25,"Percent of Internet":0.0004,"Samples":4398},
-{"rank":6,"AS":329219,"Description":"Fenix-EG","CC":"GQ","Users":11039,"Percent of CC Pop":2.04,"Percent of Internet":0.0003,"Samples":2760},
-{"rank":7,"AS":37487,"Description":"GUINEANET","CC":"GQ","Users":1799,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":450}
+{"rank":1,"AS":37173,"Description":"GETESA","CC":"GQ","Users":290283,"Percent of CC Pop":67.42,"Percent of Internet":0.0070,"Samples":142715},
+{"rank":2,"AS":37337,"Description":"MUNI-EG","CC":"GQ","Users":141972,"Percent of CC Pop":32.98,"Percent of Internet":0.0034,"Samples":69832},
+{"rank":3,"AS":328311,"Description":"Conexxia-AS","CC":"GQ","Users":50613,"Percent of CC Pop":11.76,"Percent of Internet":0.0012,"Samples":16452},
+{"rank":4,"AS":37529,"Description":"GITGE","CC":"GQ","Users":43455,"Percent of CC Pop":10.09,"Percent of Internet":0.0010,"Samples":20848},
+{"rank":5,"AS":328207,"Description":"OFFICE-TECH","CC":"GQ","Users":18141,"Percent of CC Pop":4.21,"Percent of Internet":0.0004,"Samples":8910},
+{"rank":6,"AS":329219,"Description":"Fenix-EG","CC":"GQ","Users":10945,"Percent of CC Pop":2.54,"Percent of Internet":0.0003,"Samples":5321},
+{"rank":7,"AS":37487,"Description":"GUINEANET","CC":"GQ","Users":2347,"Percent of CC Pop":0.55,"Percent of Internet":0.0001,"Samples":1115},
+{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"GQ","Users":1105,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":53},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"GQ","Users":464,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":55}
   ]
 }

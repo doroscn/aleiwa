@@ -1,13 +1,24 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3855,"Description":"LOGIC-3855","CC":"BM","Users":37703,"Percent of CC Pop":59.98,"Percent of Internet":0.0009,"Samples":87462},
-{"rank":2,"AS":32020,"Description":"TRANSACT-BM-ASN","CC":"BM","Users":22616,"Percent of CC Pop":35.98,"Percent of Internet":0.0005,"Samples":52465},
-{"rank":3,"AS":16413,"Description":"TELEBERMUDA","CC":"BM","Users":1724,"Percent of CC Pop":2.74,"Percent of Internet":0.0000,"Samples":4000},
-{"rank":4,"AS":55159,"Description":"PARADISE-MOBILE-ASN-01","CC":"BM","Users":414,"Percent of CC Pop":0.66,"Percent of Internet":0.0000,"Samples":962},
-{"rank":5,"AS":11269,"Description":"LINKBERMUDA","CC":"BM","Users":193,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":449}
+{"rank":1,"AS":3855,"Description":"LOGIC-3855","CC":"BM","Users":38224,"Percent of CC Pop":62.18,"Percent of Internet":0.0009,"Samples":173638},
+{"rank":2,"AS":32020,"Description":"TRANSACT-BM-ASN","CC":"BM","Users":21682,"Percent of CC Pop":35.27,"Percent of Internet":0.0005,"Samples":98829},
+{"rank":3,"AS":16413,"Description":"TELEBERMUDA","CC":"BM","Users":1858,"Percent of CC Pop":3.02,"Percent of Internet":0.0000,"Samples":8306},
+{"rank":4,"AS":55159,"Description":"PARADISE-MOBILE-ASN-01","CC":"BM","Users":578,"Percent of CC Pop":0.94,"Percent of Internet":0.0000,"Samples":2376},
+{"rank":5,"AS":11269,"Description":"LINKBERMUDA","CC":"BM","Users":369,"Percent of CC Pop":0.60,"Percent of Internet":0.0000,"Samples":1388},
+{"rank":6,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"BM","Users":215,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":352},
+{"rank":7,"AS":62240,"Description":"CLOUVIDER Clouvider - Global ASN","CC":"BM","Users":127,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":129},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"BM","Users":77,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":237},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS","CC":"BM","Users":73,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":166},
+{"rank":10,"AS":36549,"Description":"LOGIC-36549","CC":"BM","Users":73,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":56},
+{"rank":11,"AS":23313,"Description":"ASN-HIG","CC":"BM","Users":71,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":37},
+{"rank":12,"AS":19626,"Description":"EVC-AS","CC":"BM","Users":61,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":64},
+{"rank":13,"AS":38176,"Description":"ABS-AS-AP ABS - Agility Beyond Space","CC":"BM","Users":45,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":17},
+{"rank":14,"AS":54113,"Description":"FASTLY","CC":"BM","Users":40,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":11},
+{"rank":15,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"BM","Users":36,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":11},
+{"rank":16,"AS":9009,"Description":"M247","CC":"BM","Users":25,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":26}
   ]
 }

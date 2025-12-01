@@ -1,15 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":327799,"Description":"VIETTEL-BURUNDI","CC":"BI","Users":789823,"Percent of CC Pop":91.14,"Percent of Internet":0.0186,"Samples":280923},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BI","Users":26062,"Percent of CC Pop":3.01,"Percent of Internet":0.0006,"Samples":9270},
-{"rank":3,"AS":37336,"Description":"UCOM-WIC","CC":"BI","Users":21674,"Percent of CC Pop":2.50,"Percent of Internet":0.0005,"Samples":7709},
-{"rank":4,"AS":37545,"Description":"BBSS","CC":"BI","Users":14836,"Percent of CC Pop":1.71,"Percent of Internet":0.0003,"Samples":5277},
-{"rank":5,"AS":25429,"Description":"CBINET-AS CBINET Burundi","CC":"BI","Users":10051,"Percent of CC Pop":1.16,"Percent of Internet":0.0002,"Samples":3575},
-{"rank":6,"AS":37429,"Description":"Spidernet","CC":"BI","Users":2491,"Percent of CC Pop":0.29,"Percent of Internet":0.0001,"Samples":886},
-{"rank":7,"AS":327798,"Description":"BERNET","CC":"BI","Users":1611,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":573}
+{"rank":1,"AS":327799,"Description":"VIETTEL-BURUNDI","CC":"BI","Users":782416,"Percent of CC Pop":104.84,"Percent of Internet":0.0187,"Samples":589706},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BI","Users":27695,"Percent of CC Pop":3.71,"Percent of Internet":0.0007,"Samples":20720},
+{"rank":3,"AS":37336,"Description":"UCOM-WIC","CC":"BI","Users":26304,"Percent of CC Pop":3.52,"Percent of Internet":0.0006,"Samples":20170},
+{"rank":4,"AS":37545,"Description":"BBSS","CC":"BI","Users":14378,"Percent of CC Pop":1.93,"Percent of Internet":0.0003,"Samples":10807},
+{"rank":5,"AS":25429,"Description":"CBINET-AS CBINET Burundi","CC":"BI","Users":10174,"Percent of CC Pop":1.36,"Percent of Internet":0.0002,"Samples":7750},
+{"rank":6,"AS":37429,"Description":"Spidernet","CC":"BI","Users":2176,"Percent of CC Pop":0.29,"Percent of Internet":0.0001,"Samples":1611},
+{"rank":7,"AS":327798,"Description":"BERNET","CC":"BI","Users":1835,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":1351},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"BI","Users":656,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":58},
+{"rank":9,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"BI","Users":233,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":18}
   ]
 }

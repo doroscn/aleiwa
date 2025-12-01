@@ -1,16 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"VG","Users":8233,"Percent of CC Pop":46.70,"Percent of Internet":0.0002,"Samples":20670},
-{"rank":2,"AS":396357,"Description":"BVI-DIG","CC":"VG","Users":3924,"Percent of CC Pop":22.26,"Percent of Internet":0.0001,"Samples":9851},
-{"rank":3,"AS":22069,"Description":"CARIB-23","CC":"VG","Users":3719,"Percent of CC Pop":21.10,"Percent of Internet":0.0001,"Samples":9337},
-{"rank":4,"AS":200313,"Description":"INTERNET-IT","CC":"VG","Users":774,"Percent of CC Pop":4.39,"Percent of Internet":0.0000,"Samples":1943},
-{"rank":5,"AS":33229,"Description":"ANY2CLOUD","CC":"VG","Users":599,"Percent of CC Pop":3.40,"Percent of Internet":0.0000,"Samples":1505},
-{"rank":6,"AS":50597,"Description":"SCOPESKY","CC":"VG","Users":160,"Percent of CC Pop":0.91,"Percent of Internet":0.0000,"Samples":403},
-{"rank":7,"AS":205507,"Description":"NURIKOINOT-AS OJSC Tojiktelecom","CC":"VG","Users":97,"Percent of CC Pop":0.55,"Percent of Internet":0.0000,"Samples":244},
-{"rank":8,"AS":200195,"Description":"VERASEL","CC":"VG","Users":83,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":209}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"VG","Users":8393,"Percent of CC Pop":50.48,"Percent of Internet":0.0002,"Samples":39027},
+{"rank":2,"AS":396357,"Description":"BVI-DIG","CC":"VG","Users":3830,"Percent of CC Pop":23.03,"Percent of Internet":0.0001,"Samples":18132},
+{"rank":3,"AS":22069,"Description":"CARIB-23","CC":"VG","Users":3477,"Percent of CC Pop":20.91,"Percent of Internet":0.0001,"Samples":16331},
+{"rank":4,"AS":205507,"Description":"NURIKOINOT-AS OJSC Tojiktelecom","CC":"VG","Users":1996,"Percent of CC Pop":12.00,"Percent of Internet":0.0000,"Samples":3268},
+{"rank":5,"AS":33229,"Description":"ANY2CLOUD","CC":"VG","Users":1188,"Percent of CC Pop":7.15,"Percent of Internet":0.0000,"Samples":1505},
+{"rank":6,"AS":200313,"Description":"INTERNET-IT","CC":"VG","Users":597,"Percent of CC Pop":3.59,"Percent of Internet":0.0000,"Samples":3058},
+{"rank":7,"AS":200195,"Description":"VERASEL","CC":"VG","Users":423,"Percent of CC Pop":2.54,"Percent of Internet":0.0000,"Samples":709},
+{"rank":8,"AS":50597,"Description":"SCOPESKY","CC":"VG","Users":181,"Percent of CC Pop":1.09,"Percent of Internet":0.0000,"Samples":561},
+{"rank":9,"AS":200740,"Description":"FIRST-SERVER-EU-AS FIRST-SERVER-US","CC":"VG","Users":60,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":13},
+{"rank":10,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"VG","Users":46,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":21},
+{"rank":11,"AS":51765,"Description":"CREANOVA-AS Oy Creanova Hosting Solutions Ltd.","CC":"VG","Users":45,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":11},
+{"rank":12,"AS":13335,"Description":"CLOUDFLARENET","CC":"VG","Users":42,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":54},
+{"rank":13,"AS":209181,"Description":"ZENEX5IVE-NL","CC":"VG","Users":41,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":11},
+{"rank":14,"AS":36183,"Description":"AKAMAI-AS","CC":"VG","Users":30,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":22}
   ]
 }

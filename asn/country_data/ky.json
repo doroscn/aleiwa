@@ -1,14 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6639,"Description":"CWCAYMAN","CC":"KY","Users":26670,"Percent of CC Pop":44.82,"Percent of Internet":0.0006,"Samples":39695},
-{"rank":2,"AS":36549,"Description":"LOGIC-36549","CC":"KY","Users":23231,"Percent of CC Pop":39.04,"Percent of Internet":0.0005,"Samples":34577},
-{"rank":3,"AS":13771,"Description":"DIGICEL-CAYMAN","CC":"KY","Users":5287,"Percent of CC Pop":8.89,"Percent of Internet":0.0001,"Samples":7870},
-{"rank":4,"AS":16437,"Description":"INFINITY-BROADBAND-LTD","CC":"KY","Users":3532,"Percent of CC Pop":5.94,"Percent of Internet":0.0001,"Samples":5257},
-{"rank":5,"AS":30689,"Description":"FLOW-NET","CC":"KY","Users":552,"Percent of CC Pop":0.93,"Percent of Internet":0.0000,"Samples":823},
-{"rank":6,"AS":11139,"Description":"CWC-ROC-11139","CC":"KY","Users":137,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":205}
+{"rank":1,"AS":6639,"Description":"CWCAYMAN","CC":"KY","Users":27697,"Percent of CC Pop":49.63,"Percent of Internet":0.0007,"Samples":73038},
+{"rank":2,"AS":36549,"Description":"LOGIC-36549","CC":"KY","Users":22545,"Percent of CC Pop":40.40,"Percent of Internet":0.0005,"Samples":60453},
+{"rank":3,"AS":13771,"Description":"DIGICEL-CAYMAN","CC":"KY","Users":4627,"Percent of CC Pop":8.29,"Percent of Internet":0.0001,"Samples":12736},
+{"rank":4,"AS":16437,"Description":"INFINITY-BROADBAND-LTD","CC":"KY","Users":3683,"Percent of CC Pop":6.60,"Percent of Internet":0.0001,"Samples":9577},
+{"rank":5,"AS":212238,"Description":"CDNEXT","CC":"KY","Users":758,"Percent of CC Pop":1.36,"Percent of Internet":0.0000,"Samples":39},
+{"rank":6,"AS":30689,"Description":"FLOW-NET","CC":"KY","Users":686,"Percent of CC Pop":1.23,"Percent of Internet":0.0000,"Samples":1543},
+{"rank":7,"AS":11139,"Description":"CWC-ROC-11139","CC":"KY","Users":368,"Percent of CC Pop":0.66,"Percent of Internet":0.0000,"Samples":544},
+{"rank":8,"AS":62651,"Description":"NETPROTECT-DP","CC":"KY","Users":221,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":116},
+{"rank":9,"AS":15344,"Description":"ASN15344-SLU","CC":"KY","Users":189,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":11},
+{"rank":10,"AS":55256,"Description":"NETSKOPE","CC":"KY","Users":87,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":19},
+{"rank":11,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KY","Users":84,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":23},
+{"rank":12,"AS":13335,"Description":"CLOUDFLARENET","CC":"KY","Users":80,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":74},
+{"rank":13,"AS":36183,"Description":"AKAMAI-AS","CC":"KY","Users":63,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":19},
+{"rank":14,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"KY","Users":63,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":32}
   ]
 }

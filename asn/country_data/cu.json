@@ -1,10 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27725,"Description":"Empresa de Telecomunicaciones de Cuba, S.A.","CC":"CU","Users":6486526,"Percent of CC Pop":99.98,"Percent of Internet":0.1527,"Samples":1416354},
-{"rank":2,"AS":10569,"Description":"Red CENIAInternet","CC":"CU","Users":760,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":166}
+{"rank":1,"AS":27725,"Description":"Empresa de Telecomunicaciones de Cuba, S.A.","CC":"CU","Users":6487353,"Percent of CC Pop":95.29,"Percent of Internet":0.1555,"Samples":2962442},
+{"rank":2,"AS":10569,"Description":"Red CENIAInternet","CC":"CU","Users":1240,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":475},
+{"rank":3,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"CU","Users":532,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":83},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET","CC":"CU","Users":472,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":85},
+{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CU","Users":353,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

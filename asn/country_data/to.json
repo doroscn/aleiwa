@@ -1,12 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":38201,"Description":"KALIANET-PUBLIC-AS-AP Tonga Communications Internet Network","CC":"TO","Users":23720,"Percent of CC Pop":50.10,"Percent of Internet":0.0006,"Samples":19670},
-{"rank":2,"AS":38198,"Description":"DIGICELNET-TO Digicel Tonga Ltd","CC":"TO","Users":18944,"Percent of CC Pop":40.01,"Percent of Internet":0.0004,"Samples":15710},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TO","Users":3363,"Percent of CC Pop":7.10,"Percent of Internet":0.0001,"Samples":2789},
-{"rank":4,"AS":132831,"Description":"TOKOWIRELESSLTD-AS-AP TokoWireless Limited","CC":"TO","Users":1226,"Percent of CC Pop":2.59,"Percent of Internet":0.0000,"Samples":1017}
+{"rank":1,"AS":38201,"Description":"KALIANET-PUBLIC-AS-AP Tonga Communications Internet Network","CC":"TO","Users":23124,"Percent of CC Pop":50.32,"Percent of Internet":0.0006,"Samples":39502},
+{"rank":2,"AS":38198,"Description":"DIGICELNET-TO Digicel Tonga Ltd","CC":"TO","Users":17946,"Percent of CC Pop":39.06,"Percent of Internet":0.0004,"Samples":29964},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TO","Users":4762,"Percent of CC Pop":10.36,"Percent of Internet":0.0001,"Samples":8174},
+{"rank":4,"AS":132831,"Description":"TOKOWIRELESSLTD-AS-AP TokoWireless Limited","CC":"TO","Users":1436,"Percent of CC Pop":3.13,"Percent of Internet":0.0000,"Samples":2413},
+{"rank":5,"AS":132579,"Description":"TONGACABLELIMITED-AS-AP Tonga Cable Limited","CC":"TO","Users":1066,"Percent of CC Pop":2.32,"Percent of Internet":0.0000,"Samples":48},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TO","Users":164,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":21},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"TO","Users":83,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

@@ -1,10 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30990,"Description":"ADJIB-AS","CC":"DJ","Users":1165626,"Percent of CC Pop":99.64,"Percent of Internet":0.0274,"Samples":159713},
-{"rank":2,"AS":329140,"Description":"AS5-AS","CC":"DJ","Users":3021,"Percent of CC Pop":0.26,"Percent of Internet":0.0001,"Samples":414}
+{"rank":1,"AS":30990,"Description":"ADJIB-AS","CC":"DJ","Users":1163701,"Percent of CC Pop":108.24,"Percent of Internet":0.0279,"Samples":318937},
+{"rank":2,"AS":329140,"Description":"AS5-AS","CC":"DJ","Users":3629,"Percent of CC Pop":0.34,"Percent of Internet":0.0001,"Samples":915},
+{"rank":3,"AS":13335,"Description":"CLOUDFLARENET","CC":"DJ","Users":1554,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":272},
+{"rank":4,"AS":327831,"Description":"Djibouti-Data-Center","CC":"DJ","Users":1306,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":82},
+{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"DJ","Users":1013,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":11},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS","CC":"DJ","Users":916,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":51}
   ]
 }

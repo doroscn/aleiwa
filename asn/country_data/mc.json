@@ -1,10 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6758,"Description":"AS6758","CC":"MC","Users":33443,"Percent of CC Pop":92.89,"Percent of Internet":0.0008,"Samples":12744},
-{"rank":2,"AS":212238,"Description":"CDNEXT","CC":"MC","Users":1815,"Percent of CC Pop":5.04,"Percent of Internet":0.0000,"Samples":692}
+{"rank":1,"AS":6758,"Description":"AS6758","CC":"MC","Users":33215,"Percent of CC Pop":84.19,"Percent of Internet":0.0008,"Samples":29416},
+{"rank":2,"AS":212238,"Description":"CDNEXT","CC":"MC","Users":2088,"Percent of CC Pop":5.29,"Percent of Internet":0.0001,"Samples":1341},
+{"rank":3,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MC","Users":1912,"Percent of CC Pop":4.85,"Percent of Internet":0.0000,"Samples":335},
+{"rank":4,"AS":55256,"Description":"NETSKOPE","CC":"MC","Users":569,"Percent of CC Pop":1.44,"Percent of Internet":0.0000,"Samples":15},
+{"rank":5,"AS":12463,"Description":"ASN-SBM","CC":"MC","Users":429,"Percent of CC Pop":1.09,"Percent of Internet":0.0000,"Samples":107},
+{"rank":6,"AS":13213,"Description":"UK2NET-AS","CC":"MC","Users":421,"Percent of CC Pop":1.07,"Percent of Internet":0.0000,"Samples":112},
+{"rank":7,"AS":394089,"Description":"GCP-ENTERPRISE-USER-TRAFFIC","CC":"MC","Users":406,"Percent of CC Pop":1.03,"Percent of Internet":0.0000,"Samples":16},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"MC","Users":401,"Percent of CC Pop":1.02,"Percent of Internet":0.0000,"Samples":33},
+{"rank":9,"AS":9009,"Description":"M247","CC":"MC","Users":356,"Percent of CC Pop":0.90,"Percent of Internet":0.0000,"Samples":206},
+{"rank":10,"AS":62240,"Description":"CLOUVIDER Clouvider - Global ASN","CC":"MC","Users":246,"Percent of CC Pop":0.62,"Percent of Internet":0.0000,"Samples":15},
+{"rank":11,"AS":48996,"Description":"CHPG-","CC":"MC","Users":162,"Percent of CC Pop":0.41,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

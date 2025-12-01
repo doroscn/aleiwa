@@ -1,16 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14813,"Description":"BB-COLUMBUS","CC":"BB","Users":180315,"Percent of CC Pop":74.29,"Percent of Internet":0.0042,"Samples":500673},
-{"rank":2,"AS":35900,"Description":"DIGI-BDS-ASN","CC":"BB","Users":59308,"Percent of CC Pop":24.43,"Percent of Internet":0.0014,"Samples":164679},
-{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"BB","Users":2156,"Percent of CC Pop":0.89,"Percent of Internet":0.0001,"Samples":5987},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BB","Users":334,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":928},
-{"rank":5,"AS":55033,"Description":"UWI-CH-ASN1","CC":"BB","Users":248,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":689},
-{"rank":6,"AS":33582,"Description":"DIGICEL-OECS","CC":"BB","Users":200,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":557},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"BB","Users":48,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":134},
-{"rank":8,"AS":396304,"Description":"ANU-DIGI","CC":"BB","Users":43,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":122}
+{"rank":1,"AS":14813,"Description":"BB-COLUMBUS","CC":"BB","Users":179309,"Percent of CC Pop":71.95,"Percent of Internet":0.0043,"Samples":940459},
+{"rank":2,"AS":35900,"Description":"DIGI-BDS-ASN","CC":"BB","Users":59743,"Percent of CC Pop":23.97,"Percent of Internet":0.0014,"Samples":311858},
+{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"BB","Users":2285,"Percent of CC Pop":0.92,"Percent of Internet":0.0001,"Samples":11618},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BB","Users":620,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":3203},
+{"rank":5,"AS":33582,"Description":"DIGICEL-OECS","CC":"BB","Users":370,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":1545},
+{"rank":6,"AS":55033,"Description":"UWI-CH-ASN1","CC":"BB","Users":299,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":1179},
+{"rank":7,"AS":396304,"Description":"ANU-DIGI","CC":"BB","Users":164,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":314},
+{"rank":8,"AS":13150,"Description":"CATON","CC":"BB","Users":161,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":234},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"BB","Users":106,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":422},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS","CC":"BB","Users":48,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":113},
+{"rank":11,"AS":15169,"Description":"GOOGLE","CC":"BB","Users":47,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":12},
+{"rank":12,"AS":54113,"Description":"FASTLY","CC":"BB","Users":33,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":17},
+{"rank":13,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"BB","Users":27,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":18},
+{"rank":14,"AS":9009,"Description":"M247","CC":"BB","Users":21,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

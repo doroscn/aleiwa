@@ -1,16 +1,23 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15146,"Description":"CABLEBAHAMAS","CC":"BS","Users":237299,"Percent of CC Pop":62.22,"Percent of Internet":0.0056,"Samples":260549},
-{"rank":2,"AS":8014,"Description":"BATELNET","CC":"BS","Users":110658,"Percent of CC Pop":29.01,"Percent of Internet":0.0026,"Samples":121500},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BS","Users":29945,"Percent of CC Pop":7.85,"Percent of Internet":0.0007,"Samples":32880},
-{"rank":4,"AS":397972,"Description":"CTF-BM-LTD","CC":"BS","Users":1452,"Percent of CC Pop":0.38,"Percent of Internet":0.0000,"Samples":1595},
-{"rank":5,"AS":262287,"Description":"Latitude.sh LTDA","CC":"BS","Users":831,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":913},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"BS","Users":534,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":587},
-{"rank":7,"AS":62651,"Description":"NETPROTECT-62651","CC":"BS","Users":337,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":371},
-{"rank":8,"AS":22357,"Description":"SECURE-SHORE-ASN","CC":"BS","Users":195,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":215}
+{"rank":1,"AS":15146,"Description":"CABLEBAHAMAS","CC":"BS","Users":238025,"Percent of CC Pop":65.52,"Percent of Internet":0.0057,"Samples":509369},
+{"rank":2,"AS":8014,"Description":"BATELNET","CC":"BS","Users":109947,"Percent of CC Pop":30.27,"Percent of Internet":0.0026,"Samples":234515},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BS","Users":28628,"Percent of CC Pop":7.88,"Percent of Internet":0.0007,"Samples":61565},
+{"rank":4,"AS":212238,"Description":"CDNEXT","CC":"BS","Users":3208,"Percent of CC Pop":0.88,"Percent of Internet":0.0001,"Samples":218},
+{"rank":5,"AS":262287,"Description":"Latitude.sh LTDA","CC":"BS","Users":1748,"Percent of CC Pop":0.48,"Percent of Internet":0.0000,"Samples":3542},
+{"rank":6,"AS":397972,"Description":"CTF-BM-LTD","CC":"BS","Users":1721,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":3424},
+{"rank":7,"AS":397914,"Description":"AS-CBL-152","CC":"BS","Users":1625,"Percent of CC Pop":0.45,"Percent of Internet":0.0000,"Samples":116},
+{"rank":8,"AS":22357,"Description":"SECURE-SHORE-ASN","CC":"BS","Users":592,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":331},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"BS","Users":539,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":1039},
+{"rank":10,"AS":62651,"Description":"NETPROTECT-DP","CC":"BS","Users":379,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":625},
+{"rank":11,"AS":36492,"Description":"GOOGLEWIFI","CC":"BS","Users":196,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":37},
+{"rank":12,"AS":9009,"Description":"M247","CC":"BS","Users":123,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":27},
+{"rank":13,"AS":36183,"Description":"AKAMAI-AS","CC":"BS","Users":104,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":135},
+{"rank":14,"AS":54113,"Description":"FASTLY","CC":"BS","Users":83,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":17},
+{"rank":15,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"BS","Users":70,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":18}
   ]
 }

@@ -1,14 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8681,"Description":"JT","CC":"JE","Users":38009,"Percent of CC Pop":60.50,"Percent of Internet":0.0009,"Samples":88995},
-{"rank":2,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"JE","Users":17137,"Percent of CC Pop":27.27,"Percent of Internet":0.0004,"Samples":40124},
-{"rank":3,"AS":13208,"Description":"NEWTELSOLUTIONS-AS Channel Islands","CC":"JE","Users":5440,"Percent of CC Pop":8.66,"Percent of Internet":0.0001,"Samples":12739},
-{"rank":4,"AS":61143,"Description":"JERSEY-AIRTEL","CC":"JE","Users":1753,"Percent of CC Pop":2.79,"Percent of Internet":0.0000,"Samples":4105},
-{"rank":5,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"JE","Users":266,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":624},
-{"rank":6,"AS":212238,"Description":"CDNEXT","CC":"JE","Users":64,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":150}
+{"rank":1,"AS":8681,"Description":"JT","CC":"JE","Users":37998,"Percent of CC Pop":39.74,"Percent of Internet":0.0009,"Samples":165878},
+{"rank":2,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"JE","Users":16411,"Percent of CC Pop":17.16,"Percent of Internet":0.0004,"Samples":70792},
+{"rank":3,"AS":13208,"Description":"NEWTELSOLUTIONS-AS Channel Islands","CC":"JE","Users":6022,"Percent of CC Pop":6.30,"Percent of Internet":0.0001,"Samples":25396},
+{"rank":4,"AS":61143,"Description":"JERSEY-AIRTEL","CC":"JE","Users":1712,"Percent of CC Pop":1.79,"Percent of Internet":0.0000,"Samples":7545},
+{"rank":5,"AS":13173,"Description":"FORESHORE-AS","CC":"JE","Users":1032,"Percent of CC Pop":1.08,"Percent of Internet":0.0000,"Samples":745},
+{"rank":6,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"JE","Users":372,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":1151},
+{"rank":7,"AS":212238,"Description":"CDNEXT","CC":"JE","Users":331,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":317},
+{"rank":8,"AS":211875,"Description":"GOJ","CC":"JE","Users":111,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":125},
+{"rank":9,"AS":13213,"Description":"UK2NET-AS","CC":"JE","Users":71,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":42},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"JE","Users":65,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":169},
+{"rank":11,"AS":62651,"Description":"NETPROTECT-DP","CC":"JE","Users":64,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":68},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS","CC":"JE","Users":46,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":65}
   ]
 }

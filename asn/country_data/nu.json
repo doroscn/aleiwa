@@ -1,9 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"NU","Users":1064,"Percent of CC Pop":119.02,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

@@ -1,9 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-
+{"rank":1,"AS":201004,"Description":"GLOBALTT-AS","CC":"ER","Users":49806,"Percent of CC Pop":94.61,"Percent of Internet":0.0012,"Samples":297},
+{"rank":2,"AS":30987,"Description":"ERITEL-AS","CC":"ER","Users":39701,"Percent of CC Pop":75.41,"Percent of Internet":0.0010,"Samples":90}
   ]
 }

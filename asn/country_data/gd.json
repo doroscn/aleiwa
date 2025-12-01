@@ -1,13 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":46650,"Description":"ASN46650-CCGL","CC":"GD","Users":68264,"Percent of CC Pop":84.24,"Percent of Internet":0.0016,"Samples":152078},
-{"rank":2,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"GD","Users":11945,"Percent of CC Pop":14.74,"Percent of Internet":0.0003,"Samples":26611},
-{"rank":3,"AS":393629,"Description":"GDGR","CC":"GD","Users":441,"Percent of CC Pop":0.55,"Percent of Internet":0.0000,"Samples":984},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET","CC":"GD","Users":201,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":450},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GD","Users":112,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":251}
+{"rank":1,"AS":46650,"Description":"ASN46650-CCGL","CC":"GD","Users":68041,"Percent of CC Pop":94.01,"Percent of Internet":0.0016,"Samples":283398},
+{"rank":2,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"GD","Users":11904,"Percent of CC Pop":16.45,"Percent of Internet":0.0003,"Samples":49976},
+{"rank":3,"AS":393629,"Description":"GDGR","CC":"GD","Users":1165,"Percent of CC Pop":1.61,"Percent of Internet":0.0000,"Samples":2968},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GD","Users":317,"Percent of CC Pop":0.44,"Percent of Internet":0.0000,"Samples":686},
+{"rank":5,"AS":14432,"Description":"GREX","CC":"GD","Users":285,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":27},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"GD","Users":198,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":499},
+{"rank":7,"AS":30272,"Description":"GOG-ASN1-GND","CC":"GD","Users":140,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":172},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS","CC":"GD","Users":37,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":36}
   ]
 }

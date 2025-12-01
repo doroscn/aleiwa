@@ -1,12 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"YE","Users":4743868,"Percent of CC Pop":44.97,"Percent of Internet":0.1117,"Samples":150768},
-{"rank":2,"AS":30873,"Description":"PTC-YEMENNET","CC":"YE","Users":4549416,"Percent of CC Pop":43.13,"Percent of Internet":0.1071,"Samples":144588},
-{"rank":3,"AS":204317,"Description":"ADENNET","CC":"YE","Users":1210603,"Percent of CC Pop":11.48,"Percent of Internet":0.0285,"Samples":38475},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET","CC":"YE","Users":44711,"Percent of CC Pop":0.42,"Percent of Internet":0.0011,"Samples":1421}
+{"rank":1,"AS":30873,"Description":"PTC-YEMENNET","CC":"YE","Users":7659444,"Percent of CC Pop":86.79,"Percent of Internet":0.1835,"Samples":302297},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"YE","Users":1886337,"Percent of CC Pop":21.37,"Percent of Internet":0.0452,"Samples":717089},
+{"rank":3,"AS":204317,"Description":"ADENNET","CC":"YE","Users":205087,"Percent of CC Pop":2.32,"Percent of Internet":0.0049,"Samples":83360},
+{"rank":4,"AS":174,"Description":"COGENT-174","CC":"YE","Users":22221,"Percent of CC Pop":0.25,"Percent of Internet":0.0005,"Samples":54},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"YE","Users":8558,"Percent of CC Pop":0.10,"Percent of Internet":0.0002,"Samples":3335},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS","CC":"YE","Users":512,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":17},
+{"rank":7,"AS":12486,"Description":"TELEYEMEN Sanaa","CC":"YE","Users":428,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":25}
   ]
 }

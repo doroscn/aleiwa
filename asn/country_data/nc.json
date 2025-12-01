@@ -1,15 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":56089,"Description":"OFFRATEL-AS-AP OFFRATEL","CC":"NC","Users":91257,"Percent of CC Pop":33.77,"Percent of Internet":0.0021,"Samples":37595},
-{"rank":2,"AS":18200,"Description":"OPT-NC-AS-AP Office des Postes et Telecommunications New-Caledonia","CC":"NC","Users":68690,"Percent of CC Pop":25.42,"Percent of Internet":0.0016,"Samples":28298},
-{"rank":3,"AS":17480,"Description":"CANL CANL","CC":"NC","Users":52509,"Percent of CC Pop":19.43,"Percent of Internet":0.0012,"Samples":21632},
-{"rank":4,"AS":56055,"Description":"MLS-NC Micro Logic Systems","CC":"NC","Users":31403,"Percent of CC Pop":11.62,"Percent of Internet":0.0007,"Samples":12937},
-{"rank":5,"AS":45345,"Description":"NAUTILE-NC-AS-AP Nautile","CC":"NC","Users":20533,"Percent of CC Pop":7.60,"Percent of Internet":0.0005,"Samples":8459},
-{"rank":6,"AS":45461,"Description":"TELENET-AS-AP TeleNet","CC":"NC","Users":5422,"Percent of CC Pop":2.01,"Percent of Internet":0.0001,"Samples":2234},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"NC","Users":405,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":167}
+{"rank":1,"AS":56089,"Description":"OFFRATEL-AS-AP OFFRATEL","CC":"NC","Users":89876,"Percent of CC Pop":34.28,"Percent of Internet":0.0022,"Samples":76370},
+{"rank":2,"AS":18200,"Description":"OPT-NC-AS-AP Office des Postes et Telecommunications New-Caledonia","CC":"NC","Users":66470,"Percent of CC Pop":25.35,"Percent of Internet":0.0016,"Samples":57266},
+{"rank":3,"AS":17480,"Description":"CANL CANL","CC":"NC","Users":49884,"Percent of CC Pop":19.03,"Percent of Internet":0.0012,"Samples":43664},
+{"rank":4,"AS":56055,"Description":"MLS-NC Micro Logic Systems","CC":"NC","Users":33701,"Percent of CC Pop":12.85,"Percent of Internet":0.0008,"Samples":29654},
+{"rank":5,"AS":45345,"Description":"NAUTILE-NC-AS-AP Nautile","CC":"NC","Users":23697,"Percent of CC Pop":9.04,"Percent of Internet":0.0006,"Samples":20335},
+{"rank":6,"AS":45461,"Description":"TELENET-AS-AP TeleNet","CC":"NC","Users":6120,"Percent of CC Pop":2.33,"Percent of Internet":0.0001,"Samples":5082},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"NC","Users":674,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":228},
+{"rank":8,"AS":54113,"Description":"FASTLY","CC":"NC","Users":353,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":20},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS","CC":"NC","Users":247,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":23},
+{"rank":10,"AS":55256,"Description":"NETSKOPE","CC":"NC","Users":168,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

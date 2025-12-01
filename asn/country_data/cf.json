@@ -1,11 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37460,"Description":"ORANGE-CA","CC":"CF","Users":178593,"Percent of CC Pop":61.59,"Percent of Internet":0.0042,"Samples":35207},
-{"rank":2,"AS":329274,"Description":"MoovAfricaCentrafrique","CC":"CF","Users":66888,"Percent of CC Pop":23.07,"Percent of Internet":0.0016,"Samples":13186},
-{"rank":3,"AS":328079,"Description":"TELECEL-CENTRAFRIQUE-AS","CC":"CF","Users":44304,"Percent of CC Pop":15.28,"Percent of Internet":0.0010,"Samples":8734}
+{"rank":1,"AS":37460,"Description":"ORANGE-CA","CC":"CF","Users":180735,"Percent of CC Pop":78.09,"Percent of Internet":0.0043,"Samples":72767},
+{"rank":2,"AS":329274,"Description":"MoovAfricaCentrafrique","CC":"CF","Users":64738,"Percent of CC Pop":27.97,"Percent of Internet":0.0016,"Samples":26527},
+{"rank":3,"AS":328079,"Description":"TELECEL-CENTRAFRIQUE-AS","CC":"CF","Users":43577,"Percent of CC Pop":18.83,"Percent of Internet":0.0010,"Samples":17599},
+{"rank":4,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CF","Users":2400,"Percent of CC Pop":1.04,"Percent of Internet":0.0001,"Samples":35},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"CF","Users":725,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":25},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CF","Users":378,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

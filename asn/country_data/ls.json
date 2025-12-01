@@ -1,15 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "29/10/2025",
+  "Date": "28/11/2025",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37057,"Description":"VODACOM-LESOTHO","CC":"LS","Users":414781,"Percent of CC Pop":51.87,"Percent of Internet":0.0098,"Samples":89959},
-{"rank":2,"AS":33567,"Description":"TELECOM-LESOTHO","CC":"LS","Users":364395,"Percent of CC Pop":45.57,"Percent of Internet":0.0086,"Samples":79031},
-{"rank":3,"AS":37642,"Description":"Comnet-Lesotho-AS","CC":"LS","Users":8788,"Percent of CC Pop":1.10,"Percent of Internet":0.0002,"Samples":1906},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LS","Users":5247,"Percent of CC Pop":0.66,"Percent of Internet":0.0001,"Samples":1138},
-{"rank":5,"AS":327750,"Description":"JENNY-INTERNET","CC":"LS","Users":3803,"Percent of CC Pop":0.48,"Percent of Internet":0.0001,"Samples":825},
-{"rank":6,"AS":328567,"Description":"LEC-Communications","CC":"LS","Users":1244,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":270},
-{"rank":7,"AS":25695,"Description":"LEO","CC":"LS","Users":1208,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":262}
+{"rank":1,"AS":37057,"Description":"VODACOM-LESOTHO","CC":"LS","Users":415406,"Percent of CC Pop":56.66,"Percent of Internet":0.0100,"Samples":178199},
+{"rank":2,"AS":33567,"Description":"TELECOM-LESOTHO","CC":"LS","Users":363550,"Percent of CC Pop":49.58,"Percent of Internet":0.0087,"Samples":155353},
+{"rank":3,"AS":37642,"Description":"Comnet-Lesotho-AS","CC":"LS","Users":8576,"Percent of CC Pop":1.17,"Percent of Internet":0.0002,"Samples":3631},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LS","Users":4545,"Percent of CC Pop":0.62,"Percent of Internet":0.0001,"Samples":1889},
+{"rank":5,"AS":327750,"Description":"JENNY-INTERNET","CC":"LS","Users":4074,"Percent of CC Pop":0.56,"Percent of Internet":0.0001,"Samples":1680},
+{"rank":6,"AS":25695,"Description":"LEO","CC":"LS","Users":1934,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":677},
+{"rank":7,"AS":328567,"Description":"LEC-Communications","CC":"LS","Users":1797,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":698},
+{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"LS","Users":1684,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":19},
+{"rank":9,"AS":55256,"Description":"NETSKOPE","CC":"LS","Users":1125,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":10},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS","CC":"LS","Users":537,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":20},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"LS","Users":533,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":59}
   ]
 }
