@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-11-11T00:50:22Z",
+    "checked_at": "2025-12-12T00:52:33Z",
     "created_at": "2020-11-22T11:33:48.618806Z",
     "available": true
   },
@@ -25,9 +25,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-11-11T00:50:23Z",
+    "checked_at": "2025-12-12T00:52:34Z",
     "created_at": "2020-11-22T11:33:48.618806Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "69.50.69.115",
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5853658536585366,
-    "checked_at": "2025-11-11T00:50:23Z",
+    "checked_at": "2025-12-12T00:52:41Z",
     "created_at": "2021-09-25T20:56:20.118338Z",
     "available": false
   },
   {
-    "ip": "66.249.150.51",
+    "ip": "66.249.150.146",
     "name": "dns2.digicelbarbados.net.",
     "as_number": 35900,
     "as_org": "DIGI-BDS-ASN",
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8135048231511254,
-    "checked_at": "2025-11-11T00:50:30Z",
+    "checked_at": "2025-12-12T00:52:49Z",
     "created_at": "2022-04-25T22:38:43.184509Z",
     "available": true
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9173553719008265,
-    "checked_at": "2025-11-11T00:50:32Z",
+    "checked_at": "2025-12-12T00:52:53Z",
     "created_at": "2022-12-26T09:04:45.176831Z",
     "available": true
   }
