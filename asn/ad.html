@@ -2,11 +2,12 @@
 <html>
 <head>
 	<title>Top ASNs in Andorra | Aleiwa Network Tools</title>
-    <meta charset="utf-8" />
+	<meta charset="utf-8" />
 	<meta name="description" content="Explore top ASNs in Andorra, including ISP rankings and network statistics.">
-    <meta name="keywords" content="ASN ranking, top ASN list, ISP ranking, network ASN" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <meta name="google-adsense-account" content="ca-pub-6600663344964826" />
+	<meta name="keywords" content="ASN ranking, top ASN list, ISP ranking, network ASN" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="google-adsense-account" content="ca-pub-6600663344964826" />
+	<meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
 	<meta property="og:title" content="Top ASNs in Andorra - Aleiwa">
 	<meta property="og:description" content="View ASN ranking and ISP information in Andorra.">
 	<meta property="og:image" content="https://www.aleiwa.com/images/favicon-96x96.png">
@@ -15,49 +16,77 @@
 	<meta name="twitter:title" content="Top ASNs in Andorra - Aleiwa">
 	<meta name="twitter:description" content="ASN ranking and ISP statistics in Andorra.">
 	<link rel="canonical" href="https://www.aleiwa.com/asn/ad.html">
-    <link rel="stylesheet" href="/assets/css/main.css" />
-    <link rel="icon" href="/images/favicon-96x96.png" type="image/png">
-    <link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
+	<link rel="stylesheet" href="/assets/css/main.css" />
+	<link rel="icon" href="/images/favicon-96x96.png" type="image/png">
+	<link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
+	<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
 </head>
 
 <body class="is-preload">
 <div id="wrapper">
 
 <header id="header">
-    <div class="inner">
-        <a href="/index.html" class="logo">
-            <span class="symbol"><img src="/images/logo2.svg" alt="" /></span>
-            <span class="title">Aleiwa</span>
-        </a>
-    </div>
+	<div class="inner">
+		<a href="/index.html" class="logo">
+			<span class="symbol"><img src="/images/logo2.svg" alt="" /></span>
+			<span class="title">Aleiwa</span>
+		</a>
+		<nav>
+			<ul><li><a href="#menu">Menu</a></li></ul>
+		</nav>
+	</div>
 </header>
 
-<div id="main">
-    <div class="inner">
-        <h1 id="countryTitle">Top ASNs</h1>
-        <p>Data updated: <span id="date"></span></p>
+<nav id="menu">
+	<h2>Menu</h2>
+	<ul>
+		<li><a href="/index.html">Home</a></li>
+		<li><a href="/topisps.html">Top ISPs info</a></li>
+		<li><a href="/dns.html">Best Public DNS Servers</a></li>
+		<li><a href="/blog/index.html">Blog</a></li>
+		<li><a href="/privacy.html">Privacy</a></li>
+		<li><a href="/about.html">About</a></li>
+	</ul>
+</nav>
 
-        <table>
-            <thead>
-            <tr>
-                <th>Rank</th>
-                <th>AS</th>
-                <th>Description</th>
-                <th>% of CC Population</th>
-                <th>% of Internet</th>
-            </tr>
-            </thead>
-            <tbody id="asnTable"></tbody>
-        </table>
-    </div>
+<div id="main">
+	<div class="inner">
+		<h1 id="countryTitle">Top ASNs</h1>
+		<span class="image main"><img src="/images/pic13.jpg" alt="" /></span>
+		<p>Data updated: <span id="date"></span></p>
+
+		<div id="controls" style="margin-bottom:1em"></div>
+
+		<table>
+			<thead>
+			<tr>
+				<th>Rank</th>
+				<th>AS</th>
+				<th>Description</th>
+				<th>% of CC Population</th>
+				<th>% of Internet</th>
+			</tr>
+			</thead>
+			<tbody id="asnTable"></tbody>
+		</table>
+	</div>
 </div>
 
 <footer id="footer">
-    <div class="inner">
-        <ul class="copyright">
-            <li>&copy; 2025 Aleiwa Network Tools</li>
-        </ul>
-    </div>
+	<div class="inner">
+		<section>
+			<h2>Follow</h2>
+			<ul class="icons">
+				<li><a href="https://x.com/AleiwaTool" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="https://www.facebook.com/jash.zheng.5" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+				<li><a href="https://github.com/aleiwa-network" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+				<li><a href="mailto:jash_zheng@gmail.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+			</ul>
+		</section>
+		<ul class="copyright">
+			<li>&copy; 2025 Aleiwa Network Tools</li><li>Design: <a href="/about.html">Aleiwa</a></li>
+		</ul>
+	</div>
 </footer>
 
 </div>
@@ -68,109 +97,68 @@
 <script src="/assets/js/breakpoints.min.js"></script>
 <script src="/assets/js/util.js"></script>
 <script src="/assets/js/main.js"></script>
-<script>
-const code = window.location.pathname
-    .split('/')
-    .pop()
-    .replace('.html', '') || 'unknown';
 
+<script>
+const code = window.location.pathname.split('/').pop().replace('.html','') || 'unknown';
 let allAsnData = [];
 let filteredAsnData = [];
 let showAll = false;
 
-window.addEventListener('DOMContentLoaded', () => {
-	const mainDiv = document.querySelector("#main .inner");
-	const controlsDiv = document.createElement("div");
-	controlsDiv.style.marginBottom = "1em";
+// UI controls
+const controlsDiv = document.getElementById('controls');
+const filterInput = document.createElement('input');
+filterInput.placeholder = 'Filter by AS Number (e.g. 13335)';
+filterInput.id = 'asnFilter';
+filterInput.style.marginRight = '10px';
 
-	const filterInput = document.createElement("input");
-	filterInput.type = "text";
-	filterInput.placeholder = "Filter by AS Number (e.g. 13335)";
-	filterInput.style.marginRight = "10px";
-	filterInput.id = "asnFilter";
+const toggleBtn = document.createElement('button');
+toggleBtn.textContent = 'Show All';
 
-	const toggleButton = document.createElement("button");
-	toggleButton.textContent = "Show All";
-	toggleButton.id = "toggleRows";
+toggleBtn.onclick = () => {
+	showAll = !showAll;
+	toggleBtn.textContent = showAll ? 'Show Top 20' : 'Show All';
+	filterAndRender();
+};
 
-	filterInput.addEventListener("input", () => {
-		filterAndRender();
-	});
-	toggleButton.addEventListener("click", () => {
-		showAll = !showAll;
-		toggleButton.textContent = showAll ? "Show Top 20" : "Show All";
-		filterAndRender();
-	});
-
-	controlsDiv.appendChild(filterInput);
-	controlsDiv.appendChild(toggleButton);
-	mainDiv.insertBefore(controlsDiv, document.querySelector("table"));
-});
+filterInput.oninput = filterAndRender;
+controlsDiv.appendChild(filterInput);
+controlsDiv.appendChild(toggleBtn);
 
 fetch('/data/country_map.json')
-    .then(res => res.json())
-    .then(countryMap => {
-        const countryName = countryMap[code] || 'Unknown Country';
+	.then(r=>r.json())
+	.then(map=>{
+		const country = map[code] || 'Unknown Country';
+		document.getElementById('countryTitle').innerText = `Top ASNs in ${country}`;
+		return fetch(`/asn/country_data/${code}.json`);
+	})
+	.then(r=>r.json())
+	.then(data=>{
+		document.getElementById('date').innerText = data.Date;
+		allAsnData = data.Data;
+		filterAndRender();
+	});
 
-        // Title
-        document.title = `Top ASNs in ${countryName} | Aleiwa Network Tools`;
-        document.getElementById('countryTitle').innerText = `Top ASNs in ${countryName}`;
-
-        // Meta description
-        document.querySelector('meta[name="description"]').setAttribute(
-            'content',
-            `Explore top ASNs in ${countryName}, including ISP rankings and network statistics.`
-        );
-
-        // OG
-        document.querySelector('meta[property="og:title"]').setAttribute(
-            'content',
-            `Top ASNs in ${countryName} - Aleiwa`
-        );
-        document.querySelector('meta[property="og:description"]').setAttribute(
-            'content',
-            `View ASN ranking and ISP information in ${countryName}.`
-        );
-        document.querySelector('meta[property="og:url"]').setAttribute(
-            'content',
-            `https://www.aleiwa.com/asn/${code}.html`
-        );
-
-        // Twitter
-        document.querySelector('meta[name="twitter:title"]').setAttribute(
-            'content',
-            `Top ASNs in ${countryName} - Aleiwa`
-        );
-        document.querySelector('meta[name="twitter:description"]').setAttribute(
-            'content',
-            `ASN ranking and ISP statistics in ${countryName}.`
-        );
-
-        return fetch(`/asn/country_data/${code}.json`);
-    })
-    .then(res => res.json())
-    .then(data => {
-        document.getElementById('date').innerText = data.Date;
-        allAsnData = data.Data;
-        renderTable();
-    });
-
-function renderTable() {
-    const tbody = document.getElementById('asnTable');
-    tbody.innerHTML = '';
-
-    allAsnData.slice(0, showAll ? allAsnData.length : 20).forEach(item => {
-        const tr = document.createElement('tr');
-        tr.innerHTML = `
-            <td>${item.rank}</td>
-            <td>${item.AS}</td>
-            <td>${item.Description}</td>
-            <td>${item['Percent of CC Pop']}</td>
-            <td>${item['Percent of Internet']}</td>
-        `;
-        tbody.appendChild(tr);
-    });
+function filterAndRender(){
+	const val = filterInput.value.trim();
+	filteredAsnData = val ? allAsnData.filter(i=>String(i.AS).includes(val)) : [...allAsnData];
+	const display = showAll ? filteredAsnData : filteredAsnData.slice(0,20);
+	const tbody = document.getElementById('asnTable');
+	tbody.innerHTML='';
+	display.forEach(item=>{
+		const tr=document.createElement('tr');
+		tr.innerHTML=`<td>${item.rank}</td><td>${item.AS}</td><td>${item.Description}</td><td>${item['Percent of CC Pop']}</td><td>${item['Percent of Internet']}</td>`;
+		tbody.appendChild(tr);
+	});
 }
+</script>
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZGPJPS5L54"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);} 
+gtag('js', new Date());
+gtag('config', 'G-ZGPJPS5L54');
 </script>
 
 </body>
