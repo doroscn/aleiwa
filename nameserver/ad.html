@@ -121,12 +121,7 @@
 <script src="/assets/js/main.js"></script>
 
 <script>
-function getCountryCode() {
-	const code = window.location.pathname.split('/').pop().replace('.html','') || 'unknown';
-    return match ? match[1].toLowerCase() : 'unknown';
-}
-
-const code = getCountryCode();
+const code = window.location.pathname.split('/').pop().replace('.html','') || 'unknown';
 let allData = [];
 let showAll = false;
 
