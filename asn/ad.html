@@ -107,9 +107,11 @@ let showAll = false;
 // UI controls
 const controlsDiv = document.getElementById('controls');
 const filterInput = document.createElement('input');
+filterInput.type = 'text';
 filterInput.placeholder = 'Filter by AS Number (e.g. 13335)';
 filterInput.id = 'asnFilter';
-filterInput.style.marginRight = '10px';
+filterInput.style.display = 'block';
+filterInput.style.marginBottom = '10px';
 
 const toggleBtn = document.createElement('button');
 toggleBtn.textContent = 'Show All';
