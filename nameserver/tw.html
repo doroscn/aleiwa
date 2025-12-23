@@ -1,0 +1,204 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <title>Public DNS Servers in Taiwan | Aleiwa DNS Tools</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="description" content="Explore public DNS servers in Taiwan, including IP addresses, ASN information, availability and last check time.">
+    <meta name="keywords" content="public dns, dns servers, aleiwa, globe dns, dns list, dns ranking">
+    <meta name="google-adsense-account" content="ca-pub-6600663344964826">
+    <meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
+    <meta property="og:title" content="Public DNS Servers in Taiwan - Aleiwa">
+    <meta property="og:description" content="Verified public DNS servers list in Taiwan.">
+    <meta property="og:url" content="https://www.aleiwa.com/nameserver/tw.html">
+    <meta property="og:image" content="https://www.aleiwa.com/images/favicon-96x96.png">
+    <meta name="twitter:title" content="Public DNS in Taiwan - Aleiwa">
+    <meta name="twitter:description" content="Explore public DNS server data in Taiwan.">
+    <link rel="canonical" href="https://www.aleiwa.com/nameserver/tw.html">
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="icon" href="/images/favicon-96x96.png" type="image/png">
+    <link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
+    <noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+</head>
+
+<body class="is-preload">
+<div id="wrapper">
+
+    <!-- Header -->
+    <header id="header">
+        <div class="inner">
+            <a href="/index.html" class="logo">
+                <span class="symbol">
+                    <img src="/images/logo2.svg" alt="" />
+                </span>
+                <span class="title">Aleiwa</span>
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="#menu">Menu</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Menu -->
+    <nav id="menu">
+        <h2>Menu</h2>
+        <ul>
+            <li><a href="/index.html">Home</a></li>
+            <li><a href="/topisps.html">Top ISPs</a></li>
+            <li><a href="/dns.html">Public DNS</a></li>
+            <li><a href="/blog/index.html">Blog</a></li>
+            <li><a href="/privacy.html">Privacy</a></li>
+            <li><a href="/about.html">About</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main -->
+    <div id="main">
+        <div class="inner">
+
+            <h1 id="countryTitle">Public DNS Servers</h1>
+
+            <span class="image main">
+                <img src="/images/pic13.webp" alt="" />
+            </span>
+
+            <!-- Controls -->
+            <div id="controls" style="margin-bottom: 1em;">
+                <input
+                    type="text"
+                    id="asnFilter"
+                    placeholder="Filter by ASN (e.g. 13335)"
+                    style="display:block;margin-bottom:10px;"
+                />
+                <button id="toggleRows">Show All</button>
+            </div>
+
+            <!-- Table -->
+            <table id="dnsTable">
+                <thead>
+                <tr>
+                    <th>IP</th>
+                    <th>Domain Name</th>
+                    <th>ASN</th>
+                    <th>AS Organization</th>
+                    <th>Country</th>
+                    <th>Available</th>
+                    <th>Last Checked</th>
+                </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <section>
+                <h2>Follow</h2>
+                <ul class="icons">
+                    <li><a href="https://x.com/AleiwaTool" class="icon brands style2 fa-twitter"></a></li>
+                    <li><a href="https://github.com/aleiwa-network" class="icon brands style2 fa-github"></a></li>
+                    <li><a href="mailto:jash_zheng@gmail.com" class="icon solid style2 fa-envelope"></a></li>
+                </ul>
+            </section>
+            <ul class="copyright">
+                <li>&copy; 2025 Aleiwa Network Tools</li>
+            </ul>
+        </div>
+    </footer>
+
+</div>
+
+<!-- Scripts -->
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/browser.min.js"></script>
+<script src="/assets/js/breakpoints.min.js"></script>
+<script src="/assets/js/util.js"></script>
+<script src="/assets/js/main.js"></script>
+
+<script>
+const code = window.location.pathname.split('/').pop().replace('.html','') || 'unknown';
+let allData = [];
+let showAll = false;
+
+/* controls */
+document.getElementById('asnFilter').addEventListener('input', render);
+document.getElementById('toggleRows').addEventListener('click', () => {
+    showAll = !showAll;
+    document.getElementById('toggleRows').textContent =
+        showAll ? 'Show Top 100' : 'Show All';
+    render();
+});
+
+/* load country name + dns json */
+fetch('/data/country_map.json')
+    .then(r => r.json())
+    .then(map => {
+        const country = (map && map[code]) || 'Unknown';
+
+        document.getElementById('countryTitle').textContent =
+            `Public DNS Servers in ${country}`;
+
+        return fetch(`/dnsselect/${code}.json`)
+            .then(r => {
+                if (!r.ok) throw new Error('DNS JSON not found');
+                return r.json();
+            });
+    })
+    .then(data => {
+        allData = data || [];
+        render();
+    })
+    .catch(err => {
+        console.error(err);
+    });
+
+function render() {
+    const tbody = document.querySelector('#dnsTable tbody');
+    const filter = document.getElementById('asnFilter').value.trim();
+
+    let list = allData;
+
+    if (filter) {
+        list = list.filter(i =>
+            String(i.as_number || '').includes(filter)
+        );
+    }
+
+    if (!showAll) {
+        list = list.slice(0, 100);
+    }
+
+    tbody.innerHTML = '';
+
+    list.forEach(i => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+            <td>${i.ip}</td>
+            <td>${i.name || '-'}</td>
+            <td>${i.as_number}</td>
+            <td>${i.as_org}</td>
+            <td>${i.country_id}</td>
+            <td>${i.available}</td>
+            <td>${new Date(i.checked_at).toLocaleString()}</td>
+        `;
+        tbody.appendChild(tr);
+    });
+}
+</script>
+
+<!-- Google tag -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZGPJPS5L54"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-ZGPJPS5L54');
+</script>
+
+</body>
+</html>
