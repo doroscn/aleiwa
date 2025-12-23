@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Top ASNs in Andorra | Aleiwa Network Tools</title>
+    <meta charset="utf-8" />
+	<meta name="description" content="Explore top ASNs in Andorra, including ISP rankings and network statistics.">
+    <meta name="keywords" content="ASN ranking, top ASN list, ISP ranking, network ASN" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="google-adsense-account" content="ca-pub-6600663344964826" />
+	<meta property="og:title" content="Top ASNs in Andorra - Aleiwa">
+	<meta property="og:description" content="View ASN ranking and ISP information in Andorra.">
+	<meta property="og:image" content="https://www.aleiwa.com/images/favicon-96x96.png">
+	<meta property="og:url" content="https://www.aleiwa.com/asn/ad.html">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Top ASNs in Andorra - Aleiwa">
+	<meta name="twitter:description" content="ASN ranking and ISP statistics in Andorra.">
+	<link rel="canonical" href="https://www.aleiwa.com/asn/ad.html">
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="icon" href="/images/favicon-96x96.png" type="image/png">
+    <link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
+</head>
+
+<body class="is-preload">
+<div id="wrapper">
+
+<header id="header">
+    <div class="inner">
+        <a href="/index.html" class="logo">
+            <span class="symbol"><img src="/images/logo2.svg" alt="" /></span>
+            <span class="title">Aleiwa</span>
+        </a>
+    </div>
+</header>
+
+<div id="main">
+    <div class="inner">
+        <h1 id="countryTitle">Top ASNs</h1>
+        <p>Data updated: <span id="date"></span></p>
+
+        <table>
+            <thead>
+            <tr>
+                <th>Rank</th>
+                <th>AS</th>
+                <th>Description</th>
+                <th>% of CC Population</th>
+                <th>% of Internet</th>
+            </tr>
+            </thead>
+            <tbody id="asnTable"></tbody>
+        </table>
+    </div>
+</div>
+
+<footer id="footer">
+    <div class="inner">
+        <ul class="copyright">
+            <li>&copy; 2025 Aleiwa Network Tools</li>
+        </ul>
+    </div>
+</footer>
+
+</div>
+
+<script>
+const code = window.location.pathname
+    .split('/')
+    .pop()
+    .replace('.html', '') || 'unknown';
+
+let allAsnData = [];
+let showAll = false;
+
+fetch('/data/country_map.json')
+    .then(res => res.json())
+    .then(countryMap => {
+        const countryName = countryMap[code] || 'Unknown Country';
+
+        // Title
+        document.title = `Top ASNs in ${countryName} | Aleiwa Network Tools`;
+        document.getElementById('countryTitle').innerText = `Top ASNs in ${countryName}`;
+
+        // Meta description
+        document.querySelector('meta[name="description"]').setAttribute(
+            'content',
+            `Explore top ASNs in ${countryName}, including ISP rankings and network statistics.`
+        );
+
+        // OG
+        document.querySelector('meta[property="og:title"]').setAttribute(
+            'content',
+            `Top ASNs in ${countryName} - Aleiwa`
+        );
+        document.querySelector('meta[property="og:description"]').setAttribute(
+            'content',
+            `View ASN ranking and ISP information in ${countryName}.`
+        );
+        document.querySelector('meta[property="og:url"]').setAttribute(
+            'content',
+            `https://www.aleiwa.com/asn/${code}.html`
+        );
+
+        // Twitter
+        document.querySelector('meta[name="twitter:title"]').setAttribute(
+            'content',
+            `Top ASNs in ${countryName} - Aleiwa`
+        );
+        document.querySelector('meta[name="twitter:description"]').setAttribute(
+            'content',
+            `ASN ranking and ISP statistics in ${countryName}.`
+        );
+
+        return fetch(`/asn/country_data/${code}.json`);
+    })
+    .then(res => res.json())
+    .then(data => {
+        document.getElementById('date').innerText = data.Date;
+        allAsnData = data.Data;
+        renderTable();
+    });
+
+function renderTable() {
+    const tbody = document.getElementById('asnTable');
+    tbody.innerHTML = '';
+
+    allAsnData.slice(0, showAll ? allAsnData.length : 20).forEach(item => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+            <td>${item.rank}</td>
+            <td>${item.AS}</td>
+            <td>${item.Description}</td>
+            <td>${item['Percent of CC Pop']}</td>
+            <td>${item['Percent of Internet']}</td>
+        `;
+        tbody.appendChild(tr);
+    });
+}
+</script>
+
+</body>
+</html>
