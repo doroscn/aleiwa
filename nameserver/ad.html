@@ -122,7 +122,7 @@
 
 <script>
 function getCountryCode() {
-    const match = window.location.pathname.match(/\/dnsselect\/([a-z]{2})\.html$/i);
+	const code = window.location.pathname.split('/').pop().replace('.html','') || 'unknown';
     return match ? match[1].toLowerCase() : 'unknown';
 }
 
