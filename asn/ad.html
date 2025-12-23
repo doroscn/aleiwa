@@ -52,7 +52,21 @@
 <div id="main">
 	<div class="inner">
 		<h1 id="countryTitle">Top ASNs</h1>
-		<span class="image main"><img src="/images/pic13.jpg" alt="" /></span>
+		<p>
+		This page provides an overview of the top Autonomous System Numbers (ASNs) in
+		<span id="countryNameInline2"></span>, based on observed network presence and IP distribution data.
+		ASNs represent individual network operators such as ISPs, mobile carriers, and cloud providers.
+		</p>
+		<p>
+		The ranking helps network engineers, CDN operators, and researchers better understand
+		how internet connectivity is structured within the country, including operator dominance
+		and routing distribution.
+		</p>
+		<p>
+		All data is maintained by Aleiwa Network Tools and updated regularly using public routing
+		information and active network measurement sources.
+		</p>
+		
 		<p>Data updated: <span id="date"></span></p>
 
 		<div id="controls" style="margin-bottom:1em"></div>
@@ -131,6 +145,7 @@ fetch('/data/country_map.json')
 	.then(map=>{
 		const country = map[code] || 'Unknown Country';
 		document.getElementById('countryTitle').innerText = `Top ASNs in ${country}`;
+		updateCountryText(country);
 		return fetch(`/asn/country_data/${code}.json`);
 	})
 	.then(r=>r.json())
@@ -152,6 +167,16 @@ function filterAndRender(){
 		tbody.appendChild(tr);
 	});
 }
+
+function updateCountryText(country) {
+  const ids = ['countryNameInline', 'countryNameInline2'];
+
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.innerText = country;
+  });
+}
+
 </script>
 
 <!-- Google Analytics -->
