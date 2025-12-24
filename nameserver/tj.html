@@ -63,7 +63,12 @@
             <span class="image main">
                 <img src="/images/pic13.webp" alt="" />
             </span>
-
+            <p class="page-intro">
+                This page lists publicly reachable DNS servers located in 
+                <strong><span id="countryNameInline2"></span></strong>.
+                All DNS servers are tested for availability and responsiveness 
+                to help users identify reliable resolvers within the country.
+            </p>
             <!-- Controls -->
             <div id="controls" style="margin-bottom: 1em;">
                 <input
@@ -90,7 +95,40 @@
                 </thead>
                 <tbody></tbody>
             </table>
+            <h2>Why DNS performance matters in <span id="countryNameInline"></span></h2>
+            <p>
+            DNS resolution speed and reliability directly affect website loading time, 
+            application responsiveness, and overall internet experience.
+            </p>
+            <ul>
+                <li>Faster DNS responses reduce page load latency</li>
+                <li>Reliable resolvers improve connection stability</li>
+                <li>Local DNS servers often provide better routing results</li>
+                <li>Redundant DNS options enhance fault tolerance</li>
+            </ul>
 
+            <h2>Data sources and testing methodology</h2>
+            <p>
+            The DNS server data on Aleiwa is collected and maintained through a combination of 
+            public datasets and active network probing.
+            </p>
+            <ul>
+                <li>Public DNS IP datasets and operator disclosures</li>
+                <li>Regular availability checks using standard DNS queries</li>
+                <li>Geolocation and ASN mapping based on IP intelligence data</li>
+                <li>Ongoing validation to remove inactive or unreachable servers</li>
+            </ul>
+            <p>
+            DNS servers marked as available have responded successfully during the most recent checks.
+            </p>
+
+            <h2>Common use cases</h2>
+            <ul>
+                <li>Improving DNS resolution speed for local users</li>
+                <li>Testing ISP DNS behavior and routing policies</li>
+                <li>Network diagnostics and troubleshooting</li>
+                <li>Academic and infrastructure research</li>
+            </ul>
         </div>
     </div>
 
@@ -142,6 +180,7 @@ fetch('/data/country_map.json')
 
         document.getElementById('countryTitle').textContent =
             `Public DNS Servers in ${country}`;
+        updateCountryText(country);
 
         return fetch(`/dnsselect/${code}.json`)
             .then(r => {
@@ -188,6 +227,12 @@ function render() {
         `;
         tbody.appendChild(tr);
     });
+}
+function updateCountryText(country) {
+  ['countryNameInline', 'countryNameInline2'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.innerText = country;
+  });
 }
 </script>
 
