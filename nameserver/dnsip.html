@@ -155,7 +155,7 @@
 					.then(response => response.json())
 					.then(countryMap => {
 						const countryName = countryMap[code] || countryMap['unknown'];
-						updateCountryText(country);
+						updateCountryText(countryName);
 
             		    //meta / title / OG / Twitter
           			    document.title = `Public DNS Servers in ${countryName} - Aleiwa DNS Tools`;
@@ -209,7 +209,7 @@
 						tableBody.appendChild(row);
 					});
 				}
-				function updateCountryText(country) {
+				function updateCountryText(countryName) {
 					['countryNameInline', 'countryNameInline2'].forEach(id => {
 						const el = document.getElementById(id);
 						if (el) el.innerText = country;
