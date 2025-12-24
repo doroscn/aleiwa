@@ -64,7 +64,6 @@
 						<th>AS</th>
 						<th>Description</th>
 						<th>% of CC Population</th>
-						<th>% of Internet</th>
 					</tr>
 					</thead>
 					<tbody id="asnTable"></tbody>
@@ -217,7 +216,7 @@ function filterAndRender(){
 	tbody.innerHTML='';
 	display.forEach(item=>{
 		const tr=document.createElement('tr');
-		tr.innerHTML=`<td>${item.rank}</td><td>${item.AS}</td><td>${item.Description}</td><td>${item['Percent of CC Pop']}</td><td>${item['Percent of Internet']}</td>`;
+		tr.innerHTML=`<td>${item.rank}</td><td>${item.AS}</td><td>${item.Description}</td><td>${item['Percent of CC Pop']}</td>`;
 		tbody.appendChild(tr);
 	});
 }
