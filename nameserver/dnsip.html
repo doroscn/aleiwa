@@ -209,6 +209,12 @@
 						tableBody.appendChild(row);
 					});
 				}
+				function updateCountryText(country) {
+					['countryNameInline', 'countryNameInline2'].forEach(id => {
+						const el = document.getElementById(id);
+						if (el) el.innerText = country;
+					});
+				}
 			</script>
 
 			<!-- Google tag (gtag.js) -->
