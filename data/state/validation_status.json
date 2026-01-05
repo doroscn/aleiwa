@@ -1025,12 +1025,6 @@
     "index": 27
   },
   {
-    "country_id": "dz",
-    "checked_at": "2025-12-05T00:52:00Z",
-    "ip_availability_ratio%": 30.77,
-    "index": 2
-  },
-  {
     "country_id": "io",
     "checked_at": "2025-12-06T00:48:19Z",
     "ip_availability_ratio%": 0.00,
@@ -1197,5 +1191,11 @@
     "checked_at": "2026-01-05T03:24:05Z",
     "ip_availability_ratio%": 83.93,
     "index": 1
+  },
+  {
+    "country_id": "dz",
+    "checked_at": "2026-01-05T03:36:48Z",
+    "ip_availability_ratio%": 23.08,
+    "index": 2
   }
 ]
