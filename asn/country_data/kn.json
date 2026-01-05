@@ -1,18 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"KN","Users":19714,"Percent of CC Pop":43.00,"Percent of Internet":0.0005,"Samples":66214},
-{"rank":2,"AS":36290,"Description":"THECABLE-STKITTS-01","CC":"KN","Users":15331,"Percent of CC Pop":33.44,"Percent of Internet":0.0004,"Samples":50293},
-{"rank":3,"AS":398228,"Description":"STKITS","CC":"KN","Users":5182,"Percent of CC Pop":11.30,"Percent of Internet":0.0001,"Samples":17455},
-{"rank":4,"AS":14813,"Description":"BB-COLUMBUS","CC":"KN","Users":3748,"Percent of CC Pop":8.18,"Percent of Internet":0.0001,"Samples":1585},
-{"rank":5,"AS":33576,"Description":"DIG001","CC":"KN","Users":736,"Percent of CC Pop":1.61,"Percent of Internet":0.0000,"Samples":78},
-{"rank":6,"AS":397382,"Description":"ECCB-CENTRALBANK","CC":"KN","Users":372,"Percent of CC Pop":0.81,"Percent of Internet":0.0000,"Samples":157},
-{"rank":7,"AS":174,"Description":"COGENT-174","CC":"KN","Users":335,"Percent of CC Pop":0.73,"Percent of Internet":0.0000,"Samples":133},
-{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KN","Users":80,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":10},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"KN","Users":79,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":50},
-{"rank":10,"AS":36183,"Description":"AKAMAI-AS","CC":"KN","Users":51,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":23}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139","CC":"KN","Users":19936,"Percent of CC Pop":43.49,"Percent of Internet":0.0005,"Samples":70266},
+{"rank":2,"AS":36290,"Description":"THECABLE-STKITTS-01","CC":"KN","Users":15668,"Percent of CC Pop":34.18,"Percent of Internet":0.0004,"Samples":54071},
+{"rank":3,"AS":398228,"Description":"STKITS","CC":"KN","Users":4636,"Percent of CC Pop":10.11,"Percent of Internet":0.0001,"Samples":16625},
+{"rank":4,"AS":14813,"Description":"BB-COLUMBUS","CC":"KN","Users":3207,"Percent of CC Pop":7.00,"Percent of Internet":0.0001,"Samples":2896},
+{"rank":5,"AS":397382,"Description":"ECCB-CENTRALBANK","CC":"KN","Users":159,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":86},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"KN","Users":80,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":42},
+{"rank":7,"AS":174,"Description":"COGENT-174","CC":"KN","Users":77,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":28},
+{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KN","Users":67,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":13},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS","CC":"KN","Users":47,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":20}
   ]
 }

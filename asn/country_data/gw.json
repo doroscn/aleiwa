@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":327769,"Description":"MTN-Bissau","CC":"GW","Users":87542,"Percent of CC Pop":105.73,"Percent of Internet":0.0021,"Samples":67550},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GW","Users":22635,"Percent of CC Pop":27.34,"Percent of Internet":0.0005,"Samples":4289},
-{"rank":3,"AS":13335,"Description":"CLOUDFLARENET","CC":"GW","Users":3093,"Percent of CC Pop":3.74,"Percent of Internet":0.0001,"Samples":185}
+{"rank":1,"AS":327769,"Description":"MTN-Bissau","CC":"GW","Users":81651,"Percent of CC Pop":98.61,"Percent of Internet":0.0020,"Samples":71967},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GW","Users":22524,"Percent of CC Pop":27.20,"Percent of Internet":0.0005,"Samples":10585},
+{"rank":3,"AS":13335,"Description":"CLOUDFLARENET","CC":"GW","Users":2630,"Percent of CC Pop":3.18,"Percent of Internet":0.0001,"Samples":865}
   ]
 }

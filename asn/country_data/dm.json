@@ -1,18 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":40945,"Description":"SATTEL","CC":"DM","Users":26402,"Percent of CC Pop":49.55,"Percent of Internet":0.0006,"Samples":105985},
-{"rank":2,"AS":11139,"Description":"CWC-ROC-11139","CC":"DM","Users":18108,"Percent of CC Pop":33.98,"Percent of Internet":0.0004,"Samples":72430},
-{"rank":3,"AS":14813,"Description":"BB-COLUMBUS","CC":"DM","Users":9963,"Percent of CC Pop":18.70,"Percent of Internet":0.0002,"Samples":31078},
-{"rank":4,"AS":33582,"Description":"DIGICEL-OECS","CC":"DM","Users":1581,"Percent of CC Pop":2.97,"Percent of Internet":0.0000,"Samples":6323},
-{"rank":5,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"DM","Users":718,"Percent of CC Pop":1.35,"Percent of Internet":0.0000,"Samples":2508},
-{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK","CC":"DM","Users":206,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":236},
-{"rank":7,"AS":399915,"Description":"EPIC-COMMUNICATIONS","CC":"DM","Users":179,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":461},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS","CC":"DM","Users":52,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":16},
-{"rank":9,"AS":39572,"Description":"ADVANCEDHOSTERS-AS","CC":"DM","Users":47,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":12},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"DM","Users":46,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":39}
+{"rank":1,"AS":40945,"Description":"SATTEL","CC":"DM","Users":26148,"Percent of CC Pop":49.07,"Percent of Internet":0.0006,"Samples":101456},
+{"rank":2,"AS":11139,"Description":"CWC-ROC-11139","CC":"DM","Users":17537,"Percent of CC Pop":32.91,"Percent of Internet":0.0004,"Samples":67024},
+{"rank":3,"AS":14813,"Description":"BB-COLUMBUS","CC":"DM","Users":10477,"Percent of CC Pop":19.66,"Percent of Internet":0.0003,"Samples":34169},
+{"rank":4,"AS":33582,"Description":"DIGICEL-OECS","CC":"DM","Users":1560,"Percent of CC Pop":2.93,"Percent of Internet":0.0000,"Samples":6019},
+{"rank":5,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"DM","Users":807,"Percent of CC Pop":1.51,"Percent of Internet":0.0000,"Samples":3001},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK","CC":"DM","Users":320,"Percent of CC Pop":0.60,"Percent of Internet":0.0000,"Samples":500},
+{"rank":7,"AS":399915,"Description":"EPIC-COMMUNICATIONS","CC":"DM","Users":118,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":266},
+{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"DM","Users":43,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":11},
+{"rank":9,"AS":39572,"Description":"ADVANCEDHOSTERS-AS","CC":"DM","Users":41,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":18},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"DM","Users":37,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":30}
   ]
 }

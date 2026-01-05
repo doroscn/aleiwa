@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TV","Users":5727,"Percent of CC Pop":87.69,"Percent of Internet":0.0001,"Samples":14506},
-{"rank":2,"AS":23917,"Description":"TTC-AS-AP Tuvalu Telecommunications Corporation","CC":"TV","Users":556,"Percent of CC Pop":8.51,"Percent of Internet":0.0000,"Samples":1349},
-{"rank":3,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TV","Users":173,"Percent of CC Pop":2.65,"Percent of Internet":0.0000,"Samples":31}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"TV","Users":5654,"Percent of CC Pop":86.57,"Percent of Internet":0.0001,"Samples":13215},
+{"rank":2,"AS":23917,"Description":"TTC-AS-AP Tuvalu Telecommunications Corporation","CC":"TV","Users":713,"Percent of CC Pop":10.92,"Percent of Internet":0.0000,"Samples":1613},
+{"rank":3,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TV","Users":134,"Percent of CC Pop":2.05,"Percent of Internet":0.0000,"Samples":30}
   ]
 }

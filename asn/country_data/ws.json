@@ -1,16 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":38800,"Description":"DIGICELSAMOA-WS-AS-AP Digicel Samoa Ltd","CC":"WS","Users":58849,"Percent of CC Pop":71.95,"Percent of Internet":0.0014,"Samples":103074},
-{"rank":2,"AS":17993,"Description":"VODAFONESAMOA-AS-AP Vodafone Samoa Limited","CC":"WS","Users":29969,"Percent of CC Pop":36.64,"Percent of Internet":0.0007,"Samples":53386},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"WS","Users":4015,"Percent of CC Pop":4.91,"Percent of Internet":0.0001,"Samples":6518},
-{"rank":4,"AS":150321,"Description":"SOTPREP-AS-AP Secretariat of the Pacific Regional Environment Programme","CC":"WS","Users":1127,"Percent of CC Pop":1.38,"Percent of Internet":0.0000,"Samples":35},
-{"rank":5,"AS":153053,"Description":"LTSCL-AS-AP Lesamoa.net","CC":"WS","Users":217,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":119},
-{"rank":6,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"WS","Users":145,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":21},
-{"rank":7,"AS":38227,"Description":"CSLSAMOA-WS-AS-AP Computer Services Limited CSL","CC":"WS","Users":124,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":93},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"WS","Users":85,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":17}
+{"rank":1,"AS":38800,"Description":"DIGICELSAMOA-WS-AS-AP Digicel Samoa Ltd","CC":"WS","Users":59384,"Percent of CC Pop":72.60,"Percent of Internet":0.0014,"Samples":92459},
+{"rank":2,"AS":17993,"Description":"VODAFONESAMOA-AS-AP Vodafone Samoa Limited","CC":"WS","Users":30478,"Percent of CC Pop":37.26,"Percent of Internet":0.0007,"Samples":46849},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"WS","Users":5168,"Percent of CC Pop":6.32,"Percent of Internet":0.0001,"Samples":7815},
+{"rank":4,"AS":150321,"Description":"SOTPREP-AS-AP Secretariat of the Pacific Regional Environment Programme","CC":"WS","Users":1162,"Percent of CC Pop":1.42,"Percent of Internet":0.0000,"Samples":36},
+{"rank":5,"AS":153053,"Description":"LTSCL-AS-AP Lesamoa.net","CC":"WS","Users":214,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":94},
+{"rank":6,"AS":38227,"Description":"CSLSAMOA-WS-AS-AP Computer Services Limited CSL","CC":"WS","Users":161,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":105},
+{"rank":7,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"WS","Users":149,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":12},
+{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"WS","Users":142,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":14},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"WS","Users":82,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":20}
   ]
 }

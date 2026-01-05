@@ -1,20 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14434,"Description":"VIPNAS1","CC":"VI","Users":50792,"Percent of CC Pop":66.40,"Percent of Internet":0.0012,"Samples":135636},
-{"rank":2,"AS":22581,"Description":"ACE-STX","CC":"VI","Users":8607,"Percent of CC Pop":11.25,"Percent of Internet":0.0002,"Samples":20900},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VI","Users":6377,"Percent of CC Pop":8.34,"Percent of Internet":0.0002,"Samples":17083},
-{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK","CC":"VI","Users":2907,"Percent of CC Pop":3.80,"Percent of Internet":0.0001,"Samples":7195},
-{"rank":5,"AS":11139,"Description":"CWC-ROC-11139","CC":"VI","Users":604,"Percent of CC Pop":0.79,"Percent of Internet":0.0000,"Samples":232},
-{"rank":6,"AS":400099,"Description":"SMART-NET-01","CC":"VI","Users":584,"Percent of CC Pop":0.76,"Percent of Internet":0.0000,"Samples":842},
-{"rank":7,"AS":20243,"Description":"U","CC":"VI","Users":403,"Percent of CC Pop":0.53,"Percent of Internet":0.0000,"Samples":728},
-{"rank":8,"AS":53248,"Description":"LIMETREE-ASN","CC":"VI","Users":278,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":11},
-{"rank":9,"AS":36183,"Description":"AKAMAI-AS","CC":"VI","Users":161,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":56},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"VI","Users":154,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":139},
-{"rank":11,"AS":400741,"Description":"ADM-TECH-01","CC":"VI","Users":154,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":216},
-{"rank":12,"AS":3356,"Description":"LEVEL3","CC":"VI","Users":146,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":58}
+{"rank":1,"AS":14434,"Description":"VIPNAS1","CC":"VI","Users":50166,"Percent of CC Pop":65.58,"Percent of Internet":0.0012,"Samples":145805},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VI","Users":8511,"Percent of CC Pop":11.13,"Percent of Internet":0.0002,"Samples":23826},
+{"rank":3,"AS":22581,"Description":"ACE-STX","CC":"VI","Users":8067,"Percent of CC Pop":10.55,"Percent of Internet":0.0002,"Samples":22942},
+{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK","CC":"VI","Users":2901,"Percent of CC Pop":3.79,"Percent of Internet":0.0001,"Samples":8400},
+{"rank":5,"AS":11139,"Description":"CWC-ROC-11139","CC":"VI","Users":445,"Percent of CC Pop":0.58,"Percent of Internet":0.0000,"Samples":458},
+{"rank":6,"AS":400099,"Description":"SMART-NET-01","CC":"VI","Users":415,"Percent of CC Pop":0.54,"Percent of Internet":0.0000,"Samples":814},
+{"rank":7,"AS":20243,"Description":"U","CC":"VI","Users":340,"Percent of CC Pop":0.44,"Percent of Internet":0.0000,"Samples":725},
+{"rank":8,"AS":400741,"Description":"ADM-TECH-01","CC":"VI","Users":325,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":525},
+{"rank":9,"AS":3356,"Description":"LEVEL3","CC":"VI","Users":153,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":96},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"VI","Users":87,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":116},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS","CC":"VI","Users":78,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":56}
   ]
 }

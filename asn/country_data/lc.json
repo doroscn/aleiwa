@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15344,"Description":"ASN15344-SLU","CC":"LC","Users":72922,"Percent of CC Pop":67.97,"Percent of Internet":0.0017,"Samples":300999},
-{"rank":2,"AS":33582,"Description":"DIGICEL-OECS","CC":"LC","Users":29770,"Percent of CC Pop":27.75,"Percent of Internet":0.0007,"Samples":123219},
-{"rank":3,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"LC","Users":884,"Percent of CC Pop":0.82,"Percent of Internet":0.0000,"Samples":2884},
-{"rank":4,"AS":11139,"Description":"CWC-ROC-11139","CC":"LC","Users":263,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":96},
-{"rank":5,"AS":14813,"Description":"BB-COLUMBUS","CC":"LC","Users":197,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":193},
-{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LC","Users":194,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":241},
-{"rank":7,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"LC","Users":74,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":12},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"LC","Users":69,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":64},
+{"rank":1,"AS":15344,"Description":"ASN15344-SLU","CC":"LC","Users":68461,"Percent of CC Pop":63.82,"Percent of Internet":0.0016,"Samples":299716},
+{"rank":2,"AS":33582,"Description":"DIGICEL-OECS","CC":"LC","Users":31123,"Percent of CC Pop":29.01,"Percent of Internet":0.0007,"Samples":134777},
+{"rank":3,"AS":14813,"Description":"BB-COLUMBUS","CC":"LC","Users":7212,"Percent of CC Pop":6.72,"Percent of Internet":0.0002,"Samples":11747},
+{"rank":4,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"LC","Users":2901,"Percent of CC Pop":2.70,"Percent of Internet":0.0001,"Samples":11351},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LC","Users":316,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":676},
+{"rank":6,"AS":11139,"Description":"CWC-ROC-11139","CC":"LC","Users":246,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":97},
+{"rank":7,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"LC","Users":54,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":17},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"LC","Users":54,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":57},
 {"rank":9,"AS":15169,"Description":"GOOGLE","CC":"LC","Users":48,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":11},
-{"rank":10,"AS":36183,"Description":"AKAMAI-AS","CC":"LC","Users":46,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":16},
-{"rank":11,"AS":397961,"Description":"GOVERNMENT-OF-SAINT-LUCIA","CC":"LC","Users":43,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":14}
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS","CC":"LC","Users":42,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":19},
+{"rank":11,"AS":397961,"Description":"GOVERNMENT-OF-SAINT-LUCIA","CC":"LC","Users":39,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

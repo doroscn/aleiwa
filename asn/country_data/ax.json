@@ -1,13 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3238,"Description":"ALCOM","CC":"AX","Users":13761,"Percent of CC Pop":86.24,"Percent of Internet":0.0003,"Samples":30159},
-{"rank":2,"AS":200134,"Description":"IPCONNECT","CC":"AX","Users":2149,"Percent of CC Pop":13.47,"Percent of Internet":0.0001,"Samples":4285},
+{"rank":1,"AS":3238,"Description":"ALCOM","CC":"AX","Users":14212,"Percent of CC Pop":89.06,"Percent of Internet":0.0003,"Samples":35729},
+{"rank":2,"AS":200134,"Description":"IPCONNECT","CC":"AX","Users":1704,"Percent of CC Pop":10.68,"Percent of Internet":0.0000,"Samples":4334},
 {"rank":3,"AS":13335,"Description":"CLOUDFLARENET","CC":"AX","Users":486,"Percent of CC Pop":3.05,"Percent of Internet":0.0000,"Samples":10},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"AX","Users":185,"Percent of CC Pop":1.16,"Percent of Internet":0.0000,"Samples":25},
-{"rank":5,"AS":41878,"Description":"CROSSKEY-AS","CC":"AX","Users":125,"Percent of CC Pop":0.78,"Percent of Internet":0.0000,"Samples":51}
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"AX","Users":161,"Percent of CC Pop":1.01,"Percent of Internet":0.0000,"Samples":26},
+{"rank":5,"AS":41878,"Description":"CROSSKEY-AS","CC":"AX","Users":99,"Percent of CC Pop":0.62,"Percent of Internet":0.0000,"Samples":45}
   ]
 }

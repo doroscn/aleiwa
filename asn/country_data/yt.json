@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":49902,"Description":"SRR-AS","CC":"YT","Users":98434,"Percent of CC Pop":65.60,"Percent of Internet":0.0024,"Samples":35570},
-{"rank":2,"AS":202023,"Description":"OSP-AS","CC":"YT","Users":48976,"Percent of CC Pop":32.64,"Percent of Internet":0.0012,"Samples":16816},
-{"rank":3,"AS":3215,"Description":"France Telecom - Orange","CC":"YT","Users":22713,"Percent of CC Pop":15.14,"Percent of Internet":0.0005,"Samples":8704},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"YT","Users":16402,"Percent of CC Pop":10.93,"Percent of Internet":0.0004,"Samples":6017},
-{"rank":5,"AS":37614,"Description":"STOI-AS","CC":"YT","Users":8574,"Percent of CC Pop":5.71,"Percent of Internet":0.0002,"Samples":3016},
-{"rank":6,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"YT","Users":2475,"Percent of CC Pop":1.65,"Percent of Internet":0.0001,"Samples":626},
+{"rank":1,"AS":49902,"Description":"SRR-AS","CC":"YT","Users":100999,"Percent of CC Pop":67.31,"Percent of Internet":0.0024,"Samples":28431},
+{"rank":2,"AS":202023,"Description":"OSP-AS","CC":"YT","Users":50081,"Percent of CC Pop":33.38,"Percent of Internet":0.0012,"Samples":14362},
+{"rank":3,"AS":3215,"Description":"France Telecom - Orange","CC":"YT","Users":20760,"Percent of CC Pop":13.84,"Percent of Internet":0.0005,"Samples":6089},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"YT","Users":14816,"Percent of CC Pop":9.87,"Percent of Internet":0.0004,"Samples":4152},
+{"rank":5,"AS":37614,"Description":"STOI-AS","CC":"YT","Users":9172,"Percent of CC Pop":6.11,"Percent of Internet":0.0002,"Samples":2549},
+{"rank":6,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"YT","Users":2702,"Percent of CC Pop":1.80,"Percent of Internet":0.0001,"Samples":552},
 {"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"YT","Users":1450,"Percent of CC Pop":0.97,"Percent of Internet":0.0000,"Samples":79}
   ]
 }

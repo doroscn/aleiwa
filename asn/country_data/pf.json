@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9471,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":123159,"Percent of CC Pop":54.58,"Percent of Internet":0.0030,"Samples":132309},
-{"rank":2,"AS":55943,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":54962,"Percent of CC Pop":24.36,"Percent of Internet":0.0013,"Samples":59515},
-{"rank":3,"AS":138179,"Description":"PMT-AS-AP PACIFIC MOBILE TELECOM","CC":"PF","Users":49154,"Percent of CC Pop":21.78,"Percent of Internet":0.0012,"Samples":53808},
-{"rank":4,"AS":56017,"Description":"VITI-AS-PF VITI","CC":"PF","Users":20976,"Percent of CC Pop":9.30,"Percent of Internet":0.0005,"Samples":22963},
-{"rank":5,"AS":139263,"Description":"UDLPF-AS-AP Universite de la Polynesie Francaise","CC":"PF","Users":509,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":67},
-{"rank":6,"AS":36183,"Description":"AKAMAI-AS","CC":"PF","Users":180,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":33},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"PF","Users":172,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":51}
+{"rank":1,"AS":9471,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":120997,"Percent of CC Pop":53.63,"Percent of Internet":0.0029,"Samples":148876},
+{"rank":2,"AS":55943,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":57814,"Percent of CC Pop":25.62,"Percent of Internet":0.0014,"Samples":71058},
+{"rank":3,"AS":138179,"Description":"PMT-AS-AP PACIFIC MOBILE TELECOM","CC":"PF","Users":49947,"Percent of CC Pop":22.14,"Percent of Internet":0.0012,"Samples":61673},
+{"rank":4,"AS":56017,"Description":"VITI-AS-PF VITI","CC":"PF","Users":22548,"Percent of CC Pop":9.99,"Percent of Internet":0.0005,"Samples":27422},
+{"rank":5,"AS":139263,"Description":"UDLPF-AS-AP Universite de la Polynesie Francaise","CC":"PF","Users":170,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":32},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"PF","Users":149,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":55},
+{"rank":7,"AS":36183,"Description":"AKAMAI-AS","CC":"PF","Users":141,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":31}
   ]
 }

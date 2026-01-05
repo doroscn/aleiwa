@@ -1,18 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"GF","Users":84017,"Percent of CC Pop":51.14,"Percent of Internet":0.0020,"Samples":53512},
-{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GF","Users":50086,"Percent of CC Pop":30.49,"Percent of Internet":0.0012,"Samples":32284},
-{"rank":3,"AS":48252,"Description":"DIGICELFWI","CC":"GF","Users":25696,"Percent of CC Pop":15.64,"Percent of Internet":0.0006,"Samples":16172},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GF","Users":16995,"Percent of CC Pop":10.35,"Percent of Internet":0.0004,"Samples":9970},
-{"rank":5,"AS":16028,"Description":"Orange Caraibe","CC":"GF","Users":2929,"Percent of CC Pop":1.78,"Percent of Internet":0.0001,"Samples":1477},
-{"rank":6,"AS":263175,"Description":"GUYACOM","CC":"GF","Users":2174,"Percent of CC Pop":1.32,"Percent of Internet":0.0001,"Samples":1050},
-{"rank":7,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"GF","Users":1938,"Percent of CC Pop":1.18,"Percent of Internet":0.0000,"Samples":739},
-{"rank":8,"AS":36511,"Description":"NETDT-GUA","CC":"GF","Users":650,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":37},
-{"rank":9,"AS":27806,"Description":"WAYSCOM","CC":"GF","Users":513,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":33},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"GF","Users":323,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":34}
+{"rank":1,"AS":20776,"Description":"OUTREMER-AS","CC":"GF","Users":93324,"Percent of CC Pop":56.81,"Percent of Internet":0.0022,"Samples":61798},
+{"rank":2,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"GF","Users":50601,"Percent of CC Pop":30.80,"Percent of Internet":0.0012,"Samples":33850},
+{"rank":3,"AS":48252,"Description":"DIGICELFWI","CC":"GF","Users":17557,"Percent of CC Pop":10.69,"Percent of Internet":0.0004,"Samples":10894},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GF","Users":16362,"Percent of CC Pop":9.96,"Percent of Internet":0.0004,"Samples":10097},
+{"rank":5,"AS":16028,"Description":"Orange Caraibe","CC":"GF","Users":2990,"Percent of CC Pop":1.82,"Percent of Internet":0.0001,"Samples":1552},
+{"rank":6,"AS":263175,"Description":"GUYACOM","CC":"GF","Users":2579,"Percent of CC Pop":1.57,"Percent of Internet":0.0001,"Samples":1340},
+{"rank":7,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"GF","Users":1819,"Percent of CC Pop":1.11,"Percent of Internet":0.0000,"Samples":809},
+{"rank":8,"AS":36511,"Description":"NETDT-GUA","CC":"GF","Users":542,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":56},
+{"rank":9,"AS":27806,"Description":"WAYSCOM","CC":"GF","Users":389,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":41},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET","CC":"GF","Users":211,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":19}
   ]
 }

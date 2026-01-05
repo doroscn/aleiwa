@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"NR","Users":4094,"Percent of CC Pop":68.77,"Percent of Internet":0.0001,"Samples":11885},
-{"rank":2,"AS":140504,"Description":"DIGICELNAURU-AS-AP Digicel Nauru Corporation","CC":"NR","Users":2790,"Percent of CC Pop":46.87,"Percent of Internet":0.0001,"Samples":8050},
-{"rank":3,"AS":13335,"Description":"CLOUDFLARENET","CC":"NR","Users":284,"Percent of CC Pop":4.77,"Percent of Internet":0.0000,"Samples":394},
-{"rank":4,"AS":55722,"Description":"CENPAC-AS-AP Cenpac Net Inc","CC":"NR","Users":252,"Percent of CC Pop":4.23,"Percent of Internet":0.0000,"Samples":279},
-{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"NR","Users":89,"Percent of CC Pop":1.50,"Percent of Internet":0.0000,"Samples":24},
-{"rank":6,"AS":141368,"Description":"ICT-NR-AS-AP ICT","CC":"NR","Users":71,"Percent of CC Pop":1.19,"Percent of Internet":0.0000,"Samples":26}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK","CC":"NR","Users":4163,"Percent of CC Pop":69.93,"Percent of Internet":0.0001,"Samples":11275},
+{"rank":2,"AS":140504,"Description":"DIGICELNAURU-AS-AP Digicel Nauru Corporation","CC":"NR","Users":2739,"Percent of CC Pop":46.01,"Percent of Internet":0.0001,"Samples":7576},
+{"rank":3,"AS":13335,"Description":"CLOUDFLARENET","CC":"NR","Users":327,"Percent of CC Pop":5.49,"Percent of Internet":0.0000,"Samples":484},
+{"rank":4,"AS":55722,"Description":"CENPAC-AS-AP Cenpac Net Inc","CC":"NR","Users":109,"Percent of CC Pop":1.83,"Percent of Internet":0.0000,"Samples":64},
+{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"NR","Users":78,"Percent of CC Pop":1.31,"Percent of Internet":0.0000,"Samples":17},
+{"rank":6,"AS":141368,"Description":"ICT-NR-AS-AP ICT","CC":"NR","Users":73,"Percent of CC Pop":1.23,"Percent of Internet":0.0000,"Samples":18}
   ]
 }

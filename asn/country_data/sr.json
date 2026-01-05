@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27775,"Description":"Telecommunicationcompany Suriname - TeleSur","CC":"SR","Users":285516,"Percent of CC Pop":88.81,"Percent of Internet":0.0068,"Samples":1374229},
-{"rank":2,"AS":52398,"Description":"Digicel Suriname NV","CC":"SR","Users":48834,"Percent of CC Pop":15.19,"Percent of Internet":0.0012,"Samples":235393},
-{"rank":3,"AS":265822,"Description":"PARBONET N.V.","CC":"SR","Users":5199,"Percent of CC Pop":1.62,"Percent of Internet":0.0001,"Samples":25244},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SR","Users":2625,"Percent of CC Pop":0.82,"Percent of Internet":0.0001,"Samples":9732},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"SR","Users":254,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":914},
-{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"SR","Users":63,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":12},
-{"rank":7,"AS":263799,"Description":"CARIBBEAN COMMUNICATION SERVICES","CC":"SR","Users":49,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":72},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS","CC":"SR","Users":35,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":85}
+{"rank":1,"AS":27775,"Description":"Telecommunicationcompany Suriname - TeleSur","CC":"SR","Users":288510,"Percent of CC Pop":89.74,"Percent of Internet":0.0069,"Samples":1289214},
+{"rank":2,"AS":52398,"Description":"Digicel Suriname NV","CC":"SR","Users":49584,"Percent of CC Pop":15.42,"Percent of Internet":0.0012,"Samples":222158},
+{"rank":3,"AS":265822,"Description":"PARBONET N.V.","CC":"SR","Users":4852,"Percent of CC Pop":1.51,"Percent of Internet":0.0001,"Samples":22408},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SR","Users":3020,"Percent of CC Pop":0.94,"Percent of Internet":0.0001,"Samples":13110},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"SR","Users":662,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":2063},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"SR","Users":109,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":25},
+{"rank":7,"AS":263799,"Description":"CARIBBEAN COMMUNICATION SERVICES","CC":"SR","Users":59,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":79},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS","CC":"SR","Users":38,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":70}
   ]
 }

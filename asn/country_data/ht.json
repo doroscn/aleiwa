@@ -1,17 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":52260,"Description":"Telecommunications de Haiti Teleco","CC":"HT","Users":835681,"Percent of CC Pop":58.99,"Percent of Internet":0.0200,"Samples":1804780},
-{"rank":2,"AS":27653,"Description":"Alpha Communications Network","CC":"HT","Users":498637,"Percent of CC Pop":35.20,"Percent of Internet":0.0119,"Samples":1081363},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"HT","Users":123005,"Percent of CC Pop":8.68,"Percent of Internet":0.0029,"Samples":264862},
-{"rank":4,"AS":27759,"Description":"ACCESS HAITI S.A.","CC":"HT","Users":35895,"Percent of CC Pop":2.53,"Percent of Internet":0.0009,"Samples":76835},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"HT","Users":468,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":948},
-{"rank":6,"AS":27774,"Description":"Haiti Networking Group S.A.","CC":"HT","Users":276,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":83},
-{"rank":7,"AS":263685,"Description":"SOGEBANK","CC":"HT","Users":161,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":178},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS","CC":"HT","Users":71,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":15},
-{"rank":9,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"HT","Users":57,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":11}
+{"rank":1,"AS":52260,"Description":"Telecommunications de Haiti Teleco","CC":"HT","Users":817496,"Percent of CC Pop":57.71,"Percent of Internet":0.0196,"Samples":1832210},
+{"rank":2,"AS":27653,"Description":"Alpha Communications Network","CC":"HT","Users":524149,"Percent of CC Pop":37.00,"Percent of Internet":0.0126,"Samples":1171419},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"HT","Users":121097,"Percent of CC Pop":8.55,"Percent of Internet":0.0029,"Samples":271157},
+{"rank":4,"AS":27759,"Description":"ACCESS HAITI S.A.","CC":"HT","Users":33950,"Percent of CC Pop":2.40,"Percent of Internet":0.0008,"Samples":75727},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"HT","Users":395,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":870},
+{"rank":6,"AS":263685,"Description":"SOGEBANK","CC":"HT","Users":160,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":159},
+{"rank":7,"AS":27774,"Description":"Haiti Networking Group S.A.","CC":"HT","Users":135,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":25},
+{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"HT","Users":82,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":13},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS","CC":"HT","Users":59,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":19}
   ]
 }

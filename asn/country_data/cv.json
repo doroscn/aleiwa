@@ -1,15 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37517,"Description":"CVTS1","CC":"CV","Users":307386,"Percent of CC Pop":78.58,"Percent of Internet":0.0074,"Samples":247628},
-{"rank":2,"AS":37575,"Description":"TMAIS","CC":"CV","Users":92017,"Percent of CC Pop":23.52,"Percent of Internet":0.0022,"Samples":73792},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CV","Users":13316,"Percent of CC Pop":3.40,"Percent of Internet":0.0003,"Samples":10657},
-{"rank":4,"AS":327862,"Description":"NOSi","CC":"CV","Users":3562,"Percent of CC Pop":0.91,"Percent of Internet":0.0001,"Samples":2768},
-{"rank":5,"AS":329138,"Description":"BBCD1-AS","CC":"CV","Users":469,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":93},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"CV","Users":238,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":83},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS","CC":"CV","Users":182,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":24}
+{"rank":1,"AS":37517,"Description":"CVTS1","CC":"CV","Users":312294,"Percent of CC Pop":79.84,"Percent of Internet":0.0075,"Samples":250532},
+{"rank":2,"AS":37575,"Description":"TMAIS","CC":"CV","Users":94924,"Percent of CC Pop":24.27,"Percent of Internet":0.0023,"Samples":76265},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"CV","Users":16359,"Percent of CC Pop":4.18,"Percent of Internet":0.0004,"Samples":13159},
+{"rank":4,"AS":327862,"Description":"NOSi","CC":"CV","Users":3531,"Percent of CC Pop":0.90,"Percent of Internet":0.0001,"Samples":2783},
+{"rank":5,"AS":329138,"Description":"BBCD1-AS","CC":"CV","Users":385,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":50},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"CV","Users":237,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":66},
+{"rank":7,"AS":15169,"Description":"GOOGLE","CC":"CV","Users":217,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":11},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS","CC":"CV","Users":183,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":23},
+{"rank":9,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CV","Users":179,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

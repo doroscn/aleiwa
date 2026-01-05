@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":202087,"Description":"AJSEGIB-AS","CC":"GI","Users":12713,"Percent of CC Pop":33.55,"Percent of Internet":0.0003,"Samples":40874},
-{"rank":2,"AS":8301,"Description":"GIBTELECOMNET","CC":"GI","Users":12204,"Percent of CC Pop":32.21,"Percent of Internet":0.0003,"Samples":39314},
-{"rank":3,"AS":34803,"Description":"BGL","CC":"GI","Users":10667,"Percent of CC Pop":28.15,"Percent of Internet":0.0003,"Samples":34160},
-{"rank":4,"AS":8772,"Description":"NLINELLC","CC":"GI","Users":322,"Percent of CC Pop":0.85,"Percent of Internet":0.0000,"Samples":643},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"GI","Users":60,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":48},
-{"rank":6,"AS":36183,"Description":"AKAMAI-AS","CC":"GI","Users":58,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":18},
-{"rank":7,"AS":196775,"Description":"BAY-MANAGEMENT","CC":"GI","Users":54,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":43}
+{"rank":1,"AS":8301,"Description":"GIBTELECOMNET","CC":"GI","Users":12680,"Percent of CC Pop":33.46,"Percent of Internet":0.0003,"Samples":36719},
+{"rank":2,"AS":202087,"Description":"AJSEGIB-AS","CC":"GI","Users":12340,"Percent of CC Pop":32.57,"Percent of Internet":0.0003,"Samples":35947},
+{"rank":3,"AS":34803,"Description":"BGL","CC":"GI","Users":11226,"Percent of CC Pop":29.63,"Percent of Internet":0.0003,"Samples":32852},
+{"rank":4,"AS":8772,"Description":"NLINELLC","CC":"GI","Users":349,"Percent of CC Pop":0.92,"Percent of Internet":0.0000,"Samples":605},
+{"rank":5,"AS":196775,"Description":"BAY-MANAGEMENT","CC":"GI","Users":75,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":51},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS","CC":"GI","Users":61,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":15},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET","CC":"GI","Users":50,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":20}
   ]
 }

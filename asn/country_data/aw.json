@@ -1,15 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11816,"Description":"SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.","CC":"AW","Users":102125,"Percent of CC Pop":91.36,"Percent of Internet":0.0024,"Samples":207679},
-{"rank":2,"AS":264645,"Description":"NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"AW","Users":7379,"Percent of CC Pop":6.60,"Percent of Internet":0.0002,"Samples":14924},
-{"rank":3,"AS":55256,"Description":"NETSKOPE","CC":"AW","Users":186,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":74},
-{"rank":4,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"AW","Users":142,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":32},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"AW","Users":82,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":64},
-{"rank":6,"AS":36183,"Description":"AKAMAI-AS","CC":"AW","Users":79,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":34},
-{"rank":7,"AS":9009,"Description":"M247","CC":"AW","Users":77,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":12}
+{"rank":1,"AS":11816,"Description":"SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.","CC":"AW","Users":103430,"Percent of CC Pop":92.53,"Percent of Internet":0.0025,"Samples":196572},
+{"rank":2,"AS":264645,"Description":"NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"AW","Users":6995,"Percent of CC Pop":6.26,"Percent of Internet":0.0002,"Samples":13370},
+{"rank":3,"AS":55256,"Description":"NETSKOPE","CC":"AW","Users":190,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":69},
+{"rank":4,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"AW","Users":116,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":25},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"AW","Users":87,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":68},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS","CC":"AW","Users":80,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":31}
   ]
 }

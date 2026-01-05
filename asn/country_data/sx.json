@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27781,"Description":"SMITCOMS N.V.","CC":"SX","Users":11910,"Percent of CC Pop":50.51,"Percent of Internet":0.0003,"Samples":64736},
-{"rank":2,"AS":27734,"Description":"New Technologies Group N.V.","CC":"SX","Users":8705,"Percent of CC Pop":36.92,"Percent of Internet":0.0002,"Samples":47312},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SX","Users":2071,"Percent of CC Pop":8.78,"Percent of Internet":0.0000,"Samples":11147},
-{"rank":4,"AS":262181,"Description":"Coral Telecom N.V.","CC":"SX","Users":1726,"Percent of CC Pop":7.32,"Percent of Internet":0.0000,"Samples":9302},
-{"rank":5,"AS":36183,"Description":"AKAMAI-AS","CC":"SX","Users":35,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":34},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"SX","Users":32,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":63}
+{"rank":1,"AS":27781,"Description":"SMITCOMS N.V.","CC":"SX","Users":11939,"Percent of CC Pop":50.63,"Percent of Internet":0.0003,"Samples":60793},
+{"rank":2,"AS":27734,"Description":"New Technologies Group N.V.","CC":"SX","Users":8483,"Percent of CC Pop":35.97,"Percent of Internet":0.0002,"Samples":44045},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SX","Users":2498,"Percent of CC Pop":10.59,"Percent of Internet":0.0001,"Samples":12468},
+{"rank":4,"AS":262181,"Description":"Coral Telecom N.V.","CC":"SX","Users":1501,"Percent of CC Pop":6.37,"Percent of Internet":0.0000,"Samples":7486},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"SX","Users":34,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":52},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS","CC":"SX","Users":26,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":27}
   ]
 }

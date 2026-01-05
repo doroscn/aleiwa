@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":46408,"Description":"COLUMBUS-COMMUNICATION-SVG","CC":"VC","Users":62996,"Percent of CC Pop":70.78,"Percent of Internet":0.0015,"Samples":236456},
-{"rank":2,"AS":33582,"Description":"DIGICEL-OECS","CC":"VC","Users":16775,"Percent of CC Pop":18.85,"Percent of Internet":0.0004,"Samples":62414},
-{"rank":3,"AS":15344,"Description":"ASN15344-SLU","CC":"VC","Users":5739,"Percent of CC Pop":6.45,"Percent of Internet":0.0001,"Samples":484},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VC","Users":502,"Percent of CC Pop":0.56,"Percent of Internet":0.0000,"Samples":1834},
-{"rank":5,"AS":398901,"Description":"ITSD-VC-01","CC":"VC","Users":287,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":855},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"VC","Users":68,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":77},
-{"rank":7,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"VC","Users":56,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":12},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS","CC":"VC","Users":35,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":17}
+{"rank":1,"AS":46408,"Description":"COLUMBUS-COMMUNICATION-SVG","CC":"VC","Users":63967,"Percent of CC Pop":71.87,"Percent of Internet":0.0015,"Samples":232798},
+{"rank":2,"AS":33582,"Description":"DIGICEL-OECS","CC":"VC","Users":17226,"Percent of CC Pop":19.35,"Percent of Internet":0.0004,"Samples":62428},
+{"rank":3,"AS":15344,"Description":"ASN15344-SLU","CC":"VC","Users":4608,"Percent of CC Pop":5.18,"Percent of Internet":0.0001,"Samples":1145},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VC","Users":586,"Percent of CC Pop":0.66,"Percent of Internet":0.0000,"Samples":2197},
+{"rank":5,"AS":398901,"Description":"ITSD-VC-01","CC":"VC","Users":380,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":1106},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"VC","Users":58,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":50},
+{"rank":7,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"VC","Users":50,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":16},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS","CC":"VC","Users":37,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

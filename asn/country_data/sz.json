@@ -1,20 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":328169,"Description":"SWAZI-MOBILE","CC":"SZ","Users":222091,"Percent of CC Pop":55.92,"Percent of Internet":0.0053,"Samples":355516},
-{"rank":2,"AS":327765,"Description":"SwaziMTN-Ltd","CC":"SZ","Users":115177,"Percent of CC Pop":29.00,"Percent of Internet":0.0028,"Samples":183756},
-{"rank":3,"AS":19711,"Description":"SWAZINET","CC":"SZ","Users":46105,"Percent of CC Pop":11.61,"Percent of Internet":0.0011,"Samples":72119},
-{"rank":4,"AS":327750,"Description":"JENNY-INTERNET","CC":"SZ","Users":16192,"Percent of CC Pop":4.08,"Percent of Internet":0.0004,"Samples":25006},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SZ","Users":10208,"Percent of CC Pop":2.57,"Percent of Internet":0.0002,"Samples":15788},
-{"rank":6,"AS":32398,"Description":"REALNET-ASN-1","CC":"SZ","Users":3033,"Percent of CC Pop":0.76,"Percent of Internet":0.0001,"Samples":4554},
-{"rank":7,"AS":328628,"Description":"Wanderport","CC":"SZ","Users":1830,"Percent of CC Pop":0.46,"Percent of Internet":0.0000,"Samples":2774},
-{"rank":8,"AS":329095,"Description":"AFRIMETRO-AS","CC":"SZ","Users":728,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":891},
-{"rank":9,"AS":329223,"Description":"Chakaza-Holdings","CC":"SZ","Users":400,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":370},
-{"rank":10,"AS":328690,"Description":"Royal-Science-and-Technology-Park","CC":"SZ","Users":273,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":33},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"SZ","Users":214,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":111},
-{"rank":12,"AS":36183,"Description":"AKAMAI-AS","CC":"SZ","Users":147,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":38}
+{"rank":1,"AS":328169,"Description":"SWAZI-MOBILE","CC":"SZ","Users":215894,"Percent of CC Pop":54.36,"Percent of Internet":0.0052,"Samples":338003},
+{"rank":2,"AS":327765,"Description":"SwaziMTN-Ltd","CC":"SZ","Users":126609,"Percent of CC Pop":31.88,"Percent of Internet":0.0030,"Samples":198824},
+{"rank":3,"AS":19711,"Description":"SWAZINET","CC":"SZ","Users":46795,"Percent of CC Pop":11.78,"Percent of Internet":0.0011,"Samples":71969},
+{"rank":4,"AS":327750,"Description":"JENNY-INTERNET","CC":"SZ","Users":16188,"Percent of CC Pop":4.08,"Percent of Internet":0.0004,"Samples":24548},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"SZ","Users":10112,"Percent of CC Pop":2.55,"Percent of Internet":0.0002,"Samples":15365},
+{"rank":6,"AS":32398,"Description":"REALNET-ASN-1","CC":"SZ","Users":3199,"Percent of CC Pop":0.81,"Percent of Internet":0.0001,"Samples":4791},
+{"rank":7,"AS":328628,"Description":"Wanderport","CC":"SZ","Users":2092,"Percent of CC Pop":0.53,"Percent of Internet":0.0001,"Samples":3112},
+{"rank":8,"AS":329095,"Description":"AFRIMETRO-AS","CC":"SZ","Users":574,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":656},
+{"rank":9,"AS":329223,"Description":"Chakaza-Holdings","CC":"SZ","Users":459,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":392},
+{"rank":10,"AS":328690,"Description":"Royal-Science-and-Technology-Park","CC":"SZ","Users":306,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":18},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET","CC":"SZ","Users":215,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":128},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS","CC":"SZ","Users":141,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":36},
+{"rank":13,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"SZ","Users":121,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":12}
   ]
 }

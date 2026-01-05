@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9751,"Description":"ASTCA-AS-AP AMERICAN SAMOA TELECOMMUNICATIONS AUTHORITY","CC":"AS","Users":18300,"Percent of CC Pop":60.29,"Percent of Internet":0.0004,"Samples":92188},
-{"rank":2,"AS":23657,"Description":"BLUESKY-AS-AP Blue Sky Communications","CC":"AS","Users":4940,"Percent of CC Pop":16.27,"Percent of Internet":0.0001,"Samples":24861},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"AS","Users":455,"Percent of CC Pop":1.50,"Percent of Internet":0.0000,"Samples":2329},
-{"rank":4,"AS":36183,"Description":"AKAMAI-AS","CC":"AS","Users":64,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":15}
+{"rank":1,"AS":9751,"Description":"ASTCA-AS-AP AMERICAN SAMOA TELECOMMUNICATIONS AUTHORITY","CC":"AS","Users":18019,"Percent of CC Pop":59.36,"Percent of Internet":0.0004,"Samples":86722},
+{"rank":2,"AS":23657,"Description":"BLUESKY-AS-AP Blue Sky Communications","CC":"AS","Users":5035,"Percent of CC Pop":16.59,"Percent of Internet":0.0001,"Samples":23973},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"AS","Users":626,"Percent of CC Pop":2.06,"Percent of Internet":0.0000,"Samples":3070},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET","CC":"AS","Users":118,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":16}
   ]
 }

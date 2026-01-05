@@ -1,13 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/11/2025",
+  "Date": "01/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":328061,"Description":"TELCO-SA-AS","CC":"KM","Users":42357,"Percent of CC Pop":51.36,"Percent of Internet":0.0010,"Samples":98932},
-{"rank":2,"AS":36939,"Description":"ComoresTelecom","CC":"KM","Users":40178,"Percent of CC Pop":48.72,"Percent of Internet":0.0010,"Samples":92769},
-{"rank":3,"AS":212238,"Description":"CDNEXT","CC":"KM","Users":289,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":65},
-{"rank":4,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"KM","Users":170,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":103},
-{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KM","Users":144,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":15}
+{"rank":1,"AS":328061,"Description":"TELCO-SA-AS","CC":"KM","Users":42567,"Percent of CC Pop":51.62,"Percent of Internet":0.0010,"Samples":95045},
+{"rank":2,"AS":36939,"Description":"ComoresTelecom","CC":"KM","Users":41103,"Percent of CC Pop":49.84,"Percent of Internet":0.0010,"Samples":90506},
+{"rank":3,"AS":212238,"Description":"CDNEXT","CC":"KM","Users":284,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":138},
+{"rank":4,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"KM","Users":198,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":90},
+{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KM","Users":130,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":16},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"KM","Users":115,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":11}
   ]
 }
