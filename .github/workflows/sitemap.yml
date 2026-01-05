@@ -2,7 +2,7 @@ name: Build & Update Sitemap
 
 on:
   schedule:
-    # 每天 UTC 01:00 运行（北京时间 09:00）
+    # 每天 UTC 01:00（北京时间 09:00）
     - cron: '0 1 * * *'
   workflow_dispatch:
   push:
@@ -14,6 +14,8 @@ on:
       - 'blog/**'
       - 'data/**'
       - 'scripts/**'
+    paths-ignore:
+      - 'sitemap.xml'
 
 jobs:
   build-sitemap:
@@ -38,16 +40,14 @@ jobs:
         run: |
           node scripts/generate-sitemap.js
 
-      - name: Commit & push sitemap.xml
+      - name: Commit sitemap.xml
         run: |
-          git config user.name "doroscn"
-          git config user.email "jash.zheng@gmail.com"
-
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add sitemap.xml
+          git commit -m "chore: auto update sitemap.xml" || echo "No changes"
 
-          if git diff --cached --quiet; then
-            echo "No sitemap changes"
-          else
-            git commit -m "chore: auto update sitemap.xml"
-            git push
-          fi
+      - name: Rebase & Push
+        run: |
+          git pull --rebase origin main
+          git push
