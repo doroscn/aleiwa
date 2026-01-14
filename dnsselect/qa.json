@@ -178,5 +178,50 @@
     "checked_at": "2025-03-21T21:22:28Z",
     "created_at": "2023-03-17T05:39:32.097672Z",
     "available": true
+  },
+  {
+    "ip": "89.211.49.54",
+    "name": "",
+    "as_number": 8781,
+    "as_org": "Ooredoo Q.S.C.",
+    "country_id": "QA",
+    "city": "Doha",
+    "version": ";; communications error to 89.211.49.54#53: timed out\n\n; <<>> DiG 9.18.39-0ubuntu0.24.04.2-Ubuntu <<>> +time=2 +tries=1 @89.211.49.54 version.bind chaos txt +short\n; (1 server found)\n;; global options: +cmd\n;; no servers could be reached",
+    "error": "",
+    "dnssec": true,
+    "reliability": 1,
+    "checked_at": "2026-01-14T02:21:39Z",
+    "created_at": "2026-01-14T02:21:39.002568Z",
+    "available": true
+  },
+  {
+    "ip": "80.76.165.100",
+    "name": "",
+    "as_number": 211559,
+    "as_org": "Vodafone Qatar P.Q.S.C",
+    "country_id": "QA",
+    "city": "Ar Rayyān",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-01-14T02:45:36Z",
+    "created_at": "2026-01-14T02:45:36.594219Z",
+    "available": true
+  },
+  {
+    "ip": "80.76.165.100",
+    "name": "",
+    "as_number": 211559,
+    "as_org": "Vodafone Qatar P.Q.S.C",
+    "country_id": "QA",
+    "city": "Ar Rayyān",
+    "version": ";; communications error to 80.76.165.100#53: timed out\n\n; <<>> DiG 9.18.39-0ubuntu0.24.04.2-Ubuntu <<>> +time=2 +tries=1 @80.76.165.100 version.bind chaos txt +short\n; (1 server found)\n;; global options: +cmd\n;; no servers could be reached",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-01-14T02:46:00Z",
+    "created_at": "2026-01-14T02:46:00.125726Z",
+    "available": true
   }
 ]
