@@ -12,11 +12,6 @@
     "index": 162
   },
   {
-    "country_id": "ky",
-    "checked_at": "2025-03-07T09:24:47Z",
-    "index": 37
-  },
-  {
     "country_id": "cf",
     "checked_at": "2025-03-07T12:47:18Z",
     "index": 38
@@ -1199,5 +1194,11 @@
     "checked_at": "2026-01-16T00:55:16Z",
     "ip_availability_ratio%": 66.14,
     "index": 30
+  },
+  {
+    "country_id": "ky",
+    "checked_at": "2026-01-16T08:26:49Z",
+    "ip_availability_ratio%": 0.00,
+    "index": 37
   }
 ]
