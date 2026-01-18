@@ -12,11 +12,6 @@
     "index": 162
   },
   {
-    "country_id": "co",
-    "checked_at": "2025-03-08T01:24:40Z",
-    "index": 42
-  },
-  {
     "country_id": "km",
     "checked_at": "2025-03-08T03:21:04Z",
     "index": 43
@@ -1204,5 +1199,11 @@
     "checked_at": "2026-01-18T08:23:30Z",
     "ip_availability_ratio%": 83.87,
     "index": 41
+  },
+  {
+    "country_id": "co",
+    "checked_at": "2026-01-18T16:13:17Z",
+    "ip_availability_ratio%": 70.14,
+    "index": 42
   }
 ]
