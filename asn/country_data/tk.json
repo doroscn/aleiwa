@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "01/01/2026",
+  "Date": "28/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":55523,"Description":"TELETOK-AS-AP Telecommunications Tokelau Corporation - Teletok","CC":"TK","Users":1023,"Percent of CC Pop":137.13,"Percent of Internet":0.0000,"Samples":435},
-{"rank":2,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TK","Users":599,"Percent of CC Pop":80.29,"Percent of Internet":0.0000,"Samples":17}
+{"rank":1,"AS":55523,"Description":"TELETOK-AS-AP Telecommunications Tokelau Corporation - Teletok","CC":"TK","Users":1020,"Percent of CC Pop":136.73,"Percent of Internet":0.0000,"Samples":463},
+{"rank":2,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TK","Users":373,"Percent of CC Pop":50.00,"Percent of Internet":0.0000,"Samples":18}
   ]
 }

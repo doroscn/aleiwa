@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "01/01/2026",
+  "Date": "28/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8818,"Description":"Tele Greenland","CC":"GL","Users":40271,"Percent of CC Pop":99.52,"Percent of Internet":0.0010,"Samples":250554},
-{"rank":2,"AS":212238,"Description":"CDNEXT","CC":"GL","Users":258,"Percent of CC Pop":0.64,"Percent of Internet":0.0000,"Samples":1394},
-{"rank":3,"AS":209854,"Description":"CYBERZONEHUB","CC":"GL","Users":65,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":138},
-{"rank":4,"AS":36183,"Description":"AKAMAI-AS","CC":"GL","Users":28,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":14},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET","CC":"GL","Users":27,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":26},
-{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GL","Users":23,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":12}
+{"rank":1,"AS":8818,"Description":"Tele Greenland","CC":"GL","Users":40353,"Percent of CC Pop":99.72,"Percent of Internet":0.0010,"Samples":239981},
+{"rank":2,"AS":212238,"Description":"CDNEXT","CC":"GL","Users":174,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":856},
+{"rank":3,"AS":209854,"Description":"CYBERZONEHUB","CC":"GL","Users":62,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":140},
+{"rank":4,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GL","Users":34,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":11},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GL","Users":28,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":28},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GL","Users":28,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":19}
   ]
 }

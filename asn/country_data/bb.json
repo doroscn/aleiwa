@@ -1,21 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "01/01/2026",
+  "Date": "28/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14813,"Description":"BB-COLUMBUS","CC":"BB","Users":181499,"Percent of CC Pop":72.83,"Percent of Internet":0.0043,"Samples":889522},
-{"rank":2,"AS":35900,"Description":"DIGI-BDS-ASN","CC":"BB","Users":59843,"Percent of CC Pop":24.01,"Percent of Internet":0.0014,"Samples":292808},
-{"rank":3,"AS":11139,"Description":"CWC-ROC-11139","CC":"BB","Users":1958,"Percent of CC Pop":0.79,"Percent of Internet":0.0000,"Samples":9635},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK","CC":"BB","Users":497,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":2256},
-{"rank":5,"AS":55033,"Description":"UWI-CH-ASN1","CC":"BB","Users":324,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":1154},
-{"rank":6,"AS":33582,"Description":"DIGICEL-OECS","CC":"BB","Users":243,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":1022},
-{"rank":7,"AS":13150,"Description":"CATON","CC":"BB","Users":80,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":96},
-{"rank":8,"AS":396304,"Description":"ANU-DIGI","CC":"BB","Users":79,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":128},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET","CC":"BB","Users":60,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":236},
-{"rank":10,"AS":15169,"Description":"GOOGLE","CC":"BB","Users":47,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":12},
-{"rank":11,"AS":36183,"Description":"AKAMAI-AS","CC":"BB","Users":46,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":92},
-{"rank":12,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"BB","Users":32,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":21},
-{"rank":13,"AS":54113,"Description":"FASTLY","CC":"BB","Users":30,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":12}
+{"rank":1,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications Barbados Limited","CC":"BB","Users":180962,"Percent of CC Pop":72.62,"Percent of Internet":0.0043,"Samples":822986},
+{"rank":2,"AS":35900,"Description":"DIGI-BDS-ASN - Digicel Barbados Ltd","CC":"BB","Users":60662,"Percent of CC Pop":24.34,"Percent of Internet":0.0015,"Samples":274608},
+{"rank":3,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"BB","Users":1530,"Percent of CC Pop":0.61,"Percent of Internet":0.0000,"Samples":7105},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BB","Users":669,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":2774},
+{"rank":5,"AS":55033,"Description":"UWI-CH-ASN1 - University of the West Indies","CC":"BB","Users":363,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":1079},
+{"rank":6,"AS":33582,"Description":"DIGICEL-OECS - Digicel St.Lucia Ltd","CC":"BB","Users":229,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":944},
+{"rank":7,"AS":396304,"Description":"ANU-DIGI - Antigua Wireless ventures Ltd","CC":"BB","Users":157,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":123},
+{"rank":8,"AS":13150,"Description":"CATON","CC":"BB","Users":74,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":75},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BB","Users":60,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":214},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"BB","Users":54,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":98},
+{"rank":11,"AS":15169,"Description":"GOOGLE - Google LLC","CC":"BB","Users":50,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":14},
+{"rank":12,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"BB","Users":42,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":10},
+{"rank":13,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"BB","Users":37,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":30}
   ]
 }

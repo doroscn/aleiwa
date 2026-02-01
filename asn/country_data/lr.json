@@ -1,23 +1,23 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "01/01/2026",
+  "Date": "28/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37094,"Description":"OrangeLiberia","CC":"LR","Users":327178,"Percent of CC Pop":66.54,"Percent of Internet":0.0078,"Samples":1313925},
-{"rank":2,"AS":37410,"Description":"LONESTAR","CC":"LR","Users":191543,"Percent of CC Pop":38.96,"Percent of Internet":0.0046,"Samples":769494},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"LR","Users":18783,"Percent of CC Pop":3.82,"Percent of Internet":0.0005,"Samples":72871},
-{"rank":4,"AS":328136,"Description":"Telecel-Liberia-AS","CC":"LR","Users":3918,"Percent of CC Pop":0.80,"Percent of Internet":0.0001,"Samples":15462},
-{"rank":5,"AS":328196,"Description":"POWERNET","CC":"LR","Users":2563,"Percent of CC Pop":0.52,"Percent of Internet":0.0001,"Samples":9993},
-{"rank":6,"AS":329082,"Description":"CSLL1-AS","CC":"LR","Users":1998,"Percent of CC Pop":0.41,"Percent of Internet":0.0000,"Samples":7849},
-{"rank":7,"AS":37203,"Description":"LIBTELCO","CC":"LR","Users":1489,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":5684},
+{"rank":1,"AS":37094,"Description":"OrangeLiberia","CC":"LR","Users":325542,"Percent of CC Pop":66.21,"Percent of Internet":0.0078,"Samples":1230337},
+{"rank":2,"AS":37410,"Description":"LONESTAR","CC":"LR","Users":192042,"Percent of CC Pop":39.06,"Percent of Internet":0.0046,"Samples":725636},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LR","Users":21122,"Percent of CC Pop":4.30,"Percent of Internet":0.0005,"Samples":77740},
+{"rank":4,"AS":328136,"Description":"Telecel-Liberia-AS","CC":"LR","Users":3798,"Percent of CC Pop":0.77,"Percent of Internet":0.0001,"Samples":14105},
+{"rank":5,"AS":328196,"Description":"POWERNET","CC":"LR","Users":2531,"Percent of CC Pop":0.51,"Percent of Internet":0.0001,"Samples":9304},
+{"rank":6,"AS":329082,"Description":"CSLL1-AS","CC":"LR","Users":2037,"Percent of CC Pop":0.41,"Percent of Internet":0.0000,"Samples":7528},
+{"rank":7,"AS":37203,"Description":"LIBTELCO","CC":"LR","Users":1391,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":5038},
 {"rank":8,"AS":328549,"Description":"Sahel-Telecom","CC":"LR","Users":1360,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":337},
-{"rank":9,"AS":37580,"Description":"ELECTROSHACK","CC":"LR","Users":969,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":3737},
-{"rank":10,"AS":329496,"Description":"GOWIFI","CC":"LR","Users":190,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":434},
-{"rank":11,"AS":329525,"Description":"Gonetwork","CC":"LR","Users":166,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":447},
-{"rank":12,"AS":37715,"Description":"Liberia-IXP-Peering","CC":"LR","Users":95,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":79},
-{"rank":13,"AS":29286,"Description":"SKYLOGIC-AS","CC":"LR","Users":86,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":105},
-{"rank":14,"AS":13335,"Description":"CLOUDFLARENET","CC":"LR","Users":56,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":46},
-{"rank":15,"AS":36183,"Description":"AKAMAI-AS","CC":"LR","Users":32,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":15}
+{"rank":9,"AS":37580,"Description":"ELECTROSHACK","CC":"LR","Users":1007,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":3722},
+{"rank":10,"AS":329496,"Description":"GOWIFI","CC":"LR","Users":180,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":367},
+{"rank":11,"AS":329525,"Description":"Gonetwork","CC":"LR","Users":171,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":488},
+{"rank":12,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LR","Users":130,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":121},
+{"rank":13,"AS":29286,"Description":"SKYLOGIC-AS","CC":"LR","Users":123,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":72},
+{"rank":14,"AS":37715,"Description":"Liberia-IXP-Peering","CC":"LR","Users":92,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":75},
+{"rank":15,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"LR","Users":38,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":18}
   ]
 }

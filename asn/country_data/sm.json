@@ -1,13 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "01/01/2026",
+  "Date": "28/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15433,"Description":"TISM Telecom Italia San Marino.","CC":"SM","Users":16844,"Percent of CC Pop":90.26,"Percent of Internet":0.0004,"Samples":48627},
-{"rank":2,"AS":196874,"Description":"TELENET-RSM TeleneT San Marino","CC":"SM","Users":1547,"Percent of CC Pop":8.29,"Percent of Internet":0.0000,"Samples":4482},
-{"rank":3,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"SM","Users":518,"Percent of CC Pop":2.78,"Percent of Internet":0.0000,"Samples":14},
-{"rank":4,"AS":212841,"Description":"SM-AASS","CC":"SM","Users":172,"Percent of CC Pop":0.92,"Percent of Internet":0.0000,"Samples":160},
-{"rank":5,"AS":39759,"Description":"PASSEPARTOUT Passepartout","CC":"SM","Users":49,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":15}
+{"rank":1,"AS":15433,"Description":"TISM Telecom Italia San Marino.","CC":"SM","Users":16993,"Percent of CC Pop":91.06,"Percent of Internet":0.0004,"Samples":52754},
+{"rank":2,"AS":196874,"Description":"TELENET-RSM TeleneT San Marino","CC":"SM","Users":1415,"Percent of CC Pop":7.58,"Percent of Internet":0.0000,"Samples":4401},
+{"rank":3,"AS":212841,"Description":"SM-AASS","CC":"SM","Users":131,"Percent of CC Pop":0.70,"Percent of Internet":0.0000,"Samples":135},
+{"rank":4,"AS":39759,"Description":"PASSEPARTOUT Passepartout","CC":"SM","Users":50,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":12},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SM","Users":43,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "01/01/2026",
+  "Date": "28/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9249,"Description":"VUTELECOM-AS01-VU-AP Telecom Vanuatu Limited","CC":"VU","Users":50883,"Percent of CC Pop":57.57,"Percent of Internet":0.0012,"Samples":1096},
-{"rank":2,"AS":132429,"Description":"DIGICELVANUATU-VU Digicel Vanuatu LTD","CC":"VU","Users":28725,"Percent of CC Pop":32.50,"Percent of Internet":0.0007,"Samples":497},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK","CC":"VU","Users":20764,"Percent of CC Pop":23.49,"Percent of Internet":0.0005,"Samples":377},
-{"rank":4,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"VU","Users":12326,"Percent of CC Pop":13.95,"Percent of Internet":0.0003,"Samples":31},
-{"rank":5,"AS":132228,"Description":"VANGOV-AS-AP Vanuatu Government","CC":"VU","Users":12138,"Percent of CC Pop":13.73,"Percent of Internet":0.0003,"Samples":37},
-{"rank":6,"AS":45935,"Description":"WNL-AS-AP Wantok Network Limited","CC":"VU","Users":9789,"Percent of CC Pop":11.08,"Percent of Internet":0.0002,"Samples":35}
+{"rank":1,"AS":9249,"Description":"VUTELECOM-AS01-VU-AP Telecom Vanuatu Limited","CC":"VU","Users":50446,"Percent of CC Pop":57.08,"Percent of Internet":0.0012,"Samples":1198},
+{"rank":2,"AS":132429,"Description":"DIGICELVANUATU-VU Digicel Vanuatu LTD","CC":"VU","Users":31738,"Percent of CC Pop":35.91,"Percent of Internet":0.0008,"Samples":696},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VU","Users":18519,"Percent of CC Pop":20.95,"Percent of Internet":0.0004,"Samples":373},
+{"rank":4,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"VU","Users":11762,"Percent of CC Pop":13.31,"Percent of Internet":0.0003,"Samples":26},
+{"rank":5,"AS":132228,"Description":"VANGOV-AS-AP Vanuatu Government","CC":"VU","Users":11755,"Percent of CC Pop":13.30,"Percent of Internet":0.0003,"Samples":31},
+{"rank":6,"AS":45935,"Description":"WNL-AS-AP Wantok Network Limited","CC":"VU","Users":8230,"Percent of CC Pop":9.31,"Percent of Internet":0.0002,"Samples":40}
   ]
 }

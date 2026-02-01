@@ -1,20 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "01/01/2026",
+  "Date": "28/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29544,"Description":"MAURITEL","CC":"MR","Users":888862,"Percent of CC Pop":73.63,"Percent of Internet":0.0213,"Samples":1235183},
-{"rank":2,"AS":37508,"Description":"MATTEL","CC":"MR","Users":200525,"Percent of CC Pop":16.61,"Percent of Internet":0.0048,"Samples":279119},
-{"rank":3,"AS":37541,"Description":"CHINGUITEL","CC":"MR","Users":139108,"Percent of CC Pop":11.52,"Percent of Internet":0.0033,"Samples":192487},
-{"rank":4,"AS":328997,"Description":"RIMATEL","CC":"MR","Users":85192,"Percent of CC Pop":7.06,"Percent of Internet":0.0020,"Samples":117325},
-{"rank":5,"AS":328549,"Description":"Sahel-Telecom","CC":"MR","Users":13071,"Percent of CC Pop":1.08,"Percent of Internet":0.0003,"Samples":6699},
-{"rank":6,"AS":329048,"Description":"NETCOM-AS","CC":"MR","Users":5791,"Percent of CC Pop":0.48,"Percent of Internet":0.0001,"Samples":1236},
-{"rank":7,"AS":329119,"Description":"A2Ltd-AS","CC":"MR","Users":3809,"Percent of CC Pop":0.32,"Percent of Internet":0.0001,"Samples":4035},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET","CC":"MR","Users":1225,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":1669},
-{"rank":9,"AS":328850,"Description":"CSS-AS","CC":"MR","Users":987,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":1381},
-{"rank":10,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MR","Users":501,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":97},
-{"rank":11,"AS":212238,"Description":"CDNEXT","CC":"MR","Users":270,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":73},
-{"rank":12,"AS":36183,"Description":"AKAMAI-AS","CC":"MR","Users":116,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":14}
+{"rank":1,"AS":29544,"Description":"MAURITEL","CC":"MR","Users":921604,"Percent of CC Pop":76.34,"Percent of Internet":0.0221,"Samples":1293896},
+{"rank":2,"AS":37508,"Description":"MATTEL","CC":"MR","Users":170291,"Percent of CC Pop":14.11,"Percent of Internet":0.0041,"Samples":238153},
+{"rank":3,"AS":37541,"Description":"CHINGUITEL","CC":"MR","Users":140639,"Percent of CC Pop":11.65,"Percent of Internet":0.0034,"Samples":196294},
+{"rank":4,"AS":328997,"Description":"RIMATEL","CC":"MR","Users":83162,"Percent of CC Pop":6.89,"Percent of Internet":0.0020,"Samples":115297},
+{"rank":5,"AS":328549,"Description":"Sahel-Telecom","CC":"MR","Users":12410,"Percent of CC Pop":1.03,"Percent of Internet":0.0003,"Samples":5856},
+{"rank":6,"AS":329048,"Description":"NETCOM-AS","CC":"MR","Users":6443,"Percent of CC Pop":0.53,"Percent of Internet":0.0002,"Samples":3438},
+{"rank":7,"AS":329119,"Description":"A2Ltd-AS","CC":"MR","Users":4232,"Percent of CC Pop":0.35,"Percent of Internet":0.0001,"Samples":3509},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MR","Users":1288,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":1770},
+{"rank":9,"AS":328850,"Description":"CSS-AS","CC":"MR","Users":1119,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":1580},
+{"rank":10,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"MR","Users":530,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":63},
+{"rank":11,"AS":212238,"Description":"CDNEXT","CC":"MR","Users":502,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":259},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MR","Users":120,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

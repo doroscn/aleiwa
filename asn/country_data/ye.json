@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "01/01/2026",
+  "Date": "28/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30873,"Description":"PTC-YEMENNET","CC":"YE","Users":7467105,"Percent of CC Pop":84.61,"Percent of Internet":0.1789,"Samples":252884},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK","CC":"YE","Users":2343878,"Percent of CC Pop":26.56,"Percent of Internet":0.0562,"Samples":848549},
-{"rank":3,"AS":204317,"Description":"ADENNET","CC":"YE","Users":215669,"Percent of CC Pop":2.44,"Percent of Internet":0.0052,"Samples":80813},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET","CC":"YE","Users":10186,"Percent of CC Pop":0.12,"Percent of Internet":0.0002,"Samples":3750},
-{"rank":5,"AS":12486,"Description":"TELEYEMEN Sanaa","CC":"YE","Users":567,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":35},
-{"rank":6,"AS":36183,"Description":"AKAMAI-AS","CC":"YE","Users":419,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":17}
+{"rank":1,"AS":30873,"Description":"PTC-YEMENNET","CC":"YE","Users":7284026,"Percent of CC Pop":82.54,"Percent of Internet":0.1746,"Samples":224479},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"YE","Users":2707261,"Percent of CC Pop":30.68,"Percent of Internet":0.0649,"Samples":953912},
+{"rank":3,"AS":204317,"Description":"ADENNET","CC":"YE","Users":218901,"Percent of CC Pop":2.48,"Percent of Internet":0.0052,"Samples":78290},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"YE","Users":11800,"Percent of CC Pop":0.13,"Percent of Internet":0.0003,"Samples":4180},
+{"rank":5,"AS":12486,"Description":"TELEYEMEN Sanaa","CC":"YE","Users":565,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":36},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"YE","Users":437,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":18}
   ]
 }

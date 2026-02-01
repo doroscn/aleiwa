@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "01/01/2026",
+  "Date": "28/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":46650,"Description":"ASN46650-CCGL","CC":"GD","Users":70795,"Percent of CC Pop":97.81,"Percent of Internet":0.0017,"Samples":279033},
-{"rank":2,"AS":395561,"Description":"DIGICEL-GRENADA","CC":"GD","Users":9694,"Percent of CC Pop":13.39,"Percent of Internet":0.0002,"Samples":41473},
-{"rank":3,"AS":393629,"Description":"GDGR","CC":"GD","Users":1067,"Percent of CC Pop":1.47,"Percent of Internet":0.0000,"Samples":3004},
-{"rank":4,"AS":14432,"Description":"GREX","CC":"GD","Users":532,"Percent of CC Pop":0.74,"Percent of Internet":0.0000,"Samples":26},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK","CC":"GD","Users":375,"Percent of CC Pop":0.52,"Percent of Internet":0.0000,"Samples":1059},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET","CC":"GD","Users":288,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":758},
-{"rank":7,"AS":30272,"Description":"GOG-ASN1-GND","CC":"GD","Users":153,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":193},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS","CC":"GD","Users":42,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":30}
+{"rank":1,"AS":46650,"Description":"ASN46650-CCGL - Columbus Communications Grenada Ltd.","CC":"GD","Users":69948,"Percent of CC Pop":96.64,"Percent of Internet":0.0017,"Samples":259998},
+{"rank":2,"AS":395561,"Description":"DIGICEL-GRENADA - Digicel St.Lucia Ltd","CC":"GD","Users":10373,"Percent of CC Pop":14.33,"Percent of Internet":0.0002,"Samples":40952},
+{"rank":3,"AS":393629,"Description":"GDGR - Green Dot Grenada Ltd","CC":"GD","Users":1068,"Percent of CC Pop":1.48,"Percent of Internet":0.0000,"Samples":3855},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GD","Users":358,"Percent of CC Pop":0.49,"Percent of Internet":0.0000,"Samples":1109},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GD","Users":229,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":535},
+{"rank":6,"AS":30272,"Description":"GOG-ASN1-GND - Government of Grenada","CC":"GD","Users":137,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":132},
+{"rank":7,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GD","Users":64,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":25},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GD","Users":45,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":25}
   ]
 }

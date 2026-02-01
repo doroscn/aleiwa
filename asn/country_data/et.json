@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "01/01/2026",
+  "Date": "28/01/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":24757,"Description":"EthioNet-AS","CC":"ET","Users":24810298,"Percent of CC Pop":92.00,"Percent of Internet":0.5945,"Samples":9380211},
-{"rank":2,"AS":328988,"Description":"SAFARICOM-TEL","CC":"ET","Users":6293599,"Percent of CC Pop":23.34,"Percent of Internet":0.1508,"Samples":2454842},
-{"rank":3,"AS":13335,"Description":"CLOUDFLARENET","CC":"ET","Users":29693,"Percent of CC Pop":0.11,"Percent of Internet":0.0007,"Samples":10714},
-{"rank":4,"AS":329227,"Description":"WS-ASN","CC":"ET","Users":11037,"Percent of CC Pop":0.04,"Percent of Internet":0.0003,"Samples":4023},
-{"rank":5,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"ET","Users":1115,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":154},
-{"rank":6,"AS":329327,"Description":"Bank-of-Abyssinia-Share-Company","CC":"ET","Users":646,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":99},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS","CC":"ET","Users":451,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":25},
-{"rank":8,"AS":55256,"Description":"NETSKOPE","CC":"ET","Users":416,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":17}
+{"rank":1,"AS":24757,"Description":"EthioNet-AS","CC":"ET","Users":24998049,"Percent of CC Pop":92.70,"Percent of Internet":0.5990,"Samples":8852440},
+{"rank":2,"AS":328988,"Description":"SAFARICOM-TEL","CC":"ET","Users":6163385,"Percent of CC Pop":22.86,"Percent of Internet":0.1477,"Samples":2259870},
+{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"ET","Users":37413,"Percent of CC Pop":0.14,"Percent of Internet":0.0009,"Samples":12593},
+{"rank":4,"AS":329227,"Description":"WS-ASN","CC":"ET","Users":11542,"Percent of CC Pop":0.04,"Percent of Internet":0.0003,"Samples":3917},
+{"rank":5,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"ET","Users":1313,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":227},
+{"rank":6,"AS":329327,"Description":"Bank-of-Abyssinia-Share-Company","CC":"ET","Users":729,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":115},
+{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"ET","Users":459,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":23},
+{"rank":8,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"ET","Users":332,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":13}
   ]
 }
