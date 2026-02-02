@@ -1,77 +1,22 @@
 [
   {
-    "ip": "64.210.41.182",
-    "name": "",
-    "as_number": 14813,
-    "as_org": "BB-COLUMBUS",
-    "country_id": "BB",
-    "city": "Bridgetown",
-    "version": "",
-    "error": "",
-    "dnssec": false,
-    "reliability": 1,
-    "checked_at": "2025-12-23T00:52:58Z",
-    "created_at": "2022-08-07T01:29:44.633111Z",
-    "available": false
+    "available": false,
+    "checked_at": "2026-02-02T09:16:42Z"
   },
   {
-    "ip": "65.166.246.104",
-    "name": "",
-    "as_number": 14813,
-    "as_org": "BB-COLUMBUS",
-    "country_id": "BB",
-    "city": "Bridgetown",
-    "version": "dnsmasq-2.85",
-    "error": "",
-    "dnssec": false,
-    "reliability": 1,
-    "checked_at": "2025-12-23T00:53:05Z",
-    "created_at": "2023-03-13T22:20:11.139767Z",
-    "available": true
+    "available": false,
+    "checked_at": "2026-02-02T09:16:42Z"
   },
   {
-    "ip": "196.3.193.49",
-    "name": "",
-    "as_number": 35900,
-    "as_org": "DIGI-BDS-ASN",
-    "country_id": "BB",
-    "city": "Holetown",
-    "version": "",
-    "error": "",
-    "dnssec": false,
-    "reliability": 1,
-    "checked_at": "2025-12-23T00:53:06Z",
-    "created_at": "2023-03-15T05:29:18.70091Z",
-    "available": false
+    "available": false,
+    "checked_at": "2026-02-02T09:16:42Z"
   },
   {
-    "ip": "205.214.215.7",
-    "name": "",
-    "as_number": 11139,
-    "as_org": "CWC-ROC-11139",
-    "country_id": "BB",
-    "city": "",
-    "version": "unbound 1.4.22",
-    "error": "",
-    "dnssec": false,
-    "reliability": 0.7428571428571429,
-    "checked_at": "2025-12-23T00:53:13Z",
-    "created_at": "2023-03-17T03:33:38.702804Z",
-    "available": false
+    "available": false,
+    "checked_at": "2026-02-02T09:16:42Z"
   },
   {
-    "ip": "69.73.196.112",
-    "name": "",
-    "as_number": 14813,
-    "as_org": "BB-COLUMBUS",
-    "country_id": "BB",
-    "city": "Bridgetown",
-    "version": "",
-    "error": "",
-    "dnssec": false,
-    "reliability": 0.4,
-    "checked_at": "2025-12-23T00:53:21Z",
-    "created_at": "2023-03-19T02:26:01.096537Z",
-    "available": true
+    "available": false,
+    "checked_at": "2026-02-02T09:16:42Z"
   }
 ]
