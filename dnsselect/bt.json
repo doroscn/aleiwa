@@ -10,12 +10,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-12-29T00:58:00Z",
+    "checked_at": "2026-02-04T02:26:58Z",
     "created_at": "2023-03-13T19:48:08.419879Z",
     "available": true
   },
   {
-    "ip": "202.144.140.220",
+    "ip": "202.144.140.58",
     "name": "",
     "as_number": 18024,
     "as_org": "Bhutan Telecom Ltd",
@@ -25,9 +25,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-12-29T00:58:03Z",
+    "checked_at": "2026-02-04T02:26:58Z",
     "created_at": "2023-03-14T02:30:39.695074Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "202.144.139.201",
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6578947368421053,
-    "checked_at": "2025-12-29T00:58:11Z",
+    "checked_at": "2026-02-04T02:26:58Z",
     "created_at": "2023-03-16T09:33:36.939746Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-12-29T00:58:12Z",
+    "checked_at": "2026-02-04T02:26:58Z",
     "created_at": "2023-03-16T23:58:57.300937Z",
     "available": false
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6739130434782609,
-    "checked_at": "2025-12-29T00:58:19Z",
+    "checked_at": "2026-02-04T02:26:58Z",
     "created_at": "2023-03-17T08:00:08.589586Z",
     "available": false
   }
