@@ -1,1 +1,34 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":43197,"Description":"TT-MOBILE-AS PJSC TT mobile","CC":"TJ","Users":1328353,"Percent of CC Pop":56.24,"Percent of Internet":0.0318,"Samples":1199245},
+{"rank":2,"AS":204106,"Description":"BABILON-MOBILE","CC":"TJ","Users":251913,"Percent of CC Pop":10.66,"Percent of Internet":0.0060,"Samples":234620},
+{"rank":3,"AS":24722,"Description":"BABILON-AS","CC":"TJ","Users":240173,"Percent of CC Pop":10.17,"Percent of Internet":0.0058,"Samples":214036},
+{"rank":4,"AS":47139,"Description":"INDIGO-TAJIKISTAN-AS","CC":"TJ","Users":210478,"Percent of CC Pop":8.91,"Percent of Internet":0.0050,"Samples":232127},
+{"rank":5,"AS":34557,"Description":"TACOM-AS 47a Lahuti st","CC":"TJ","Users":208522,"Percent of CC Pop":8.83,"Percent of Internet":0.0050,"Samples":185368},
+{"rank":6,"AS":48887,"Description":"SOMONCOM-AS","CC":"TJ","Users":162438,"Percent of CC Pop":6.88,"Percent of Internet":0.0039,"Samples":178327},
+{"rank":7,"AS":51346,"Description":"TOJIKTELECOM-AS","CC":"TJ","Users":101538,"Percent of CC Pop":4.30,"Percent of Internet":0.0024,"Samples":87097},
+{"rank":8,"AS":8847,"Description":"TTL-AS CJSC Telecomm Technology","CC":"TJ","Users":31845,"Percent of CC Pop":1.35,"Percent of Internet":0.0008,"Samples":29497},
+{"rank":9,"AS":208592,"Description":"AS-AVESTONET KAZTRANSCOM","CC":"TJ","Users":28091,"Percent of CC Pop":1.19,"Percent of Internet":0.0007,"Samples":30271},
+{"rank":10,"AS":44027,"Description":"SPITAMEN_ALEXANDER_INTERNET-AS","CC":"TJ","Users":20687,"Percent of CC Pop":0.88,"Percent of Internet":0.0005,"Samples":18024},
+{"rank":11,"AS":884,"Description":"GONET-ASN-17 - GONET","CC":"TJ","Users":16505,"Percent of CC Pop":0.70,"Percent of Internet":0.0004,"Samples":5386},
+{"rank":12,"AS":42713,"Description":"INTERCOM","CC":"TJ","Users":5334,"Percent of CC Pop":0.23,"Percent of Internet":0.0001,"Samples":4884},
+{"rank":13,"AS":210053,"Description":"HUMO-AS","CC":"TJ","Users":5234,"Percent of CC Pop":0.22,"Percent of Internet":0.0001,"Samples":411},
+{"rank":14,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TJ","Users":3566,"Percent of CC Pop":0.15,"Percent of Internet":0.0001,"Samples":3059},
+{"rank":15,"AS":57443,"Description":"OSHNOGROUP-AS","CC":"TJ","Users":2215,"Percent of CC Pop":0.09,"Percent of Internet":0.0001,"Samples":1908},
+{"rank":16,"AS":196854,"Description":"AS-ISATELTJ Alif-Bank","CC":"TJ","Users":1575,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":1333},
+{"rank":17,"AS":215814,"Description":"AS_SINAMONET","CC":"TJ","Users":1554,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":857},
+{"rank":18,"AS":49472,"Description":"EASTERA-AS","CC":"TJ","Users":1551,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":1343},
+{"rank":19,"AS":49945,"Description":"ALIF-AS","CC":"TJ","Users":940,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":49},
+{"rank":20,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TJ","Users":899,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":661},
+{"rank":21,"AS":199793,"Description":"BANKESKHATA","CC":"TJ","Users":521,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":37},
+{"rank":22,"AS":199303,"Description":"SPB-","CC":"TJ","Users":405,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":74},
+{"rank":23,"AS":212238,"Description":"CDNEXT","CC":"TJ","Users":352,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":91},
+{"rank":24,"AS":43030,"Description":"TARENA-AS Tajik National Research Education Network","CC":"TJ","Users":349,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":143},
+{"rank":25,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"TJ","Users":243,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":10},
+{"rank":26,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TJ","Users":217,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":13}
+  ]
+}

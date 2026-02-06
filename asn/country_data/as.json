@@ -1,1 +1,13 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":9751,"Description":"ASTCA-AS-AP AMERICAN SAMOA TELECOMMUNICATIONS AUTHORITY","CC":"AS","Users":17384,"Percent of CC Pop":57.27,"Percent of Internet":0.0004,"Samples":76382},
+{"rank":2,"AS":23657,"Description":"BLUESKY-AS-AP Blue Sky Communications","CC":"AS","Users":5513,"Percent of CC Pop":18.16,"Percent of Internet":0.0001,"Samples":24321},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AS","Users":760,"Percent of CC Pop":2.50,"Percent of Internet":0.0000,"Samples":3511},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AS","Users":93,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":18},
+{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"AS","Users":60,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":23}
+  ]
+}

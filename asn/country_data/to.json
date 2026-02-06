@@ -1,1 +1,14 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":38201,"Description":"KALIANET-PUBLIC-AS-AP Tonga Communications Internet Network","CC":"TO","Users":24209,"Percent of CC Pop":52.69,"Percent of Internet":0.0006,"Samples":38815},
+{"rank":2,"AS":38198,"Description":"DIGICELNET-TO Digicel Tonga Ltd","CC":"TO","Users":17608,"Percent of CC Pop":38.32,"Percent of Internet":0.0004,"Samples":27528},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TO","Users":4709,"Percent of CC Pop":10.25,"Percent of Internet":0.0001,"Samples":7529},
+{"rank":4,"AS":132831,"Description":"TOKOWIRELESSLTD-AS-AP TokoWireless Limited","CC":"TO","Users":1129,"Percent of CC Pop":2.46,"Percent of Internet":0.0000,"Samples":1805},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TO","Users":251,"Percent of CC Pop":0.55,"Percent of Internet":0.0000,"Samples":32},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TO","Users":168,"Percent of CC Pop":0.37,"Percent of Internet":0.0000,"Samples":17}
+  ]
+}

@@ -1,1 +1,12 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":7131,"Description":"PTIPACIFICAINC-AS-AP PTI Pacifica Inc.","CC":"MP","Users":15759,"Percent of CC Pop":49.78,"Percent of Internet":0.0004,"Samples":40903},
+{"rank":2,"AS":3605,"Description":"ERX-KUENTOS-AS Guam Cablevision, LLC.","CC":"MP","Users":10216,"Percent of CC Pop":32.27,"Percent of Internet":0.0002,"Samples":17282},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MP","Users":1711,"Percent of CC Pop":5.40,"Percent of Internet":0.0000,"Samples":3377},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MP","Users":101,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":21}
+  ]
+}

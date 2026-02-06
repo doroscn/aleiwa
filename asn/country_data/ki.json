@@ -1,1 +1,13 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KI","Users":18399,"Percent of CC Pop":95.46,"Percent of Internet":0.0004,"Samples":83773},
+{"rank":2,"AS":134783,"Description":"ATHKL-AS-AP Amalgamated Telecom Holdings Kiribati Ltd","CC":"KI","Users":3754,"Percent of CC Pop":19.48,"Percent of Internet":0.0001,"Samples":17019},
+{"rank":3,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"KI","Users":135,"Percent of CC Pop":0.70,"Percent of Internet":0.0000,"Samples":413},
+{"rank":4,"AS":132486,"Description":"OCEANLINKLTD-AS-AP OCEAN LINK LTD","CC":"KI","Users":87,"Percent of CC Pop":0.45,"Percent of Internet":0.0000,"Samples":214},
+{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KI","Users":47,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":21}
+  ]
+}

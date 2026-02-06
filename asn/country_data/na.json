@@ -1,1 +1,25 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":36996,"Description":"TELECOM-NAMIBIA","CC":"NA","Users":483966,"Percent of CC Pop":40.36,"Percent of Internet":0.0116,"Samples":284169},
+{"rank":2,"AS":33763,"Description":"Paratus","CC":"NA","Users":382269,"Percent of CC Pop":31.88,"Percent of Internet":0.0092,"Samples":220719},
+{"rank":3,"AS":37009,"Description":"MTCASN","CC":"NA","Users":289992,"Percent of CC Pop":24.19,"Percent of Internet":0.0069,"Samples":176920},
+{"rank":4,"AS":36999,"Description":"TELECOM-NAMIBIA","CC":"NA","Users":84694,"Percent of CC Pop":7.06,"Percent of Internet":0.0020,"Samples":49975},
+{"rank":5,"AS":30896,"Description":"Echo-Namibia-AS","CC":"NA","Users":6734,"Percent of CC Pop":0.56,"Percent of Internet":0.0002,"Samples":3984},
+{"rank":6,"AS":329395,"Description":"Rocketnet","CC":"NA","Users":5454,"Percent of CC Pop":0.45,"Percent of Internet":0.0001,"Samples":3083},
+{"rank":7,"AS":22735,"Description":"Govt-Namibia","CC":"NA","Users":4132,"Percent of CC Pop":0.34,"Percent of Internet":0.0001,"Samples":2348},
+{"rank":8,"AS":37513,"Description":"Polytechnic-","CC":"NA","Users":2836,"Percent of CC Pop":0.24,"Percent of Internet":0.0001,"Samples":1479},
+{"rank":9,"AS":329067,"Description":"Click","CC":"NA","Users":2767,"Percent of CC Pop":0.23,"Percent of Internet":0.0001,"Samples":1266},
+{"rank":10,"AS":36877,"Description":"IWAY_AFRICA","CC":"NA","Users":1638,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":774},
+{"rank":11,"AS":327694,"Description":"NAMPOWER","CC":"NA","Users":773,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":25},
+{"rank":12,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NA","Users":741,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":300},
+{"rank":13,"AS":328506,"Description":"Radio-Electronic-Proprietary-Limited","CC":"NA","Users":526,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":14},
+{"rank":14,"AS":37201,"Description":"BANK-WINDHOEK","CC":"NA","Users":439,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":88},
+{"rank":15,"AS":329400,"Description":"Loc-Eight-Mobile","CC":"NA","Users":356,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":12},
+{"rank":16,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"NA","Users":281,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":44},
+{"rank":17,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"NA","Users":217,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":10}
+  ]
+}

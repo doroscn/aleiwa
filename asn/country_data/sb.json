@@ -1,1 +1,16 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":45891,"Description":"SBT-AS-AP Solomon Telekom Co Ltd","CC":"SB","Users":81656,"Percent of CC Pop":87.27,"Percent of Internet":0.0020,"Samples":87960},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SB","Users":17254,"Percent of CC Pop":18.44,"Percent of Internet":0.0004,"Samples":18873},
+{"rank":3,"AS":132468,"Description":"SATSOL-NET-SB SATSOL LIMITED","CC":"SB","Users":3954,"Percent of CC Pop":4.23,"Percent of Internet":0.0001,"Samples":4217},
+{"rank":4,"AS":132462,"Description":"BEMOBILESI-AS-AP Bemobile Solomon Islands Ltd","CC":"SB","Users":1887,"Percent of CC Pop":2.02,"Percent of Internet":0.0000,"Samples":2022},
+{"rank":5,"AS":134525,"Description":"SBT-AS-AP Solomon Telekom Co Ltd","CC":"SB","Users":555,"Percent of CC Pop":0.59,"Percent of Internet":0.0000,"Samples":454},
+{"rank":6,"AS":139609,"Description":"SISCC-AS-AP Solomon Islands Submarine Cable Company","CC":"SB","Users":512,"Percent of CC Pop":0.55,"Percent of Internet":0.0000,"Samples":357},
+{"rank":7,"AS":150349,"Description":"PVEL-AS-AP Pacific Vaizeds Enterprise Ltd","CC":"SB","Users":418,"Percent of CC Pop":0.45,"Percent of Internet":0.0000,"Samples":38},
+{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"SB","Users":208,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":14}
+  ]
+}

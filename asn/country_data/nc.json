@@ -1,1 +1,20 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":56089,"Description":"OFFRATEL-AS-AP OFFRATEL","CC":"NC","Users":84562,"Percent of CC Pop":32.25,"Percent of Internet":0.0020,"Samples":108095},
+{"rank":2,"AS":18200,"Description":"OPT-NC-AS-AP Office des Postes et Telecommunications New-Caledonia","CC":"NC","Users":70558,"Percent of CC Pop":26.91,"Percent of Internet":0.0017,"Samples":88506},
+{"rank":3,"AS":17480,"Description":"CANL CANL","CC":"NC","Users":53967,"Percent of CC Pop":20.58,"Percent of Internet":0.0013,"Samples":70078},
+{"rank":4,"AS":56055,"Description":"MLS-NC Micro Logic Systems","CC":"NC","Users":37160,"Percent of CC Pop":14.17,"Percent of Internet":0.0009,"Samples":48471},
+{"rank":5,"AS":45345,"Description":"NAUTILE-NC-AS-AP Nautile","CC":"NC","Users":23734,"Percent of CC Pop":9.05,"Percent of Internet":0.0006,"Samples":30247},
+{"rank":6,"AS":140718,"Description":"EPI-AS-AP ENGIE PACIFIQUE INFORMATIQUE","CC":"NC","Users":4936,"Percent of CC Pop":1.88,"Percent of Internet":0.0001,"Samples":82},
+{"rank":7,"AS":45461,"Description":"TELENET-AS-AP TeleNet","CC":"NC","Users":3745,"Percent of CC Pop":1.43,"Percent of Internet":0.0001,"Samples":4656},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NC","Users":534,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":195},
+{"rank":9,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"NC","Users":492,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":17},
+{"rank":10,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"NC","Users":163,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":11},
+{"rank":11,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"NC","Users":111,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":23},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"NC","Users":93,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":25}
+  ]
+}

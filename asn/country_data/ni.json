@@ -1,1 +1,34 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":14754,"Description":"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA","CC":"NI","Users":1191032,"Percent of CC Pop":51.41,"Percent of Internet":0.0285,"Samples":2280693},
+{"rank":2,"AS":28036,"Description":"Telefonia Celular de Nicaragua SA.","CC":"NI","Users":772063,"Percent of CC Pop":33.33,"Percent of Internet":0.0185,"Samples":1476725},
+{"rank":3,"AS":263751,"Description":"CASAVISION, S.A.","CC":"NI","Users":212805,"Percent of CC Pop":9.19,"Percent of Internet":0.0051,"Samples":405644},
+{"rank":4,"AS":52468,"Description":"UFINET PANAMA S.A.","CC":"NI","Users":99272,"Percent of CC Pop":4.29,"Percent of Internet":0.0024,"Samples":189709},
+{"rank":5,"AS":27742,"Description":"Amnet Telecomunicaciones S.A.","CC":"NI","Users":54300,"Percent of CC Pop":2.34,"Percent of Internet":0.0013,"Samples":104025},
+{"rank":6,"AS":25607,"Description":"IBW Communications","CC":"NI","Users":51736,"Percent of CC Pop":2.23,"Percent of Internet":0.0012,"Samples":99419},
+{"rank":7,"AS":52242,"Description":"Yota De Nicaragua","CC":"NI","Users":46096,"Percent of CC Pop":1.99,"Percent of Internet":0.0011,"Samples":88150},
+{"rank":8,"AS":267797,"Description":"EMPRESA NACIONAL DE TRANSMISION ELECTRICA ENATREL","CC":"NI","Users":33557,"Percent of CC Pop":1.45,"Percent of Internet":0.0008,"Samples":64225},
+{"rank":9,"AS":264609,"Description":"TECOMUNICA NICARAGUA","CC":"NI","Users":17049,"Percent of CC Pop":0.74,"Percent of Internet":0.0004,"Samples":32973},
+{"rank":10,"AS":18840,"Description":"EQUIPOS Y SISTEMAS S.A.","CC":"NI","Users":13832,"Percent of CC Pop":0.60,"Percent of Internet":0.0003,"Samples":26290},
+{"rank":11,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NI","Users":9398,"Percent of CC Pop":0.41,"Percent of Internet":0.0002,"Samples":17524},
+{"rank":12,"AS":263765,"Description":"XINWEI INTELCOM.NIC, S.A.","CC":"NI","Users":8771,"Percent of CC Pop":0.38,"Percent of Internet":0.0002,"Samples":17008},
+{"rank":13,"AS":19447,"Description":"ALFANUMERIC","CC":"NI","Users":4924,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":9609},
+{"rank":14,"AS":27761,"Description":"Cablenet S.A","CC":"NI","Users":1573,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":3064},
+{"rank":15,"AS":271938,"Description":"Gavarrete Guadamuz y Compania Limitada","CC":"NI","Users":459,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":680},
+{"rank":16,"AS":263760,"Description":"Condor Comunicaciones, S.A.","CC":"NI","Users":458,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":615},
+{"rank":17,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NI","Users":269,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":444},
+{"rank":18,"AS":274013,"Description":"SERVICIOS DE INTERNET Y TELECOMUNICACIONES SOCIEDAD ANONIMA","CC":"NI","Users":248,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":108},
+{"rank":19,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"NI","Users":144,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":163},
+{"rank":20,"AS":28110,"Description":"NAVEGALO S.A.","CC":"NI","Users":135,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":63},
+{"rank":21,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"NI","Users":126,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":18},
+{"rank":22,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"NI","Users":117,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":28},
+{"rank":23,"AS":27999,"Description":"Banco de la Produccion, S.A.","CC":"NI","Users":104,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":16},
+{"rank":24,"AS":203724,"Description":"MGG4-AS1 OCITOKEN::203724:96bdd83e28cd70a1d1f9b623bcbbf8c45708843daaaca2472da4cfd179c96b5b","CC":"NI","Users":90,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":29},
+{"rank":25,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"NI","Users":90,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":23},
+{"rank":26,"AS":13150,"Description":"CATON","CC":"NI","Users":86,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":12}
+  ]
+}

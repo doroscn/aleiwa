@@ -1,1 +1,35 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":131267,"Description":"UNITEL-LA Star Telecom","CC":"LA","Users":1369796,"Percent of CC Pop":58.47,"Percent of Internet":0.0328,"Samples":1138580},
+{"rank":2,"AS":9873,"Description":"TELECOM-LA-AS-AP Lao Telecom Communication, LTC","CC":"LA","Users":957014,"Percent of CC Pop":40.85,"Percent of Internet":0.0229,"Samples":796126},
+{"rank":3,"AS":10226,"Description":"ETL-IX-AS-AP ETL Company Limited","CC":"LA","Users":142215,"Percent of CC Pop":6.07,"Percent of Internet":0.0034,"Samples":119266},
+{"rank":4,"AS":24337,"Description":"SKYTELECOM-AS-AP SkytelecomTransit provider and ISP in Vientiene.","CC":"LA","Users":21033,"Percent of CC Pop":0.90,"Percent of Internet":0.0005,"Samples":17160},
+{"rank":5,"AS":23900,"Description":"PLANET-ONLINE-AS-LA Planet Online Laos, Internet Service Provider in LAO PDR","CC":"LA","Users":9730,"Percent of CC Pop":0.42,"Percent of Internet":0.0002,"Samples":8291},
+{"rank":6,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"LA","Users":8943,"Percent of CC Pop":0.38,"Percent of Internet":0.0002,"Samples":248},
+{"rank":7,"AS":56309,"Description":"SIAMDATA-TH Siamdata Communication Co.,Ltd.","CC":"LA","Users":5881,"Percent of CC Pop":0.25,"Percent of Internet":0.0001,"Samples":3238},
+{"rank":8,"AS":135059,"Description":"LAPSCL-AS-AP Lao Asia Pacific Satellite Co., Ltd.","CC":"LA","Users":4056,"Percent of CC Pop":0.17,"Percent of Internet":0.0001,"Samples":3322},
+{"rank":9,"AS":140635,"Description":"THREEC-LINKTECNOLOGYSOLECOLTD-AS-AP 3C Link Technology Sole Co., Ltd.","CC":"LA","Users":2101,"Percent of CC Pop":0.09,"Percent of Internet":0.0001,"Samples":1717},
+{"rank":10,"AS":153347,"Description":"LCTLAOS-AS-AP Lao Communication Technology Sole Co., Ltd","CC":"LA","Users":2002,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":1417},
+{"rank":11,"AS":136748,"Description":"ETERNLAOSCOMMUNICATIONTECHNOLOGYSOLECOLTD-AS-AP Etern Laos Communication Technology Sole Co .,Ltd","CC":"LA","Users":1152,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":790},
+{"rank":12,"AS":138934,"Description":"SLTNETWORKCOLTD-AS-AP SLT Network Co.,LTD","CC":"LA","Users":1002,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":699},
+{"rank":13,"AS":212238,"Description":"CDNEXT","CC":"LA","Users":844,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":108},
+{"rank":14,"AS":137905,"Description":"REVO-AS-AP Mangkone Technology Co. Ltd.","CC":"LA","Users":714,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":461},
+{"rank":15,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LA","Users":629,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":279},
+{"rank":16,"AS":137838,"Description":"CPNSC-AS-AP CHALERNSUB PROFESSIONAL NETWORK CO.,LTD.","CC":"LA","Users":544,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":35},
+{"rank":17,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"LA","Users":476,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":12},
+{"rank":18,"AS":140952,"Description":"STL-AS-AP Strong Technology, LLC","CC":"LA","Users":462,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":153},
+{"rank":19,"AS":209854,"Description":"CYBERZONEHUB","CC":"LA","Users":386,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":125},
+{"rank":20,"AS":206092,"Description":"SECFIREWALLAS","CC":"LA","Users":344,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":142},
+{"rank":21,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"LA","Users":298,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":94},
+{"rank":22,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"LA","Users":283,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":56},
+{"rank":23,"AS":150716,"Description":"ANCTSC-AS-AP AP Network Communication","CC":"LA","Users":277,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":96},
+{"rank":24,"AS":139011,"Description":"BCELLAOS-AS-AP Banque pour le Commerce Exterieur Lao Public","CC":"LA","Users":222,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":47},
+{"rank":25,"AS":55508,"Description":"INTERNET-LA Lao National Internet Center LANIC","CC":"LA","Users":215,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":26},
+{"rank":26,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"LA","Users":201,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":17},
+{"rank":27,"AS":9009,"Description":"M247","CC":"LA","Users":196,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":53}
+  ]
+}

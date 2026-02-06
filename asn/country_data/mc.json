@@ -1,1 +1,17 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":6758,"Description":"AS6758","CC":"MC","Users":34225,"Percent of CC Pop":86.75,"Percent of Internet":0.0008,"Samples":47426},
+{"rank":2,"AS":212238,"Description":"CDNEXT","CC":"MC","Users":1494,"Percent of CC Pop":3.79,"Percent of Internet":0.0000,"Samples":1808},
+{"rank":3,"AS":215730,"Description":"H2NEXUS-AS H2NEXUS LTD","CC":"MC","Users":373,"Percent of CC Pop":0.95,"Percent of Internet":0.0000,"Samples":35},
+{"rank":4,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"MC","Users":365,"Percent of CC Pop":0.93,"Percent of Internet":0.0000,"Samples":16},
+{"rank":5,"AS":394089,"Description":"GCP-ENTERPRISE-USER-TRAFFIC - Google LLC","CC":"MC","Users":277,"Percent of CC Pop":0.70,"Percent of Internet":0.0000,"Samples":22},
+{"rank":6,"AS":13213,"Description":"UK2NET-AS","CC":"MC","Users":254,"Percent of CC Pop":0.64,"Percent of Internet":0.0000,"Samples":95},
+{"rank":7,"AS":12463,"Description":"ASN-SBM","CC":"MC","Users":209,"Percent of CC Pop":0.53,"Percent of Internet":0.0000,"Samples":105},
+{"rank":8,"AS":9009,"Description":"M247","CC":"MC","Users":193,"Percent of CC Pop":0.49,"Percent of Internet":0.0000,"Samples":200},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MC","Users":159,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":27}
+  ]
+}

@@ -1,1 +1,30 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":139898,"Description":"DCL-AS-AP Digitec Communications Limited","CC":"PG","Users":754694,"Percent of CC Pop":59.35,"Percent of Internet":0.0181,"Samples":478034},
+{"rank":2,"AS":58460,"Description":"DIGICELPNG-AS-AP Digicel PNG Ltd","CC":"PG","Users":402854,"Percent of CC Pop":31.68,"Percent of Internet":0.0097,"Samples":254837},
+{"rank":3,"AS":38009,"Description":"TELIKOM-PNG-AS-AP Telikom PNG Satellite Tier 1 AS Internet Service","CC":"PG","Users":325980,"Percent of CC Pop":25.64,"Percent of Internet":0.0078,"Samples":205764},
+{"rank":4,"AS":17828,"Description":"PNGDATACOLIMITED-AS-PG PNG DATACO LTD","CC":"PG","Users":13461,"Percent of CC Pop":1.06,"Percent of Internet":0.0003,"Samples":8432},
+{"rank":5,"AS":152655,"Description":"DIGICELPNG-AS-AP Digicel PNG Ltd","CC":"PG","Users":9435,"Percent of CC Pop":0.74,"Percent of Internet":0.0002,"Samples":5264},
+{"rank":6,"AS":63945,"Description":"DIGITECPNG-AS-AP Digitec PNG Limited","CC":"PG","Users":3347,"Percent of CC Pop":0.26,"Percent of Internet":0.0001,"Samples":2164},
+{"rank":7,"AS":212238,"Description":"CDNEXT","CC":"PG","Users":2700,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":833},
+{"rank":8,"AS":136239,"Description":"CLICKPACIFICLTD-AS-AP CLICK PACIFIC LTD","CC":"PG","Users":2560,"Percent of CC Pop":0.20,"Percent of Internet":0.0001,"Samples":1423},
+{"rank":9,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"PG","Users":930,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":454},
+{"rank":10,"AS":153781,"Description":"WIL-AS-AP Wintop Investment Limited","CC":"PG","Users":927,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":101},
+{"rank":11,"AS":138506,"Description":"PNTL-AS-AP PNG Nambawan Trophy Ltd","CC":"PG","Users":800,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":375},
+{"rank":12,"AS":45411,"Description":"APCSNET-AU APCS Australia","CC":"PG","Users":799,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":165},
+{"rank":13,"AS":38456,"Description":"SPEEDCAST-AU SPEEDCAST AUSTRALIA PTY LIMITED","CC":"PG","Users":715,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":126},
+{"rank":14,"AS":137054,"Description":"OCL-AS-AP OFC","CC":"PG","Users":620,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":185},
+{"rank":15,"AS":136802,"Description":"LHL-AS-AP LBP Holdings Limited","CC":"PG","Users":494,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":69},
+{"rank":16,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"PG","Users":403,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":103},
+{"rank":17,"AS":55792,"Description":"DATEC-PNG-AS-AP Datec-PNG","CC":"PG","Users":401,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":67},
+{"rank":18,"AS":139778,"Description":"CARPENTERS-AS-AP DALTRON","CC":"PG","Users":388,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":62},
+{"rank":19,"AS":134151,"Description":"STC-AS-AP Steamships Ltd","CC":"PG","Users":379,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":58},
+{"rank":20,"AS":45924,"Description":"GLOBAL-AS-AP Global Technologies Limited","CC":"PG","Users":349,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":34},
+{"rank":21,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"PG","Users":335,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":10},
+{"rank":22,"AS":134605,"Description":"COMSERVPNGLTD-AS-AP Comserv PNG Ltd","CC":"PG","Users":265,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":28}
+  ]
+}

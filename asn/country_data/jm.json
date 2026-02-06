@@ -1,1 +1,30 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":30689,"Description":"FLOW-NET - FLOW","CC":"JM","Users":688119,"Percent of CC Pop":41.82,"Percent of Internet":0.0165,"Samples":1834267},
+{"rank":2,"AS":40786,"Description":"DIGI-GRP-JAM - Digicel Jamaica","CC":"JM","Users":634148,"Percent of CC Pop":38.54,"Percent of Internet":0.0152,"Samples":1548803},
+{"rank":3,"AS":10278,"Description":"CWWI-AS - Cable & Wireless Barbados Limited","CC":"JM","Users":128055,"Percent of CC Pop":7.78,"Percent of Internet":0.0031,"Samples":318387},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"JM","Users":75075,"Percent of CC Pop":4.56,"Percent of Internet":0.0018,"Samples":174221},
+{"rank":5,"AS":10292,"Description":"CWJ-1 - Cable & Wireless Jamaica","CC":"JM","Users":14565,"Percent of CC Pop":0.89,"Percent of Internet":0.0003,"Samples":40145},
+{"rank":6,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"JM","Users":11771,"Percent of CC Pop":0.72,"Percent of Internet":0.0003,"Samples":30086},
+{"rank":7,"AS":396304,"Description":"ANU-DIGI - Antigua Wireless ventures Ltd","CC":"JM","Users":1844,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":3809},
+{"rank":8,"AS":23520,"Description":"LIBERTY-NETWORKS - Columbus Networks USA, Inc.","CC":"JM","Users":1798,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":4267},
+{"rank":9,"AS":174,"Description":"COGENT-174 - Cogent Communications, LLC","CC":"JM","Users":1193,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":851},
+{"rank":10,"AS":399567,"Description":"HOMETIME-ASN1 - Hometime","CC":"JM","Users":813,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":466},
+{"rank":11,"AS":40143,"Description":"UTECH-JAMAICA - University of Technology, Jamaica","CC":"JM","Users":806,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":1621},
+{"rank":12,"AS":11580,"Description":"ISLAND-NETWORKS-LTD - Island Networks Ltd","CC":"JM","Users":713,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":2057},
+{"rank":13,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"JM","Users":668,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":127},
+{"rank":14,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"JM","Users":522,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":1233},
+{"rank":15,"AS":22306,"Description":"FISC-JM - eGov Jamaica Limited","CC":"JM","Users":450,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":77},
+{"rank":16,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"JM","Users":448,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":837},
+{"rank":17,"AS":212238,"Description":"CDNEXT","CC":"JM","Users":166,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":12},
+{"rank":18,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"JM","Users":149,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":31},
+{"rank":19,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"JM","Users":146,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":303},
+{"rank":20,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"JM","Users":111,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":68},
+{"rank":21,"AS":3586,"Description":"JAMNET - University of the West Indies","CC":"JM","Users":104,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":100},
+{"rank":22,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"JM","Users":61,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":27}
+  ]
+}

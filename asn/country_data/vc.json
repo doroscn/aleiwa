@@ -1,1 +1,16 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":46408,"Description":"COLUMBUS-COMMUNICATION-SVG - Columbus Communication St. Vincent and the Grenadines Ltd.","CC":"VC","Users":62999,"Percent of CC Pop":70.78,"Percent of Internet":0.0015,"Samples":213065},
+{"rank":2,"AS":33582,"Description":"DIGICEL-OECS - Digicel St.Lucia Ltd","CC":"VC","Users":18123,"Percent of CC Pop":20.36,"Percent of Internet":0.0004,"Samples":61436},
+{"rank":3,"AS":15344,"Description":"ASN15344-SLU - Karib Cable","CC":"VC","Users":4608,"Percent of CC Pop":5.18,"Percent of Internet":0.0001,"Samples":1145},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VC","Users":635,"Percent of CC Pop":0.71,"Percent of Internet":0.0000,"Samples":2202},
+{"rank":5,"AS":398901,"Description":"ITSD-VC-01 - Government of Saint Vincent and the Grenadines - Information Technology Services Division","CC":"VC","Users":450,"Percent of CC Pop":0.51,"Percent of Internet":0.0000,"Samples":1256},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"VC","Users":61,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":46},
+{"rank":7,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"VC","Users":54,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":28},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"VC","Users":44,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":14}
+  ]
+}

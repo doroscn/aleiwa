@@ -1,1 +1,19 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"MF","Users":6673,"Percent of CC Pop":32.95,"Percent of Internet":0.0002,"Samples":4033},
+{"rank":2,"AS":393894,"Description":"MSR-CABLE-TV - MSR PRIVATE CABLE TV","CC":"MF","Users":4294,"Percent of CC Pop":21.20,"Percent of Internet":0.0001,"Samples":4086},
+{"rank":3,"AS":33392,"Description":"DAUPHIN-TELECOM - Dauphin Telecom","CC":"MF","Users":4247,"Percent of CC Pop":20.97,"Percent of Internet":0.0001,"Samples":3347},
+{"rank":4,"AS":27734,"Description":"New Technologies Group N.V.","CC":"MF","Users":3999,"Percent of CC Pop":19.75,"Percent of Internet":0.0001,"Samples":3708},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MF","Users":3824,"Percent of CC Pop":18.88,"Percent of Internet":0.0001,"Samples":3007},
+{"rank":6,"AS":262181,"Description":"Coral Telecom N.V.","CC":"MF","Users":1166,"Percent of CC Pop":5.76,"Percent of Internet":0.0000,"Samples":1000},
+{"rank":7,"AS":395916,"Description":"THDTEL - THDTEL","CC":"MF","Users":1051,"Percent of CC Pop":5.19,"Percent of Internet":0.0000,"Samples":1097},
+{"rank":8,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"MF","Users":803,"Percent of CC Pop":3.96,"Percent of Internet":0.0000,"Samples":376},
+{"rank":9,"AS":399642,"Description":"IDNCOM - IDNCOM","CC":"MF","Users":392,"Percent of CC Pop":1.94,"Percent of Internet":0.0000,"Samples":53},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MF","Users":177,"Percent of CC Pop":0.87,"Percent of Internet":0.0000,"Samples":20},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MF","Users":97,"Percent of CC Pop":0.48,"Percent of Internet":0.0000,"Samples":13}
+  ]
+}

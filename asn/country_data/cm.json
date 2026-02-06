@@ -1,1 +1,29 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":36912,"Description":"ORANGE","CC":"CM","Users":3572600,"Percent of CC Pop":54.41,"Percent of Internet":0.0856,"Samples":2979533},
+{"rank":2,"AS":30992,"Description":"MTN-NS-CAMEROON","CC":"CM","Users":3109176,"Percent of CC Pop":47.35,"Percent of Internet":0.0745,"Samples":2607545},
+{"rank":3,"AS":15964,"Description":"CAMNET-AS","CC":"CM","Users":558050,"Percent of CC Pop":8.50,"Percent of Internet":0.0134,"Samples":469087},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CM","Users":233547,"Percent of CC Pop":3.56,"Percent of Internet":0.0056,"Samples":188802},
+{"rank":5,"AS":36905,"Description":"Creolink","CC":"CM","Users":20750,"Percent of CC Pop":0.32,"Percent of Internet":0.0005,"Samples":16717},
+{"rank":6,"AS":8075,"Description":"MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation","CC":"CM","Users":16790,"Percent of CC Pop":0.26,"Percent of Internet":0.0004,"Samples":1463},
+{"rank":7,"AS":329380,"Description":"CAMPOST","CC":"CM","Users":6103,"Percent of CC Pop":0.09,"Percent of Internet":0.0001,"Samples":42},
+{"rank":8,"AS":327820,"Description":"SWECOM","CC":"CM","Users":5530,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":4518},
+{"rank":9,"AS":36955,"Description":"Matrix-ASN1","CC":"CM","Users":4858,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":3980},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CM","Users":2693,"Percent of CC Pop":0.04,"Percent of Internet":0.0001,"Samples":2109},
+{"rank":11,"AS":37672,"Description":"INQ-DIGITAL-CAMEROON","CC":"CM","Users":1651,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":1082},
+{"rank":12,"AS":328866,"Description":"NEWTELNET","CC":"CM","Users":1414,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":1131},
+{"rank":13,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CM","Users":1155,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":883},
+{"rank":14,"AS":3356,"Description":"LEVEL3 - Level 3 Parent, LLC","CC":"CM","Users":739,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":26},
+{"rank":15,"AS":328840,"Description":"ST-Digital-AS","CC":"CM","Users":565,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":61},
+{"rank":16,"AS":37089,"Description":"ALINK-CM-AS","CC":"CM","Users":489,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":78},
+{"rank":17,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CM","Users":375,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":44},
+{"rank":18,"AS":60171,"Description":"AFRIX-AS","CC":"CM","Users":366,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":119},
+{"rank":19,"AS":327741,"Description":"INFOGENIE-AS","CC":"CM","Users":337,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":50},
+{"rank":20,"AS":329077,"Description":"DBS-AFG","CC":"CM","Users":274,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":24},
+{"rank":21,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"CM","Users":217,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":31}
+  ]
+}

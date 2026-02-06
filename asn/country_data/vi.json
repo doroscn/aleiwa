@@ -1,1 +1,19 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":14434,"Description":"VIPNAS1 - VI POWERNET, LLC","CC":"VI","Users":48879,"Percent of CC Pop":63.90,"Percent of Internet":0.0012,"Samples":136839},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VI","Users":9198,"Percent of CC Pop":12.02,"Percent of Internet":0.0002,"Samples":24872},
+{"rank":3,"AS":22581,"Description":"ACE-STX - Broadband VI, LLC","CC":"VI","Users":8473,"Percent of CC Pop":11.08,"Percent of Internet":0.0002,"Samples":23436},
+{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK - Virgin Islands Next Generation Network","CC":"VI","Users":2802,"Percent of CC Pop":3.66,"Percent of Internet":0.0001,"Samples":7846},
+{"rank":5,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"VI","Users":570,"Percent of CC Pop":0.75,"Percent of Internet":0.0000,"Samples":897},
+{"rank":6,"AS":400741,"Description":"ADM-TECH-01 - ADM Technologies, Inc.","CC":"VI","Users":464,"Percent of CC Pop":0.61,"Percent of Internet":0.0000,"Samples":885},
+{"rank":7,"AS":20243,"Description":"UVI - University of the Virgin Islands","CC":"VI","Users":359,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":713},
+{"rank":8,"AS":400099,"Description":"SMART-NET-01 - Alliance Data Services LLC","CC":"VI","Users":357,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":625},
+{"rank":9,"AS":3356,"Description":"LEVEL3 - Level 3 Parent, LLC","CC":"VI","Users":153,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":131},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"VI","Users":82,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":101},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"VI","Users":77,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":56}
+  ]
+}

@@ -1,1 +1,18 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":37057,"Description":"VODACOM-LESOTHO","CC":"LS","Users":437270,"Percent of CC Pop":59.64,"Percent of Internet":0.0105,"Samples":182965},
+{"rank":2,"AS":33567,"Description":"TELECOM-LESOTHO","CC":"LS","Users":358004,"Percent of CC Pop":48.83,"Percent of Internet":0.0086,"Samples":149053},
+{"rank":3,"AS":37642,"Description":"Comnet-Lesotho-AS","CC":"LS","Users":9707,"Percent of CC Pop":1.32,"Percent of Internet":0.0002,"Samples":4088},
+{"rank":4,"AS":327750,"Description":"JENNY-INTERNET","CC":"LS","Users":2848,"Percent of CC Pop":0.39,"Percent of Internet":0.0001,"Samples":1117},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LS","Users":2841,"Percent of CC Pop":0.39,"Percent of Internet":0.0001,"Samples":1111},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"LS","Users":2190,"Percent of CC Pop":0.30,"Percent of Internet":0.0001,"Samples":18},
+{"rank":7,"AS":328567,"Description":"LEC-Communications","CC":"LS","Users":1907,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":633},
+{"rank":8,"AS":25695,"Description":"LEO","CC":"LS","Users":1628,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":519},
+{"rank":9,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"LS","Users":1125,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":10},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LS","Users":432,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":32}
+  ]
+}

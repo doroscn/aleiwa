@@ -1,1 +1,24 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"VG","Users":7172,"Percent of CC Pop":43.13,"Percent of Internet":0.0002,"Samples":32377},
+{"rank":2,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications Barbados Limited","CC":"VG","Users":3833,"Percent of CC Pop":23.05,"Percent of Internet":0.0001,"Samples":9274},
+{"rank":3,"AS":396357,"Description":"BVI-DIG - Digicel BVI Limited","CC":"VG","Users":3588,"Percent of CC Pop":21.58,"Percent of Internet":0.0001,"Samples":16726},
+{"rank":4,"AS":22069,"Description":"CARIB-23 - CCT Global Communications","CC":"VG","Users":3089,"Percent of CC Pop":18.58,"Percent of Internet":0.0001,"Samples":14058},
+{"rank":5,"AS":205507,"Description":"NURIKOINOT-AS OJSC Tojiktelecom","CC":"VG","Users":1525,"Percent of CC Pop":9.17,"Percent of Internet":0.0000,"Samples":4633},
+{"rank":6,"AS":33229,"Description":"ANY2CLOUD - Any2Cloud","CC":"VG","Users":1156,"Percent of CC Pop":6.95,"Percent of Internet":0.0000,"Samples":687},
+{"rank":7,"AS":63199,"Description":"CDSC-AS1 - CDS Global Cloud Co., Ltd","CC":"VG","Users":895,"Percent of CC Pop":5.38,"Percent of Internet":0.0000,"Samples":180},
+{"rank":8,"AS":200313,"Description":"INTERNET-IT","CC":"VG","Users":852,"Percent of CC Pop":5.12,"Percent of Internet":0.0000,"Samples":3992},
+{"rank":9,"AS":50597,"Description":"SCOPESKY","CC":"VG","Users":185,"Percent of CC Pop":1.11,"Percent of Internet":0.0000,"Samples":457},
+{"rank":10,"AS":215224,"Description":"NOVOSERVE-CUSTOMERS-AS NovoServe Customers ASN","CC":"VG","Users":110,"Percent of CC Pop":0.66,"Percent of Internet":0.0000,"Samples":30},
+{"rank":11,"AS":216475,"Description":"NKTELECOM","CC":"VG","Users":62,"Percent of CC Pop":0.37,"Percent of Internet":0.0000,"Samples":37},
+{"rank":12,"AS":51765,"Description":"CREANOVA-AS Oy Creanova Hosting Solutions Ltd.","CC":"VG","Users":60,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":10},
+{"rank":13,"AS":200740,"Description":"FIRST-SERVER-EU-AS FIRST-SERVER-US","CC":"VG","Users":54,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":31},
+{"rank":14,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"VG","Users":51,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":56},
+{"rank":15,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"VG","Users":50,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":19},
+{"rank":16,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"VG","Users":33,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":16}
+  ]
+}

@@ -1,1 +1,14 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":27781,"Description":"SMITCOMS N.V.","CC":"SX","Users":11906,"Percent of CC Pop":50.49,"Percent of Internet":0.0003,"Samples":56126},
+{"rank":2,"AS":27734,"Description":"New Technologies Group N.V.","CC":"SX","Users":8103,"Percent of CC Pop":34.36,"Percent of Internet":0.0002,"Samples":38823},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SX","Users":2720,"Percent of CC Pop":11.53,"Percent of Internet":0.0001,"Samples":12919},
+{"rank":4,"AS":262181,"Description":"Coral Telecom N.V.","CC":"SX","Users":1697,"Percent of CC Pop":7.20,"Percent of Internet":0.0000,"Samples":8012},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SX","Users":35,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":43},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SX","Users":28,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":28}
+  ]
+}

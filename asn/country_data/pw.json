@@ -1,1 +1,12 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":17893,"Description":"PALAU-AS-AP Palau National Communications Corp.","CC":"PW","Users":9285,"Percent of CC Pop":93.31,"Percent of Internet":0.0002,"Samples":39444},
+{"rank":2,"AS":133897,"Description":"PEACCDPT-AS-AP Palau Equipment Co. Inc.","CC":"PW","Users":602,"Percent of CC Pop":6.05,"Percent of Internet":0.0000,"Samples":2660},
+{"rank":3,"AS":58932,"Description":"PMCI-AS-AP Palau Mobile Communications Inc.","CC":"PW","Users":80,"Percent of CC Pop":0.80,"Percent of Internet":0.0000,"Samples":110},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"PW","Users":58,"Percent of CC Pop":0.58,"Percent of Internet":0.0000,"Samples":40}
+  ]
+}

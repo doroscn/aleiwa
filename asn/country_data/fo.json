@@ -1,1 +1,15 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":15389,"Description":"FAROESE-TELECOM-AS","CC":"FO","Users":41962,"Percent of CC Pop":84.84,"Percent of Internet":0.0010,"Samples":114154},
+{"rank":2,"AS":20963,"Description":"NEMAFAROE","CC":"FO","Users":12124,"Percent of CC Pop":24.51,"Percent of Internet":0.0003,"Samples":33118},
+{"rank":3,"AS":209175,"Description":"KRINGVARP_FOROYA","CC":"FO","Users":205,"Percent of CC Pop":0.41,"Percent of Internet":0.0000,"Samples":45},
+{"rank":4,"AS":206928,"Description":"PF-ELEKTRON","CC":"FO","Users":172,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":272},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FO","Users":78,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":87},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"FO","Users":66,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":21},
+{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"FO","Users":58,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":25}
+  ]
+}

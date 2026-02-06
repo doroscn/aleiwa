@@ -1,1 +1,14 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":27725,"Description":"Empresa de Telecomunicaciones de Cuba, S.A.","CC":"CU","Users":6631067,"Percent of CC Pop":97.40,"Percent of Internet":0.1589,"Samples":2585808},
+{"rank":2,"AS":10569,"Description":"Red CENIAInternet","CC":"CU","Users":1617,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":447},
+{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CU","Users":682,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":123},
+{"rank":4,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"CU","Users":544,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":60},
+{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CU","Users":408,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":12},
+{"rank":6,"AS":9009,"Description":"M247","CC":"CU","Users":339,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":18}
+  ]
+}

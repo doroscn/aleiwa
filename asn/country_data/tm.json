@@ -1,1 +1,15 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":20661,"Description":"TURKMENTELECOM-AS","CC":"TM","Users":1555572,"Percent of CC Pop":94.82,"Percent of Internet":0.0373,"Samples":10361},
+{"rank":2,"AS":59974,"Description":"TMCELL-NET","CC":"TM","Users":141293,"Percent of CC Pop":8.61,"Percent of Internet":0.0034,"Samples":837},
+{"rank":3,"AS":51495,"Description":"AGTS-AS","CC":"TM","Users":103817,"Percent of CC Pop":6.33,"Percent of Internet":0.0025,"Samples":542},
+{"rank":4,"AS":205471,"Description":"CDMA-AGTS-AS","CC":"TM","Users":48997,"Percent of CC Pop":2.99,"Percent of Internet":0.0012,"Samples":66},
+{"rank":5,"AS":204579,"Description":"TH","CC":"TM","Users":35808,"Percent of CC Pop":2.18,"Percent of Internet":0.0009,"Samples":83},
+{"rank":6,"AS":212238,"Description":"CDNEXT","CC":"TM","Users":31383,"Percent of CC Pop":1.91,"Percent of Internet":0.0008,"Samples":11},
+{"rank":7,"AS":213541,"Description":"WS-TELECOM-SDN","CC":"TM","Users":26938,"Percent of CC Pop":1.64,"Percent of Internet":0.0006,"Samples":12}
+  ]
+}

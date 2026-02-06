@@ -1,1 +1,13 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":30990,"Description":"ADJIB-AS","CC":"DJ","Users":1241597,"Percent of CC Pop":115.49,"Percent of Internet":0.0298,"Samples":354891},
+{"rank":2,"AS":329140,"Description":"AS5-AS","CC":"DJ","Users":3756,"Percent of CC Pop":0.35,"Percent of Internet":0.0001,"Samples":1010},
+{"rank":3,"AS":327831,"Description":"Djibouti-Data-Center","CC":"DJ","Users":1459,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":67},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"DJ","Users":1385,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":295},
+{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"DJ","Users":591,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":24}
+  ]
+}

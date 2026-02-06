@@ -1,1 +1,11 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TV","Users":5562,"Percent of CC Pop":85.16,"Percent of Internet":0.0001,"Samples":12608},
+{"rank":2,"AS":23917,"Description":"TTC-AS-AP Tuvalu Telecommunications Corporation","CC":"TV","Users":811,"Percent of CC Pop":12.42,"Percent of Internet":0.0000,"Samples":1775},
+{"rank":3,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TV","Users":106,"Percent of CC Pop":1.62,"Percent of Internet":0.0000,"Samples":23}
+  ]
+}

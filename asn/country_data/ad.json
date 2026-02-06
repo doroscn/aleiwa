@@ -1,1 +1,18 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":6752,"Description":"ANDORRA Andorra Telecom","CC":"AD","Users":75727,"Percent of CC Pop":97.29,"Percent of Internet":0.0018,"Samples":185388},
+{"rank":2,"AS":209854,"Description":"CYBERZONEHUB","CC":"AD","Users":2119,"Percent of CC Pop":2.72,"Percent of Internet":0.0001,"Samples":5183},
+{"rank":3,"AS":212238,"Description":"CDNEXT","CC":"AD","Users":1882,"Percent of CC Pop":2.42,"Percent of Internet":0.0000,"Samples":4477},
+{"rank":4,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"AD","Users":1339,"Percent of CC Pop":1.72,"Percent of Internet":0.0000,"Samples":3318},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AD","Users":303,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":21},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"AD","Users":236,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":33},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AD","Users":106,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":151},
+{"rank":8,"AS":9009,"Description":"M247","CC":"AD","Users":87,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":101},
+{"rank":9,"AS":13213,"Description":"UK2NET-AS","CC":"AD","Users":71,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":40},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AD","Users":62,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":43}
+  ]
+}

@@ -1,1 +1,10 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":201004,"Description":"GLOBALTT-AS","CC":"ER","Users":50109,"Percent of CC Pop":95.18,"Percent of Internet":0.0012,"Samples":144},
+{"rank":2,"AS":30987,"Description":"ERITEL-AS","CC":"ER","Users":44571,"Percent of CC Pop":84.66,"Percent of Internet":0.0011,"Samples":66}
+  ]
+}

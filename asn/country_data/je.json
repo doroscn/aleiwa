@@ -1,1 +1,19 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":8681,"Description":"JT","CC":"JE","Users":36647,"Percent of CC Pop":38.32,"Percent of Internet":0.0009,"Samples":147189},
+{"rank":2,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"JE","Users":18129,"Percent of CC Pop":18.96,"Percent of Internet":0.0004,"Samples":73063},
+{"rank":3,"AS":13208,"Description":"NEWTELSOLUTIONS-AS Channel Islands","CC":"JE","Users":6302,"Percent of CC Pop":6.59,"Percent of Internet":0.0002,"Samples":24833},
+{"rank":4,"AS":61143,"Description":"JERSEY-AIRTEL","CC":"JE","Users":1334,"Percent of CC Pop":1.40,"Percent of Internet":0.0000,"Samples":5461},
+{"rank":5,"AS":212238,"Description":"CDNEXT","CC":"JE","Users":339,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":988},
+{"rank":6,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"JE","Users":322,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":215},
+{"rank":7,"AS":211875,"Description":"GOJ","CC":"JE","Users":149,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":250},
+{"rank":8,"AS":13213,"Description":"UK2NET-AS","CC":"JE","Users":76,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":73},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"JE","Users":75,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":137},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"JE","Users":62,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":71},
+{"rank":11,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"JE","Users":57,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":37}
+  ]
+}

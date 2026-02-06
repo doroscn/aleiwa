@@ -1,1 +1,18 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":15706,"Description":"Sudatel","CC":"SD","Users":8259130,"Percent of CC Pop":53.32,"Percent of Internet":0.1979,"Samples":1841988},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SD","Users":3841464,"Percent of CC Pop":24.80,"Percent of Internet":0.0921,"Samples":841721},
+{"rank":3,"AS":36998,"Description":"SDN-MOBITEL","CC":"SD","Users":3546397,"Percent of CC Pop":22.89,"Percent of Internet":0.0850,"Samples":793142},
+{"rank":4,"AS":36972,"Description":"MTN","CC":"SD","Users":2362150,"Percent of CC Pop":15.25,"Percent of Internet":0.0566,"Samples":528121},
+{"rank":5,"AS":33788,"Description":"KANARTEL","CC":"SD","Users":20423,"Percent of CC Pop":0.13,"Percent of Internet":0.0005,"Samples":4554},
+{"rank":6,"AS":37211,"Description":"MAX-NET-FOR-INTERNET-SERVICES","CC":"SD","Users":19913,"Percent of CC Pop":0.13,"Percent of Internet":0.0005,"Samples":4512},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SD","Users":15666,"Percent of CC Pop":0.10,"Percent of Internet":0.0004,"Samples":3576},
+{"rank":8,"AS":328824,"Description":"Lulu-AS","CC":"SD","Users":2338,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":414},
+{"rank":9,"AS":329344,"Description":"right-advanced-business-co-ltd","CC":"SD","Users":1114,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":38},
+{"rank":10,"AS":328586,"Description":"HORIZON-IT-SOLUTIONS-LTD","CC":"SD","Users":1063,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":19}
+  ]
+}

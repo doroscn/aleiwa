@@ -1,1 +1,16 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":30985,"Description":"IKATELNET","CC":"ML","Users":2326583,"Percent of CC Pop":75.79,"Percent of Internet":0.0558,"Samples":2601460},
+{"rank":2,"AS":21271,"Description":"SOTELMABGP","CC":"ML","Users":1291775,"Percent of CC Pop":42.08,"Percent of Internet":0.0310,"Samples":1448336},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ML","Users":173829,"Percent of CC Pop":5.66,"Percent of Internet":0.0042,"Samples":36627},
+{"rank":4,"AS":328253,"Description":"MALI-ATEL","CC":"ML","Users":91349,"Percent of CC Pop":2.98,"Percent of Internet":0.0022,"Samples":100525},
+{"rank":5,"AS":36864,"Description":"AFRIBONEMALI-AS","CC":"ML","Users":28499,"Percent of CC Pop":0.93,"Percent of Internet":0.0007,"Samples":30921},
+{"rank":6,"AS":328284,"Description":"SMDT1-AS","CC":"ML","Users":1812,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":1957},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"ML","Users":561,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":549},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"ML","Users":103,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":11}
+  ]
+}

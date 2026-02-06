@@ -1,1 +1,17 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"KN","Users":19448,"Percent of CC Pop":42.42,"Percent of Internet":0.0005,"Samples":66492},
+{"rank":2,"AS":36290,"Description":"THECABLE-STKITTS-01 - The Cable of St. Kitts","CC":"KN","Users":15447,"Percent of CC Pop":33.70,"Percent of Internet":0.0004,"Samples":52482},
+{"rank":3,"AS":398228,"Description":"STKITS - Antigua Wireless ventures Ltd","CC":"KN","Users":4844,"Percent of CC Pop":10.57,"Percent of Internet":0.0001,"Samples":16987},
+{"rank":4,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications Barbados Limited","CC":"KN","Users":3123,"Percent of CC Pop":6.81,"Percent of Internet":0.0001,"Samples":4435},
+{"rank":5,"AS":397382,"Description":"ECCB-CENTRALBANK - Eastern Caribbean Central Bank","CC":"KN","Users":177,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":108},
+{"rank":6,"AS":174,"Description":"COGENT-174 - Cogent Communications, LLC","CC":"KN","Users":121,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":42},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"KN","Users":78,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":40},
+{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KN","Users":55,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":19},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"KN","Users":51,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":19}
+  ]
+}

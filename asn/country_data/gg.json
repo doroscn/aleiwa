@@ -1,1 +1,13 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"GG","Users":28568,"Percent of CC Pop":82.41,"Percent of Internet":0.0007,"Samples":117134},
+{"rank":2,"AS":8681,"Description":"JT","CC":"GG","Users":6116,"Percent of CC Pop":17.64,"Percent of Internet":0.0001,"Samples":24507},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GG","Users":569,"Percent of CC Pop":1.64,"Percent of Internet":0.0000,"Samples":2233},
+{"rank":4,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GG","Users":59,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":32},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GG","Users":46,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":78}
+  ]
+}

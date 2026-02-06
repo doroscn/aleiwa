@@ -1,1 +1,21 @@
-{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
+{
+ "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
+  "description": "Estimates of user population per AS",
+  "Date": "28/01/2026",
+  "Window": "120 Days",
+ "Data": [
+{"rank":1,"AS":7642,"Description":"DHIRAAGU-MV-AP DHIVEHI RAAJJEYGE GULHUN PLC","CC":"MV","Users":208806,"Percent of CC Pop":54.35,"Percent of Internet":0.0050,"Samples":513070},
+{"rank":2,"AS":55944,"Description":"OOREDOO-MV Ooredoo Maldives Plc","CC":"MV","Users":133165,"Percent of CC Pop":34.66,"Percent of Internet":0.0032,"Samples":325925},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MV","Users":12555,"Percent of CC Pop":3.27,"Percent of Internet":0.0003,"Samples":23779},
+{"rank":4,"AS":136238,"Description":"SATLINKPVTLTD-AS-AP SatLink Pvt Ltd","CC":"MV","Users":5613,"Percent of CC Pop":1.46,"Percent of Internet":0.0001,"Samples":13815},
+{"rank":5,"AS":24016,"Description":"RAAJJEONLINE-AS Focus Infocom Private Limited","CC":"MV","Users":2951,"Percent of CC Pop":0.77,"Percent of Internet":0.0001,"Samples":7350},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MV","Users":2287,"Percent of CC Pop":0.60,"Percent of Internet":0.0001,"Samples":5858},
+{"rank":7,"AS":139082,"Description":"SEPCL-AS-AP Singha Estate Public Company Limited","CC":"MV","Users":618,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":1288},
+{"rank":8,"AS":137477,"Description":"VILLA-STC-AS-AP Villa Shipping and Trading Company Pvt. Ltd.","CC":"MV","Users":612,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":1011},
+{"rank":9,"AS":22363,"Description":"PHMGMT-AS1 - Powerhouse Management, Inc.","CC":"MV","Users":154,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":104},
+{"rank":10,"AS":137056,"Description":"TREETOP-AS-AP Tree Top Health Pvt. Ltd.","CC":"MV","Users":120,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":10},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MV","Users":102,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":150},
+{"rank":12,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"MV","Users":68,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":18},
+{"rank":13,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"MV","Users":61,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":32}
+  ]
+}
