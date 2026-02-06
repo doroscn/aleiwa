@@ -1,18 +1,1 @@
-{
- "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
-  "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
-  "Window": "120 Days",
- "Data": [
-{"rank":1,"AS":15344,"Description":"ASN15344-SLU - Karib Cable","CC":"LC","Users":66782,"Percent of CC Pop":62.25,"Percent of Internet":0.0016,"Samples":285561},
-{"rank":2,"AS":33582,"Description":"DIGICEL-OECS - Digicel St.Lucia Ltd","CC":"LC","Users":30191,"Percent of CC Pop":28.14,"Percent of Internet":0.0007,"Samples":125654},
-{"rank":3,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications Barbados Limited","CC":"LC","Users":10123,"Percent of CC Pop":9.44,"Percent of Internet":0.0002,"Samples":22845},
-{"rank":4,"AS":395561,"Description":"DIGICEL-GRENADA - Digicel St.Lucia Ltd","CC":"LC","Users":2859,"Percent of CC Pop":2.66,"Percent of Internet":0.0001,"Samples":11464},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LC","Users":300,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":881},
-{"rank":6,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"LC","Users":274,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":165},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LC","Users":81,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":97},
-{"rank":8,"AS":15169,"Description":"GOOGLE - Google LLC","CC":"LC","Users":55,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":18},
-{"rank":9,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"LC","Users":54,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":17},
-{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"LC","Users":48,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":23}
-  ]
-}
+{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}

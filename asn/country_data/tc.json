@@ -1,13 +1,1 @@
-{
- "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
-  "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
-  "Window": "120 Days",
- "Data": [
-{"rank":1,"AS":22933,"Description":"TCIGATEWAY - Cable and Wireless, Turks and Caicos","CC":"TC","Users":12963,"Percent of CC Pop":60.88,"Percent of Internet":0.0003,"Samples":52956},
-{"rank":2,"AS":394311,"Description":"DIGTCI - Digicel Turks and Caicos Ltd","CC":"TC","Users":12812,"Percent of CC Pop":60.17,"Percent of Internet":0.0003,"Samples":52151},
-{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TC","Users":136,"Percent of CC Pop":0.64,"Percent of Internet":0.0000,"Samples":144},
-{"rank":4,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TC","Users":64,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":28},
-{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"TC","Users":48,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":18}
-  ]
-}
+{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}

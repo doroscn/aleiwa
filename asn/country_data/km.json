@@ -1,14 +1,1 @@
-{
- "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
-  "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
-  "Window": "120 Days",
- "Data": [
-{"rank":1,"AS":328061,"Description":"TELCO-SA-AS","CC":"KM","Users":42327,"Percent of CC Pop":51.32,"Percent of Internet":0.0010,"Samples":90757},
-{"rank":2,"AS":36939,"Description":"ComoresTelecom","CC":"KM","Users":41475,"Percent of CC Pop":50.29,"Percent of Internet":0.0010,"Samples":88122},
-{"rank":3,"AS":212238,"Description":"CDNEXT","CC":"KM","Users":256,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":172},
-{"rank":4,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"KM","Users":141,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":16},
-{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KM","Users":128,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":13},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"KM","Users":105,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":12}
-  ]
-}
+{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}

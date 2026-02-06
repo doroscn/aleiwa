@@ -1,11 +1,1 @@
-{
- "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
-  "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
-  "Window": "120 Days",
- "Data": [
-{"rank":1,"AS":398821,"Description":"GOM-DITES-AS-01 - Government of Montserrat","CC":"MS","Users":2225,"Percent of CC Pop":81.06,"Percent of Internet":0.0001,"Samples":136},
-{"rank":2,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"MS","Users":1983,"Percent of CC Pop":72.24,"Percent of Internet":0.0000,"Samples":40},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MS","Users":1759,"Percent of CC Pop":64.08,"Percent of Internet":0.0000,"Samples":19}
-  ]
-}
+{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}

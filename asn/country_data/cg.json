@@ -1,18 +1,1 @@
-{
- "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
-  "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
-  "Window": "120 Days",
- "Data": [
-{"rank":1,"AS":36924,"Description":"GVA-Canalbox","CC":"CG","Users":191628,"Percent of CC Pop":35.64,"Percent of Internet":0.0046,"Samples":416644},
-{"rank":2,"AS":37451,"Description":"CongoTelecom","CC":"CG","Users":172412,"Percent of CC Pop":32.06,"Percent of Internet":0.0041,"Samples":380461},
-{"rank":3,"AS":37550,"Description":"airtelcg","CC":"CG","Users":130587,"Percent of CC Pop":24.28,"Percent of Internet":0.0031,"Samples":288804},
-{"rank":4,"AS":37463,"Description":"MTN-CONGO","CC":"CG","Users":128373,"Percent of CC Pop":23.87,"Percent of Internet":0.0031,"Samples":284141},
-{"rank":5,"AS":327829,"Description":"SKYTIC-TELECOM","CC":"CG","Users":1596,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":3478},
-{"rank":6,"AS":328857,"Description":"SILICONEAS","CC":"CG","Users":1315,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":2859},
-{"rank":7,"AS":328500,"Description":"AMC-Telecom","CC":"CG","Users":395,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":772},
-{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CG","Users":241,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":232},
-{"rank":9,"AS":37548,"Description":"ARPCE","CC":"CG","Users":188,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":120},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CG","Users":184,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":260}
-  ]
-}
+{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}

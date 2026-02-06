@@ -1,12 +1,1 @@
-{
- "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
-  "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
-  "Window": "120 Days",
- "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"AI","Users":7481,"Percent of CC Pop":58.64,"Percent of Internet":0.0002,"Samples":36740},
-{"rank":2,"AS":396304,"Description":"ANU-DIGI - Antigua Wireless ventures Ltd","CC":"AI","Users":3276,"Percent of CC Pop":25.68,"Percent of Internet":0.0001,"Samples":15673},
-{"rank":3,"AS":2740,"Description":"CARIBCABLE - Caribbean Cable Communications","CC":"AI","Users":2699,"Percent of CC Pop":21.16,"Percent of Internet":0.0001,"Samples":13039},
-{"rank":4,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"AI","Users":160,"Percent of CC Pop":1.25,"Percent of Internet":0.0000,"Samples":427}
-  ]
-}
+{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}

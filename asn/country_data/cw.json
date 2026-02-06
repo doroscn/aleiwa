@@ -1,18 +1,1 @@
-{
- "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
-  "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
-  "Window": "120 Days",
- "Data": [
-{"rank":1,"AS":52233,"Description":"Columbus Communications Curacao NV","CC":"CW","Users":52910,"Percent of CC Pop":58.63,"Percent of Internet":0.0013,"Samples":236365},
-{"rank":2,"AS":11081,"Description":"United Telecommunication Services UTS","CC":"CW","Users":28286,"Percent of CC Pop":31.34,"Percent of Internet":0.0007,"Samples":125651},
-{"rank":3,"AS":27660,"Description":"Curacao Telecom","CC":"CW","Users":25513,"Percent of CC Pop":28.27,"Percent of Internet":0.0006,"Samples":113411},
-{"rank":4,"AS":272996,"Description":"SINCERE NETWORKS B.V.","CC":"CW","Users":334,"Percent of CC Pop":0.37,"Percent of Internet":0.0000,"Samples":54},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CW","Users":78,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":142},
-{"rank":6,"AS":264645,"Description":"NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"CW","Users":77,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":118},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"CW","Users":48,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":51},
-{"rank":8,"AS":15169,"Description":"GOOGLE - Google LLC","CC":"CW","Users":45,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":10},
-{"rank":9,"AS":52391,"Description":"Curacao Technology Exchange N.V CTEX","CC":"CW","Users":44,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":20},
-{"rank":10,"AS":262162,"Description":"Fatum Holding N.V","CC":"CW","Users":42,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":10}
-  ]
-}
+{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}

@@ -1,17 +1,1 @@
-{
- "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
-  "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
-  "Window": "120 Days",
- "Data": [
-{"rank":1,"AS":37054,"Description":"Telecom-Malagasy","CC":"MG","Users":2520117,"Percent of CC Pop":55.57,"Percent of Internet":0.0604,"Samples":458765},
-{"rank":2,"AS":37037,"Description":"ORANGEMG-AS","CC":"MG","Users":1530598,"Percent of CC Pop":33.75,"Percent of Internet":0.0367,"Samples":270854},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MG","Users":482029,"Percent of CC Pop":10.63,"Percent of Internet":0.0116,"Samples":88271},
-{"rank":4,"AS":37303,"Description":"AIRTELMADA","CC":"MG","Users":448895,"Percent of CC Pop":9.90,"Percent of Internet":0.0108,"Samples":80778},
-{"rank":5,"AS":328411,"Description":"Gulfsat-Madagascar-AS","CC":"MG","Users":163086,"Percent of CC Pop":3.60,"Percent of Internet":0.0039,"Samples":28956},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MG","Users":6279,"Percent of CC Pop":0.14,"Percent of Internet":0.0002,"Samples":596},
-{"rank":7,"AS":37608,"Description":"iRENALA-AS","CC":"MG","Users":2719,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":270},
-{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"MG","Users":1049,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":15},
-{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MG","Users":875,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":25}
-  ]
-}
+{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}

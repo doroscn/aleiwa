@@ -1,9 +1,1 @@
-{
- "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
-  "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
-  "Window": "120 Days",
- "Data": [
-{"rank":1,"AS":8978,"Description":"ASN-HOLYSEE Holy See Secretariat of State Department of Telecommunications","CC":"VA","Users":285,"Percent of CC Pop":64.77,"Percent of Internet":0.0000,"Samples":504}
-  ]
-}
+{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}

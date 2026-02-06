@@ -1,15 +1,1 @@
-{
- "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
-  "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
-  "Window": "120 Days",
- "Data": [
-{"rank":1,"AS":11816,"Description":"SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.","CC":"AW","Users":103869,"Percent of CC Pop":92.92,"Percent of Internet":0.0025,"Samples":193171},
-{"rank":2,"AS":264645,"Description":"NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"AW","Users":6555,"Percent of CC Pop":5.86,"Percent of Internet":0.0002,"Samples":12200},
-{"rank":3,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"AW","Users":188,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":67},
-{"rank":4,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"AW","Users":147,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":28},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AW","Users":108,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":83},
-{"rank":6,"AS":9009,"Description":"M247","CC":"AW","Users":83,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":14},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AW","Users":79,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":20}
-  ]
-}
+{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}

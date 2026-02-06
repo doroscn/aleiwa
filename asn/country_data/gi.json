@@ -1,16 +1,1 @@
-{
- "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
-  "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
-  "Window": "120 Days",
- "Data": [
-{"rank":1,"AS":8301,"Description":"GIBTELECOMNET","CC":"GI","Users":12990,"Percent of CC Pop":34.28,"Percent of Internet":0.0003,"Samples":38678},
-{"rank":2,"AS":202087,"Description":"AJSEGIB-AS","CC":"GI","Users":12135,"Percent of CC Pop":32.02,"Percent of Internet":0.0003,"Samples":36190},
-{"rank":3,"AS":34803,"Description":"BGL","CC":"GI","Users":11038,"Percent of CC Pop":29.13,"Percent of Internet":0.0003,"Samples":33196},
-{"rank":4,"AS":8772,"Description":"NLINELLC","CC":"GI","Users":439,"Percent of CC Pop":1.16,"Percent of Internet":0.0000,"Samples":949},
-{"rank":5,"AS":196775,"Description":"BAY-MANAGEMENT","CC":"GI","Users":75,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":56},
-{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GI","Users":72,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":14},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GI","Users":46,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":14},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GI","Users":44,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":18}
-  ]
-}
+{"copyright":"(C) Cedexis/Citrix ITM. Data re-use with attribution permitted.","description":"Network/AS share per country (Cedexis private measurement)","Date":"06/02/2026","Window":"month_to_date","Data":[]}
