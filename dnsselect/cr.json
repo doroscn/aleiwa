@@ -10,12 +10,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:18:57Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2021-10-01T23:29:03.9574Z",
     "available": false
   },
   {
-    "ip": "201.204.47.66",
+    "ip": "201.204.47.71",
     "name": "",
     "as_number": 11830,
     "as_org": "Instituto Costarricense de Electricidad y Telecom.",
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7901234567901234,
-    "checked_at": "2025-03-08T15:19:05Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2021-10-10T06:08:36.671857Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:19:08Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-09-28T22:23:52.777568Z",
     "available": false
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:19:15Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-09-29T12:54:25.372419Z",
     "available": true
   },
@@ -70,9 +70,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6,
-    "checked_at": "2025-03-08T15:19:23Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-10-10T23:54:12.720504Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "181.193.120.115",
@@ -85,9 +85,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:19:23Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-10-20T14:11:25.482137Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.7.204.206",
@@ -100,9 +100,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:19:23Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-10-22T12:17:09.211201Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "181.193.115.22",
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:19:30Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-10-22T15:14:04.246207Z",
     "available": false
   },
@@ -130,12 +130,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7972350230414746,
-    "checked_at": "2025-03-08T15:19:38Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-10-28T03:32:34.777719Z",
     "available": false
   },
   {
-    "ip": "143.137.148.13",
+    "ip": "143.137.148.20",
     "name": "",
     "as_number": 264615,
     "as_org": "INASOL INALAMBRICA SOLUCIONES S.A.",
@@ -145,12 +145,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9172413793103448,
-    "checked_at": "2025-03-08T15:19:45Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-11-05T06:50:31.401053Z",
     "available": true
   },
   {
-    "ip": "186.15.186.146",
+    "ip": "186.15.186.155",
     "name": "",
     "as_number": 262202,
     "as_org": "Telefonica de Costa Rica TC, SA",
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:19:52Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-11-05T11:37:12.638952Z",
     "available": true
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.919831223628692,
-    "checked_at": "2025-03-08T15:19:53Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-11-09T20:47:36.07799Z",
     "available": false
   },
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9399585921325052,
-    "checked_at": "2025-03-08T15:20:00Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-11-14T21:42:27.151821Z",
     "available": true
   },
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9608540925266904,
-    "checked_at": "2025-03-08T15:20:00Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-11-17T14:10:39.747132Z",
     "available": true
   },
@@ -220,7 +220,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2025-03-08T15:20:08Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-11-18T12:49:54.88845Z",
     "available": false
   },
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:20:15Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-11-22T04:24:21.013761Z",
     "available": false
   },
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.957983193277311,
-    "checked_at": "2025-03-08T15:20:22Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-11-23T13:05:22.438974Z",
     "available": true
   },
@@ -265,12 +265,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.767816091954023,
-    "checked_at": "2025-03-08T15:20:30Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-11-30T08:39:21.409996Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "170.81.33.133",
+    "ip": "170.81.33.11",
     "name": "",
     "as_number": 28317,
     "as_org": "NAVEGALO S.A.",
@@ -280,9 +280,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:20:37Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-12-11T09:06:08.316127Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "94.124.97.58",
@@ -295,7 +295,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9126984126984127,
-    "checked_at": "2025-03-08T15:20:44Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-12-28T03:43:30.709075Z",
     "available": false
   },
@@ -310,7 +310,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9787234042553191,
-    "checked_at": "2025-03-08T15:20:52Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2022-12-31T01:16:18.441953Z",
     "available": true
   },
@@ -325,12 +325,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9959183673469387,
-    "checked_at": "2025-03-08T15:20:59Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2023-02-21T01:28:28.398986Z",
     "available": false
   },
   {
-    "ip": "186.5.163.114",
+    "ip": "186.5.163.122",
     "name": "114-163-5-186.americandatanetworks.com.",
     "as_number": 27876,
     "as_org": "American Data Networks",
@@ -340,9 +340,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.422680412371134,
-    "checked_at": "2025-03-08T15:21:06Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2023-02-26T17:41:06.718716Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "190.7.213.66",
@@ -355,7 +355,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8368983957219251,
-    "checked_at": "2025-03-08T15:21:11Z",
+    "checked_at": "2026-02-09T08:45:17Z",
     "created_at": "2023-02-26T22:23:35.322587Z",
     "available": true
   },
@@ -370,7 +370,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.991304347826087,
-    "checked_at": "2025-03-08T15:21:18Z",
+    "checked_at": "2026-02-09T08:45:18Z",
     "created_at": "2023-02-27T02:28:48.933562Z",
     "available": true
   },
@@ -385,12 +385,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9957446808510638,
-    "checked_at": "2025-03-08T15:21:26Z",
+    "checked_at": "2026-02-09T08:45:18Z",
     "created_at": "2023-03-03T05:59:32.991554Z",
     "available": true
   },
   {
-    "ip": "190.14.154.106",
+    "ip": "190.14.154.114",
     "name": "190-14-154-186.pub-customers.rhitcr.com.",
     "as_number": 52356,
     "as_org": "R&H International Telecom Services SA.",
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.925,
-    "checked_at": "2025-03-08T15:21:29Z",
+    "checked_at": "2026-02-09T08:45:18Z",
     "created_at": "2023-03-10T06:14:13.730076Z",
     "available": true
   },
@@ -415,9 +415,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:21:36Z",
+    "checked_at": "2026-02-09T08:45:22Z",
     "created_at": "2023-03-12T03:55:33.560015Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "138.118.82.134",
@@ -430,7 +430,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:21:41Z",
+    "checked_at": "2026-02-09T08:45:32Z",
     "created_at": "2023-03-13T09:50:43.525172Z",
     "available": false
   },
@@ -445,12 +445,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:21:48Z",
+    "checked_at": "2026-02-09T08:45:32Z",
     "created_at": "2023-03-13T11:27:18.247905Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "200.91.123.130",
+    "ip": "200.91.123.215",
     "name": "isdn-123-130.ice.co.cr.",
     "as_number": 11830,
     "as_org": "Instituto Costarricense de Electricidad y Telecom.",
@@ -460,7 +460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:21:56Z",
+    "checked_at": "2026-02-09T08:45:32Z",
     "created_at": "2023-03-13T12:27:30.64763Z",
     "available": true
   },
@@ -475,9 +475,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96,
-    "checked_at": "2025-03-08T15:21:56Z",
+    "checked_at": "2026-02-09T08:45:32Z",
     "created_at": "2023-03-13T22:44:15.720615Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "168.232.31.162",
@@ -490,9 +490,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:22:03Z",
+    "checked_at": "2026-02-09T08:45:33Z",
     "created_at": "2023-03-14T03:49:17.211435Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "152.231.153.127",
@@ -505,7 +505,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:22:03Z",
+    "checked_at": "2026-02-09T08:45:33Z",
     "created_at": "2023-03-14T04:04:45.860749Z",
     "available": false
   },
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:22:11Z",
+    "checked_at": "2026-02-09T08:45:34Z",
     "created_at": "2023-03-14T04:06:23.121248Z",
     "available": true
   },
@@ -535,7 +535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9906542056074766,
-    "checked_at": "2025-03-08T15:22:15Z",
+    "checked_at": "2026-02-09T08:45:34Z",
     "created_at": "2023-03-14T10:26:44.672559Z",
     "available": true
   },
@@ -550,12 +550,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7857142857142857,
-    "checked_at": "2025-03-08T15:22:23Z",
+    "checked_at": "2026-02-09T08:45:34Z",
     "created_at": "2023-03-14T17:57:08.949727Z",
     "available": false
   },
   {
-    "ip": "190.14.154.106",
+    "ip": "190.14.154.114",
     "name": "190-14-154-185.pub-customers.rhitcr.com.",
     "as_number": 52356,
     "as_org": "R&H International Telecom Services SA.",
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:22:30Z",
+    "checked_at": "2026-02-09T08:45:35Z",
     "created_at": "2023-03-14T19:12:48.714573Z",
     "available": true
   },
@@ -580,7 +580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:22:34Z",
+    "checked_at": "2026-02-09T08:45:34Z",
     "created_at": "2023-03-14T20:47:33.49115Z",
     "available": true
   },
@@ -595,7 +595,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:22:42Z",
+    "checked_at": "2026-02-09T08:45:35Z",
     "created_at": "2023-03-15T01:26:25.543559Z",
     "available": true
   },
@@ -610,12 +610,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:22:42Z",
+    "checked_at": "2026-02-09T08:45:35Z",
     "created_at": "2023-03-15T02:09:20.915526Z",
     "available": true
   },
   {
-    "ip": "186.15.186.186",
+    "ip": "186.15.186.155",
     "name": "",
     "as_number": 262202,
     "as_org": "Telefonica de Costa Rica TC, SA",
@@ -625,7 +625,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:22:45Z",
+    "checked_at": "2026-02-09T08:45:35Z",
     "created_at": "2023-03-15T05:50:08.691664Z",
     "available": true
   },
@@ -640,7 +640,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.987012987012987,
-    "checked_at": "2025-03-08T15:22:46Z",
+    "checked_at": "2026-02-09T08:45:35Z",
     "created_at": "2023-03-15T10:48:47.671662Z",
     "available": true
   },
@@ -655,12 +655,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:22:51Z",
+    "checked_at": "2026-02-09T08:45:35Z",
     "created_at": "2023-03-15T12:26:17.784778Z",
     "available": true
   },
   {
-    "ip": "170.81.34.76",
+    "ip": "170.81.34.249",
     "name": "",
     "as_number": 28317,
     "as_org": "NAVEGALO S.A.",
@@ -670,12 +670,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:22:58Z",
+    "checked_at": "2026-02-09T08:45:35Z",
     "created_at": "2023-03-15T13:34:58.359817Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "190.7.200.166",
+    "ip": "190.7.200.154",
     "name": "166-200-7-190.americandatanetworks.com.",
     "as_number": 27876,
     "as_org": "American Data Networks",
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:23:05Z",
+    "checked_at": "2026-02-09T08:45:35Z",
     "created_at": "2023-03-15T15:26:57.333605Z",
     "available": true
   },
@@ -700,9 +700,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:23:06Z",
+    "checked_at": "2026-02-09T08:45:35Z",
     "created_at": "2023-03-15T15:54:53.905456Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "170.84.108.11",
@@ -715,7 +715,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T15:23:06Z",
+    "checked_at": "2026-02-09T08:45:36Z",
     "created_at": "2023-03-16T19:07:57.496027Z",
     "available": true
   },
@@ -730,7 +730,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6785714285714286,
-    "checked_at": "2025-03-08T15:23:06Z",
+    "checked_at": "2026-02-09T08:45:36Z",
     "created_at": "2023-03-16T21:25:19.700839Z",
     "available": true
   },
@@ -745,7 +745,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9354838709677419,
-    "checked_at": "2025-03-08T15:23:06Z",
+    "checked_at": "2026-02-09T08:45:36Z",
     "created_at": "2023-03-16T23:59:54.875531Z",
     "available": false
   },
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7741935483870968,
-    "checked_at": "2025-03-08T15:23:14Z",
+    "checked_at": "2026-02-09T08:45:37Z",
     "created_at": "2023-03-17T00:06:43.081504Z",
     "available": true
   },
@@ -775,7 +775,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9354838709677419,
-    "checked_at": "2025-03-08T15:23:21Z",
+    "checked_at": "2026-02-09T08:45:38Z",
     "created_at": "2023-03-17T00:27:11.633978Z",
     "available": false
   },
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8387096774193549,
-    "checked_at": "2025-03-08T15:23:28Z",
+    "checked_at": "2026-02-09T08:45:38Z",
     "created_at": "2023-03-17T01:01:16.858539Z",
     "available": true
   },
@@ -805,7 +805,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7222222222222222,
-    "checked_at": "2025-03-08T15:23:36Z",
+    "checked_at": "2026-02-09T08:45:38Z",
     "created_at": "2023-03-17T11:41:54.78553Z",
     "available": false
   },
@@ -820,7 +820,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9523809523809523,
-    "checked_at": "2025-03-08T15:23:43Z",
+    "checked_at": "2026-02-09T08:45:39Z",
     "created_at": "2023-03-17T12:42:30.009544Z",
     "available": true
   },
@@ -835,7 +835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.717948717948718,
-    "checked_at": "2025-03-08T15:23:46Z",
+    "checked_at": "2026-02-09T08:45:39Z",
     "created_at": "2023-03-19T19:56:42.423507Z",
     "available": true
   },
@@ -850,7 +850,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9934640522875817,
-    "checked_at": "2025-03-08T15:23:49Z",
+    "checked_at": "2026-02-09T08:45:39Z",
     "created_at": "2023-05-06T19:33:02.04007Z",
     "available": true
   }
