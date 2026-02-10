@@ -924,12 +924,6 @@
     "index": 219
   },
   {
-    "country_id": "ao",
-    "checked_at": "2026-01-10T00:53:15Z",
-    "ip_availability_ratio%": 36.84,
-    "index": 5
-  },
-  {
     "country_id": "ai",
     "checked_at": "2026-01-11T01:00:00Z",
     "ip_availability_ratio%": 0.00,
@@ -1210,5 +1204,11 @@
     "checked_at": "2026-02-09T08:45:17Z",
     "ip_availability_ratio%": 57.89,
     "index": 47
+  },
+  {
+    "country_id": "ao",
+    "checked_at": "2026-02-10T02:44:54Z",
+    "ip_availability_ratio%": 36.84,
+    "index": 5
   }
 ]
