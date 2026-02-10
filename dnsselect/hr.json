@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:24:33Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2021-09-25T21:49:11.124172Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:24:40Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2021-10-01T14:32:41.807508Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-08T18:24:41Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2021-10-03T04:49:35.679671Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:24:48Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2021-10-28T13:21:55.638409Z",
     "available": true
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:24:55Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-02T19:23:45.943947Z",
     "available": true
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8076923076923077,
-    "checked_at": "2025-03-08T18:25:03Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-03T01:13:11.519913Z",
     "available": false
   },
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:25:10Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-03T16:59:27.124502Z",
     "available": false
   },
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:25:17Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-12T11:33:10.738434Z",
     "available": false
   },
@@ -130,12 +130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9210526315789473,
-    "checked_at": "2025-03-08T18:25:25Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-18T09:52:49.473903Z",
     "available": false
   },
   {
-    "ip": "195.29.237.105",
+    "ip": "195.29.237.38",
     "name": "",
     "as_number": 5391,
     "as_org": "Hrvatski Telekom d.d.",
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:25:32Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-21T09:18:01.166002Z",
     "available": true
   },
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:25:33Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-21T21:32:02.896617Z",
     "available": false
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:25:40Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-27T08:59:44.398455Z",
     "available": false
   },
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:25:47Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-30T01:12:20.785572Z",
     "available": true
   },
@@ -205,12 +205,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:25:48Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-30T03:58:15.240168Z",
     "available": false
   },
   {
-    "ip": "78.0.219.173",
+    "ip": "78.0.219.106",
     "name": "78-0-219-173.adsl.net.t-com.hr.",
     "as_number": 5391,
     "as_org": "Hrvatski Telekom d.d.",
@@ -220,9 +220,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:25:55Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-30T05:19:17.475245Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "78.3.177.70",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:26:02Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-10-30T22:19:03.209278Z",
     "available": false
   },
@@ -250,9 +250,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.11275964391691394,
-    "checked_at": "2025-03-08T18:26:10Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-11-06T07:53:15.569395Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "37.244.148.125",
@@ -265,7 +265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:26:17Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-11-09T05:26:49.886256Z",
     "available": false
   },
@@ -280,9 +280,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:26:24Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-11-10T10:58:18.546455Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "213.191.131.129",
@@ -295,12 +295,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:26:29Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-11-11T07:31:24.272947Z",
     "available": true
   },
   {
-    "ip": "89.201.193.201",
+    "ip": "89.201.193.131",
     "name": "89-201-193-36.dsl.optinet.hr.",
     "as_number": 34594,
     "as_org": "OPTIMA TELEKOM d.d.",
@@ -310,12 +310,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:26:33Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-11-12T02:24:17.221523Z",
     "available": true
   },
   {
-    "ip": "31.45.206.142",
+    "ip": "31.45.206.177",
     "name": "srv-31-45-206-102.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -325,7 +325,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:26:41Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-11-13T04:54:26.726728Z",
     "available": true
   },
@@ -340,7 +340,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:26:48Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-11-13T19:26:21.30741Z",
     "available": false
   },
@@ -355,7 +355,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:26:55Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-11-14T09:02:47.958922Z",
     "available": false
   },
@@ -370,7 +370,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:27:03Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-11-15T02:39:09.753596Z",
     "available": false
   },
@@ -385,12 +385,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8518518518518519,
-    "checked_at": "2025-03-08T18:27:10Z",
+    "checked_at": "2026-02-10T08:46:14Z",
     "created_at": "2022-11-19T10:02:07.339538Z",
     "available": false
   },
   {
-    "ip": "31.45.200.119",
+    "ip": "31.45.200.199",
     "name": "srv-31-45-200-250.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.0625,
-    "checked_at": "2025-03-08T18:27:17Z",
+    "checked_at": "2026-02-10T08:46:15Z",
     "created_at": "2022-11-25T04:38:34.54206Z",
     "available": true
   },
@@ -415,7 +415,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:27:25Z",
+    "checked_at": "2026-02-10T08:46:30Z",
     "created_at": "2022-11-27T15:33:50.180744Z",
     "available": true
   },
@@ -430,7 +430,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8419354838709677,
-    "checked_at": "2025-03-08T18:27:32Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2022-11-30T07:41:41.316807Z",
     "available": false
   },
@@ -445,12 +445,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:27:39Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2022-12-01T01:04:21.528455Z",
     "available": false
   },
   {
-    "ip": "31.45.205.103",
+    "ip": "31.45.205.155",
     "name": "srv-31-45-205-2.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -460,7 +460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:27:47Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2022-12-03T07:13:54.799754Z",
     "available": true
   },
@@ -475,7 +475,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:27:51Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2022-12-11T22:12:26.112422Z",
     "available": true
   },
@@ -490,7 +490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.997,
-    "checked_at": "2025-03-08T18:27:52Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2022-12-21T03:15:33.574893Z",
     "available": true
   },
@@ -505,12 +505,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.42696629213483145,
-    "checked_at": "2025-03-08T18:27:52Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2022-12-23T12:06:17.456101Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "31.45.204.118",
+    "ip": "31.45.204.184",
     "name": "srv-31-45-204-200.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.06766917293233082,
-    "checked_at": "2025-03-08T18:27:59Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2022-12-29T11:32:59.31081Z",
     "available": true
   },
@@ -535,9 +535,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:28:07Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2022-12-29T13:51:16.366811Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "31.45.196.76",
@@ -550,7 +550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6074074074074074,
-    "checked_at": "2025-03-08T18:28:14Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2022-12-30T11:57:31.313436Z",
     "available": false
   },
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9933774834437086,
-    "checked_at": "2025-03-08T18:28:21Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2023-01-03T06:37:54.136008Z",
     "available": true
   },
@@ -580,9 +580,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9,
-    "checked_at": "2025-03-08T18:28:21Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2023-02-21T09:11:51.626112Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "178.160.1.148",
@@ -595,9 +595,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:28:29Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2023-02-27T15:19:17.54432Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "178.17.127.129",
@@ -610,7 +610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:28:36Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2023-02-28T19:13:53.547825Z",
     "available": true
   },
@@ -625,7 +625,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:28:41Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2023-02-28T19:54:15.722387Z",
     "available": true
   },
@@ -640,12 +640,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:28:48Z",
+    "checked_at": "2026-02-10T08:46:31Z",
     "created_at": "2023-02-28T20:33:33.726201Z",
     "available": true
   },
   {
-    "ip": "109.227.26.221",
+    "ip": "109.227.26.50",
     "name": "srv-109-227-26-226.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -655,12 +655,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9285714285714286,
-    "checked_at": "2025-03-08T18:28:48Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-01T17:25:05.600203Z",
     "available": true
   },
   {
-    "ip": "31.45.200.119",
+    "ip": "31.45.200.199",
     "name": "srv-31-45-200-89.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -670,7 +670,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9558823529411765,
-    "checked_at": "2025-03-08T18:28:56Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-02T14:10:46.503558Z",
     "available": true
   },
@@ -685,12 +685,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9545454545454546,
-    "checked_at": "2025-03-08T18:29:03Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-02T19:07:39.306046Z",
     "available": false
   },
   {
-    "ip": "109.227.28.160",
+    "ip": "109.227.28.181",
     "name": "srv-109-227-28-153.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -700,7 +700,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.987012987012987,
-    "checked_at": "2025-03-08T18:29:10Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-04T17:11:35.62372Z",
     "available": true
   },
@@ -715,7 +715,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6229508196721312,
-    "checked_at": "2025-03-08T18:29:18Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-05T01:42:15.36268Z",
     "available": true
   },
@@ -730,12 +730,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:29:18Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-09T01:39:41.025918Z",
     "available": true
   },
   {
-    "ip": "31.45.204.118",
+    "ip": "31.45.204.184",
     "name": "srv-31-45-204-25.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -745,7 +745,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:29:18Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-09T07:07:55.206058Z",
     "available": true
   },
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:29:26Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-11T05:17:21.719635Z",
     "available": true
   },
@@ -775,7 +775,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8078602620087336,
-    "checked_at": "2025-03-08T18:29:26Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-11T06:53:11.057263Z",
     "available": false
   },
@@ -790,12 +790,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9230769230769231,
-    "checked_at": "2025-03-08T18:29:33Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-11T09:20:56.802212Z",
     "available": false
   },
   {
-    "ip": "83.131.23.212",
+    "ip": "83.131.23.58",
     "name": "83-131-23-212.adsl.net.t-com.hr.",
     "as_number": 5391,
     "as_org": "Hrvatski Telekom d.d.",
@@ -805,7 +805,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:29:41Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-13T00:48:52.747734Z",
     "available": true
   },
@@ -820,9 +820,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:29:41Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-13T00:54:54.99561Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "85.10.53.90",
@@ -835,7 +835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.972972972972973,
-    "checked_at": "2025-03-08T18:29:48Z",
+    "checked_at": "2026-02-10T08:46:32Z",
     "created_at": "2023-03-13T00:57:32.301162Z",
     "available": true
   },
@@ -850,7 +850,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:29:56Z",
+    "checked_at": "2026-02-10T08:46:35Z",
     "created_at": "2023-03-13T01:07:53.741592Z",
     "available": true
   },
@@ -865,7 +865,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:30:00Z",
+    "checked_at": "2026-02-10T08:46:35Z",
     "created_at": "2023-03-13T01:27:12.738892Z",
     "available": true
   },
@@ -880,7 +880,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:30:08Z",
+    "checked_at": "2026-02-10T08:46:36Z",
     "created_at": "2023-03-13T01:41:25.73314Z",
     "available": false
   },
@@ -895,7 +895,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.21311475409836064,
-    "checked_at": "2025-03-08T18:30:15Z",
+    "checked_at": "2026-02-10T08:46:36Z",
     "created_at": "2023-03-13T01:50:39.643409Z",
     "available": false
   },
@@ -910,7 +910,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:30:22Z",
+    "checked_at": "2026-02-10T08:46:37Z",
     "created_at": "2023-03-13T02:37:46.085143Z",
     "available": false
   },
@@ -925,7 +925,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:30:30Z",
+    "checked_at": "2026-02-10T08:46:38Z",
     "created_at": "2023-03-13T03:12:38.935293Z",
     "available": false
   },
@@ -940,12 +940,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:30:37Z",
+    "checked_at": "2026-02-10T08:46:43Z",
     "created_at": "2023-03-13T03:19:45.968418Z",
     "available": false
   },
   {
-    "ip": "31.45.201.54",
+    "ip": "31.45.201.204",
     "name": "srv-31-45-201-225.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -955,7 +955,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:30:44Z",
+    "checked_at": "2026-02-10T08:46:46Z",
     "created_at": "2023-03-13T04:09:10.435536Z",
     "available": true
   },
@@ -970,7 +970,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:30:52Z",
+    "checked_at": "2026-02-10T08:46:46Z",
     "created_at": "2023-03-13T04:27:56.964711Z",
     "available": false
   },
@@ -985,7 +985,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:30:56Z",
+    "checked_at": "2026-02-10T08:46:46Z",
     "created_at": "2023-03-13T04:59:02.841028Z",
     "available": true
   },
@@ -1000,9 +1000,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:30:56Z",
+    "checked_at": "2026-02-10T08:46:46Z",
     "created_at": "2023-03-13T05:33:45.081575Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "78.134.210.176",
@@ -1015,7 +1015,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7081081081081081,
-    "checked_at": "2025-03-08T18:31:04Z",
+    "checked_at": "2026-02-10T08:46:46Z",
     "created_at": "2023-03-13T05:34:59.00234Z",
     "available": true
   },
@@ -1030,7 +1030,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:31:04Z",
+    "checked_at": "2026-02-10T08:46:46Z",
     "created_at": "2023-03-13T06:41:29.133719Z",
     "available": false
   },
@@ -1045,7 +1045,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:31:12Z",
+    "checked_at": "2026-02-10T08:46:46Z",
     "created_at": "2023-03-13T07:03:11.698389Z",
     "available": false
   },
@@ -1060,9 +1060,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:31:19Z",
+    "checked_at": "2026-02-10T08:46:46Z",
     "created_at": "2023-03-13T07:55:39.169695Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "109.227.22.137",
@@ -1075,9 +1075,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:31:26Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T08:03:49.380655Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "37.244.146.111",
@@ -1090,12 +1090,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:31:34Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T08:34:45.597078Z",
     "available": false
   },
   {
-    "ip": "109.227.28.160",
+    "ip": "109.227.28.181",
     "name": "srv-109-227-28-247.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -1105,7 +1105,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:31:41Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T08:59:38.950157Z",
     "available": true
   },
@@ -1120,7 +1120,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:31:48Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T09:23:13.737912Z",
     "available": false
   },
@@ -1135,7 +1135,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:31:56Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T09:39:19.776637Z",
     "available": true
   },
@@ -1150,7 +1150,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:32:03Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T10:19:12.790048Z",
     "available": true
   },
@@ -1165,9 +1165,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:32:10Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T11:18:59.037271Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "31.45.222.200",
@@ -1180,7 +1180,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:32:18Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T11:40:00.024613Z",
     "available": false
   },
@@ -1195,12 +1195,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:32:25Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T11:40:33.313745Z",
     "available": false
   },
   {
-    "ip": "31.45.200.119",
+    "ip": "31.45.200.199",
     "name": "srv-31-45-200-222.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -1210,12 +1210,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:32:32Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T11:48:39.575705Z",
     "available": true
   },
   {
-    "ip": "31.45.152.199",
+    "ip": "31.45.152.155",
     "name": "srv-31-45-152-199.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -1225,12 +1225,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:32:40Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T11:50:11.858474Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "195.29.217.145",
+    "ip": "195.29.217.186",
     "name": "",
     "as_number": 5391,
     "as_org": "Hrvatski Telekom d.d.",
@@ -1240,7 +1240,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:32:47Z",
+    "checked_at": "2026-02-10T08:46:47Z",
     "created_at": "2023-03-13T12:11:56.090837Z",
     "available": true
   },
@@ -1255,12 +1255,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:32:54Z",
+    "checked_at": "2026-02-10T08:46:51Z",
     "created_at": "2023-03-13T12:13:51.654496Z",
     "available": true
   },
   {
-    "ip": "217.14.213.58",
+    "ip": "217.14.213.147",
     "name": "",
     "as_number": 25528,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -1270,7 +1270,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:32:55Z",
+    "checked_at": "2026-02-10T08:46:51Z",
     "created_at": "2023-03-13T12:16:23.960394Z",
     "available": true
   },
@@ -1285,7 +1285,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:32:55Z",
+    "checked_at": "2026-02-10T08:46:51Z",
     "created_at": "2023-03-13T12:28:43.830691Z",
     "available": false
   },
@@ -1300,7 +1300,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:03Z",
+    "checked_at": "2026-02-10T08:46:53Z",
     "created_at": "2023-03-13T13:15:50.042477Z",
     "available": true
   },
@@ -1315,12 +1315,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:03Z",
+    "checked_at": "2026-02-10T08:46:53Z",
     "created_at": "2023-03-13T13:24:05.574662Z",
     "available": false
   },
   {
-    "ip": "109.227.27.26",
+    "ip": "109.227.27.105",
     "name": "srv-109-227-27-26.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -1330,7 +1330,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:10Z",
+    "checked_at": "2026-02-10T08:46:53Z",
     "created_at": "2023-03-13T13:28:33.236743Z",
     "available": true
   },
@@ -1345,7 +1345,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:13Z",
+    "checked_at": "2026-02-10T08:46:57Z",
     "created_at": "2023-03-13T13:50:16.06169Z",
     "available": true
   },
@@ -1360,9 +1360,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:21Z",
+    "checked_at": "2026-02-10T08:46:58Z",
     "created_at": "2023-03-13T14:17:32.389256Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "195.29.55.107",
@@ -1375,7 +1375,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:25Z",
+    "checked_at": "2026-02-10T08:47:01Z",
     "created_at": "2023-03-13T14:26:30.419599Z",
     "available": true
   },
@@ -1390,7 +1390,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:30Z",
+    "checked_at": "2026-02-10T08:47:01Z",
     "created_at": "2023-03-13T15:13:14.261582Z",
     "available": true
   },
@@ -1405,7 +1405,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:37Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T15:57:55.94942Z",
     "available": false
   },
@@ -1420,9 +1420,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:44Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T16:27:53.673447Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "86.32.120.133",
@@ -1435,7 +1435,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:52Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T16:52:10.999565Z",
     "available": true
   },
@@ -1450,7 +1450,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:52Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T16:55:05.108935Z",
     "available": false
   },
@@ -1465,9 +1465,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:33:59Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T17:07:05.373628Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.250.128.153",
@@ -1480,7 +1480,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:34:07Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T17:48:40.470593Z",
     "available": false
   },
@@ -1495,7 +1495,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:34:14Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T17:48:52.570613Z",
     "available": false
   },
@@ -1510,7 +1510,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:34:22Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T17:50:30.051409Z",
     "available": false
   },
@@ -1525,7 +1525,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9705882352941176,
-    "checked_at": "2025-03-08T18:34:29Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T17:58:09.218405Z",
     "available": false
   },
@@ -1540,7 +1540,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:34:36Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T18:11:37.58878Z",
     "available": true
   },
@@ -1555,9 +1555,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:34:44Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T18:15:13.240863Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "31.45.218.62",
@@ -1570,7 +1570,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:34:51Z",
+    "checked_at": "2026-02-10T08:47:02Z",
     "created_at": "2023-03-13T18:57:26.835892Z",
     "available": false
   },
@@ -1585,12 +1585,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:34:58Z",
+    "checked_at": "2026-02-10T08:47:03Z",
     "created_at": "2023-03-13T19:32:37.668988Z",
     "available": false
   },
   {
-    "ip": "109.227.25.100",
+    "ip": "109.227.25.150",
     "name": "srv-109-227-25-44.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -1600,12 +1600,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:35:06Z",
+    "checked_at": "2026-02-10T08:47:03Z",
     "created_at": "2023-03-13T20:00:53.954977Z",
     "available": true
   },
   {
-    "ip": "185.159.88.40",
+    "ip": "185.159.88.76",
     "name": "",
     "as_number": 205774,
     "as_org": "TONET d.o.o.",
@@ -1615,7 +1615,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:35:13Z",
+    "checked_at": "2026-02-10T08:47:03Z",
     "created_at": "2023-03-13T20:39:08.964425Z",
     "available": true
   },
@@ -1630,7 +1630,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:35:17Z",
+    "checked_at": "2026-02-10T08:47:03Z",
     "created_at": "2023-03-13T22:42:27.799539Z",
     "available": false
   },
@@ -1645,12 +1645,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:35:25Z",
+    "checked_at": "2026-02-10T08:47:03Z",
     "created_at": "2023-03-13T23:22:14.929808Z",
     "available": true
   },
   {
-    "ip": "31.45.207.104",
+    "ip": "31.45.207.22",
     "name": "srv-31-45-207-13.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -1660,7 +1660,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:35:25Z",
+    "checked_at": "2026-02-10T08:47:03Z",
     "created_at": "2023-03-13T23:33:13.769173Z",
     "available": true
   },
@@ -1675,9 +1675,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:35:32Z",
+    "checked_at": "2026-02-10T08:47:03Z",
     "created_at": "2023-03-14T00:07:13.821737Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "109.227.22.137",
@@ -1690,12 +1690,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:35:36Z",
+    "checked_at": "2026-02-10T08:47:05Z",
     "created_at": "2023-03-14T00:32:55.056732Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "109.227.28.160",
+    "ip": "109.227.28.181",
     "name": "srv-109-227-28-202.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -1705,7 +1705,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:35:43Z",
+    "checked_at": "2026-02-10T08:47:07Z",
     "created_at": "2023-03-14T00:33:16.008775Z",
     "available": true
   },
@@ -1720,12 +1720,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:35:50Z",
+    "checked_at": "2026-02-10T08:47:08Z",
     "created_at": "2023-03-14T00:41:04.555424Z",
     "available": false
   },
   {
-    "ip": "178.17.127.198",
+    "ip": "178.17.127.129",
     "name": "",
     "as_number": 1886,
     "as_org": "BT NET d.o.o. za trgovinu i usluge",
@@ -1735,12 +1735,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:35:58Z",
+    "checked_at": "2026-02-10T08:47:08Z",
     "created_at": "2023-03-14T00:50:46.251437Z",
     "available": true
   },
   {
-    "ip": "37.244.144.163",
+    "ip": "37.244.144.224",
     "name": "srv-37-244-144-163.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -1750,9 +1750,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:35:58Z",
+    "checked_at": "2026-02-10T08:47:08Z",
     "created_at": "2023-03-14T01:18:59.271799Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "94.250.130.250",
@@ -1765,12 +1765,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:36:05Z",
+    "checked_at": "2026-02-10T08:47:17Z",
     "created_at": "2023-03-14T02:04:47.157557Z",
     "available": false
   },
   {
-    "ip": "195.29.209.133",
+    "ip": "195.29.209.149",
     "name": "",
     "as_number": 5391,
     "as_org": "Hrvatski Telekom d.d.",
@@ -1780,7 +1780,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:36:13Z",
+    "checked_at": "2026-02-10T08:47:17Z",
     "created_at": "2023-03-14T02:15:37.657794Z",
     "available": true
   },
@@ -1795,7 +1795,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:36:17Z",
+    "checked_at": "2026-02-10T08:47:17Z",
     "created_at": "2023-03-14T02:22:39.134176Z",
     "available": true
   },
@@ -1810,7 +1810,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:36:25Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T02:28:19.678163Z",
     "available": true
   },
@@ -1825,7 +1825,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:36:32Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T02:53:35.104773Z",
     "available": false
   },
@@ -1840,7 +1840,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:36:39Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T03:16:40.206753Z",
     "available": false
   },
@@ -1855,12 +1855,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:36:47Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T03:49:30.209103Z",
     "available": true
   },
   {
-    "ip": "109.227.25.100",
+    "ip": "109.227.25.150",
     "name": "srv-109-227-25-94.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -1870,7 +1870,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:36:47Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T04:57:22.32816Z",
     "available": true
   },
@@ -1885,7 +1885,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:36:54Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T04:59:01.166109Z",
     "available": false
   },
@@ -1900,7 +1900,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:37:02Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T05:06:05.41968Z",
     "available": true
   },
@@ -1915,7 +1915,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:37:09Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T05:42:46.86514Z",
     "available": true
   },
@@ -1930,7 +1930,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:37:09Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T05:57:11.962551Z",
     "available": false
   },
@@ -1945,9 +1945,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:37:17Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T06:00:48.838959Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "109.227.20.125",
@@ -1960,12 +1960,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:37:24Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T06:02:12.498544Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "109.227.26.221",
+    "ip": "109.227.26.50",
     "name": "srv-109-227-26-132.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -1975,7 +1975,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:37:31Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T06:30:07.620965Z",
     "available": true
   },
@@ -1990,7 +1990,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:37:39Z",
+    "checked_at": "2026-02-10T08:47:18Z",
     "created_at": "2023-03-14T06:56:03.956995Z",
     "available": false
   },
@@ -2005,12 +2005,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:37:46Z",
+    "checked_at": "2026-02-10T08:47:19Z",
     "created_at": "2023-03-14T07:56:11.054738Z",
     "available": true
   },
   {
-    "ip": "31.45.148.254",
+    "ip": "31.45.148.180",
     "name": "srv-31-45-148-254.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2020,9 +2020,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:37:50Z",
+    "checked_at": "2026-02-10T08:47:19Z",
     "created_at": "2023-03-14T08:29:24.510064Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "94.250.128.89",
@@ -2035,7 +2035,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:37:58Z",
+    "checked_at": "2026-02-10T08:47:19Z",
     "created_at": "2023-03-14T08:32:40.900334Z",
     "available": false
   },
@@ -2050,9 +2050,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:38:05Z",
+    "checked_at": "2026-02-10T08:47:21Z",
     "created_at": "2023-03-14T08:42:09.35183Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.250.128.176",
@@ -2065,7 +2065,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:38:12Z",
+    "checked_at": "2026-02-10T08:47:21Z",
     "created_at": "2023-03-14T08:47:40.007277Z",
     "available": false
   },
@@ -2080,7 +2080,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:38:20Z",
+    "checked_at": "2026-02-10T08:47:22Z",
     "created_at": "2023-03-14T09:02:06.688336Z",
     "available": true
   },
@@ -2095,7 +2095,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.875,
-    "checked_at": "2025-03-08T18:38:27Z",
+    "checked_at": "2026-02-10T08:47:22Z",
     "created_at": "2023-03-14T10:08:49.663968Z",
     "available": false
   },
@@ -2110,7 +2110,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:38:35Z",
+    "checked_at": "2026-02-10T08:47:22Z",
     "created_at": "2023-03-14T11:13:58.50975Z",
     "available": true
   },
@@ -2125,12 +2125,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:38:42Z",
+    "checked_at": "2026-02-10T08:47:23Z",
     "created_at": "2023-03-14T11:21:35.345147Z",
     "available": false
   },
   {
-    "ip": "31.45.232.110",
+    "ip": "31.45.232.118",
     "name": "srv-31-45-232-154.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2140,7 +2140,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:38:49Z",
+    "checked_at": "2026-02-10T08:47:23Z",
     "created_at": "2023-03-14T12:00:23.6689Z",
     "available": true
   },
@@ -2155,12 +2155,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:38:57Z",
+    "checked_at": "2026-02-10T08:47:23Z",
     "created_at": "2023-03-14T12:53:28.954968Z",
     "available": false
   },
   {
-    "ip": "31.217.123.243",
+    "ip": "31.217.123.213",
     "name": "",
     "as_number": 5391,
     "as_org": "Hrvatski Telekom d.d.",
@@ -2170,9 +2170,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:39:04Z",
+    "checked_at": "2026-02-10T08:47:23Z",
     "created_at": "2023-03-14T14:06:04.553679Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "89.18.44.47",
@@ -2185,7 +2185,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:39:11Z",
+    "checked_at": "2026-02-10T08:47:24Z",
     "created_at": "2023-03-14T14:12:01.432299Z",
     "available": true
   },
@@ -2200,7 +2200,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9302325581395349,
-    "checked_at": "2025-03-08T18:39:12Z",
+    "checked_at": "2026-02-10T08:47:28Z",
     "created_at": "2023-03-14T17:48:01.279609Z",
     "available": false
   },
@@ -2215,12 +2215,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:39:19Z",
+    "checked_at": "2026-02-10T08:47:29Z",
     "created_at": "2023-03-14T17:56:40.286743Z",
     "available": false
   },
   {
-    "ip": "89.201.165.154",
+    "ip": "89.201.165.242",
     "name": "",
     "as_number": 34594,
     "as_org": "Telemach Hrvatska d.o.o.",
@@ -2230,7 +2230,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:39:26Z",
+    "checked_at": "2026-02-10T08:47:31Z",
     "created_at": "2023-03-14T19:51:53.907273Z",
     "available": true
   },
@@ -2245,7 +2245,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:39:34Z",
+    "checked_at": "2026-02-10T08:47:32Z",
     "created_at": "2023-03-14T19:56:52.947956Z",
     "available": false
   },
@@ -2260,7 +2260,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:39:41Z",
+    "checked_at": "2026-02-10T08:47:33Z",
     "created_at": "2023-03-14T20:00:43.400406Z",
     "available": false
   },
@@ -2275,12 +2275,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:39:48Z",
+    "checked_at": "2026-02-10T08:47:33Z",
     "created_at": "2023-03-14T20:44:07.499829Z",
     "available": false
   },
   {
-    "ip": "31.45.205.103",
+    "ip": "31.45.205.155",
     "name": "srv-31-45-205-244.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2290,7 +2290,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:39:56Z",
+    "checked_at": "2026-02-10T08:47:33Z",
     "created_at": "2023-03-14T20:56:00.976197Z",
     "available": true
   },
@@ -2305,7 +2305,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:40:03Z",
+    "checked_at": "2026-02-10T08:47:33Z",
     "created_at": "2023-03-14T21:11:21.75365Z",
     "available": false
   },
@@ -2320,7 +2320,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-08T18:40:10Z",
+    "checked_at": "2026-02-10T08:47:33Z",
     "created_at": "2023-03-14T21:18:31.13664Z",
     "available": false
   },
@@ -2335,7 +2335,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:40:18Z",
+    "checked_at": "2026-02-10T08:47:33Z",
     "created_at": "2023-03-14T21:34:37.742574Z",
     "available": false
   },
@@ -2350,12 +2350,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:40:25Z",
+    "checked_at": "2026-02-10T08:47:33Z",
     "created_at": "2023-03-14T21:41:36.025176Z",
     "available": true
   },
   {
-    "ip": "195.29.76.12",
+    "ip": "195.29.76.254",
     "name": "",
     "as_number": 5391,
     "as_org": "Hrvatski Telekom d.d.",
@@ -2365,7 +2365,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9857142857142858,
-    "checked_at": "2025-03-08T18:40:29Z",
+    "checked_at": "2026-02-10T08:47:34Z",
     "created_at": "2023-03-14T21:56:14.007289Z",
     "available": true
   },
@@ -2380,7 +2380,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:40:30Z",
+    "checked_at": "2026-02-10T08:47:34Z",
     "created_at": "2023-03-14T23:00:28.958799Z",
     "available": false
   },
@@ -2395,9 +2395,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:40:37Z",
+    "checked_at": "2026-02-10T08:47:34Z",
     "created_at": "2023-03-14T23:01:51.334428Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "93.141.113.209",
@@ -2410,12 +2410,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:40:44Z",
+    "checked_at": "2026-02-10T08:47:36Z",
     "created_at": "2023-03-14T23:03:08.218535Z",
     "available": false
   },
   {
-    "ip": "109.227.16.21",
+    "ip": "109.227.16.108",
     "name": "srv-109-227-16-38.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2425,12 +2425,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:40:52Z",
+    "checked_at": "2026-02-10T08:47:36Z",
     "created_at": "2023-03-14T23:29:53.114068Z",
     "available": true
   },
   {
-    "ip": "109.227.1.22",
+    "ip": "109.227.1.132",
     "name": "srv-109-227-1-24.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2440,12 +2440,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:40:59Z",
+    "checked_at": "2026-02-10T08:47:37Z",
     "created_at": "2023-03-14T23:53:03.986745Z",
     "available": true
   },
   {
-    "ip": "31.45.201.54",
+    "ip": "31.45.201.204",
     "name": "srv-31-45-201-198.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2455,7 +2455,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:41:04Z",
+    "checked_at": "2026-02-10T08:47:37Z",
     "created_at": "2023-03-15T00:55:09.625413Z",
     "available": true
   },
@@ -2470,12 +2470,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:41:08Z",
+    "checked_at": "2026-02-10T08:47:38Z",
     "created_at": "2023-03-15T01:17:23.18549Z",
     "available": false
   },
   {
-    "ip": "31.45.205.103",
+    "ip": "31.45.205.155",
     "name": "srv-31-45-205-24.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2485,7 +2485,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:41:16Z",
+    "checked_at": "2026-02-10T08:47:38Z",
     "created_at": "2023-03-15T01:20:05.278798Z",
     "available": true
   },
@@ -2500,12 +2500,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:41:23Z",
+    "checked_at": "2026-02-10T08:47:38Z",
     "created_at": "2023-03-15T03:01:19.478737Z",
     "available": false
   },
   {
-    "ip": "78.134.223.17",
+    "ip": "78.134.223.42",
     "name": "78.134.223.17-dsl.net.metronet.hr.",
     "as_number": 35549,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2515,7 +2515,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9868421052631579,
-    "checked_at": "2025-03-08T18:41:30Z",
+    "checked_at": "2026-02-10T08:47:40Z",
     "created_at": "2023-03-15T04:22:30.391429Z",
     "available": true
   },
@@ -2530,7 +2530,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:41:33Z",
+    "checked_at": "2026-02-10T08:47:42Z",
     "created_at": "2023-03-15T04:33:31.628134Z",
     "available": false
   },
@@ -2545,12 +2545,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:41:40Z",
+    "checked_at": "2026-02-10T08:47:44Z",
     "created_at": "2023-03-15T04:47:50.97882Z",
     "available": true
   },
   {
-    "ip": "91.226.8.182",
+    "ip": "91.226.8.193",
     "name": "",
     "as_number": 197716,
     "as_org": "MULTI KOMUNIKACIJE d.o.o.",
@@ -2560,7 +2560,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:41:47Z",
+    "checked_at": "2026-02-10T08:47:45Z",
     "created_at": "2023-03-15T05:27:26.300131Z",
     "available": true
   },
@@ -2575,7 +2575,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:41:48Z",
+    "checked_at": "2026-02-10T08:47:46Z",
     "created_at": "2023-03-15T05:42:47.152816Z",
     "available": true
   },
@@ -2590,9 +2590,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2025-03-08T18:41:55Z",
+    "checked_at": "2026-02-10T08:47:47Z",
     "created_at": "2023-03-15T07:29:26.052554Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "85.114.53.166",
@@ -2605,12 +2605,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:42:02Z",
+    "checked_at": "2026-02-10T08:47:47Z",
     "created_at": "2023-03-15T08:22:59.94653Z",
     "available": true
   },
   {
-    "ip": "37.244.144.228",
+    "ip": "37.244.144.224",
     "name": "srv-37-244-144-228.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2620,12 +2620,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7692307692307693,
-    "checked_at": "2025-03-08T18:42:10Z",
+    "checked_at": "2026-02-10T08:47:47Z",
     "created_at": "2023-03-15T09:19:30.996625Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "85.114.55.238",
+    "ip": "85.114.55.134",
     "name": "",
     "as_number": 34594,
     "as_org": "Telemach Hrvatska d.o.o.",
@@ -2635,7 +2635,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8781362007168458,
-    "checked_at": "2025-03-08T18:42:17Z",
+    "checked_at": "2026-02-10T08:47:48Z",
     "created_at": "2023-03-15T10:11:41.50092Z",
     "available": true
   },
@@ -2650,7 +2650,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8181818181818182,
-    "checked_at": "2025-03-08T18:42:17Z",
+    "checked_at": "2026-02-10T08:47:48Z",
     "created_at": "2023-03-15T10:38:20.402207Z",
     "available": false
   },
@@ -2665,7 +2665,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8426229508196721,
-    "checked_at": "2025-03-08T18:42:25Z",
+    "checked_at": "2026-02-10T08:47:48Z",
     "created_at": "2023-03-15T10:45:08.514548Z",
     "available": true
   },
@@ -2680,12 +2680,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.875,
-    "checked_at": "2025-03-08T18:42:32Z",
+    "checked_at": "2026-02-10T08:47:48Z",
     "created_at": "2023-03-15T12:24:31.139324Z",
     "available": false
   },
   {
-    "ip": "31.45.202.33",
+    "ip": "31.45.202.142",
     "name": "srv-31-45-202-116.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2695,7 +2695,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8484848484848485,
-    "checked_at": "2025-03-08T18:42:39Z",
+    "checked_at": "2026-02-10T08:47:48Z",
     "created_at": "2023-03-15T12:28:45.962336Z",
     "available": true
   },
@@ -2710,7 +2710,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7833333333333333,
-    "checked_at": "2025-03-08T18:42:47Z",
+    "checked_at": "2026-02-10T08:47:48Z",
     "created_at": "2023-03-15T13:55:40.804168Z",
     "available": false
   },
@@ -2725,7 +2725,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:42:54Z",
+    "checked_at": "2026-02-10T08:47:48Z",
     "created_at": "2023-03-15T13:58:43.733306Z",
     "available": true
   },
@@ -2740,7 +2740,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:42:54Z",
+    "checked_at": "2026-02-10T08:47:48Z",
     "created_at": "2023-03-15T14:29:38.945673Z",
     "available": true
   },
@@ -2755,7 +2755,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.90625,
-    "checked_at": "2025-03-08T18:42:55Z",
+    "checked_at": "2026-02-10T08:47:48Z",
     "created_at": "2023-03-15T14:59:55.64788Z",
     "available": false
   },
@@ -2770,7 +2770,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8125,
-    "checked_at": "2025-03-08T18:43:02Z",
+    "checked_at": "2026-02-10T08:47:49Z",
     "created_at": "2023-03-15T15:14:38.783238Z",
     "available": false
   },
@@ -2785,7 +2785,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:43:09Z",
+    "checked_at": "2026-02-10T08:47:49Z",
     "created_at": "2023-03-15T15:38:10.763505Z",
     "available": true
   },
@@ -2800,7 +2800,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:43:17Z",
+    "checked_at": "2026-02-10T08:47:49Z",
     "created_at": "2023-03-15T17:14:14.648768Z",
     "available": true
   },
@@ -2815,12 +2815,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:43:17Z",
+    "checked_at": "2026-02-10T08:47:49Z",
     "created_at": "2023-03-15T22:48:36.592305Z",
     "available": false
   },
   {
-    "ip": "91.226.8.87",
+    "ip": "91.226.8.193",
     "name": "",
     "as_number": 197716,
     "as_org": "MULTI KOMUNIKACIJE d.o.o.",
@@ -2830,12 +2830,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:43:24Z",
+    "checked_at": "2026-02-10T08:47:51Z",
     "created_at": "2023-03-15T23:25:05.10787Z",
     "available": true
   },
   {
-    "ip": "78.134.213.172",
+    "ip": "78.134.213.106",
     "name": "78.134.213.172-dsl.net.metronet.hr.",
     "as_number": 35549,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2845,9 +2845,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:43:25Z",
+    "checked_at": "2026-02-10T08:47:51Z",
     "created_at": "2023-03-15T23:33:22.093242Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "82.214.100.214",
@@ -2860,7 +2860,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9935064935064936,
-    "checked_at": "2025-03-08T18:43:32Z",
+    "checked_at": "2026-02-10T08:47:51Z",
     "created_at": "2023-03-16T10:51:58.500368Z",
     "available": true
   },
@@ -2875,12 +2875,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-08T18:43:33Z",
+    "checked_at": "2026-02-10T08:47:52Z",
     "created_at": "2023-03-16T13:20:25.381744Z",
     "available": true
   },
   {
-    "ip": "31.45.200.119",
+    "ip": "31.45.200.199",
     "name": "srv-31-45-200-164.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2890,7 +2890,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.13333333333333333,
-    "checked_at": "2025-03-08T18:43:33Z",
+    "checked_at": "2026-02-10T08:47:52Z",
     "created_at": "2023-03-16T16:40:20.375079Z",
     "available": true
   },
@@ -2905,12 +2905,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-08T18:43:37Z",
+    "checked_at": "2026-02-10T08:47:52Z",
     "created_at": "2023-03-16T18:04:48.869167Z",
     "available": true
   },
   {
-    "ip": "109.227.27.188",
+    "ip": "109.227.27.105",
     "name": "srv-109-227-27-219.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2920,7 +2920,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-08T18:43:38Z",
+    "checked_at": "2026-02-10T08:47:53Z",
     "created_at": "2023-03-16T18:09:28.544065Z",
     "available": true
   },
@@ -2935,12 +2935,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7,
-    "checked_at": "2025-03-08T18:43:45Z",
+    "checked_at": "2026-02-10T08:47:53Z",
     "created_at": "2023-03-16T22:39:04.508114Z",
     "available": true
   },
   {
-    "ip": "31.45.206.142",
+    "ip": "31.45.206.177",
     "name": "srv-31-45-206-101.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2950,12 +2950,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.22580645161290322,
-    "checked_at": "2025-03-08T18:43:45Z",
+    "checked_at": "2026-02-10T08:47:53Z",
     "created_at": "2023-03-16T23:18:37.403615Z",
     "available": true
   },
   {
-    "ip": "31.45.206.142",
+    "ip": "31.45.206.177",
     "name": "srv-31-45-206-237.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -2965,12 +2965,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5483870967741935,
-    "checked_at": "2025-03-08T18:43:53Z",
+    "checked_at": "2026-02-10T08:47:53Z",
     "created_at": "2023-03-16T23:51:29.45885Z",
     "available": true
   },
   {
-    "ip": "83.131.23.198",
+    "ip": "83.131.23.58",
     "name": "83-131-23-144.adsl.net.t-com.hr.",
     "as_number": 5391,
     "as_org": "Hrvatski Telekom d.d.",
@@ -2980,7 +2980,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-08T18:44:00Z",
+    "checked_at": "2026-02-10T08:47:55Z",
     "created_at": "2023-03-16T23:51:57.971259Z",
     "available": true
   },
@@ -2995,9 +2995,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5483870967741935,
-    "checked_at": "2025-03-08T18:44:07Z",
+    "checked_at": "2026-02-10T08:47:55Z",
     "created_at": "2023-03-17T00:00:33.751039Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "109.227.31.229",
@@ -3010,9 +3010,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.0625,
-    "checked_at": "2025-03-08T18:44:15Z",
+    "checked_at": "2026-02-10T08:47:57Z",
     "created_at": "2023-03-17T02:16:48.823278Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "78.134.212.21",
@@ -3025,7 +3025,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6875,
-    "checked_at": "2025-03-08T18:44:22Z",
+    "checked_at": "2026-02-10T08:47:59Z",
     "created_at": "2023-03-17T02:34:48.564271Z",
     "available": true
   },
@@ -3040,7 +3040,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6875,
-    "checked_at": "2025-03-08T18:44:22Z",
+    "checked_at": "2026-02-10T08:47:59Z",
     "created_at": "2023-03-17T03:01:33.045831Z",
     "available": true
   },
@@ -3055,7 +3055,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4661016949152542,
-    "checked_at": "2025-03-08T18:44:27Z",
+    "checked_at": "2026-02-10T08:48:00Z",
     "created_at": "2023-03-17T03:29:27.133941Z",
     "available": true
   },
@@ -3070,7 +3070,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7560975609756098,
-    "checked_at": "2025-03-08T18:44:30Z",
+    "checked_at": "2026-02-10T08:48:00Z",
     "created_at": "2023-03-17T03:56:19.700731Z",
     "available": true
   },
@@ -3085,9 +3085,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.803921568627451,
-    "checked_at": "2025-03-08T18:44:30Z",
+    "checked_at": "2026-02-10T08:48:00Z",
     "created_at": "2023-03-17T05:22:38.727247Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "89.201.137.2",
@@ -3100,7 +3100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-08T18:44:35Z",
+    "checked_at": "2026-02-10T08:48:01Z",
     "created_at": "2023-03-17T06:28:12.860943Z",
     "available": true
   },
@@ -3115,12 +3115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6818181818181818,
-    "checked_at": "2025-03-08T18:44:38Z",
+    "checked_at": "2026-02-10T08:48:02Z",
     "created_at": "2023-03-17T07:06:53.170496Z",
     "available": false
   },
   {
-    "ip": "85.94.95.100",
+    "ip": "85.94.95.176",
     "name": "static-85-94-95-174.rev-addr.terrakom.hr.",
     "as_number": 34362,
     "as_org": "Terrakom d.o.o.",
@@ -3130,7 +3130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7666666666666667,
-    "checked_at": "2025-03-08T18:44:45Z",
+    "checked_at": "2026-02-10T08:48:02Z",
     "created_at": "2023-03-17T08:56:16.738022Z",
     "available": true
   },
@@ -3145,7 +3145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8253968253968254,
-    "checked_at": "2025-03-08T18:44:53Z",
+    "checked_at": "2026-02-10T08:48:02Z",
     "created_at": "2023-03-17T09:25:03.613648Z",
     "available": true
   },
@@ -3160,12 +3160,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8412698412698413,
-    "checked_at": "2025-03-08T18:44:53Z",
+    "checked_at": "2026-02-10T08:48:02Z",
     "created_at": "2023-03-17T09:34:44.466357Z",
     "available": true
   },
   {
-    "ip": "31.45.202.33",
+    "ip": "31.45.202.142",
     "name": "srv-31-45-202-159.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -3175,12 +3175,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:44:53Z",
+    "checked_at": "2026-02-10T08:48:03Z",
     "created_at": "2023-03-18T06:04:57.801745Z",
     "available": true
   },
   {
-    "ip": "31.45.207.104",
+    "ip": "31.45.207.22",
     "name": "srv-31-45-207-52.static.a1.hr.",
     "as_number": 12810,
     "as_org": "A1 Hrvatska d.o.o.",
@@ -3190,7 +3190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T18:45:00Z",
+    "checked_at": "2026-02-10T08:48:03Z",
     "created_at": "2023-03-18T10:47:50.446562Z",
     "available": true
   },
@@ -3205,9 +3205,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-08T18:45:08Z",
+    "checked_at": "2026-02-10T08:48:03Z",
     "created_at": "2023-03-18T18:02:22.70814Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "31.45.220.65",
@@ -3220,7 +3220,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.625,
-    "checked_at": "2025-03-08T18:45:15Z",
+    "checked_at": "2026-02-10T08:48:03Z",
     "created_at": "2023-04-08T23:00:34.433088Z",
     "available": false
   }
