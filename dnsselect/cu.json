@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8827893175074184,
-    "checked_at": "2025-03-08T21:18:16Z",
+    "checked_at": "2026-02-10T17:09:21Z",
     "created_at": "2022-12-24T19:16:19.95873Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9333333333333333,
-    "checked_at": "2025-03-08T21:18:23Z",
+    "checked_at": "2026-02-10T17:09:21Z",
     "created_at": "2022-12-26T03:00:36.471955Z",
     "available": false
   },
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6071428571428571,
-    "checked_at": "2025-03-08T21:18:31Z",
+    "checked_at": "2026-02-10T17:09:21Z",
     "created_at": "2022-12-31T00:05:46.83479Z",
     "available": true
   },
   {
-    "ip": "190.15.159.19",
+    "ip": "190.15.159.16",
     "name": "srv183159-15190.vps.etecsa.cu.",
     "as_number": 27725,
     "as_org": "Empresa de Telecomunicaciones de Cuba, S.A.",
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T21:18:34Z",
+    "checked_at": "2026-02-10T17:09:21Z",
     "created_at": "2023-03-13T07:27:44.120914Z",
     "available": true
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T21:18:41Z",
+    "checked_at": "2026-02-10T17:09:21Z",
     "created_at": "2023-03-13T08:37:41.366033Z",
     "available": true
   },
@@ -85,12 +85,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8292682926829268,
-    "checked_at": "2025-03-08T21:18:44Z",
+    "checked_at": "2026-02-10T17:09:21Z",
     "created_at": "2023-03-15T16:21:25.153623Z",
     "available": true
   },
   {
-    "ip": "190.15.159.19",
+    "ip": "190.15.159.25",
     "name": "srv47159-15190.vps.etecsa.cu.",
     "as_number": 27725,
     "as_org": "Empresa de Telecomunicaciones de Cuba, S.A.",
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-08T21:18:52Z",
+    "checked_at": "2026-02-10T17:09:21Z",
     "created_at": "2023-05-04T10:33:45.013566Z",
     "available": true
   }
