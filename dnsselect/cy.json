@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:13Z",
+    "checked_at": "2026-02-11T08:43:32Z",
     "created_at": "2020-09-05T14:07:00.09419Z",
     "available": false
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:21Z",
+    "checked_at": "2026-02-11T08:43:32Z",
     "created_at": "2020-09-05T14:07:00.643703Z",
     "available": false
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:28Z",
+    "checked_at": "2026-02-11T08:43:32Z",
     "created_at": "2020-11-30T19:08:41.836642Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9345018450184502,
-    "checked_at": "2025-03-09T01:37:28Z",
+    "checked_at": "2026-02-11T08:43:32Z",
     "created_at": "2021-03-28T20:47:28.08061Z",
     "available": false
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:28Z",
+    "checked_at": "2026-02-11T08:43:32Z",
     "created_at": "2021-09-24T04:08:33.39116Z",
     "available": false
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:28Z",
+    "checked_at": "2026-02-11T08:43:32Z",
     "created_at": "2021-09-24T04:08:33.795665Z",
     "available": false
   },
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:28Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2021-09-24T04:08:34.198021Z",
     "available": false
   },
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:28Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2021-09-28T07:58:17.592323Z",
     "available": false
   },
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:36Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2021-09-28T07:59:54.378536Z",
     "available": false
   },
@@ -145,12 +145,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:43Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2021-10-01T23:38:01.96495Z",
     "available": true
   },
   {
-    "ip": "31.170.165.1",
+    "ip": "31.170.165.108",
     "name": "",
     "as_number": 47583,
     "as_org": "Hostinger International Limited",
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:51Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2021-10-02T17:59:47.174473Z",
     "available": true
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:58Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-04-25T22:39:23.400948Z",
     "available": true
   },
@@ -190,12 +190,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:37:58Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-04-25T22:39:24.033784Z",
     "available": true
   },
   {
-    "ip": "193.161.25.184",
+    "ip": "193.161.25.218",
     "name": "",
     "as_number": 208040,
     "as_org": "Rss (rapid Software Systems) Cyprus Ltd",
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9530516431924883,
-    "checked_at": "2025-03-09T01:37:59Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-09-28T18:23:26.801873Z",
     "available": true
   },
@@ -220,7 +220,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:38:06Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-10-02T06:49:02.064659Z",
     "available": false
   },
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:38:14Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-10-04T15:14:32.205172Z",
     "available": false
   },
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:38:21Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-10-12T02:07:57.357258Z",
     "available": true
   },
@@ -265,9 +265,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:38:28Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-10-28T06:12:16.379622Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "213.207.148.105",
@@ -280,7 +280,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:38:31Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-10-28T14:41:52.156296Z",
     "available": true
   },
@@ -295,7 +295,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:38:39Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-11-12T22:35:30.291559Z",
     "available": true
   },
@@ -310,7 +310,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:38:46Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-11-27T05:26:30.965628Z",
     "available": true
   },
@@ -325,12 +325,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7922077922077922,
-    "checked_at": "2025-03-09T01:38:53Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-12-05T11:15:24.810411Z",
     "available": true
   },
   {
-    "ip": "81.4.149.186",
+    "ip": "81.4.149.154",
     "name": "nb29-186.static.cytanet.com.cy.",
     "as_number": 6866,
     "as_org": "Cyprus Telecommunications Authority",
@@ -340,7 +340,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9324324324324325,
-    "checked_at": "2025-03-09T01:38:54Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-12-07T10:22:00.832301Z",
     "available": true
   },
@@ -355,7 +355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4,
-    "checked_at": "2025-03-09T01:38:54Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2022-12-15T07:26:00.620132Z",
     "available": true
   },
@@ -370,12 +370,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:02Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2023-01-02T19:37:23.421731Z",
     "available": true
   },
   {
-    "ip": "213.207.187.53",
+    "ip": "213.207.187.149",
     "name": "",
     "as_number": 15805,
     "as_org": "EPIC LTD",
@@ -385,12 +385,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:02Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2023-02-28T13:30:50.993695Z",
     "available": true
   },
   {
-    "ip": "213.207.141.97",
+    "ip": "213.207.141.1",
     "name": "",
     "as_number": 15805,
     "as_org": "EPIC LTD",
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:02Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2023-03-11T01:17:24.985806Z",
     "available": true
   },
@@ -415,7 +415,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:03Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2023-03-13T00:48:26.931827Z",
     "available": true
   },
@@ -430,12 +430,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:07Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2023-03-13T01:12:08.577753Z",
     "available": true
   },
   {
-    "ip": "139.138.194.178",
+    "ip": "139.138.194.95",
     "name": "",
     "as_number": 35432,
     "as_org": "Cablenet Communication Systems plc",
@@ -445,9 +445,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:15Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2023-03-13T01:36:33.195391Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "62.228.197.229",
@@ -460,7 +460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:22Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2023-03-13T01:54:41.365099Z",
     "available": false
   },
@@ -475,7 +475,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:29Z",
+    "checked_at": "2026-02-11T08:43:33Z",
     "created_at": "2023-03-13T02:10:12.885113Z",
     "available": true
   },
@@ -490,7 +490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:30Z",
+    "checked_at": "2026-02-11T08:43:34Z",
     "created_at": "2023-03-13T03:44:55.448298Z",
     "available": true
   },
@@ -505,12 +505,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:34Z",
+    "checked_at": "2026-02-11T08:43:34Z",
     "created_at": "2023-03-13T05:35:20.75095Z",
     "available": false
   },
   {
-    "ip": "185.249.154.12",
+    "ip": "185.249.154.210",
     "name": "154.12.netcomcyprus.com.",
     "as_number": 52080,
     "as_org": "M. Sereda Network Ltd",
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:41Z",
+    "checked_at": "2026-02-11T08:43:34Z",
     "created_at": "2023-03-13T06:17:20.221114Z",
     "available": true
   },
@@ -535,7 +535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:42Z",
+    "checked_at": "2026-02-11T08:43:35Z",
     "created_at": "2023-03-13T12:18:55.570885Z",
     "available": true
   },
@@ -550,7 +550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:49Z",
+    "checked_at": "2026-02-11T08:43:36Z",
     "created_at": "2023-03-13T15:18:53.835561Z",
     "available": false
   },
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:39:57Z",
+    "checked_at": "2026-02-11T08:43:36Z",
     "created_at": "2023-03-13T16:07:39.652676Z",
     "available": true
   },
@@ -580,7 +580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:04Z",
+    "checked_at": "2026-02-11T08:43:37Z",
     "created_at": "2023-03-13T18:37:02.162035Z",
     "available": false
   },
@@ -595,12 +595,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:12Z",
+    "checked_at": "2026-02-11T08:43:37Z",
     "created_at": "2023-03-13T20:01:07.205574Z",
     "available": true
   },
   {
-    "ip": "87.228.230.243",
+    "ip": "87.228.230.158",
     "name": "buscust75-243.static.cytanet.com.cy.",
     "as_number": 6866,
     "as_org": "Cyprus Telecommunications Authority",
@@ -610,7 +610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:12Z",
+    "checked_at": "2026-02-11T08:43:37Z",
     "created_at": "2023-03-13T21:38:24.927038Z",
     "available": true
   },
@@ -625,12 +625,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:12Z",
+    "checked_at": "2026-02-11T08:43:38Z",
     "created_at": "2023-03-14T00:05:34.111887Z",
     "available": true
   },
   {
-    "ip": "82.114.56.11",
+    "ip": "82.114.56.121",
     "name": "",
     "as_number": 5504,
     "as_org": "Logosnet Services Limited",
@@ -640,7 +640,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:17Z",
+    "checked_at": "2026-02-11T08:43:38Z",
     "created_at": "2023-03-14T01:36:44.74927Z",
     "available": true
   },
@@ -655,7 +655,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:24Z",
+    "checked_at": "2026-02-11T08:43:47Z",
     "created_at": "2023-03-14T05:07:04.193297Z",
     "available": false
   },
@@ -670,7 +670,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:31Z",
+    "checked_at": "2026-02-11T08:43:50Z",
     "created_at": "2023-03-14T06:33:16.206788Z",
     "available": true
   },
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:36Z",
+    "checked_at": "2026-02-11T08:43:50Z",
     "created_at": "2023-03-14T06:47:14.922866Z",
     "available": true
   },
@@ -700,9 +700,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:36Z",
+    "checked_at": "2026-02-11T08:43:50Z",
     "created_at": "2023-03-14T11:48:55.9516Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "213.149.177.25",
@@ -715,12 +715,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:44Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-14T12:01:23.40676Z",
     "available": true
   },
   {
-    "ip": "93.109.244.74",
+    "ip": "93.109.244.146",
     "name": "buscust19-74.static.cytanet.com.cy.",
     "as_number": 6866,
     "as_org": "Cyprus Telecommunications Authority",
@@ -730,7 +730,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9411764705882353,
-    "checked_at": "2025-03-09T01:40:44Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-14T13:09:14.745115Z",
     "available": true
   },
@@ -745,12 +745,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:48Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-14T13:23:48.367184Z",
     "available": true
   },
   {
-    "ip": "78.135.8.202",
+    "ip": "78.135.8.206",
     "name": "78-135-8-38.extendbroadband.com.",
     "as_number": 43242,
     "as_org": "Aydogan Communication LTD.",
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:40:51Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-14T14:08:29.092755Z",
     "available": true
   },
@@ -775,7 +775,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-09T01:40:55Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-14T16:37:04.879419Z",
     "available": true
   },
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:41:03Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-14T17:02:11.196934Z",
     "available": true
   },
@@ -805,7 +805,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:41:03Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-14T17:05:43.010615Z",
     "available": true
   },
@@ -820,7 +820,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:41:06Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-14T19:02:29.839826Z",
     "available": true
   },
@@ -835,7 +835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:41:07Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-15T02:16:00.600304Z",
     "available": true
   },
@@ -850,9 +850,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:41:14Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-15T04:16:48.687058Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "91.92.144.101",
@@ -865,7 +865,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:41:18Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-15T04:29:29.355049Z",
     "available": true
   },
@@ -880,7 +880,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:41:26Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-15T05:29:05.277641Z",
     "available": false
   },
@@ -895,7 +895,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:41:33Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-15T05:36:38.564852Z",
     "available": true
   },
@@ -910,7 +910,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:41:41Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-15T10:57:58.373603Z",
     "available": true
   },
@@ -925,7 +925,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:41:48Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-16T00:22:54.236337Z",
     "available": true
   },
@@ -940,7 +940,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:41:48Z",
+    "checked_at": "2026-02-11T08:43:51Z",
     "created_at": "2023-03-16T06:15:19.785743Z",
     "available": false
   },
@@ -955,7 +955,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.991304347826087,
-    "checked_at": "2025-03-09T01:41:56Z",
+    "checked_at": "2026-02-11T08:43:52Z",
     "created_at": "2023-03-16T13:32:19.50505Z",
     "available": true
   },
@@ -970,7 +970,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-09T01:42:03Z",
+    "checked_at": "2026-02-11T08:43:52Z",
     "created_at": "2023-03-16T14:33:07.718492Z",
     "available": true
   },
@@ -985,7 +985,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-09T01:42:10Z",
+    "checked_at": "2026-02-11T08:43:52Z",
     "created_at": "2023-03-16T21:13:45.587582Z",
     "available": true
   },
@@ -1000,7 +1000,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7,
-    "checked_at": "2025-03-09T01:42:14Z",
+    "checked_at": "2026-02-11T08:43:52Z",
     "created_at": "2023-03-16T22:30:24.45271Z",
     "available": false
   },
@@ -1015,12 +1015,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5806451612903226,
-    "checked_at": "2025-03-09T01:42:21Z",
+    "checked_at": "2026-02-11T08:43:52Z",
     "created_at": "2023-03-16T23:59:27.008899Z",
     "available": true
   },
   {
-    "ip": "81.4.143.126",
+    "ip": "81.4.143.241",
     "name": "buscust15-126.static.cytanet.com.cy.",
     "as_number": 6866,
     "as_org": "Cyprus Telecommunications Authority",
@@ -1030,9 +1030,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6774193548387096,
-    "checked_at": "2025-03-09T01:42:25Z",
+    "checked_at": "2026-02-11T08:43:52Z",
     "created_at": "2023-03-17T00:42:03.776804Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "81.4.128.130",
@@ -1045,12 +1045,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.71875,
-    "checked_at": "2025-03-09T01:42:33Z",
+    "checked_at": "2026-02-11T08:43:52Z",
     "created_at": "2023-03-17T01:35:08.972053Z",
     "available": true
   },
   {
-    "ip": "93.109.252.238",
+    "ip": "93.109.252.162",
     "name": "buscust28-238.static.cytanet.com.cy.",
     "as_number": 6866,
     "as_org": "Cyprus Telecommunications Authority",
@@ -1060,7 +1060,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7073170731707317,
-    "checked_at": "2025-03-09T01:42:33Z",
+    "checked_at": "2026-02-11T08:43:53Z",
     "created_at": "2023-03-17T04:02:00.35229Z",
     "available": true
   },
@@ -1075,7 +1075,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-09T01:42:36Z",
+    "checked_at": "2026-02-11T08:43:54Z",
     "created_at": "2023-03-17T05:34:45.14548Z",
     "available": true
   },
@@ -1090,7 +1090,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7272727272727273,
-    "checked_at": "2025-03-09T01:42:44Z",
+    "checked_at": "2026-02-11T08:43:54Z",
     "created_at": "2023-03-17T06:20:38.363615Z",
     "available": true
   },
@@ -1105,12 +1105,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6086956521739131,
-    "checked_at": "2025-03-09T01:42:51Z",
+    "checked_at": "2026-02-11T08:43:54Z",
     "created_at": "2023-03-17T08:06:00.428291Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "213.149.186.172",
+    "ip": "213.149.186.226",
     "name": "213-186-84.static.cytanet.com.cy.",
     "as_number": 6866,
     "as_org": "Cyprus Telecommunications Authority",
@@ -1120,7 +1120,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8461538461538461,
-    "checked_at": "2025-03-09T01:42:52Z",
+    "checked_at": "2026-02-11T08:43:54Z",
     "created_at": "2023-03-19T05:52:04.852822Z",
     "available": true
   },
@@ -1135,7 +1135,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9310344827586207,
-    "checked_at": "2025-03-09T01:42:59Z",
+    "checked_at": "2026-02-11T08:43:54Z",
     "created_at": "2023-03-19T13:36:59.966063Z",
     "available": true
   },
@@ -1150,7 +1150,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.3103448275862069,
-    "checked_at": "2025-03-09T01:42:59Z",
+    "checked_at": "2026-02-11T08:43:54Z",
     "created_at": "2023-03-19T16:44:50.149879Z",
     "available": true
   },
@@ -1165,7 +1165,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:43:07Z",
+    "checked_at": "2026-02-11T08:43:55Z",
     "created_at": "2023-04-07T06:49:45.281652Z",
     "available": true
   },
@@ -1180,12 +1180,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:43:07Z",
+    "checked_at": "2026-02-11T08:43:55Z",
     "created_at": "2023-04-19T14:17:56.364937Z",
     "available": true
   },
   {
-    "ip": "185.249.154.12",
+    "ip": "185.249.154.210",
     "name": "154.6.netcomcyprus.com.",
     "as_number": 52080,
     "as_org": "M. Sereda Network Ltd",
@@ -1195,7 +1195,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T01:43:07Z",
+    "checked_at": "2026-02-11T08:43:55Z",
     "created_at": "2023-05-03T13:53:03.648617Z",
     "available": true
   }
