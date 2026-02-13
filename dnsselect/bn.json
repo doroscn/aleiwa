@@ -10,9 +10,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-01-13T08:27:40Z",
+    "checked_at": "2026-02-13T08:38:17Z",
     "created_at": "2022-08-24T02:52:45.173873Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "202.160.38.15",
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-01-13T08:27:48Z",
+    "checked_at": "2026-02-13T08:38:17Z",
     "created_at": "2022-08-24T02:52:48.37863Z",
     "available": true
   },
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-01-13T08:27:51Z",
+    "checked_at": "2026-02-13T08:38:17Z",
     "created_at": "2022-08-24T02:53:06.235099Z",
     "available": true
   },
   {
-    "ip": "61.6.225.26",
+    "ip": "61.6.225.249",
     "name": "234-225.adsl.static.espeed.com.bn.",
     "as_number": 10094,
     "as_org": "Unified National Networks",
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9956140350877193,
-    "checked_at": "2026-01-13T08:27:52Z",
+    "checked_at": "2026-02-13T08:38:17Z",
     "created_at": "2022-10-27T21:59:46.562335Z",
     "available": true
   }
