@@ -894,12 +894,6 @@
     "index": 219
   },
   {
-    "country_id": "au",
-    "checked_at": "2026-01-17T00:52:54Z",
-    "ip_availability_ratio%": 44.17,
-    "index": 11
-  },
-  {
     "country_id": "td",
     "checked_at": "2026-01-17T08:23:02Z",
     "ip_availability_ratio%": 16.67,
@@ -1216,5 +1210,11 @@
     "checked_at": "2026-02-16T16:54:05Z",
     "ip_availability_ratio%": 100.00,
     "index": 38
+  },
+  {
+    "country_id": "au",
+    "checked_at": "2026-02-17T02:31:16Z",
+    "ip_availability_ratio%": 45.04,
+    "index": 11
   }
 ]
