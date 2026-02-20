@@ -1,6 +1,6 @@
 [
   {
-    "ip": "190.152.182.150",
+    "ip": "190.152.182.190",
     "name": "150.182.152.190.static.anycast.cnt-grms.ec.",
     "as_number": 28006,
     "as_org": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
@@ -10,9 +10,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5036496350364964,
-    "checked_at": "2025-03-09T21:19:01Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2021-09-24T14:36:37.685704Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "45.236.169.151",
@@ -25,12 +25,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:19:08Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2021-09-26T03:38:27.429366Z",
     "available": true
   },
   {
-    "ip": "45.224.148.61",
+    "ip": "45.224.148.100",
     "name": "host-45-224-148-61.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8461538461538461,
-    "checked_at": "2025-03-09T21:19:08Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2021-10-05T16:28:43.35992Z",
     "available": true
   },
   {
-    "ip": "190.152.5.126",
+    "ip": "190.152.5.2",
     "name": "126.5.152.190.static.anycast.cnt-grms.ec.",
     "as_number": 28006,
     "as_org": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
@@ -55,9 +55,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:19:12Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2021-10-07T07:55:44.989612Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "186.101.84.214",
@@ -70,12 +70,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7950530035335689,
-    "checked_at": "2025-03-09T21:19:16Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2021-10-10T05:41:34.784314Z",
     "available": false
   },
   {
-    "ip": "190.12.5.190",
+    "ip": "190.12.5.6",
     "name": "corp-190-12-5-21.cue.puntonet.ec.",
     "as_number": 22724,
     "as_org": "PUNTONET S.A.",
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7324561403508771,
-    "checked_at": "2025-03-09T21:19:21Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2021-10-21T02:49:15.120023Z",
     "available": true
   },
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9421965317919075,
-    "checked_at": "2025-03-09T21:19:28Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2021-10-22T14:41:14.910142Z",
     "available": true
   },
   {
-    "ip": "200.24.132.130",
+    "ip": "200.24.132.82",
     "name": "host-200-24-132-211.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9107142857142857,
-    "checked_at": "2025-03-09T21:19:32Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2021-11-03T12:54:53.784553Z",
     "available": true
   },
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9,
-    "checked_at": "2025-03-09T21:19:40Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2021-11-06T03:00:15.364653Z",
     "available": true
   },
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-09T21:19:47Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2022-08-07T00:52:25.775268Z",
     "available": false
   },
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:19:54Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2022-08-07T01:04:55.937463Z",
     "available": true
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:19:55Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2022-08-07T01:04:57.728349Z",
     "available": false
   },
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:20:02Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2022-08-07T01:04:59.12971Z",
     "available": false
   },
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:20:09Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2022-08-07T01:08:35.42803Z",
     "available": false
   },
@@ -220,9 +220,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:20:17Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2022-08-07T01:08:38.645366Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "186.101.9.177",
@@ -235,9 +235,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:20:20Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2022-08-25T15:50:34.758429Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.110.48.74",
@@ -250,9 +250,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7025948103792415,
-    "checked_at": "2025-03-09T21:20:27Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2022-09-30T09:34:38.334466Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.63.54.76",
@@ -265,12 +265,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:20:35Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2022-10-11T07:33:43.725127Z",
     "available": false
   },
   {
-    "ip": "170.244.208.35",
+    "ip": "170.244.208.38",
     "name": "",
     "as_number": 271882,
     "as_org": "LLANOS ALOMIA LIGIA VERONICA",
@@ -280,7 +280,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:20:42Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2022-10-12T00:08:00.117813Z",
     "available": true
   },
@@ -295,7 +295,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:20:49Z",
+    "checked_at": "2026-02-20T02:29:06Z",
     "created_at": "2022-10-12T12:26:23.030892Z",
     "available": true
   },
@@ -310,12 +310,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:20:57Z",
+    "checked_at": "2026-02-20T02:29:07Z",
     "created_at": "2022-10-13T05:26:57.204562Z",
     "available": true
   },
   {
-    "ip": "45.70.201.66",
+    "ip": "45.70.201.16",
     "name": "host-45-70-201-66.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -325,7 +325,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:20:57Z",
+    "checked_at": "2026-02-20T02:29:07Z",
     "created_at": "2022-10-13T15:00:00.17988Z",
     "available": true
   },
@@ -340,7 +340,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7241379310344828,
-    "checked_at": "2025-03-09T21:21:00Z",
+    "checked_at": "2026-02-20T02:29:07Z",
     "created_at": "2022-10-14T21:37:13.228994Z",
     "available": true
   },
@@ -355,12 +355,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:21:03Z",
+    "checked_at": "2026-02-20T02:29:07Z",
     "created_at": "2022-10-15T19:52:11.705721Z",
     "available": false
   },
   {
-    "ip": "177.234.212.184",
+    "ip": "177.234.212.217",
     "name": "host-177-234-212-94.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -370,12 +370,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:21:10Z",
+    "checked_at": "2026-02-20T02:29:07Z",
     "created_at": "2022-10-16T01:42:22.66288Z",
     "available": true
   },
   {
-    "ip": "200.24.141.33",
+    "ip": "200.24.141.14",
     "name": "host-200-24-141-33.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -385,7 +385,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8232044198895028,
-    "checked_at": "2025-03-09T21:21:17Z",
+    "checked_at": "2026-02-20T02:29:09Z",
     "created_at": "2022-10-17T08:52:56.128675Z",
     "available": true
   },
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:21:18Z",
+    "checked_at": "2026-02-20T02:29:10Z",
     "created_at": "2022-10-17T14:13:52.707346Z",
     "available": true
   },
@@ -415,7 +415,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:21:26Z",
+    "checked_at": "2026-02-20T02:29:14Z",
     "created_at": "2022-10-19T10:31:06.044597Z",
     "available": true
   },
@@ -430,7 +430,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9873949579831933,
-    "checked_at": "2025-03-09T21:21:33Z",
+    "checked_at": "2026-02-20T02:29:18Z",
     "created_at": "2022-10-19T16:41:56.752914Z",
     "available": false
   },
@@ -445,7 +445,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:21:41Z",
+    "checked_at": "2026-02-20T02:29:21Z",
     "created_at": "2022-10-19T18:54:47.478227Z",
     "available": true
   },
@@ -460,7 +460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:21:48Z",
+    "checked_at": "2026-02-20T02:29:21Z",
     "created_at": "2022-10-22T14:05:22.953981Z",
     "available": true
   },
@@ -475,7 +475,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:21:48Z",
+    "checked_at": "2026-02-20T02:29:22Z",
     "created_at": "2022-10-23T21:58:32.368129Z",
     "available": false
   },
@@ -490,12 +490,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6631989596879063,
-    "checked_at": "2025-03-09T21:21:56Z",
+    "checked_at": "2026-02-20T02:29:23Z",
     "created_at": "2022-10-27T10:46:10.934958Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "45.183.141.201",
+    "ip": "45.183.141.101",
     "name": "host-45.183.141-201.csed.net.ec.",
     "as_number": 264824,
     "as_org": "COMPANIA ELECTROMECANICOS PARA EL DESARROLLO CSED SA",
@@ -505,12 +505,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6888888888888889,
-    "checked_at": "2025-03-09T21:22:03Z",
+    "checked_at": "2026-02-20T02:29:23Z",
     "created_at": "2022-10-27T16:25:27.892719Z",
     "available": true
   },
   {
-    "ip": "45.225.105.172",
+    "ip": "45.225.105.176",
     "name": "host-45-225-105-117.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9387755102040817,
-    "checked_at": "2025-03-09T21:22:03Z",
+    "checked_at": "2026-02-20T02:29:24Z",
     "created_at": "2022-10-27T18:09:00.764968Z",
     "available": true
   },
@@ -535,9 +535,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:22:10Z",
+    "checked_at": "2026-02-20T02:29:24Z",
     "created_at": "2022-10-29T20:50:28.17014Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "45.189.114.232",
@@ -550,7 +550,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:22:18Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-05T19:02:48.412211Z",
     "available": false
   },
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9813084112149533,
-    "checked_at": "2025-03-09T21:22:25Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-06T04:28:34.910558Z",
     "available": false
   },
@@ -580,7 +580,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:22:32Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-06T04:58:46.280124Z",
     "available": true
   },
@@ -595,7 +595,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:22:33Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-06T07:52:08.668206Z",
     "available": true
   },
@@ -610,7 +610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9280575539568345,
-    "checked_at": "2025-03-09T21:22:40Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-06T14:49:07.305932Z",
     "available": true
   },
@@ -625,12 +625,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:22:40Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-07T17:13:19.376136Z",
     "available": false
   },
   {
-    "ip": "177.234.229.212",
+    "ip": "177.234.229.115",
     "name": "host-177-234-229-76.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -640,12 +640,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:22:48Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-10T06:24:09.068061Z",
     "available": true
   },
   {
-    "ip": "45.236.107.126",
+    "ip": "45.236.107.2",
     "name": "host-45-236-107-105.fibramax.ec.",
     "as_number": 263238,
     "as_org": "Eliana Vanessa Morocho Ona",
@@ -655,7 +655,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:22:55Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-11T13:09:09.448839Z",
     "available": true
   },
@@ -670,7 +670,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:23:03Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-12T20:17:24.875121Z",
     "available": false
   },
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:23:10Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-14T02:21:00.513389Z",
     "available": true
   },
@@ -700,7 +700,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:23:10Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-16T21:29:22.120881Z",
     "available": true
   },
@@ -715,7 +715,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.875,
-    "checked_at": "2025-03-09T21:23:10Z",
+    "checked_at": "2026-02-20T02:29:25Z",
     "created_at": "2022-11-25T22:16:38.873188Z",
     "available": true
   },
@@ -730,7 +730,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9130434782608695,
-    "checked_at": "2025-03-09T21:23:15Z",
+    "checked_at": "2026-02-20T02:29:26Z",
     "created_at": "2022-11-26T00:30:59.968675Z",
     "available": true
   },
@@ -745,7 +745,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:23:19Z",
+    "checked_at": "2026-02-20T02:29:26Z",
     "created_at": "2022-11-26T06:10:45.071106Z",
     "available": true
   },
@@ -760,12 +760,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:23:20Z",
+    "checked_at": "2026-02-20T02:29:26Z",
     "created_at": "2022-11-26T22:35:53.547441Z",
     "available": false
   },
   {
-    "ip": "164.163.133.100",
+    "ip": "164.163.133.21",
     "name": "host-164-163-133-134.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -775,7 +775,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:23:27Z",
+    "checked_at": "2026-02-20T02:29:26Z",
     "created_at": "2022-11-27T09:52:50.855569Z",
     "available": true
   },
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7777777777777778,
-    "checked_at": "2025-03-09T21:23:34Z",
+    "checked_at": "2026-02-20T02:29:26Z",
     "created_at": "2022-11-28T19:18:37.126848Z",
     "available": false
   },
@@ -805,7 +805,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:23:42Z",
+    "checked_at": "2026-02-20T02:29:26Z",
     "created_at": "2022-11-30T13:43:57.627241Z",
     "available": true
   },
@@ -820,12 +820,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9302325581395349,
-    "checked_at": "2025-03-09T21:23:49Z",
+    "checked_at": "2026-02-20T02:29:26Z",
     "created_at": "2022-12-01T04:20:43.77925Z",
     "available": true
   },
   {
-    "ip": "186.4.224.104",
+    "ip": "186.4.224.11",
     "name": "host-186-4-224-37.netlife.ec.",
     "as_number": 27947,
     "as_org": "Telconet S.A",
@@ -835,12 +835,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8461538461538461,
-    "checked_at": "2025-03-09T21:23:56Z",
+    "checked_at": "2026-02-20T02:29:26Z",
     "created_at": "2022-12-14T07:14:25.951379Z",
     "available": true
   },
   {
-    "ip": "45.224.153.132",
+    "ip": "45.224.153.18",
     "name": "host-45-224-153-236.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -850,7 +850,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-09T21:24:04Z",
+    "checked_at": "2026-02-20T02:29:27Z",
     "created_at": "2022-12-18T21:12:08.09111Z",
     "available": true
   },
@@ -865,7 +865,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9166666666666666,
-    "checked_at": "2025-03-09T21:24:11Z",
+    "checked_at": "2026-02-20T02:29:28Z",
     "created_at": "2022-12-20T09:46:16.196487Z",
     "available": true
   },
@@ -880,7 +880,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9902912621359223,
-    "checked_at": "2025-03-09T21:24:18Z",
+    "checked_at": "2026-02-20T02:29:29Z",
     "created_at": "2022-12-24T08:47:07.592501Z",
     "available": true
   },
@@ -895,7 +895,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9915254237288136,
-    "checked_at": "2025-03-09T21:24:22Z",
+    "checked_at": "2026-02-20T02:29:29Z",
     "created_at": "2022-12-25T04:18:35.351709Z",
     "available": true
   },
@@ -910,7 +910,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.940677966101695,
-    "checked_at": "2025-03-09T21:24:29Z",
+    "checked_at": "2026-02-20T02:29:30Z",
     "created_at": "2022-12-25T13:08:38.448036Z",
     "available": true
   },
@@ -925,12 +925,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.13821138211382114,
-    "checked_at": "2025-03-09T21:24:29Z",
+    "checked_at": "2026-02-20T02:29:31Z",
     "created_at": "2022-12-27T07:25:28.712467Z",
     "available": true
   },
   {
-    "ip": "177.234.236.134",
+    "ip": "177.234.236.165",
     "name": "host-177-234-236-200.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -940,7 +940,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8881118881118881,
-    "checked_at": "2025-03-09T21:24:37Z",
+    "checked_at": "2026-02-20T02:29:33Z",
     "created_at": "2022-12-31T17:33:19.32852Z",
     "available": true
   },
@@ -955,7 +955,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8811188811188811,
-    "checked_at": "2025-03-09T21:24:44Z",
+    "checked_at": "2026-02-20T02:29:34Z",
     "created_at": "2022-12-31T20:55:41.433083Z",
     "available": true
   },
@@ -970,7 +970,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8741721854304636,
-    "checked_at": "2025-03-09T21:24:51Z",
+    "checked_at": "2026-02-20T02:29:34Z",
     "created_at": "2023-01-03T13:29:46.463051Z",
     "available": true
   },
@@ -985,12 +985,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5424836601307189,
-    "checked_at": "2025-03-09T21:24:59Z",
+    "checked_at": "2026-02-20T02:29:35Z",
     "created_at": "2023-01-04T19:17:14.421259Z",
     "available": true
   },
   {
-    "ip": "181.112.164.162",
+    "ip": "181.112.164.219",
     "name": "162.164.112.181.static.anycast.cnt-grms.ec.",
     "as_number": 28006,
     "as_org": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
@@ -1000,9 +1000,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9378531073446328,
-    "checked_at": "2025-03-09T21:25:06Z",
+    "checked_at": "2026-02-20T02:29:35Z",
     "created_at": "2023-02-19T05:01:19.783044Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "45.71.202.105",
@@ -1015,7 +1015,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.875,
-    "checked_at": "2025-03-09T21:25:13Z",
+    "checked_at": "2026-02-20T02:29:36Z",
     "created_at": "2023-02-25T17:40:01.822185Z",
     "available": true
   },
@@ -1030,12 +1030,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.990990990990991,
-    "checked_at": "2025-03-09T21:25:21Z",
+    "checked_at": "2026-02-20T02:29:39Z",
     "created_at": "2023-02-26T23:55:38.590464Z",
     "available": true
   },
   {
-    "ip": "157.100.58.169",
+    "ip": "157.100.58.182",
     "name": "host-157-100-58-174.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1045,7 +1045,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:25:21Z",
+    "checked_at": "2026-02-20T02:29:39Z",
     "created_at": "2023-02-28T04:07:14.479385Z",
     "available": true
   },
@@ -1060,7 +1060,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.911504424778761,
-    "checked_at": "2025-03-09T21:25:28Z",
+    "checked_at": "2026-02-20T02:29:39Z",
     "created_at": "2023-02-28T04:22:30.368445Z",
     "available": true
   },
@@ -1075,7 +1075,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:25:36Z",
+    "checked_at": "2026-02-20T02:29:40Z",
     "created_at": "2023-03-01T01:01:56.411224Z",
     "available": true
   },
@@ -1090,9 +1090,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9285714285714286,
-    "checked_at": "2025-03-09T21:25:36Z",
+    "checked_at": "2026-02-20T02:29:40Z",
     "created_at": "2023-03-03T09:37:12.222734Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "45.229.87.253",
@@ -1105,12 +1105,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:25:43Z",
+    "checked_at": "2026-02-20T02:29:40Z",
     "created_at": "2023-03-09T08:17:03.84477Z",
     "available": true
   },
   {
-    "ip": "181.198.4.194",
+    "ip": "181.198.4.52",
     "name": "",
     "as_number": 27947,
     "as_org": "Telconet S.A",
@@ -1120,9 +1120,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:25:51Z",
+    "checked_at": "2026-02-20T02:29:40Z",
     "created_at": "2023-03-09T08:45:52.51028Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "45.4.201.115",
@@ -1135,12 +1135,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9534883720930233,
-    "checked_at": "2025-03-09T21:25:58Z",
+    "checked_at": "2026-02-20T02:29:41Z",
     "created_at": "2023-03-09T21:13:07.052222Z",
     "available": true
   },
   {
-    "ip": "200.24.130.156",
+    "ip": "200.24.130.207",
     "name": "host-200-24-130-124.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1150,7 +1150,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:26:05Z",
+    "checked_at": "2026-02-20T02:29:41Z",
     "created_at": "2023-03-13T01:36:06.002657Z",
     "available": true
   },
@@ -1165,7 +1165,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:26:13Z",
+    "checked_at": "2026-02-20T02:29:41Z",
     "created_at": "2023-03-13T02:06:23.388874Z",
     "available": true
   },
@@ -1180,7 +1180,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9485714285714286,
-    "checked_at": "2025-03-09T21:26:20Z",
+    "checked_at": "2026-02-20T02:29:41Z",
     "created_at": "2023-03-13T02:48:52.082922Z",
     "available": false
   },
@@ -1195,9 +1195,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:26:27Z",
+    "checked_at": "2026-02-20T02:29:41Z",
     "created_at": "2023-03-13T03:20:58.060395Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "181.188.216.114",
@@ -1210,7 +1210,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:26:35Z",
+    "checked_at": "2026-02-20T02:29:42Z",
     "created_at": "2023-03-13T03:35:57.152525Z",
     "available": true
   },
@@ -1225,7 +1225,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:26:42Z",
+    "checked_at": "2026-02-20T02:29:42Z",
     "created_at": "2023-03-13T03:45:06.139062Z",
     "available": false
   },
@@ -1240,12 +1240,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:26:49Z",
+    "checked_at": "2026-02-20T02:29:42Z",
     "created_at": "2023-03-13T04:06:28.994852Z",
     "available": true
   },
   {
-    "ip": "45.70.13.124",
+    "ip": "45.70.13.251",
     "name": "host-45-70-13-124.nedetel.net.",
     "as_number": 271933,
     "as_org": "AIRMAXTELECOM SOLUCIONES TECNOLOGICAS S.A.",
@@ -1255,9 +1255,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:26:57Z",
+    "checked_at": "2026-02-20T02:29:42Z",
     "created_at": "2023-03-13T06:18:10.093288Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "45.70.196.118",
@@ -1270,12 +1270,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:27:04Z",
+    "checked_at": "2026-02-20T02:29:42Z",
     "created_at": "2023-03-13T07:26:51.525426Z",
     "available": true
   },
   {
-    "ip": "45.236.107.126",
+    "ip": "45.236.107.2",
     "name": "host-45-236-107-66.fibramax.ec.",
     "as_number": 263238,
     "as_org": "Eliana Vanessa Morocho Ona",
@@ -1285,7 +1285,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:27:12Z",
+    "checked_at": "2026-02-20T02:29:42Z",
     "created_at": "2023-03-13T07:46:21.536806Z",
     "available": true
   },
@@ -1300,7 +1300,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:27:19Z",
+    "checked_at": "2026-02-20T02:29:42Z",
     "created_at": "2023-03-13T07:52:32.021324Z",
     "available": false
   },
@@ -1315,12 +1315,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:27:26Z",
+    "checked_at": "2026-02-20T02:29:43Z",
     "created_at": "2023-03-13T07:52:41.840652Z",
     "available": false
   },
   {
-    "ip": "177.234.232.137",
+    "ip": "177.234.232.134",
     "name": "host-177-234-232-57.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1330,7 +1330,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:27:34Z",
+    "checked_at": "2026-02-20T02:29:43Z",
     "created_at": "2023-03-13T08:25:17.472476Z",
     "available": true
   },
@@ -1345,7 +1345,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:27:41Z",
+    "checked_at": "2026-02-20T02:29:43Z",
     "created_at": "2023-03-13T08:44:19.926951Z",
     "available": true
   },
@@ -1360,7 +1360,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:27:48Z",
+    "checked_at": "2026-02-20T02:29:43Z",
     "created_at": "2023-03-13T09:15:05.055311Z",
     "available": false
   },
@@ -1375,7 +1375,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:27:56Z",
+    "checked_at": "2026-02-20T02:29:44Z",
     "created_at": "2023-03-13T09:21:15.50749Z",
     "available": true
   },
@@ -1390,7 +1390,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:27:58Z",
+    "checked_at": "2026-02-20T02:29:44Z",
     "created_at": "2023-03-13T10:23:03.298035Z",
     "available": false
   },
@@ -1405,7 +1405,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:28:02Z",
+    "checked_at": "2026-02-20T02:29:44Z",
     "created_at": "2023-03-13T12:38:52.244476Z",
     "available": true
   },
@@ -1420,7 +1420,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:28:07Z",
+    "checked_at": "2026-02-20T02:29:45Z",
     "created_at": "2023-03-13T14:50:44.006658Z",
     "available": false
   },
@@ -1435,7 +1435,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:28:14Z",
+    "checked_at": "2026-02-20T02:29:45Z",
     "created_at": "2023-03-13T15:24:01.267333Z",
     "available": true
   },
@@ -1450,7 +1450,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:28:15Z",
+    "checked_at": "2026-02-20T02:29:45Z",
     "created_at": "2023-03-13T15:27:17.399247Z",
     "available": true
   },
@@ -1465,12 +1465,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:28:22Z",
+    "checked_at": "2026-02-20T02:29:46Z",
     "created_at": "2023-03-13T15:32:31.271764Z",
     "available": true
   },
   {
-    "ip": "200.55.249.129",
+    "ip": "200.55.249.193",
     "name": "host-200-55-249-222.access.ec.",
     "as_number": 262154,
     "as_org": "Comm & Net S.A.",
@@ -1480,7 +1480,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8275862068965517,
-    "checked_at": "2025-03-09T21:28:29Z",
+    "checked_at": "2026-02-20T02:29:46Z",
     "created_at": "2023-03-13T15:49:15.073176Z",
     "available": true
   },
@@ -1495,7 +1495,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:28:37Z",
+    "checked_at": "2026-02-20T02:29:46Z",
     "created_at": "2023-03-13T15:53:24.877719Z",
     "available": true
   },
@@ -1510,12 +1510,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:28:37Z",
+    "checked_at": "2026-02-20T02:29:47Z",
     "created_at": "2023-03-13T15:54:15.984397Z",
     "available": true
   },
   {
-    "ip": "200.24.136.130",
+    "ip": "200.24.136.10",
     "name": "host-200-24-136-80.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1525,7 +1525,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:28:44Z",
+    "checked_at": "2026-02-20T02:29:47Z",
     "created_at": "2023-03-13T15:55:57.625872Z",
     "available": true
   },
@@ -1540,9 +1540,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:28:52Z",
+    "checked_at": "2026-02-20T02:29:48Z",
     "created_at": "2023-03-13T16:57:29.942281Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "179.60.245.126",
@@ -1555,7 +1555,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:28:59Z",
+    "checked_at": "2026-02-20T02:29:49Z",
     "created_at": "2023-03-13T17:20:31.41647Z",
     "available": true
   },
@@ -1570,7 +1570,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:02Z",
+    "checked_at": "2026-02-20T02:29:52Z",
     "created_at": "2023-03-13T17:45:59.808134Z",
     "available": true
   },
@@ -1585,12 +1585,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:02Z",
+    "checked_at": "2026-02-20T02:29:53Z",
     "created_at": "2023-03-13T18:40:56.582404Z",
     "available": false
   },
   {
-    "ip": "45.70.238.213",
+    "ip": "45.70.238.131",
     "name": "host-45-70-238-213.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1600,12 +1600,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:10Z",
+    "checked_at": "2026-02-20T02:29:54Z",
     "created_at": "2023-03-13T19:09:12.823906Z",
     "available": true
   },
   {
-    "ip": "45.230.240.106",
+    "ip": "45.230.240.130",
     "name": "ip-45-230-240-182.alfanet.net.ec.",
     "as_number": 264825,
     "as_org": "TELEALFACOM CIA. LTDA.",
@@ -1615,12 +1615,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:10Z",
+    "checked_at": "2026-02-20T02:29:55Z",
     "created_at": "2023-03-13T20:49:50.400423Z",
     "available": true
   },
   {
-    "ip": "200.69.179.26",
+    "ip": "200.69.179.119",
     "name": "26.179.uio.satnet.net.",
     "as_number": 14522,
     "as_org": "Satnet",
@@ -1630,7 +1630,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:14Z",
+    "checked_at": "2026-02-20T02:29:57Z",
     "created_at": "2023-03-13T22:00:49.380223Z",
     "available": true
   },
@@ -1645,7 +1645,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:18Z",
+    "checked_at": "2026-02-20T02:29:57Z",
     "created_at": "2023-03-13T22:46:14.365673Z",
     "available": true
   },
@@ -1660,7 +1660,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:18Z",
+    "checked_at": "2026-02-20T02:29:58Z",
     "created_at": "2023-03-13T22:54:38.536514Z",
     "available": true
   },
@@ -1675,12 +1675,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:21Z",
+    "checked_at": "2026-02-20T02:29:58Z",
     "created_at": "2023-03-13T22:55:19.405362Z",
     "available": true
   },
   {
-    "ip": "164.163.133.100",
+    "ip": "164.163.133.21",
     "name": "host-164-163-133-142.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1690,7 +1690,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:21Z",
+    "checked_at": "2026-02-20T02:29:58Z",
     "created_at": "2023-03-13T23:51:26.01111Z",
     "available": true
   },
@@ -1705,7 +1705,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:26Z",
+    "checked_at": "2026-02-20T02:29:58Z",
     "created_at": "2023-03-14T00:57:47.924928Z",
     "available": true
   },
@@ -1720,7 +1720,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:33Z",
+    "checked_at": "2026-02-20T02:29:58Z",
     "created_at": "2023-03-14T01:35:07.339482Z",
     "available": true
   },
@@ -1735,12 +1735,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:36Z",
+    "checked_at": "2026-02-20T02:29:59Z",
     "created_at": "2023-03-14T01:51:35.320765Z",
     "available": true
   },
   {
-    "ip": "177.234.229.212",
+    "ip": "177.234.229.115",
     "name": "host-177-234-229-75.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1750,7 +1750,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:36Z",
+    "checked_at": "2026-02-20T02:29:59Z",
     "created_at": "2023-03-14T02:12:14.782468Z",
     "available": true
   },
@@ -1765,12 +1765,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:44Z",
+    "checked_at": "2026-02-20T02:29:59Z",
     "created_at": "2023-03-14T02:46:15.702236Z",
     "available": true
   },
   {
-    "ip": "45.224.148.169",
+    "ip": "45.224.148.100",
     "name": "host-45-224-148-169.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1780,12 +1780,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:47Z",
+    "checked_at": "2026-02-20T02:29:59Z",
     "created_at": "2023-03-14T02:57:21.719798Z",
     "available": true
   },
   {
-    "ip": "181.188.215.1",
+    "ip": "181.188.215.102",
     "name": "host-181-188-215-74.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1795,7 +1795,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:47Z",
+    "checked_at": "2026-02-20T02:29:59Z",
     "created_at": "2023-03-14T03:01:49.882097Z",
     "available": true
   },
@@ -1810,12 +1810,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:29:55Z",
+    "checked_at": "2026-02-20T02:30:00Z",
     "created_at": "2023-03-14T03:05:35.642469Z",
     "available": false
   },
   {
-    "ip": "157.100.63.112",
+    "ip": "157.100.63.138",
     "name": "host-157-100-63-111.ecua.net.ec.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1825,7 +1825,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:02Z",
+    "checked_at": "2026-02-20T02:30:00Z",
     "created_at": "2023-03-14T03:13:45.941002Z",
     "available": true
   },
@@ -1840,7 +1840,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:09Z",
+    "checked_at": "2026-02-20T02:30:01Z",
     "created_at": "2023-03-14T03:17:45.389514Z",
     "available": true
   },
@@ -1855,7 +1855,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:12Z",
+    "checked_at": "2026-02-20T02:30:01Z",
     "created_at": "2023-03-14T04:28:28.559549Z",
     "available": true
   },
@@ -1870,7 +1870,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:20Z",
+    "checked_at": "2026-02-20T02:30:01Z",
     "created_at": "2023-03-14T05:22:38.807721Z",
     "available": true
   },
@@ -1885,7 +1885,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:20Z",
+    "checked_at": "2026-02-20T02:30:01Z",
     "created_at": "2023-03-14T05:39:10.535748Z",
     "available": true
   },
@@ -1900,12 +1900,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:23Z",
+    "checked_at": "2026-02-20T02:30:01Z",
     "created_at": "2023-03-14T05:45:18.392532Z",
     "available": true
   },
   {
-    "ip": "157.100.55.226",
+    "ip": "157.100.55.163",
     "name": "host-157-100-55-226.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1915,7 +1915,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:28Z",
+    "checked_at": "2026-02-20T02:30:01Z",
     "created_at": "2023-03-14T06:20:07.406192Z",
     "available": true
   },
@@ -1930,12 +1930,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:28Z",
+    "checked_at": "2026-02-20T02:30:01Z",
     "created_at": "2023-03-14T07:45:08.036576Z",
     "available": true
   },
   {
-    "ip": "157.100.52.101",
+    "ip": "157.100.52.10",
     "name": "host-157-100-52-101.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1945,12 +1945,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:28Z",
+    "checked_at": "2026-02-20T02:30:01Z",
     "created_at": "2023-03-14T08:42:33.322823Z",
     "available": true
   },
   {
-    "ip": "200.24.136.130",
+    "ip": "200.24.136.10",
     "name": "host-200-24-136-233.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -1960,7 +1960,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:28Z",
+    "checked_at": "2026-02-20T02:30:02Z",
     "created_at": "2023-03-14T09:24:42.582964Z",
     "available": true
   },
@@ -1975,7 +1975,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:33Z",
+    "checked_at": "2026-02-20T02:30:02Z",
     "created_at": "2023-03-14T10:03:43.536587Z",
     "available": true
   },
@@ -1990,7 +1990,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4375,
-    "checked_at": "2025-03-09T21:30:40Z",
+    "checked_at": "2026-02-20T02:30:02Z",
     "created_at": "2023-03-14T10:19:01.647778Z",
     "available": true
   },
@@ -2005,7 +2005,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4,
-    "checked_at": "2025-03-09T21:30:43Z",
+    "checked_at": "2026-02-20T02:30:02Z",
     "created_at": "2023-03-14T10:51:18.244555Z",
     "available": true
   },
@@ -2020,7 +2020,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:48Z",
+    "checked_at": "2026-02-20T02:30:03Z",
     "created_at": "2023-03-14T11:23:57.821253Z",
     "available": true
   },
@@ -2035,12 +2035,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:51Z",
+    "checked_at": "2026-02-20T02:30:03Z",
     "created_at": "2023-03-14T11:46:42.796595Z",
     "available": true
   },
   {
-    "ip": "200.63.104.141",
+    "ip": "200.63.104.38",
     "name": "host-200-63-104-31.fibramax.ec.",
     "as_number": 263238,
     "as_org": "Eliana Vanessa Morocho Ona",
@@ -2050,7 +2050,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:30:54Z",
+    "checked_at": "2026-02-20T02:30:03Z",
     "created_at": "2023-03-14T12:11:05.830806Z",
     "available": true
   },
@@ -2065,7 +2065,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:31:02Z",
+    "checked_at": "2026-02-20T02:30:04Z",
     "created_at": "2023-03-14T12:26:03.106084Z",
     "available": true
   },
@@ -2080,9 +2080,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6,
-    "checked_at": "2025-03-09T21:31:09Z",
+    "checked_at": "2026-02-20T02:30:04Z",
     "created_at": "2023-03-14T12:45:31.839865Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "177.234.245.105",
@@ -2095,7 +2095,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:31:16Z",
+    "checked_at": "2026-02-20T02:30:05Z",
     "created_at": "2023-03-14T14:38:24.614174Z",
     "available": true
   },
@@ -2110,9 +2110,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:31:17Z",
+    "checked_at": "2026-02-20T02:30:05Z",
     "created_at": "2023-03-14T14:44:03.1626Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "177.234.209.111",
@@ -2125,7 +2125,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:31:24Z",
+    "checked_at": "2026-02-20T02:30:06Z",
     "created_at": "2023-03-14T15:31:52.132035Z",
     "available": true
   },
@@ -2140,7 +2140,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:31:24Z",
+    "checked_at": "2026-02-20T02:30:06Z",
     "created_at": "2023-03-14T15:40:47.280698Z",
     "available": true
   },
@@ -2155,7 +2155,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:31:31Z",
+    "checked_at": "2026-02-20T02:30:07Z",
     "created_at": "2023-03-14T19:46:46.352728Z",
     "available": false
   },
@@ -2170,7 +2170,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:31:39Z",
+    "checked_at": "2026-02-20T02:30:08Z",
     "created_at": "2023-03-14T19:49:33.2383Z",
     "available": false
   },
@@ -2185,7 +2185,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:31:46Z",
+    "checked_at": "2026-02-20T02:30:08Z",
     "created_at": "2023-03-14T20:36:50.969476Z",
     "available": true
   },
@@ -2200,9 +2200,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:31:54Z",
+    "checked_at": "2026-02-20T02:30:09Z",
     "created_at": "2023-03-15T00:27:08.242568Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "45.235.13.119",
@@ -2215,12 +2215,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:32:01Z",
+    "checked_at": "2026-02-20T02:30:09Z",
     "created_at": "2023-03-15T02:58:56.899403Z",
     "available": false
   },
   {
-    "ip": "167.250.180.99",
+    "ip": "167.250.180.238",
     "name": "host-167-250-180-99.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -2230,7 +2230,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:32:08Z",
+    "checked_at": "2026-02-20T02:30:09Z",
     "created_at": "2023-03-15T03:44:22.542865Z",
     "available": true
   },
@@ -2245,7 +2245,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:32:09Z",
+    "checked_at": "2026-02-20T02:30:09Z",
     "created_at": "2023-03-15T04:32:22.621383Z",
     "available": true
   },
@@ -2260,7 +2260,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:32:13Z",
+    "checked_at": "2026-02-20T02:30:09Z",
     "created_at": "2023-03-15T04:52:48.641495Z",
     "available": true
   },
@@ -2275,7 +2275,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:32:20Z",
+    "checked_at": "2026-02-20T02:30:10Z",
     "created_at": "2023-03-15T05:25:11.586992Z",
     "available": true
   },
@@ -2290,9 +2290,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:32:28Z",
+    "checked_at": "2026-02-20T02:30:10Z",
     "created_at": "2023-03-15T07:11:38.277267Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "45.175.166.19",
@@ -2305,7 +2305,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8390804597701149,
-    "checked_at": "2025-03-09T21:32:35Z",
+    "checked_at": "2026-02-20T02:30:10Z",
     "created_at": "2023-03-15T09:38:25.248125Z",
     "available": true
   },
@@ -2320,7 +2320,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6979405034324943,
-    "checked_at": "2025-03-09T21:32:40Z",
+    "checked_at": "2026-02-20T02:30:11Z",
     "created_at": "2023-03-15T09:43:19.035845Z",
     "available": true
   },
@@ -2335,7 +2335,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:32:47Z",
+    "checked_at": "2026-02-20T02:30:11Z",
     "created_at": "2023-03-15T10:53:15.293433Z",
     "available": true
   },
@@ -2350,7 +2350,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:32:54Z",
+    "checked_at": "2026-02-20T02:30:12Z",
     "created_at": "2023-03-15T11:32:23.52299Z",
     "available": true
   },
@@ -2365,7 +2365,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:32:54Z",
+    "checked_at": "2026-02-20T02:30:12Z",
     "created_at": "2023-03-15T11:51:16.108646Z",
     "available": true
   },
@@ -2380,9 +2380,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:32:59Z",
+    "checked_at": "2026-02-20T02:30:12Z",
     "created_at": "2023-03-15T12:59:40.97028Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "45.71.187.131",
@@ -2395,12 +2395,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:32:59Z",
+    "checked_at": "2026-02-20T02:30:13Z",
     "created_at": "2023-03-15T14:03:11.199949Z",
     "available": true
   },
   {
-    "ip": "45.71.36.101",
+    "ip": "45.71.36.18",
     "name": "host-45-71-36-101.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -2410,7 +2410,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:33:07Z",
+    "checked_at": "2026-02-20T02:30:13Z",
     "created_at": "2023-03-15T14:49:24.998471Z",
     "available": true
   },
@@ -2425,7 +2425,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:33:07Z",
+    "checked_at": "2026-02-20T02:30:13Z",
     "created_at": "2023-03-15T16:03:59.432411Z",
     "available": true
   },
@@ -2440,12 +2440,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9696969696969697,
-    "checked_at": "2025-03-09T21:33:10Z",
+    "checked_at": "2026-02-20T02:30:13Z",
     "created_at": "2023-03-15T17:18:57.065807Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "181.188.194.118",
+    "ip": "181.188.194.57",
     "name": "mail2.clavesri.gob.ec.",
     "as_number": 19114,
     "as_org": "Otecel S.A.",
@@ -2455,7 +2455,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:33:18Z",
+    "checked_at": "2026-02-20T02:30:14Z",
     "created_at": "2023-03-15T17:54:23.748817Z",
     "available": true
   },
@@ -2470,7 +2470,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:33:25Z",
+    "checked_at": "2026-02-20T02:30:15Z",
     "created_at": "2023-03-15T18:02:28.110463Z",
     "available": true
   },
@@ -2485,7 +2485,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9285714285714286,
-    "checked_at": "2025-03-09T21:33:29Z",
+    "checked_at": "2026-02-20T02:30:15Z",
     "created_at": "2023-03-16T00:02:11.02962Z",
     "available": true
   },
@@ -2500,7 +2500,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7127659574468085,
-    "checked_at": "2025-03-09T21:33:33Z",
+    "checked_at": "2026-02-20T02:30:15Z",
     "created_at": "2023-03-16T03:33:01.966112Z",
     "available": true
   },
@@ -2515,12 +2515,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.75,
-    "checked_at": "2025-03-09T21:33:40Z",
+    "checked_at": "2026-02-20T02:30:15Z",
     "created_at": "2023-03-16T12:23:06.542091Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "45.224.153.132",
+    "ip": "45.224.153.18",
     "name": "host-45-224-153-60.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -2530,7 +2530,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6,
-    "checked_at": "2025-03-09T21:33:47Z",
+    "checked_at": "2026-02-20T02:30:15Z",
     "created_at": "2023-03-16T13:10:21.485007Z",
     "available": true
   },
@@ -2545,7 +2545,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.875,
-    "checked_at": "2025-03-09T21:33:55Z",
+    "checked_at": "2026-02-20T02:30:15Z",
     "created_at": "2023-03-16T13:57:40.241057Z",
     "available": true
   },
@@ -2560,7 +2560,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-09T21:33:55Z",
+    "checked_at": "2026-02-20T02:30:16Z",
     "created_at": "2023-03-16T14:44:08.308049Z",
     "available": true
   },
@@ -2575,7 +2575,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5555555555555556,
-    "checked_at": "2025-03-09T21:34:02Z",
+    "checked_at": "2026-02-20T02:30:16Z",
     "created_at": "2023-03-16T15:24:31.020332Z",
     "available": false
   },
@@ -2590,7 +2590,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6,
-    "checked_at": "2025-03-09T21:34:10Z",
+    "checked_at": "2026-02-20T02:30:17Z",
     "created_at": "2023-03-16T15:27:07.501554Z",
     "available": true
   },
@@ -2605,12 +2605,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4117647058823529,
-    "checked_at": "2025-03-09T21:34:17Z",
+    "checked_at": "2026-02-20T02:30:17Z",
     "created_at": "2023-03-16T15:49:29.137503Z",
     "available": false
   },
   {
-    "ip": "45.224.148.177",
+    "ip": "45.224.148.100",
     "name": "host-45-224-148-177.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -2620,12 +2620,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.5714285714285714,
-    "checked_at": "2025-03-09T21:34:24Z",
+    "checked_at": "2026-02-20T02:30:18Z",
     "created_at": "2023-03-16T16:19:52.071193Z",
     "available": true
   },
   {
-    "ip": "45.164.65.10",
+    "ip": "45.164.65.100",
     "name": "",
     "as_number": 267699,
     "as_org": "CUBOTELECOM CIA. LTDA.",
@@ -2635,7 +2635,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8666666666666667,
-    "checked_at": "2025-03-09T21:34:25Z",
+    "checked_at": "2026-02-20T02:30:18Z",
     "created_at": "2023-03-16T16:38:18.262793Z",
     "available": true
   },
@@ -2650,12 +2650,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5333333333333333,
-    "checked_at": "2025-03-09T21:34:32Z",
+    "checked_at": "2026-02-20T02:30:18Z",
     "created_at": "2023-03-16T16:55:10.716452Z",
     "available": false
   },
   {
-    "ip": "164.163.133.102",
+    "ip": "164.163.133.21",
     "name": "host-164-163-133-102.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -2665,7 +2665,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.84,
-    "checked_at": "2025-03-09T21:34:39Z",
+    "checked_at": "2026-02-20T02:30:19Z",
     "created_at": "2023-03-16T17:09:14.490846Z",
     "available": true
   },
@@ -2680,7 +2680,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8873239436619719,
-    "checked_at": "2025-03-09T21:34:40Z",
+    "checked_at": "2026-02-20T02:30:19Z",
     "created_at": "2023-03-16T17:46:39.422925Z",
     "available": true
   },
@@ -2695,12 +2695,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6923076923076923,
-    "checked_at": "2025-03-09T21:34:47Z",
+    "checked_at": "2026-02-20T02:30:20Z",
     "created_at": "2023-03-16T18:33:19.301348Z",
     "available": true
   },
   {
-    "ip": "200.24.136.130",
+    "ip": "200.24.136.10",
     "name": "host-200-24-136-121.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -2710,7 +2710,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6428571428571429,
-    "checked_at": "2025-03-09T21:34:51Z",
+    "checked_at": "2026-02-20T02:30:20Z",
     "created_at": "2023-03-16T20:09:22.549233Z",
     "available": true
   },
@@ -2725,12 +2725,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6785714285714286,
-    "checked_at": "2025-03-09T21:34:59Z",
+    "checked_at": "2026-02-20T02:30:20Z",
     "created_at": "2023-03-16T20:47:41.48223Z",
     "available": true
   },
   {
-    "ip": "45.230.240.106",
+    "ip": "45.230.240.11",
     "name": "ip-45-230-240-74.alfanet.net.ec.",
     "as_number": 264825,
     "as_org": "TELEALFACOM CIA. LTDA.",
@@ -2740,12 +2740,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6428571428571429,
-    "checked_at": "2025-03-09T21:34:59Z",
+    "checked_at": "2026-02-20T02:30:21Z",
     "created_at": "2023-03-16T21:23:13.084202Z",
     "available": true
   },
   {
-    "ip": "45.230.241.228",
+    "ip": "45.230.241.10",
     "name": "ip-45-230-241-228.alfanet.net.ec.",
     "as_number": 264825,
     "as_org": "TELEALFACOM CIA. LTDA.",
@@ -2755,7 +2755,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-09T21:35:06Z",
+    "checked_at": "2026-02-20T02:30:22Z",
     "created_at": "2023-03-16T21:49:28.450915Z",
     "available": true
   },
@@ -2770,12 +2770,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-09T21:35:09Z",
+    "checked_at": "2026-02-20T02:30:22Z",
     "created_at": "2023-03-16T22:19:30.846661Z",
     "available": true
   },
   {
-    "ip": "45.224.148.172",
+    "ip": "45.224.148.100",
     "name": "host-45-224-148-172.nedetel.net.",
     "as_number": 264668,
     "as_org": "NEDETEL S.A.",
@@ -2785,7 +2785,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-09T21:35:10Z",
+    "checked_at": "2026-02-20T02:30:23Z",
     "created_at": "2023-03-16T22:23:14.849261Z",
     "available": true
   },
@@ -2800,7 +2800,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-09T21:35:10Z",
+    "checked_at": "2026-02-20T02:30:23Z",
     "created_at": "2023-03-16T23:22:33.680802Z",
     "available": true
   },
@@ -2815,7 +2815,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7741935483870968,
-    "checked_at": "2025-03-09T21:35:10Z",
+    "checked_at": "2026-02-20T02:30:24Z",
     "created_at": "2023-03-16T23:52:51.03788Z",
     "available": false
   },
@@ -2830,7 +2830,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6774193548387096,
-    "checked_at": "2025-03-09T21:35:18Z",
+    "checked_at": "2026-02-20T02:30:24Z",
     "created_at": "2023-03-17T00:02:58.98965Z",
     "available": false
   },
@@ -2845,12 +2845,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9032258064516129,
-    "checked_at": "2025-03-09T21:35:25Z",
+    "checked_at": "2026-02-20T02:30:25Z",
     "created_at": "2023-03-17T00:23:18.201197Z",
     "available": true
   },
   {
-    "ip": "45.236.168.176",
+    "ip": "45.236.168.18",
     "name": "",
     "as_number": 271929,
     "as_org": "INTERCOMMERCE S.A.",
@@ -2860,9 +2860,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.71875,
-    "checked_at": "2025-03-09T21:35:32Z",
+    "checked_at": "2026-02-20T02:30:27Z",
     "created_at": "2023-03-17T01:52:42.444295Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "45.224.22.25",
@@ -2875,7 +2875,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.725,
-    "checked_at": "2025-03-09T21:35:40Z",
+    "checked_at": "2026-02-20T02:30:27Z",
     "created_at": "2023-03-17T03:45:21.954205Z",
     "available": true
   },
@@ -2890,7 +2890,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7142857142857143,
-    "checked_at": "2025-03-09T21:35:43Z",
+    "checked_at": "2026-02-20T02:30:27Z",
     "created_at": "2023-03-17T04:42:48.742166Z",
     "available": true
   },
@@ -2905,7 +2905,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9767441860465116,
-    "checked_at": "2025-03-09T21:35:46Z",
+    "checked_at": "2026-02-20T02:30:29Z",
     "created_at": "2023-03-17T05:10:12.663804Z",
     "available": false
   },
@@ -2920,7 +2920,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7727272727272727,
-    "checked_at": "2025-03-09T21:35:53Z",
+    "checked_at": "2026-02-20T02:30:29Z",
     "created_at": "2023-03-17T06:01:33.87581Z",
     "available": true
   },
@@ -2935,7 +2935,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:35:54Z",
+    "checked_at": "2026-02-20T02:30:29Z",
     "created_at": "2023-03-17T06:06:59.359028Z",
     "available": false
   },
@@ -2950,7 +2950,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7727272727272727,
-    "checked_at": "2025-03-09T21:36:01Z",
+    "checked_at": "2026-02-20T02:30:29Z",
     "created_at": "2023-03-17T06:47:44.937251Z",
     "available": true
   },
@@ -2965,7 +2965,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-09T21:36:08Z",
+    "checked_at": "2026-02-20T02:30:29Z",
     "created_at": "2023-03-17T06:53:08.193633Z",
     "available": true
   },
@@ -2980,7 +2980,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7727272727272727,
-    "checked_at": "2025-03-09T21:36:09Z",
+    "checked_at": "2026-02-20T02:30:30Z",
     "created_at": "2023-03-17T07:07:14.512294Z",
     "available": true
   },
@@ -2995,7 +2995,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9408284023668639,
-    "checked_at": "2025-03-09T21:36:13Z",
+    "checked_at": "2026-02-20T02:30:31Z",
     "created_at": "2023-03-17T08:28:20.907561Z",
     "available": false
   },
@@ -3010,7 +3010,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5666666666666667,
-    "checked_at": "2025-03-09T21:36:20Z",
+    "checked_at": "2026-02-20T02:30:31Z",
     "created_at": "2023-03-17T09:11:30.88951Z",
     "available": true
   },
@@ -3025,12 +3025,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9444444444444444,
-    "checked_at": "2025-03-09T21:36:24Z",
+    "checked_at": "2026-02-20T02:30:31Z",
     "created_at": "2023-03-17T12:19:56.133567Z",
     "available": true
   },
   {
-    "ip": "181.211.250.42",
+    "ip": "181.211.250.118",
     "name": "42.250.211.181.static.anycast.cnt-grms.ec.",
     "as_number": 27948,
     "as_org": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
@@ -3040,9 +3040,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.907103825136612,
-    "checked_at": "2025-03-09T21:36:27Z",
+    "checked_at": "2026-02-20T02:30:31Z",
     "created_at": "2023-03-19T13:13:30.992235Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "45.228.181.248",
@@ -3055,7 +3055,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:36:34Z",
+    "checked_at": "2026-02-20T02:30:32Z",
     "created_at": "2023-04-10T20:43:13.356524Z",
     "available": true
   },
@@ -3070,7 +3070,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-09T21:36:34Z",
+    "checked_at": "2026-02-20T02:30:32Z",
     "created_at": "2023-05-03T04:19:30.479848Z",
     "available": true
   }
