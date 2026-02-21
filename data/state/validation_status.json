@@ -12,11 +12,6 @@
     "index": 162
   },
   {
-    "country_id": "sv",
-    "checked_at": "2025-03-10T02:14:33Z",
-    "index": 59
-  },
-  {
     "country_id": "gq",
     "checked_at": "2025-03-10T03:23:27Z",
     "index": 60
@@ -1221,5 +1216,11 @@
     "checked_at": "2026-02-20T16:49:52Z",
     "ip_availability_ratio%": 40.00,
     "index": 58
+  },
+  {
+    "country_id": "sv",
+    "checked_at": "2026-02-21T02:23:14Z",
+    "ip_availability_ratio%": 31.25,
+    "index": 59
   }
 ]
