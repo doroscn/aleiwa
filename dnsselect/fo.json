@@ -1,1 +1,47 @@
-[]
+[
+    {
+      "ip": "212.55.57.242",
+      "name": "cpe-broadband-3-57-242.olivant.fo",
+      "as_number": 15389,
+      "as_org": "P/F Telefonverkid",
+      "country_id": "FO",
+      "city": "Tórshavn",
+      "version": "unavailable",
+      "error": "",
+      "dnssec": true,
+      "reliability": 0.5,
+      "checked_at": "2026-01-19T15:26:17Z",
+      "created_at": "2021-09-25T23:44:31.708155Z",
+      "available": true
+    },
+    {
+        "ip": "212.55.51.60",
+        "name": "",
+        "as_number": 15389,
+        "as_org": "P/F Telefonverkid",
+        "country_id": "FO",
+        "city": "Tórshavn",
+        "version": "unavailable",
+        "error": "",
+        "dnssec": true,
+        "reliability": 0.5,
+        "checked_at": "2026-01-19T15:26:17Z",
+        "created_at": "2021-09-25T23:44:31.708155Z",
+        "available": true
+    },
+    {
+        "ip": "80.77.128.43",
+        "name": "",
+        "as_number": 20963,
+        "as_org": "P/F 20.11.19",
+        "country_id": "FO",
+        "city": "Tórshavn",
+        "version": "unavailable",
+        "error": "",
+        "dnssec": true,
+        "reliability": 0.5,
+        "checked_at": "2026-01-19T15:26:17Z",
+        "created_at": "2021-09-25T23:44:31.708155Z",
+        "available": true
+    }
+  ]  
