@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-11T09:25:56Z",
+    "checked_at": "2026-02-25T08:43:16Z",
     "created_at": "2022-10-11T23:08:44.449871Z",
     "available": false
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-11T09:26:04Z",
+    "checked_at": "2026-02-25T08:43:16Z",
     "created_at": "2022-12-04T20:49:41.643035Z",
     "available": false
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-11T09:26:11Z",
+    "checked_at": "2026-02-25T08:43:16Z",
     "created_at": "2023-03-13T12:17:51.185569Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-11T09:26:18Z",
+    "checked_at": "2026-02-25T08:43:16Z",
     "created_at": "2023-03-13T22:57:30.774951Z",
     "available": true
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-11T09:26:19Z",
+    "checked_at": "2026-02-25T08:43:16Z",
     "created_at": "2023-03-14T06:03:27.321136Z",
     "available": false
   },
@@ -85,9 +85,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9666666666666667,
-    "checked_at": "2025-03-11T09:26:26Z",
+    "checked_at": "2026-02-25T08:43:16Z",
     "created_at": "2023-03-15T13:46:52.911644Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "217.108.96.94",
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-11T09:26:30Z",
+    "checked_at": "2026-02-25T08:43:16Z",
     "created_at": "2023-03-16T13:40:31.609162Z",
     "available": false
   },
@@ -115,8 +115,8 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2025-03-11T09:26:38Z",
+    "checked_at": "2026-02-25T08:43:16Z",
     "created_at": "2023-03-19T01:22:45.802022Z",
-    "available": true
+    "available": false
   }
 ]
