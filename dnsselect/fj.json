@@ -13,5 +13,50 @@
     "checked_at": "2026-02-24T08:41:52Z",
     "created_at": "2021-09-24T04:09:54.730751Z",
     "available": false
+  },
+  {
+    "ip": "103.1.181.94",
+    "name": "",
+    "as_number": 45355,
+    "as_org": "Digicel Fiji Limited",
+    "country_id": "FJ",
+    "city": "Nasinu",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-02-24T08:41:52Z",
+    "created_at": "2021-09-24T04:09:54.730751Z",
+    "available": true
+  },
+  {
+    "ip": "202.129.230.10",
+    "name": "",
+    "as_number": 45355,
+    "as_org": "Digicel Fiji Limited",
+    "country_id": "FJ",
+    "city": "Suva",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-02-24T08:41:52Z",
+    "created_at": "2021-09-24T04:09:54.730751Z",
+    "available": true
+  },
+  {
+    "ip": "103.101.242.234",
+    "name": "",
+    "as_number": 45355,
+    "as_org": "Digicel Fiji Limited",
+    "country_id": "FJ",
+    "city": "Suva",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-02-24T08:41:52Z",
+    "created_at": "2021-09-24T04:09:54.730751Z",
+    "available": true
   }
 ]
