@@ -1,0 +1,343 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>BGP Routing and Internet Infrastructure: How the Internet Finds Its Way | Aleiwa Network Tools</title>
+  <meta charset="utf-8" />
+  <meta name="description" content="Understand how BGP routing works, how ASNs exchange routes, the role of IXPs, and how routing policies shape global internet infrastructure." />
+  <meta name="keywords" content="BGP, routing, internet infrastructure, ASN, peering, IXPs, internet routing" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <meta name="google-adsense-account" content="ca-pub-6600663344964826" />
+  <meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
+  <meta property="og:title" content="BGP Routing and Internet Infrastructure - Aleiwa" />
+  <meta property="og:description" content="Learn how BGP routing works between ASNs, the role of IXPs, and how routing policies shape global internet infrastructure." />
+  <meta property="og:image" content="https://www.aleiwa.com/images/favicon-96x96.png" />
+  <meta property="og:url" content="https://www.aleiwa.com/blog/bgp-routing-internet-infrastructure.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="BGP Routing and Internet Infrastructure - Aleiwa" />
+  <meta name="twitter:description" content="A practical guide to BGP routing, ASNs, IXPs, and internet infrastructure." />
+  <link rel="canonical" href="https://www.aleiwa.com/blog/bgp-routing-internet-infrastructure.html" />
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="icon" href="/images/favicon-96x96.png" type="image/png" />
+  <link rel="icon" href="/images/favicon.svg" type="image/svg+xml" />
+  <noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+</head>
+
+<body class="is-preload">
+<div id="wrapper">
+
+<header id="header">
+  <div class="inner">
+    <a href="/index.html" class="logo">
+      <span class="symbol"><img src="/images/logo2.svg" alt="" /></span>
+      <span class="title">Aleiwa</span>
+    </a>
+    <nav>
+      <ul><li><a href="#menu">Menu</a></li></ul>
+    </nav>
+  </div>
+</header>
+
+<nav id="menu">
+  <h2>Menu</h2>
+  <ul>
+    <li><a href="/index.html">Home</a></li>
+    <li><a href="/topisps.html">Top ISPs info</a></li>
+    <li><a href="/dns.html">Best Public DNS Servers</a></li>
+    <li><a href="/blog/index.html">Blog</a></li>
+    <li><a href="/privacy.html">Privacy</a></li>
+    <li><a href="/about.html">About</a></li>
+  </ul>
+</nav>
+
+<div id="main">
+  <div class="inner">
+    <article>
+      <header>
+        <h1>BGP Routing and Internet Infrastructure: How the Internet Finds Its Way</h1>
+        <p class="meta">
+          Published on
+          <time datetime="2025-01-25">January 25, 2025</time>
+        </p>
+      </header>
+
+      <!-- 头图（占位） -->
+      <span class="image main">
+        <img src="/images/blog/bgp-routing-topology.webp"
+             alt="High-level BGP routing and internet topology diagram" />
+      </span>
+
+      <section>
+        <h2>Why BGP Matters for Internet Infrastructure</h2>
+        <p>
+          The global internet is not a single unified network, but a mesh of thousands of
+          autonomous networks called Autonomous Systems (ASes), each identified by an
+          Autonomous System Number (ASN). Border Gateway Protocol (BGP) is the glue that
+          connects these networks together and decides how traffic flows across countries,
+          continents, and providers.
+        </p>
+        <p>
+          If ASNs are the <em>actors</em> of the internet, BGP is the <em>language</em> they use to
+          advertise which IP prefixes they can reach and which paths should be used. Understanding
+          BGP is essential for network engineers, CDN operators, and anyone who cares about
+          latency, resilience, and routing behavior.
+        </p>
+      </section>
+
+      <section>
+        <h2>BGP Basics: How the Protocol Works</h2>
+        <p>
+          BGP is a path-vector routing protocol that runs between routers at the edge of
+          Autonomous Systems. Instead of simply exchanging shortest paths, BGP carries
+          rich path information and allows operators to apply complex policies.
+        </p>
+
+        <figure>
+          <img src="/images/blog/bgp-basic-example.webp"
+               alt="Basic BGP example with three ASNs exchanging prefixes" />
+          <figcaption>
+            Figure 1: Three ASes (AS64501, AS64502, AS64503) exchange BGP routes and
+            advertise which IP prefixes they can reach.
+          </figcaption>
+        </figure>
+
+        <h3>Core Concepts</h3>
+        <ul>
+          <li><strong>Prefix</strong>: A block of IP addresses (for example, 203.0.113.0/24).</li>
+          <li><strong>AS Path</strong>: The list of ASNs a route has traversed (e.g. <code>64501 64502 64503</code>).</li>
+          <li><strong>Neighbor (Peer)</strong>: Two BGP-speaking routers that maintain a TCP session (usually on port 179).</li>
+          <li><strong>Announcement</strong>: A BGP UPDATE message advertising reachability to a prefix.</li>
+          <li><strong>Withdrawal</strong>: A BGP UPDATE that removes a previously announced prefix.</li>
+        </ul>
+
+        <p>
+          When a router receives multiple routes to the same prefix, it runs the BGP decision
+          process to select a single <em>best</em> path. The decision is usually based on attributes
+          like LOCAL_PREF, AS_PATH length, MED, origin, and tie-breakers such as router ID.
+        </p>
+      </section>
+
+      <section>
+        <h2>How ASNs Exchange Routes</h2>
+        <p>
+          ASNs are connected through BGP sessions that follow different business relationships.
+          These relationships strongly influence routing decisions and the shape of the global
+          internet.
+        </p>
+
+        <h3>Common Peering Relationships</h3>
+        <ul>
+          <li>
+            <strong>Customer–Provider</strong>:
+            An enterprise or smaller ISP (customer) pays an upstream ISP (provider) for
+            connectivity. The provider announces the customer's prefixes to the rest of
+            the internet and forwards traffic on their behalf.
+          </li>
+          <li>
+            <strong>Settlement-Free Peering</strong>:
+            Two networks of roughly similar size exchange traffic without payment, as long
+            as the traffic balance is reasonable. This reduces transit costs and often
+            improves performance.
+          </li>
+          <li>
+            <strong>Paid Peering</strong>:
+            Similar to peering, but with a financial agreement attached, often used when
+            one party sends significantly more traffic than the other.
+          </li>
+        </ul>
+
+        <p>
+          BGP policies are usually aligned with these relationships. For example, networks
+          prefer customer routes over peers or providers (because customers pay), and
+          prefer peers over providers (to reduce transit costs).
+        </p>
+      </section>
+
+      <section>
+        <h2>The Role of Internet Exchange Points (IXPs)</h2>
+        <p>
+          Internet Exchange Points (IXPs) are physical locations where multiple networks
+          interconnect and exchange traffic using BGP. Instead of building hundreds of
+          private connections, networks can connect once to an IXP fabric and peer with
+          many participants.
+        </p>
+
+        <figure>
+          <img src="/images/blog/ixp-topology-diagram.webp"
+               alt="IXP topology diagram showing multiple ASNs connected to a shared switching fabric" />
+          <figcaption>
+            Figure 2: At an IXP, multiple ASNs connect their border routers to a shared
+            switching fabric and establish BGP sessions with each other.
+          </figcaption>
+        </figure>
+
+        <p>
+          IXPs improve <strong>performance</strong> by shortening paths between networks, and they
+          reduce <strong>costs</strong> by replacing expensive transit with local peering. For
+          latency-sensitive applications such as gaming, video streaming, and real-time
+          communications, good IXP connectivity can make a noticeable difference.
+        </p>
+
+        <p>
+          From a data perspective, IXPs also reveal how regional internet infrastructure
+          is structured: which ASNs dominate a region, which ones peer locally, and which
+          still rely heavily on distant upstream providers.
+        </p>
+      </section>
+
+      <section>
+        <h2>Routing Policies and Optimization Strategies</h2>
+        <p>
+          While BGP can technically choose the shortest AS path, operators rarely rely on
+          that alone. Instead, they tune routing policies to achieve business and technical
+          goals such as cost control, performance, and resilience.
+        </p>
+
+        <h3>Typical Routing Policy Tools</h3>
+        <ul>
+          <li>
+            <strong>Local Preference (LOCAL_PREF)</strong>:
+            Higher values are preferred. Commonly used to prefer customer routes over
+            peer or provider routes, or to steer outbound traffic to a preferred
+            upstream.
+          </li>
+          <li>
+            <strong>AS Path Prepending</strong>:
+            Artificially lengthening the AS_PATH when advertising to certain peers,
+            making a route less attractive and shifting traffic to alternative paths.
+          </li>
+          <li>
+            <strong>MED (Multi-Exit Discriminator)</strong>:
+            A hint to external neighbors indicating the preferred entry point into an AS
+            when multiple links exist.
+          </li>
+          <li>
+            <strong>Communities</strong>:
+            Metadata tags attached to routes. Large networks and IXPs publish community
+            policies that allow fine-grained control, such as “do not advertise to peers”
+            or “prepend when advertising to region X”.
+          </li>
+        </ul>
+
+        <p>
+          CDN operators and large content networks often maintain sophisticated BGP
+          policies to:
+        </p>
+        <ul>
+          <li>Keep traffic on low-latency paths for end users</li>
+          <li>Balance load across multiple transit and peering links</li>
+          <li>Fail over quickly when a path or site becomes unavailable</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Visualizing BGP and Internet Infrastructure with Aleiwa</h2>
+        <p>
+          Platforms like Aleiwa use BGP announcements, IP-to-ASN mappings, and measurement
+          data to build a picture of how the internet is wired together at the ASN level.
+          By ranking ASNs by their observed IP address footprint and routing presence,
+          you can quickly see:
+        </p>
+        <ul>
+          <li>Which ASNs dominate a given country or region</li>
+          <li>How concentrated or diverse the local ISP market is</li>
+          <li>Which networks are likely to be critical for reachability and resilience</li>
+        </ul>
+
+        <p>
+          Combined with information about IXPs and peering, this data helps engineers and
+          planners design better network paths, choose peering partners, and place CDN
+          caches where they matter most.
+        </p>
+      </section>
+
+      <section>
+        <h2>Practical Use Cases</h2>
+        <p>
+          Here are some concrete scenarios where understanding BGP and ASN-level
+          infrastructure is invaluable:
+        </p>
+        <ul>
+          <li>
+            <strong>CDN Deployment Planning</strong>:
+            Use ASN rankings and IXP presence to decide where to deploy edge nodes and
+            which networks to peer with to minimize user latency.
+          </li>
+          <li>
+            <strong>Multi-Homing and Transit Optimization</strong>:
+            Enterprises with multiple upstream ISPs can use BGP policies to balance
+            traffic, avoid congested paths, and negotiate better transit contracts.
+          </li>
+          <li>
+            <strong>Incident Analysis</strong>:
+            During outages or route leaks, ASN and BGP data helps identify which networks
+            are affected and how traffic is being rerouted.
+          </li>
+          <li>
+            <strong>Market and Competition Analysis</strong>:
+            Regulators and researchers can study ASN distribution to understand how
+            competitive or concentrated a national internet market is.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Conclusion</h2>
+        <p>
+          BGP is the control plane of the global internet, quietly deciding how packets
+          move between thousands of ASNs every second. By understanding BGP basics,
+          peering relationships, IXPs, and routing policies, you gain a much clearer
+          picture of how internet infrastructure really works.
+        </p>
+        <p>
+          For engineers, CDN operators, and researchers, ASN-level data and BGP insights
+          are powerful tools for optimizing performance, improving resilience, and
+          designing better networks. Explore Aleiwa's <a href="/asn/">country-level ASN
+          rankings</a> to see how these concepts look in practice for different regions
+          around the world.
+        </p>
+      </section>
+
+      <footer>
+        <p><a href="/blog/index.html">← Back to Blog</a></p>
+      </footer>
+    </article>
+  </div>
+</div>
+
+<footer id="footer">
+  <div class="inner">
+    <section>
+      <h2>Follow</h2>
+      <ul class="icons">
+        <li><a href="https://x.com/AleiwaTool" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+        <li><a href="https://www.facebook.com/jash.zheng.5" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+        <li><a href="https://github.com/aleiwa-network" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+        <li><a href="mailto:jash_zheng@gmail.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+      </ul>
+    </section>
+    <ul class="copyright">
+      <li>&copy; 2025 Aleiwa Network Tools</li><li>Design: <a href="/about.html">Aleiwa</a></li>
+    </ul>
+  </div>
+</footer>
+
+</div>
+
+<!-- Scripts -->
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/browser.min.js"></script>
+<script src="/assets/js/breakpoints.min.js"></script>
+<script src="/assets/js/util.js"></script>
+<script src="/assets/js/main.js"></script>
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZGPJPS5L54"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-ZGPJPS5L54');
+</script>
+
+</body>
+</html>
