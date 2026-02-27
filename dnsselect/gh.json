@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6648351648351648,
-    "checked_at": "2025-03-12T06:33:49Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2021-09-23T13:33:12.660328Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T06:33:56Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2022-10-22T03:08:10.13831Z",
     "available": false
   },
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T06:34:03Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2022-10-23T19:10:08.36252Z",
     "available": true
   },
   {
-    "ip": "102.214.88.9",
+    "ip": "102.214.88.228",
     "name": "",
     "as_number": 329169,
     "as_org": "MB1-AS",
@@ -55,12 +55,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8130217028380634,
-    "checked_at": "2025-03-12T06:34:11Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2022-12-04T16:46:42.668384Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "102.176.81.182",
+    "ip": "102.176.81.146",
     "name": "",
     "as_number": 29614,
     "as_org": "VODAFONE GHANA AS INTERNATIONAL TRANSIT",
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.967741935483871,
-    "checked_at": "2025-03-12T06:34:15Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2022-12-19T01:19:29.511952Z",
     "available": true
   },
@@ -85,12 +85,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T06:34:16Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-02-28T19:35:40.831815Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "196.61.39.34",
+    "ip": "196.61.39.6",
     "name": "",
     "as_number": 328983,
     "as_org": "Groupe-Comsys-Limited-AS",
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.95,
-    "checked_at": "2025-03-12T06:34:23Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-03-12T19:04:38.208911Z",
     "available": true
   },
@@ -115,9 +115,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T06:34:30Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-03-13T02:08:02.583195Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "197.251.239.245",
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T06:34:38Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-03-13T07:45:15.353073Z",
     "available": false
   },
@@ -145,12 +145,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T06:34:45Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-03-13T18:44:52.819624Z",
     "available": true
   },
   {
-    "ip": "197.251.232.184",
+    "ip": "197.251.232.150",
     "name": "",
     "as_number": 29614,
     "as_org": "VODAFONE GHANA AS INTERNATIONAL TRANSIT",
@@ -160,9 +160,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-12T06:34:52Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-03-14T09:15:45.95907Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "154.65.20.101",
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T06:35:00Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-03-14T10:41:56.646289Z",
     "available": true
   },
@@ -190,12 +190,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T06:35:04Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-03-14T11:25:35.266187Z",
     "available": true
   },
   {
-    "ip": "197.251.197.130",
+    "ip": "197.251.197.173",
     "name": "",
     "as_number": 29614,
     "as_org": "VODAFONE GHANA AS INTERNATIONAL TRANSIT",
@@ -205,12 +205,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T06:35:05Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-03-14T20:58:04.372128Z",
     "available": true
   },
   {
-    "ip": "102.220.223.238",
+    "ip": "102.220.223.186",
     "name": "",
     "as_number": 328842,
     "as_org": "Prodata-AS",
@@ -220,12 +220,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T06:35:13Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-03-15T04:35:34.001548Z",
     "available": true
   },
   {
-    "ip": "102.218.136.1",
+    "ip": "102.218.136.197",
     "name": "",
     "as_number": 328923,
     "as_org": "KTSU-AS",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T06:35:17Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-03-15T09:04:14.983013Z",
     "available": true
   },
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-12T06:35:22Z",
+    "checked_at": "2026-02-27T08:36:36Z",
     "created_at": "2023-03-16T14:14:16.032293Z",
     "available": true
   }
