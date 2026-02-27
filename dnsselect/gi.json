@@ -1,6 +1,6 @@
 [
   {
-    "ip": "185.83.148.10",
+    "ip": "185.83.148.6",
     "name": "185.83.148.5.static.user.gibfibre.com.",
     "as_number": 202087,
     "as_org": "Gibfibre Ltd",
@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T09:25:54Z",
+    "checked_at": "2026-02-27T16:52:18Z",
     "created_at": "2022-11-23T00:15:03.223207Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6785714285714286,
-    "checked_at": "2025-03-12T09:26:01Z",
+    "checked_at": "2026-02-27T16:52:18Z",
     "created_at": "2023-03-16T20:14:35.302511Z",
     "available": true
   },
@@ -40,8 +40,8 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.71875,
-    "checked_at": "2025-03-12T09:26:01Z",
+    "checked_at": "2026-02-27T16:52:18Z",
     "created_at": "2023-03-17T02:01:02.598403Z",
-    "available": true
+    "available": false
   }
 ]
