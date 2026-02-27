@@ -1,0 +1,195 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis</title>
+		<meta name="keywords" content="PCCW congestion, US to Singapore packet loss, Asia backbone congestion February 26 2025">
+		<meta name="description" content="PCCW Asia backbone congestion caused 60% packet loss between US and Singapore on February 26, 2025 from 19:56 to 21:43 UTC.">
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+		<meta name="google-adsense-account" content="ca-pub-6600663344964826">
+		<meta name="baidu-site-verification" content="codeva-xLkc5jjMWO" />
+		<link rel="icon" href="/images/favicon-96x96.png" type="image/png">
+		<link rel="icon" href="/images/favicon.svg" type="image/svg+xml">
+	</head>
+	<body class="is-preload">
+		<div id="wrapper">
+
+			<header id="header">
+				<div class="inner">
+					<a href="/index.html" class="logo">
+						<span class="symbol"><img src="/images/logo2.svg" alt="" /></span>
+						<span class="title">Aleiwa</span>
+					</a>
+					<nav>
+						<ul>
+							<li><a href="#menu">Menu</a></li>
+						</ul>
+					</nav>
+				</div>
+			</header>
+
+			<nav id="menu">
+				<h2>Menu</h2>
+				<ul>
+					<li><a href="/index.html">Home</a></li>
+					<li><a href="/topisps.html">Top ISPs info</a></li>
+					<li><a href="/dns.html">Best Public DNS Servers</a></li>
+					<li><a href="/blog/index.html">Blog</a></li>
+					<li><a href="/privacy.html">Privacy</a></li>
+					<li><a href="/about.html">About</a></li>
+				</ul>
+			</nav>
+
+			<div id="main">
+				<div class="inner">
+
+					<header>
+						<h1>PCCW Asia Segment Congestion Impacts US–Singapore Traffic</h1>
+						<p><time datetime="2025-02-26">February 26, 2025</time> — Backbone Network Incident Report</p>
+					</header>
+
+					<section>
+						<p>
+							On <strong>February 26, 2025</strong>, traffic from the <strong>United States to Singapore</strong>
+							experienced severe packet loss due to congestion within the 
+							<strong>PCCW Global backbone (Asia segment)</strong>.
+						</p>
+
+						<p>
+							The incident occurred between <strong>19:56 UTC and 21:43 UTC</strong>, 
+							during which packet loss peaked at approximately 
+							<strong>60%</strong>.
+						</p>
+
+						<span class="image fit">
+							<img src="/images/blog/20250226-pccw.png" alt="PCCW Asia congestion packet loss graph">
+							PCCW Asia Backbone – Packet Loss Observation
+						</span>
+
+						<p>
+							Monitoring systems detected abnormal latency spikes followed by sustained high packet loss 
+							on transit paths routed through PCCW’s Asian backbone infrastructure.
+						</p>
+					</section>
+
+					<section>
+						<h2>Impact Scope</h2>
+						<ul>
+							<li>US → Singapore traffic via PCCW transit severely degraded</li>
+							<li>Packet loss peaked at ~60%</li>
+							<li>Increased RTT and jitter observed</li>
+							<li>Cloud services and real-time applications impacted</li>
+							<li>Partial rerouting attempts seen during incident window</li>
+						</ul>
+
+						<p>
+							Services potentially affected included cloud workloads, financial trading links,
+							CDN traffic, gaming services, and VoIP connections relying on PCCW transit
+							for Asia-bound routing.
+						</p>
+					</section>
+
+					<section>
+						<h2>Technical Analysis</h2>
+
+						<h3>1. Symptoms Observed</h3>
+						<ul>
+							<li>Sudden increase in packet discard rate at Asia backbone hops</li>
+							<li>Latency variation beyond normal baselines</li>
+							<li>No full BGP withdrawal — routes remained advertised</li>
+							<li>Traffic continued flowing but with heavy degradation</li>
+						</ul>
+
+						<h3>2. Likely Cause</h3>
+						<p>
+							The pattern indicates <strong>backbone congestion rather than physical cable cut</strong>.
+							Routes were not withdrawn, suggesting interfaces remained operational,
+							but were likely saturated due to traffic surge or capacity imbalance.
+						</p>
+
+						<p>
+							Common triggers for this type of behavior include:
+						</p>
+						<ul>
+							<li>Unexpected traffic spike</li>
+							<li>Capacity planning misalignment</li>
+							<li>Maintenance or partial backbone reconfiguration</li>
+							<li>Failure on parallel path forcing traffic concentration</li>
+						</ul>
+					</section>
+
+					<section>
+						<h2>Timeline (UTC)</h2>
+						<ul>
+							<li><strong>19:56</strong> — Initial packet loss detected</li>
+							<li><strong>20:05</strong> — Loss exceeds 30%</li>
+							<li><strong>20:22</strong> — Peak loss ~60%</li>
+							<li><strong>21:10</strong> — Gradual recovery begins</li>
+							<li><strong>21:43</strong> — Metrics return to normal baseline</li>
+						</ul>
+					</section>
+
+					<section>
+						<h2>Conclusion</h2>
+						<p>
+							The February 26 congestion event highlights the importance of diversified
+							transit strategy for intercontinental traffic. While no submarine cable
+							failure was detected, backbone congestion within PCCW’s Asia segment
+							caused substantial service degradation.
+						</p>
+
+						<p>
+							Operators are advised to:
+						</p>
+						<ul>
+							<li>Implement multi-homed upstream design</li>
+							<li>Monitor packet loss thresholds proactively</li>
+							<li>Automate failover routing when loss exceeds SLA limits</li>
+						</ul>
+					</section>
+
+					<footer>
+						<p><em>Source: Internal monitoring data, route analysis, packet loss telemetry</em></p>
+					</footer>
+
+				</div>
+			</div>
+
+			<footer id="footer">
+				<div class="inner">
+					<section>
+						<h2>Follow</h2>
+						<ul class="icons">
+							<li><a href="https://x.com/AleiwaTool" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/jash.zheng.5" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="https://github.com/aleiwa-network" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="jash_zheng@gmail.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+						</ul>
+					</section>
+					<ul class="copyright">
+						<li>&copy; 2025 Aleiwa Network Tools. All rights reserved</li>
+						<li>Design: <a href="/about.html">Aleiwa</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		</div>
+
+		<script src="/assets/js/jquery.min.js"></script>
+		<script src="/assets/js/browser.min.js"></script>
+		<script src="/assets/js/breakpoints.min.js"></script>
+		<script src="/assets/js/util.js"></script>
+		<script src="/assets/js/main.js"></script>
+
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZGPJPS5L54"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-ZGPJPS5L54');
+		</script>
+
+	</body>
+</html>
