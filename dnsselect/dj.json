@@ -13,5 +13,35 @@
     "checked_at": "2026-02-12T17:04:58Z",
     "created_at": "2022-12-09T12:48:53.604338Z",
     "available": false
+  },
+  {
+    "ip": "196.201.196.201",
+    "name": "dns.djibtelecom.dj",
+    "as_number": 30990,
+    "as_org": "DJIBOUTI TELECOM S.A.",
+    "country_id": "DJ",
+    "city": "Djibouti",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-02-27T08:45:19Z",
+    "created_at": "2026-02-27T08:45:19.837389Z",
+    "available": true
+  },
+  {
+    "ip": "197.241.17.130",
+    "name": "bow1.intnet.dj",
+    "as_number": 30990,
+    "as_org": "DJIBOUTI TELECOM S.A.",
+    "country_id": "DJ",
+    "city": "Djibouti",
+    "version": "Not Disclosed",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-02-27T08:46:00Z",
+    "created_at": "2026-02-27T08:46:00.294069Z",
+    "available": true
   }
 ]
