@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9886363636363636,
-    "checked_at": "2025-03-12T12:49:16Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2020-11-22T11:37:54.904923Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9,
-    "checked_at": "2025-03-12T12:49:20Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-09-25T23:04:36.139706Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:49:20Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-09-29T21:52:09.70532Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:49:21Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-01T23:01:30.032961Z",
     "available": false
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:49:28Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-01T23:03:13.302842Z",
     "available": false
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:49:35Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-01T23:04:01.973643Z",
     "available": true
   },
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:49:43Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-01T23:24:36.366243Z",
     "available": false
   },
@@ -115,12 +115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:49:50Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-01T23:30:46.017059Z",
     "available": false
   },
   {
-    "ip": "79.130.238.94",
+    "ip": "79.130.238.130",
     "name": "athedsl-4423278.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -130,9 +130,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:49:57Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-01T23:52:32.061486Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "193.110.86.21",
@@ -145,12 +145,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:50:05Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-02T15:53:24.411242Z",
     "available": false
   },
   {
-    "ip": "83.212.108.17",
+    "ip": "83.212.108.20",
     "name": "snf-882282.vm.okeanos.grnet.gr.",
     "as_number": 5408,
     "as_org": "National Infrastructures for Research and Technology S.A.",
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:50:09Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-02T16:24:38.856877Z",
     "available": true
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:50:17Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-02T16:32:08.1995Z",
     "available": false
   },
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:50:24Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-02T16:34:41.337282Z",
     "available": true
   },
@@ -205,9 +205,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:50:29Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-02T17:33:11.326883Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "194.177.199.1",
@@ -220,7 +220,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:50:36Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-03T12:11:44.378681Z",
     "available": true
   },
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:50:36Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-03T13:13:59.834414Z",
     "available": true
   },
@@ -250,12 +250,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:50:44Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2021-10-03T13:14:01.320945Z",
     "available": true
   },
   {
-    "ip": "2.84.87.160",
+    "ip": "2.84.87.128",
     "name": "ppp-2-84-87-160.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -265,12 +265,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:50:51Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2022-08-28T10:50:26.300603Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "2.84.184.133",
+    "ip": "2.84.184.10",
     "name": "ppp-2-84-184-133.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -280,9 +280,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:50:58Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2022-08-28T10:53:34.535258Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "2.84.217.169",
@@ -295,12 +295,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:51:06Z",
+    "checked_at": "2026-02-28T02:10:30Z",
     "created_at": "2022-08-28T10:54:33.806448Z",
     "available": false
   },
   {
-    "ip": "2.86.140.219",
+    "ip": "2.86.140.251",
     "name": "ppp-2-86-140-219.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -310,9 +310,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:51:13Z",
+    "checked_at": "2026-02-28T02:10:31Z",
     "created_at": "2022-08-28T11:08:28.904793Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "2.86.218.136",
@@ -325,12 +325,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:51:20Z",
+    "checked_at": "2026-02-28T02:10:31Z",
     "created_at": "2022-08-28T11:11:02.077908Z",
     "available": false
   },
   {
-    "ip": "2.86.225.28",
+    "ip": "2.86.225.129",
     "name": "ppp-2-86-225-248.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -340,7 +340,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:51:28Z",
+    "checked_at": "2026-02-28T02:10:31Z",
     "created_at": "2022-08-28T11:11:13.298463Z",
     "available": true
   },
@@ -355,7 +355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:51:35Z",
+    "checked_at": "2026-02-28T02:10:31Z",
     "created_at": "2022-08-28T11:11:27.418851Z",
     "available": false
   },
@@ -370,7 +370,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:51:42Z",
+    "checked_at": "2026-02-28T02:10:31Z",
     "created_at": "2022-08-28T11:11:59.356913Z",
     "available": false
   },
@@ -385,12 +385,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:51:50Z",
+    "checked_at": "2026-02-28T02:10:31Z",
     "created_at": "2022-08-28T11:18:08.356813Z",
     "available": false
   },
   {
-    "ip": "2.87.236.26",
+    "ip": "2.87.236.122",
     "name": "ppp-2-87-236-1.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:51:57Z",
+    "checked_at": "2026-02-28T02:10:33Z",
     "created_at": "2022-08-28T11:19:43.344276Z",
     "available": true
   },
@@ -415,7 +415,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:52:05Z",
+    "checked_at": "2026-02-28T02:10:34Z",
     "created_at": "2022-09-03T02:46:11.025936Z",
     "available": false
   },
@@ -430,7 +430,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:52:12Z",
+    "checked_at": "2026-02-28T02:10:46Z",
     "created_at": "2022-09-03T02:46:25.877054Z",
     "available": false
   },
@@ -445,7 +445,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:52:19Z",
+    "checked_at": "2026-02-28T02:10:51Z",
     "created_at": "2022-09-03T02:47:44.58107Z",
     "available": false
   },
@@ -460,9 +460,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:52:27Z",
+    "checked_at": "2026-02-28T02:10:51Z",
     "created_at": "2022-09-03T02:49:02.309588Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "2.85.190.113",
@@ -475,12 +475,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:52:34Z",
+    "checked_at": "2026-02-28T02:10:51Z",
     "created_at": "2022-09-03T02:49:19.229652Z",
     "available": false
   },
   {
-    "ip": "2.86.22.1",
+    "ip": "2.86.22.237",
     "name": "ppp-2-86-22-1.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -490,9 +490,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:52:41Z",
+    "checked_at": "2026-02-28T02:10:51Z",
     "created_at": "2022-09-03T02:52:23.680671Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "2.86.33.153",
@@ -505,7 +505,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:52:49Z",
+    "checked_at": "2026-02-28T02:10:51Z",
     "created_at": "2022-09-03T02:52:40.28011Z",
     "available": false
   },
@@ -520,12 +520,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:52:56Z",
+    "checked_at": "2026-02-28T02:10:51Z",
     "created_at": "2022-09-03T02:53:20.569626Z",
     "available": false
   },
   {
-    "ip": "2.86.202.144",
+    "ip": "2.86.202.171",
     "name": "ppp-2-86-202-144.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -535,9 +535,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:53:03Z",
+    "checked_at": "2026-02-28T02:10:51Z",
     "created_at": "2022-09-03T02:58:18.332094Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "2.87.60.68",
@@ -550,7 +550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:53:11Z",
+    "checked_at": "2026-02-28T02:10:51Z",
     "created_at": "2022-09-03T03:02:12.911494Z",
     "available": true
   },
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:53:18Z",
+    "checked_at": "2026-02-28T02:10:51Z",
     "created_at": "2022-09-03T03:04:40.71849Z",
     "available": false
   },
@@ -580,7 +580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:53:25Z",
+    "checked_at": "2026-02-28T02:10:51Z",
     "created_at": "2022-09-03T03:06:24.189443Z",
     "available": false
   },
@@ -595,12 +595,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:53:33Z",
+    "checked_at": "2026-02-28T02:10:52Z",
     "created_at": "2022-09-03T03:07:33.562884Z",
     "available": false
   },
   {
-    "ip": "94.70.255.215",
+    "ip": "94.70.255.82",
     "name": "o8u1nj.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -610,9 +610,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8695652173913043,
-    "checked_at": "2025-03-12T12:53:40Z",
+    "checked_at": "2026-02-28T02:10:52Z",
     "created_at": "2022-09-30T07:24:34.016343Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "93.93.12.14",
@@ -625,7 +625,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7935779816513762,
-    "checked_at": "2025-03-12T12:53:47Z",
+    "checked_at": "2026-02-28T02:10:52Z",
     "created_at": "2022-09-30T08:43:22.512062Z",
     "available": true
   },
@@ -640,7 +640,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:53:55Z",
+    "checked_at": "2026-02-28T02:10:52Z",
     "created_at": "2022-10-01T13:34:35.132541Z",
     "available": true
   },
@@ -655,7 +655,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7777777777777778,
-    "checked_at": "2025-03-12T12:54:02Z",
+    "checked_at": "2026-02-28T02:10:52Z",
     "created_at": "2022-10-03T19:02:59.877916Z",
     "available": true
   },
@@ -670,12 +670,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9878345498783455,
-    "checked_at": "2025-03-12T12:54:10Z",
+    "checked_at": "2026-02-28T02:10:52Z",
     "created_at": "2022-10-12T03:42:27.209466Z",
     "available": false
   },
   {
-    "ip": "185.234.52.135",
+    "ip": "185.234.52.122",
     "name": "",
     "as_number": 202448,
     "as_org": "MVPS LTD",
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:54:17Z",
+    "checked_at": "2026-02-28T02:10:52Z",
     "created_at": "2022-10-13T04:59:21.839861Z",
     "available": true
   },
@@ -700,12 +700,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:54:24Z",
+    "checked_at": "2026-02-28T02:10:52Z",
     "created_at": "2022-10-14T22:23:14.588425Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "2.87.233.92",
+    "ip": "2.87.233.42",
     "name": "ppp-2-87-233-21.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -715,7 +715,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:54:32Z",
+    "checked_at": "2026-02-28T02:10:53Z",
     "created_at": "2022-10-15T11:04:24.340934Z",
     "available": true
   },
@@ -730,7 +730,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:54:39Z",
+    "checked_at": "2026-02-28T02:10:53Z",
     "created_at": "2022-10-19T10:05:42.323102Z",
     "available": false
   },
@@ -745,7 +745,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:54:46Z",
+    "checked_at": "2026-02-28T02:10:53Z",
     "created_at": "2022-10-20T19:02:36.822274Z",
     "available": true
   },
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:54:54Z",
+    "checked_at": "2026-02-28T02:10:55Z",
     "created_at": "2022-10-20T20:00:01.917748Z",
     "available": true
   },
@@ -775,7 +775,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:55:01Z",
+    "checked_at": "2026-02-28T02:10:55Z",
     "created_at": "2022-10-23T18:07:00.575353Z",
     "available": true
   },
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7,
-    "checked_at": "2025-03-12T12:55:06Z",
+    "checked_at": "2026-02-28T02:10:55Z",
     "created_at": "2022-10-26T22:28:58.736966Z",
     "available": true
   },
@@ -805,9 +805,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:55:13Z",
+    "checked_at": "2026-02-28T02:10:55Z",
     "created_at": "2022-10-27T00:58:34.864737Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "147.52.110.2",
@@ -820,12 +820,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:55:13Z",
+    "checked_at": "2026-02-28T02:10:55Z",
     "created_at": "2022-11-14T11:42:10.244574Z",
     "available": true
   },
   {
-    "ip": "79.129.121.90",
+    "ip": "79.129.121.184",
     "name": "betonk.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -835,7 +835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:55:21Z",
+    "checked_at": "2026-02-28T02:10:55Z",
     "created_at": "2022-11-15T01:03:09.012968Z",
     "available": true
   },
@@ -850,7 +850,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8666666666666667,
-    "checked_at": "2025-03-12T12:55:21Z",
+    "checked_at": "2026-02-28T02:10:56Z",
     "created_at": "2022-11-16T08:40:58.985114Z",
     "available": false
   },
@@ -865,7 +865,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9636363636363636,
-    "checked_at": "2025-03-12T12:55:29Z",
+    "checked_at": "2026-02-28T02:10:56Z",
     "created_at": "2022-11-30T17:55:22.854152Z",
     "available": false
   },
@@ -880,12 +880,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:55:36Z",
+    "checked_at": "2026-02-28T02:11:03Z",
     "created_at": "2022-12-18T21:45:34.675939Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "85.72.141.131",
+    "ip": "85.72.141.17",
     "name": "host3.ikaria.ondsl.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -895,12 +895,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4728682170542636,
-    "checked_at": "2025-03-12T12:55:43Z",
+    "checked_at": "2026-02-28T02:11:09Z",
     "created_at": "2022-12-19T16:17:37.391809Z",
     "available": true
   },
   {
-    "ip": "2.84.38.146",
+    "ip": "2.84.38.229",
     "name": "ov0pvx.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -910,7 +910,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9393939393939394,
-    "checked_at": "2025-03-12T12:55:44Z",
+    "checked_at": "2026-02-28T02:11:09Z",
     "created_at": "2022-12-19T16:56:40.479392Z",
     "available": true
   },
@@ -925,7 +925,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.975,
-    "checked_at": "2025-03-12T12:55:47Z",
+    "checked_at": "2026-02-28T02:11:09Z",
     "created_at": "2022-12-19T21:48:55.433718Z",
     "available": true
   },
@@ -940,7 +940,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6521739130434783,
-    "checked_at": "2025-03-12T12:55:54Z",
+    "checked_at": "2026-02-28T02:11:10Z",
     "created_at": "2022-12-23T22:59:20.611112Z",
     "available": false
   },
@@ -955,7 +955,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9672131147540983,
-    "checked_at": "2025-03-12T12:56:02Z",
+    "checked_at": "2026-02-28T02:11:10Z",
     "created_at": "2022-12-26T13:57:33.929853Z",
     "available": false
   },
@@ -970,7 +970,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:56:09Z",
+    "checked_at": "2026-02-28T02:11:10Z",
     "created_at": "2022-12-28T12:05:58.569053Z",
     "available": true
   },
@@ -985,12 +985,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6765676567656765,
-    "checked_at": "2025-03-12T12:56:09Z",
+    "checked_at": "2026-02-28T02:11:10Z",
     "created_at": "2023-02-19T08:01:49.566429Z",
     "available": false
   },
   {
-    "ip": "94.66.134.115",
+    "ip": "94.66.134.201",
     "name": "ol2aen.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1000,7 +1000,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9333333333333333,
-    "checked_at": "2025-03-12T12:56:17Z",
+    "checked_at": "2026-02-28T02:11:10Z",
     "created_at": "2023-02-25T03:53:59.350889Z",
     "available": true
   },
@@ -1015,7 +1015,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6226415094339622,
-    "checked_at": "2025-03-12T12:56:21Z",
+    "checked_at": "2026-02-28T02:11:10Z",
     "created_at": "2023-02-25T13:27:27.496866Z",
     "available": true
   },
@@ -1030,7 +1030,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:56:29Z",
+    "checked_at": "2026-02-28T02:11:10Z",
     "created_at": "2023-02-28T04:08:46.892442Z",
     "available": false
   },
@@ -1045,7 +1045,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:56:36Z",
+    "checked_at": "2026-02-28T02:11:10Z",
     "created_at": "2023-02-28T19:53:24.435832Z",
     "available": true
   },
@@ -1060,9 +1060,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:56:37Z",
+    "checked_at": "2026-02-28T02:11:10Z",
     "created_at": "2023-02-28T20:52:31.162709Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "188.117.197.12",
@@ -1075,7 +1075,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8076923076923077,
-    "checked_at": "2025-03-12T12:56:44Z",
+    "checked_at": "2026-02-28T02:11:11Z",
     "created_at": "2023-03-02T05:16:54.418135Z",
     "available": true
   },
@@ -1090,9 +1090,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:56:51Z",
+    "checked_at": "2026-02-28T02:11:11Z",
     "created_at": "2023-03-02T15:49:39.03737Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.64.252.129",
@@ -1105,7 +1105,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:56:54Z",
+    "checked_at": "2026-02-28T02:11:11Z",
     "created_at": "2023-03-02T23:31:57.596454Z",
     "available": true
   },
@@ -1120,7 +1120,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9146341463414634,
-    "checked_at": "2025-03-12T12:57:02Z",
+    "checked_at": "2026-02-28T02:11:11Z",
     "created_at": "2023-03-04T05:36:30.491616Z",
     "available": false
   },
@@ -1135,9 +1135,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.55,
-    "checked_at": "2025-03-12T12:57:09Z",
+    "checked_at": "2026-02-28T02:11:11Z",
     "created_at": "2023-03-10T09:27:44.59155Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "85.72.44.144",
@@ -1150,12 +1150,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7777777777777778,
-    "checked_at": "2025-03-12T12:57:17Z",
+    "checked_at": "2026-02-28T02:11:11Z",
     "created_at": "2023-03-10T19:56:12.60186Z",
     "available": false
   },
   {
-    "ip": "212.205.38.124",
+    "ip": "212.205.38.130",
     "name": "",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1165,12 +1165,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9411764705882353,
-    "checked_at": "2025-03-12T12:57:24Z",
+    "checked_at": "2026-02-28T02:11:11Z",
     "created_at": "2023-03-13T00:47:03.131715Z",
     "available": true
   },
   {
-    "ip": "77.69.35.107",
+    "ip": "77.69.35.118",
     "name": "gate5.1.stadon.net.",
     "as_number": 3329,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -1180,7 +1180,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:57:31Z",
+    "checked_at": "2026-02-28T02:11:11Z",
     "created_at": "2023-03-13T01:13:08.770007Z",
     "available": true
   },
@@ -1195,7 +1195,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:57:32Z",
+    "checked_at": "2026-02-28T02:11:12Z",
     "created_at": "2023-03-13T01:39:36.182238Z",
     "available": true
   },
@@ -1210,12 +1210,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:57:35Z",
+    "checked_at": "2026-02-28T02:11:14Z",
     "created_at": "2023-03-13T01:53:09.510014Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "77.69.31.34",
+    "ip": "77.69.31.66",
     "name": "static077069031119.dsl.hol.gr.",
     "as_number": 3329,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -1225,7 +1225,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9922879177377892,
-    "checked_at": "2025-03-12T12:57:42Z",
+    "checked_at": "2026-02-28T02:11:14Z",
     "created_at": "2023-03-13T01:56:58.632096Z",
     "available": true
   },
@@ -1240,7 +1240,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:57:50Z",
+    "checked_at": "2026-02-28T02:11:15Z",
     "created_at": "2023-03-13T02:30:50.06213Z",
     "available": true
   },
@@ -1255,7 +1255,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:57:50Z",
+    "checked_at": "2026-02-28T02:11:15Z",
     "created_at": "2023-03-13T02:43:19.046836Z",
     "available": false
   },
@@ -1270,7 +1270,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:57:55Z",
+    "checked_at": "2026-02-28T02:11:15Z",
     "created_at": "2023-03-13T03:13:16.490051Z",
     "available": false
   },
@@ -1285,12 +1285,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:58:02Z",
+    "checked_at": "2026-02-28T02:11:16Z",
     "created_at": "2023-03-13T03:15:15.587377Z",
     "available": true
   },
   {
-    "ip": "79.130.116.78",
+    "ip": "79.130.116.230",
     "name": "",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1300,7 +1300,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:58:05Z",
+    "checked_at": "2026-02-28T02:11:19Z",
     "created_at": "2023-03-13T04:06:11.21027Z",
     "available": true
   },
@@ -1315,12 +1315,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:58:08Z",
+    "checked_at": "2026-02-28T02:11:20Z",
     "created_at": "2023-03-13T04:10:16.542796Z",
     "available": true
   },
   {
-    "ip": "62.74.200.99",
+    "ip": "62.74.200.11",
     "name": "",
     "as_number": 12361,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -1330,7 +1330,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:58:16Z",
+    "checked_at": "2026-02-28T02:11:24Z",
     "created_at": "2023-03-13T04:14:58.337995Z",
     "available": true
   },
@@ -1345,7 +1345,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:58:16Z",
+    "checked_at": "2026-02-28T02:11:28Z",
     "created_at": "2023-03-13T05:00:42.350093Z",
     "available": true
   },
@@ -1360,7 +1360,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:58:24Z",
+    "checked_at": "2026-02-28T02:11:28Z",
     "created_at": "2023-03-13T05:03:05.30025Z",
     "available": false
   },
@@ -1375,12 +1375,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:58:28Z",
+    "checked_at": "2026-02-28T02:11:28Z",
     "created_at": "2023-03-13T05:30:28.876676Z",
     "available": true
   },
   {
-    "ip": "195.97.60.105",
+    "ip": "195.97.60.101",
     "name": "ppp195097060105.access.hol.gr.",
     "as_number": 3329,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -1390,9 +1390,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:58:36Z",
+    "checked_at": "2026-02-28T02:11:28Z",
     "created_at": "2023-03-13T05:30:45.518475Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "85.72.32.180",
@@ -1405,7 +1405,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:58:43Z",
+    "checked_at": "2026-02-28T02:11:29Z",
     "created_at": "2023-03-13T05:39:12.323147Z",
     "available": true
   },
@@ -1420,7 +1420,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:58:47Z",
+    "checked_at": "2026-02-28T02:11:29Z",
     "created_at": "2023-03-13T05:42:31.010058Z",
     "available": true
   },
@@ -1435,7 +1435,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:58:54Z",
+    "checked_at": "2026-02-28T02:11:29Z",
     "created_at": "2023-03-13T06:32:32.892684Z",
     "available": false
   },
@@ -1450,7 +1450,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:59:02Z",
+    "checked_at": "2026-02-28T02:11:29Z",
     "created_at": "2023-03-13T06:43:26.617545Z",
     "available": true
   },
@@ -1465,7 +1465,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:59:05Z",
+    "checked_at": "2026-02-28T02:11:29Z",
     "created_at": "2023-03-13T07:07:21.612657Z",
     "available": false
   },
@@ -1480,7 +1480,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:59:13Z",
+    "checked_at": "2026-02-28T02:11:29Z",
     "created_at": "2023-03-13T07:10:11.172331Z",
     "available": true
   },
@@ -1495,7 +1495,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:59:16Z",
+    "checked_at": "2026-02-28T02:11:29Z",
     "created_at": "2023-03-13T07:19:27.951559Z",
     "available": false
   },
@@ -1510,7 +1510,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:59:23Z",
+    "checked_at": "2026-02-28T02:11:29Z",
     "created_at": "2023-03-13T07:22:23.688866Z",
     "available": false
   },
@@ -1525,7 +1525,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:59:31Z",
+    "checked_at": "2026-02-28T02:11:29Z",
     "created_at": "2023-03-13T08:09:47.441489Z",
     "available": true
   },
@@ -1540,12 +1540,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:59:34Z",
+    "checked_at": "2026-02-28T02:11:30Z",
     "created_at": "2023-03-13T08:23:05.99009Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "83.235.183.106",
+    "ip": "83.235.183.228",
     "name": "rhoxh.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1555,9 +1555,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:59:37Z",
+    "checked_at": "2026-02-28T02:11:30Z",
     "created_at": "2023-03-13T08:23:14.685291Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "143.233.247.60",
@@ -1570,7 +1570,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:59:44Z",
+    "checked_at": "2026-02-28T02:11:30Z",
     "created_at": "2023-03-13T08:27:48.696111Z",
     "available": true
   },
@@ -1585,9 +1585,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:59:52Z",
+    "checked_at": "2026-02-28T02:11:30Z",
     "created_at": "2023-03-13T08:34:03.92315Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "80.107.51.41",
@@ -1600,7 +1600,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T12:59:59Z",
+    "checked_at": "2026-02-28T02:11:30Z",
     "created_at": "2023-03-13T08:38:29.56703Z",
     "available": true
   },
@@ -1615,7 +1615,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:00:06Z",
+    "checked_at": "2026-02-28T02:11:30Z",
     "created_at": "2023-03-13T08:53:39.790274Z",
     "available": true
   },
@@ -1630,7 +1630,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:00:07Z",
+    "checked_at": "2026-02-28T02:11:31Z",
     "created_at": "2023-03-13T09:31:35.695338Z",
     "available": true
   },
@@ -1645,7 +1645,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:00:14Z",
+    "checked_at": "2026-02-28T02:11:31Z",
     "created_at": "2023-03-13T09:38:29.045002Z",
     "available": true
   },
@@ -1660,12 +1660,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-12T13:00:15Z",
+    "checked_at": "2026-02-28T02:11:31Z",
     "created_at": "2023-03-13T09:44:48.724999Z",
     "available": true
   },
   {
-    "ip": "85.73.22.52",
+    "ip": "85.73.22.112",
     "name": "o75y98.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1675,7 +1675,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:00:16Z",
+    "checked_at": "2026-02-28T02:11:32Z",
     "created_at": "2023-03-13T10:09:17.149622Z",
     "available": true
   },
@@ -1690,9 +1690,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:00:16Z",
+    "checked_at": "2026-02-28T02:11:32Z",
     "created_at": "2023-03-13T10:15:54.163718Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "79.129.50.180",
@@ -1705,12 +1705,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:00:23Z",
+    "checked_at": "2026-02-28T02:11:32Z",
     "created_at": "2023-03-13T10:51:16.105571Z",
     "available": true
   },
   {
-    "ip": "85.73.203.149",
+    "ip": "85.73.203.65",
     "name": "",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1720,12 +1720,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:00:27Z",
+    "checked_at": "2026-02-28T02:11:32Z",
     "created_at": "2023-03-13T10:51:57.088751Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "85.75.217.127",
+    "ip": "85.75.217.176",
     "name": "athedsl-172513.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1735,9 +1735,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:00:34Z",
+    "checked_at": "2026-02-28T02:11:32Z",
     "created_at": "2023-03-13T12:15:30.318099Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "80.107.88.114",
@@ -1750,12 +1750,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:00:41Z",
+    "checked_at": "2026-02-28T02:11:33Z",
     "created_at": "2023-03-13T13:06:48.639316Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "79.129.45.104",
+    "ip": "79.129.45.2",
     "name": "d72757.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1765,7 +1765,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8581560283687943,
-    "checked_at": "2025-03-12T13:00:49Z",
+    "checked_at": "2026-02-28T02:11:34Z",
     "created_at": "2023-03-13T13:10:21.184764Z",
     "available": true
   },
@@ -1780,7 +1780,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:00:56Z",
+    "checked_at": "2026-02-28T02:11:34Z",
     "created_at": "2023-03-13T13:33:00.496514Z",
     "available": true
   },
@@ -1795,7 +1795,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:01:03Z",
+    "checked_at": "2026-02-28T02:11:35Z",
     "created_at": "2023-03-13T13:41:45.375355Z",
     "available": true
   },
@@ -1810,12 +1810,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:01:11Z",
+    "checked_at": "2026-02-28T02:11:35Z",
     "created_at": "2023-03-13T13:57:00.111604Z",
     "available": true
   },
   {
-    "ip": "149.210.32.113",
+    "ip": "149.210.32.136",
     "name": "149-210-32-14.mobile.nym.cosmote.net.",
     "as_number": 29247,
     "as_org": "Cosmote Mobile Telecommunications S.A.",
@@ -1825,12 +1825,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:01:14Z",
+    "checked_at": "2026-02-28T02:11:35Z",
     "created_at": "2023-03-13T14:00:40.079117Z",
     "available": true
   },
   {
-    "ip": "94.65.253.10",
+    "ip": "94.65.253.5",
     "name": "ppp-94-65-253-10.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1840,12 +1840,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:01:19Z",
+    "checked_at": "2026-02-28T02:11:36Z",
     "created_at": "2023-03-13T14:20:14.613755Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "94.69.0.150",
+    "ip": "94.69.0.143",
     "name": "ppp-94-69-0-249.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1855,12 +1855,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:01:26Z",
+    "checked_at": "2026-02-28T02:11:37Z",
     "created_at": "2023-03-13T14:35:25.292215Z",
     "available": true
   },
   {
-    "ip": "79.131.135.113",
+    "ip": "79.131.135.74",
     "name": "athedsl-405363.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1870,12 +1870,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:01:33Z",
+    "checked_at": "2026-02-28T02:11:38Z",
     "created_at": "2023-03-13T14:58:30.670176Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "149.210.36.118",
+    "ip": "149.210.36.123",
     "name": "149-210-36-118.mobile.nym.cosmote.net.",
     "as_number": 29247,
     "as_org": "Cosmote Mobile Telecommunications S.A.",
@@ -1885,12 +1885,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:01:41Z",
+    "checked_at": "2026-02-28T02:11:40Z",
     "created_at": "2023-03-13T15:43:01.834662Z",
     "available": true
   },
   {
-    "ip": "79.129.29.39",
+    "ip": "79.129.29.2",
     "name": "obveav.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1900,12 +1900,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:01:41Z",
+    "checked_at": "2026-02-28T02:11:41Z",
     "created_at": "2023-03-13T16:01:44.574902Z",
     "available": true
   },
   {
-    "ip": "79.131.77.117",
+    "ip": "79.131.77.14",
     "name": "athedsl-390519.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1915,9 +1915,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9552238805970149,
-    "checked_at": "2025-03-12T13:01:42Z",
+    "checked_at": "2026-02-28T02:11:45Z",
     "created_at": "2023-03-13T16:06:01.249377Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.131.108.227",
@@ -1930,7 +1930,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:01:49Z",
+    "checked_at": "2026-02-28T02:11:46Z",
     "created_at": "2023-03-13T16:18:42.524014Z",
     "available": true
   },
@@ -1945,12 +1945,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:01:52Z",
+    "checked_at": "2026-02-28T02:11:46Z",
     "created_at": "2023-03-13T16:25:10.307578Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "85.73.92.40",
+    "ip": "85.73.92.90",
     "name": "sm247.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -1960,7 +1960,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:01:53Z",
+    "checked_at": "2026-02-28T02:11:46Z",
     "created_at": "2023-03-13T16:54:04.897832Z",
     "available": true
   },
@@ -1975,7 +1975,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:02:00Z",
+    "checked_at": "2026-02-28T02:11:46Z",
     "created_at": "2023-03-13T16:55:28.268707Z",
     "available": true
   },
@@ -1990,12 +1990,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:02:07Z",
+    "checked_at": "2026-02-28T02:11:46Z",
     "created_at": "2023-03-13T17:11:42.873724Z",
     "available": false
   },
   {
-    "ip": "77.69.31.34",
+    "ip": "77.69.31.66",
     "name": "static077069031116.dsl.hol.gr.",
     "as_number": 3329,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -2005,7 +2005,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:02:15Z",
+    "checked_at": "2026-02-28T02:11:46Z",
     "created_at": "2023-03-13T17:52:51.171208Z",
     "available": true
   },
@@ -2020,7 +2020,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:02:22Z",
+    "checked_at": "2026-02-28T02:11:46Z",
     "created_at": "2023-03-13T17:59:31.892059Z",
     "available": true
   },
@@ -2035,7 +2035,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:02:29Z",
+    "checked_at": "2026-02-28T02:11:49Z",
     "created_at": "2023-03-13T18:12:03.530546Z",
     "available": false
   },
@@ -2050,12 +2050,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:02:37Z",
+    "checked_at": "2026-02-28T02:11:49Z",
     "created_at": "2023-03-13T18:27:02.024361Z",
     "available": false
   },
   {
-    "ip": "94.70.241.174",
+    "ip": "94.70.241.40",
     "name": "dima66.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -2065,9 +2065,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:02:44Z",
+    "checked_at": "2026-02-28T02:11:49Z",
     "created_at": "2023-03-13T18:44:04.604696Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "83.235.16.24",
@@ -2080,12 +2080,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:02:51Z",
+    "checked_at": "2026-02-28T02:11:49Z",
     "created_at": "2023-03-13T18:49:36.23702Z",
     "available": true
   },
   {
-    "ip": "62.74.244.149",
+    "ip": "62.74.244.141",
     "name": "dumy229.panafonet.gr.",
     "as_number": 12361,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -2095,7 +2095,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:02:59Z",
+    "checked_at": "2026-02-28T02:11:49Z",
     "created_at": "2023-03-13T18:54:24.717507Z",
     "available": true
   },
@@ -2110,7 +2110,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:03:06Z",
+    "checked_at": "2026-02-28T02:11:49Z",
     "created_at": "2023-03-13T19:13:08.229888Z",
     "available": false
   },
@@ -2125,7 +2125,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:03:14Z",
+    "checked_at": "2026-02-28T02:11:49Z",
     "created_at": "2023-03-13T19:18:56.202976Z",
     "available": true
   },
@@ -2140,7 +2140,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:03:21Z",
+    "checked_at": "2026-02-28T02:11:50Z",
     "created_at": "2023-03-13T21:12:22.322604Z",
     "available": false
   },
@@ -2155,9 +2155,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:03:28Z",
+    "checked_at": "2026-02-28T02:11:50Z",
     "created_at": "2023-03-13T21:46:29.492704Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "195.167.105.110",
@@ -2170,7 +2170,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:03:29Z",
+    "checked_at": "2026-02-28T02:11:50Z",
     "created_at": "2023-03-13T21:47:15.839788Z",
     "available": true
   },
@@ -2185,7 +2185,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:03:32Z",
+    "checked_at": "2026-02-28T02:11:51Z",
     "created_at": "2023-03-13T21:53:08.480452Z",
     "available": true
   },
@@ -2200,7 +2200,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:03:39Z",
+    "checked_at": "2026-02-28T02:11:53Z",
     "created_at": "2023-03-13T22:29:43.920463Z",
     "available": true
   },
@@ -2215,7 +2215,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:03:47Z",
+    "checked_at": "2026-02-28T02:11:53Z",
     "created_at": "2023-03-13T22:40:58.943782Z",
     "available": true
   },
@@ -2230,7 +2230,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:03:50Z",
+    "checked_at": "2026-02-28T02:11:53Z",
     "created_at": "2023-03-13T22:48:17.576722Z",
     "available": false
   },
@@ -2245,7 +2245,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:03:57Z",
+    "checked_at": "2026-02-28T02:11:53Z",
     "created_at": "2023-03-13T23:23:02.351237Z",
     "available": false
   },
@@ -2260,12 +2260,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:04:02Z",
+    "checked_at": "2026-02-28T02:11:54Z",
     "created_at": "2023-03-13T23:28:44.220162Z",
     "available": true
   },
   {
-    "ip": "80.107.91.50",
+    "ip": "80.107.91.36",
     "name": "50.91.107.80.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -2275,9 +2275,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:04:02Z",
+    "checked_at": "2026-02-28T02:11:54Z",
     "created_at": "2023-03-13T23:39:34.397027Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "80.106.194.218",
@@ -2290,7 +2290,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:04:10Z",
+    "checked_at": "2026-02-28T02:11:54Z",
     "created_at": "2023-03-13T23:48:13.089014Z",
     "available": true
   },
@@ -2305,7 +2305,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:04:17Z",
+    "checked_at": "2026-02-28T02:11:54Z",
     "created_at": "2023-03-13T23:57:50.016926Z",
     "available": false
   },
@@ -2320,12 +2320,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:04:24Z",
+    "checked_at": "2026-02-28T02:11:54Z",
     "created_at": "2023-03-14T00:57:39.910073Z",
     "available": true
   },
   {
-    "ip": "185.182.106.19",
+    "ip": "185.182.106.242",
     "name": "",
     "as_number": 202903,
     "as_org": "PE Nikos Antonakis - PRONETWORKS",
@@ -2335,7 +2335,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:04:32Z",
+    "checked_at": "2026-02-28T02:11:54Z",
     "created_at": "2023-03-14T01:04:29.149842Z",
     "available": true
   },
@@ -2350,7 +2350,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:04:36Z",
+    "checked_at": "2026-02-28T02:11:54Z",
     "created_at": "2023-03-14T01:16:12.075759Z",
     "available": false
   },
@@ -2365,7 +2365,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:04:44Z",
+    "checked_at": "2026-02-28T02:11:55Z",
     "created_at": "2023-03-14T01:48:20.971452Z",
     "available": true
   },
@@ -2380,12 +2380,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:04:46Z",
+    "checked_at": "2026-02-28T02:11:57Z",
     "created_at": "2023-03-14T02:11:19.944556Z",
     "available": false
   },
   {
-    "ip": "94.70.166.191",
+    "ip": "94.70.166.66",
     "name": "ory2ve.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -2395,9 +2395,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:04:54Z",
+    "checked_at": "2026-02-28T02:11:59Z",
     "created_at": "2023-03-14T02:25:18.324265Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "94.70.197.123",
@@ -2410,12 +2410,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:05:01Z",
+    "checked_at": "2026-02-28T02:12:01Z",
     "created_at": "2023-03-14T02:49:51.033512Z",
     "available": true
   },
   {
-    "ip": "62.74.157.85",
+    "ip": "62.74.157.153",
     "name": "dyn85.xan1.nas.panafonet.gr.",
     "as_number": 12361,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -2425,7 +2425,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:05:04Z",
+    "checked_at": "2026-02-28T02:12:02Z",
     "created_at": "2023-03-14T02:56:36.865917Z",
     "available": true
   },
@@ -2440,7 +2440,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:05:05Z",
+    "checked_at": "2026-02-28T02:12:02Z",
     "created_at": "2023-03-14T03:37:45.815343Z",
     "available": false
   },
@@ -2455,7 +2455,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:05:12Z",
+    "checked_at": "2026-02-28T02:12:02Z",
     "created_at": "2023-03-14T03:47:31.267041Z",
     "available": false
   },
@@ -2470,7 +2470,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:05:19Z",
+    "checked_at": "2026-02-28T02:12:03Z",
     "created_at": "2023-03-14T04:05:04.050397Z",
     "available": true
   },
@@ -2485,9 +2485,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:05:27Z",
+    "checked_at": "2026-02-28T02:12:05Z",
     "created_at": "2023-03-14T04:54:00.362872Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "79.129.2.75",
@@ -2500,12 +2500,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:05:27Z",
+    "checked_at": "2026-02-28T02:12:05Z",
     "created_at": "2023-03-14T05:08:15.609499Z",
     "available": false
   },
   {
-    "ip": "94.68.89.84",
+    "ip": "94.68.89.114",
     "name": "ppp-94-68-89-84.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -2515,9 +2515,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:05:34Z",
+    "checked_at": "2026-02-28T02:12:05Z",
     "created_at": "2023-03-14T05:13:51.856353Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "83.212.104.142",
@@ -2530,7 +2530,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:05:42Z",
+    "checked_at": "2026-02-28T02:12:06Z",
     "created_at": "2023-03-14T05:20:34.017564Z",
     "available": true
   },
@@ -2545,12 +2545,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:05:49Z",
+    "checked_at": "2026-02-28T02:12:06Z",
     "created_at": "2023-03-14T07:30:56.068749Z",
     "available": true
   },
   {
-    "ip": "94.64.62.175",
+    "ip": "94.64.62.123",
     "name": "ppp-94-64-62-175.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -2560,12 +2560,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:05:54Z",
+    "checked_at": "2026-02-28T02:12:06Z",
     "created_at": "2023-03-14T07:48:07.504762Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "213.249.20.207",
+    "ip": "213.249.20.159",
     "name": "st207.nas.panafonet.gr.",
     "as_number": 12361,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -2575,7 +2575,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:01Z",
+    "checked_at": "2026-02-28T02:12:06Z",
     "created_at": "2023-03-14T08:03:53.781154Z",
     "available": true
   },
@@ -2590,7 +2590,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:01Z",
+    "checked_at": "2026-02-28T02:12:06Z",
     "created_at": "2023-03-14T08:03:58.639574Z",
     "available": false
   },
@@ -2605,7 +2605,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:09Z",
+    "checked_at": "2026-02-28T02:12:06Z",
     "created_at": "2023-03-14T08:08:12.458037Z",
     "available": false
   },
@@ -2620,7 +2620,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:13Z",
+    "checked_at": "2026-02-28T02:12:07Z",
     "created_at": "2023-03-14T08:12:29.689814Z",
     "available": false
   },
@@ -2635,7 +2635,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:21Z",
+    "checked_at": "2026-02-28T02:12:07Z",
     "created_at": "2023-03-14T08:41:10.27479Z",
     "available": false
   },
@@ -2650,12 +2650,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:28Z",
+    "checked_at": "2026-02-28T02:12:09Z",
     "created_at": "2023-03-14T09:17:26.752557Z",
     "available": true
   },
   {
-    "ip": "79.129.102.10",
+    "ip": "79.129.102.118",
     "name": "o5kkdc.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -2665,7 +2665,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:29Z",
+    "checked_at": "2026-02-28T02:12:10Z",
     "created_at": "2023-03-14T09:18:45.290312Z",
     "available": true
   },
@@ -2680,7 +2680,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:36Z",
+    "checked_at": "2026-02-28T02:12:10Z",
     "created_at": "2023-03-14T09:19:29.296343Z",
     "available": true
   },
@@ -2695,7 +2695,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:37Z",
+    "checked_at": "2026-02-28T02:12:10Z",
     "created_at": "2023-03-14T09:40:18.376159Z",
     "available": true
   },
@@ -2710,12 +2710,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:44Z",
+    "checked_at": "2026-02-28T02:12:10Z",
     "created_at": "2023-03-14T09:43:26.515088Z",
     "available": false
   },
   {
-    "ip": "94.67.214.37",
+    "ip": "94.67.214.132",
     "name": "ppp-94-67-214-37.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -2725,9 +2725,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:51Z",
+    "checked_at": "2026-02-28T02:12:10Z",
     "created_at": "2023-03-14T09:55:16.275288Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "83.212.103.207",
@@ -2740,12 +2740,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:06:59Z",
+    "checked_at": "2026-02-28T02:12:10Z",
     "created_at": "2023-03-14T10:00:30.081664Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "94.70.170.156",
+    "ip": "94.70.170.210",
     "name": "oczl11.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -2755,9 +2755,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:07:06Z",
+    "checked_at": "2026-02-28T02:12:11Z",
     "created_at": "2023-03-14T10:03:01.723149Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "194.30.254.193",
@@ -2770,7 +2770,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9375,
-    "checked_at": "2025-03-12T13:07:11Z",
+    "checked_at": "2026-02-28T02:12:11Z",
     "created_at": "2023-03-14T10:14:02.35942Z",
     "available": false
   },
@@ -2785,7 +2785,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:07:18Z",
+    "checked_at": "2026-02-28T02:12:14Z",
     "created_at": "2023-03-14T10:39:35.037224Z",
     "available": true
   },
@@ -2800,12 +2800,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:07:25Z",
+    "checked_at": "2026-02-28T02:12:15Z",
     "created_at": "2023-03-14T10:42:16.493792Z",
     "available": true
   },
   {
-    "ip": "78.24.73.75",
+    "ip": "78.24.73.120",
     "name": "core-ns1.interlink.ag.",
     "as_number": 3266,
     "as_org": "UAB Porenta",
@@ -2815,7 +2815,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:07:26Z",
+    "checked_at": "2026-02-28T02:12:15Z",
     "created_at": "2023-03-14T11:38:57.432874Z",
     "available": true
   },
@@ -2830,7 +2830,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:07:26Z",
+    "checked_at": "2026-02-28T02:12:15Z",
     "created_at": "2023-03-14T11:44:52.613085Z",
     "available": true
   },
@@ -2845,7 +2845,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:07:28Z",
+    "checked_at": "2026-02-28T02:12:16Z",
     "created_at": "2023-03-14T11:56:35.425332Z",
     "available": true
   },
@@ -2860,12 +2860,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:07:35Z",
+    "checked_at": "2026-02-28T02:12:16Z",
     "created_at": "2023-03-14T11:59:47.640507Z",
     "available": false
   },
   {
-    "ip": "87.202.171.109",
+    "ip": "87.202.171.246",
     "name": "athedsl-369528.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -2875,9 +2875,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:07:42Z",
+    "checked_at": "2026-02-28T02:12:16Z",
     "created_at": "2023-03-14T12:30:01.798764Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "62.74.232.89",
@@ -2890,7 +2890,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-12T13:07:50Z",
+    "checked_at": "2026-02-28T02:12:17Z",
     "created_at": "2023-03-14T12:37:16.720134Z",
     "available": false
   },
@@ -2905,7 +2905,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:07:57Z",
+    "checked_at": "2026-02-28T02:12:18Z",
     "created_at": "2023-03-14T12:49:34.557706Z",
     "available": false
   },
@@ -2920,7 +2920,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:08:04Z",
+    "checked_at": "2026-02-28T02:12:18Z",
     "created_at": "2023-03-14T13:04:21.403982Z",
     "available": true
   },
@@ -2935,7 +2935,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:08:12Z",
+    "checked_at": "2026-02-28T02:12:20Z",
     "created_at": "2023-03-14T13:32:10.885499Z",
     "available": true
   },
@@ -2950,9 +2950,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:08:19Z",
+    "checked_at": "2026-02-28T02:12:21Z",
     "created_at": "2023-03-14T14:08:17.053446Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "195.46.7.225",
@@ -2965,7 +2965,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:08:26Z",
+    "checked_at": "2026-02-28T02:12:22Z",
     "created_at": "2023-03-14T14:40:52.295693Z",
     "available": true
   },
@@ -2980,7 +2980,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:08:27Z",
+    "checked_at": "2026-02-28T02:12:22Z",
     "created_at": "2023-03-14T14:49:06.063811Z",
     "available": true
   },
@@ -2995,7 +2995,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:08:34Z",
+    "checked_at": "2026-02-28T02:12:22Z",
     "created_at": "2023-03-14T15:20:06.331826Z",
     "available": false
   },
@@ -3010,7 +3010,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:08:41Z",
+    "checked_at": "2026-02-28T02:12:22Z",
     "created_at": "2023-03-14T15:34:24.420865Z",
     "available": false
   },
@@ -3025,9 +3025,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:08:49Z",
+    "checked_at": "2026-02-28T02:12:22Z",
     "created_at": "2023-03-14T15:44:59.972115Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "85.72.107.196",
@@ -3040,9 +3040,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:08:53Z",
+    "checked_at": "2026-02-28T02:12:22Z",
     "created_at": "2023-03-14T15:57:44.024596Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "213.249.31.140",
@@ -3055,12 +3055,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:09:01Z",
+    "checked_at": "2026-02-28T02:12:23Z",
     "created_at": "2023-03-14T15:58:44.871294Z",
     "available": true
   },
   {
-    "ip": "195.167.87.180",
+    "ip": "195.167.87.50",
     "name": "51.87.167.195.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -3070,7 +3070,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:09:08Z",
+    "checked_at": "2026-02-28T02:12:23Z",
     "created_at": "2023-03-14T16:07:02.742299Z",
     "available": true
   },
@@ -3085,7 +3085,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-12T13:09:15Z",
+    "checked_at": "2026-02-28T02:12:24Z",
     "created_at": "2023-03-14T16:23:58.010605Z",
     "available": false
   },
@@ -3100,7 +3100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:09:23Z",
+    "checked_at": "2026-02-28T02:12:24Z",
     "created_at": "2023-03-14T16:55:20.701648Z",
     "available": false
   },
@@ -3115,9 +3115,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:09:30Z",
+    "checked_at": "2026-02-28T02:12:26Z",
     "created_at": "2023-03-14T16:57:00.902949Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.129.5.232",
@@ -3130,12 +3130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:09:35Z",
+    "checked_at": "2026-02-28T02:12:26Z",
     "created_at": "2023-03-14T16:59:44.197496Z",
     "available": true
   },
   {
-    "ip": "149.210.81.112",
+    "ip": "149.210.81.165",
     "name": "149-210-81-177.mobile.ren.cosmote.net.",
     "as_number": 29247,
     "as_org": "Cosmote Mobile Telecommunications S.A.",
@@ -3145,7 +3145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:09:42Z",
+    "checked_at": "2026-02-28T02:12:26Z",
     "created_at": "2023-03-14T17:20:31.407554Z",
     "available": true
   },
@@ -3160,7 +3160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:09:49Z",
+    "checked_at": "2026-02-28T02:12:27Z",
     "created_at": "2023-03-14T18:05:36.608724Z",
     "available": false
   },
@@ -3175,7 +3175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:09:57Z",
+    "checked_at": "2026-02-28T02:12:27Z",
     "created_at": "2023-03-14T18:06:51.779218Z",
     "available": true
   },
@@ -3190,7 +3190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:09:57Z",
+    "checked_at": "2026-02-28T02:12:27Z",
     "created_at": "2023-03-14T18:07:49.87105Z",
     "available": true
   },
@@ -3205,7 +3205,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9375,
-    "checked_at": "2025-03-12T13:10:00Z",
+    "checked_at": "2026-02-28T02:12:27Z",
     "created_at": "2023-03-14T18:12:56.096071Z",
     "available": false
   },
@@ -3220,7 +3220,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:10:07Z",
+    "checked_at": "2026-02-28T02:12:27Z",
     "created_at": "2023-03-14T18:15:13.376551Z",
     "available": false
   },
@@ -3235,7 +3235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:10:14Z",
+    "checked_at": "2026-02-28T02:12:29Z",
     "created_at": "2023-03-14T18:58:42.461674Z",
     "available": false
   },
@@ -3250,12 +3250,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:10:22Z",
+    "checked_at": "2026-02-28T02:12:29Z",
     "created_at": "2023-03-14T19:01:52.281784Z",
     "available": false
   },
   {
-    "ip": "62.74.212.145",
+    "ip": "62.74.212.153",
     "name": "",
     "as_number": 12361,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -3265,7 +3265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:10:29Z",
+    "checked_at": "2026-02-28T02:12:30Z",
     "created_at": "2023-03-14T19:01:57.517164Z",
     "available": true
   },
@@ -3280,7 +3280,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:10:36Z",
+    "checked_at": "2026-02-28T02:12:31Z",
     "created_at": "2023-03-14T19:29:01.497655Z",
     "available": false
   },
@@ -3295,7 +3295,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:10:44Z",
+    "checked_at": "2026-02-28T02:12:32Z",
     "created_at": "2023-03-14T19:52:59.318241Z",
     "available": true
   },
@@ -3310,12 +3310,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:10:44Z",
+    "checked_at": "2026-02-28T02:12:32Z",
     "created_at": "2023-03-14T20:04:14.105575Z",
     "available": false
   },
   {
-    "ip": "195.251.99.162",
+    "ip": "195.251.99.61",
     "name": "",
     "as_number": 5408,
     "as_org": "National Infrastructures for Research and Technology S.A.",
@@ -3325,7 +3325,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:10:52Z",
+    "checked_at": "2026-02-28T02:12:33Z",
     "created_at": "2023-03-14T20:12:35.955094Z",
     "available": true
   },
@@ -3340,12 +3340,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:10:59Z",
+    "checked_at": "2026-02-28T02:12:33Z",
     "created_at": "2023-03-14T20:12:55.132925Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "91.138.229.7",
+    "ip": "91.138.229.99",
     "name": "mail2.bellemeat.gr.",
     "as_number": 3329,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -3355,9 +3355,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:11:06Z",
+    "checked_at": "2026-02-28T02:12:34Z",
     "created_at": "2023-03-14T20:51:12.251205Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.129.73.81",
@@ -3370,7 +3370,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:11:14Z",
+    "checked_at": "2026-02-28T02:12:36Z",
     "created_at": "2023-03-14T21:05:29.979848Z",
     "available": false
   },
@@ -3385,12 +3385,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:11:21Z",
+    "checked_at": "2026-02-28T02:12:37Z",
     "created_at": "2023-03-14T21:14:47.397754Z",
     "available": false
   },
   {
-    "ip": "91.138.189.141",
+    "ip": "91.138.189.27",
     "name": "static091138189141.access.hol.gr.",
     "as_number": 3329,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -3400,7 +3400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:11:28Z",
+    "checked_at": "2026-02-28T02:12:37Z",
     "created_at": "2023-03-14T21:15:24.056871Z",
     "available": true
   },
@@ -3415,7 +3415,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:11:29Z",
+    "checked_at": "2026-02-28T02:12:38Z",
     "created_at": "2023-03-14T21:45:02.577892Z",
     "available": false
   },
@@ -3430,9 +3430,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:11:36Z",
+    "checked_at": "2026-02-28T02:12:38Z",
     "created_at": "2023-03-14T21:59:53.058421Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.67.127.87",
@@ -3445,12 +3445,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:11:41Z",
+    "checked_at": "2026-02-28T02:12:38Z",
     "created_at": "2023-03-14T22:16:47.479291Z",
     "available": true
   },
   {
-    "ip": "62.74.212.145",
+    "ip": "62.74.212.153",
     "name": "",
     "as_number": 12361,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -3460,7 +3460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:11:44Z",
+    "checked_at": "2026-02-28T02:12:39Z",
     "created_at": "2023-03-14T22:25:40.770761Z",
     "available": true
   },
@@ -3475,7 +3475,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:11:51Z",
+    "checked_at": "2026-02-28T02:12:40Z",
     "created_at": "2023-03-14T22:30:07.111835Z",
     "available": false
   },
@@ -3490,7 +3490,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:11:59Z",
+    "checked_at": "2026-02-28T02:12:41Z",
     "created_at": "2023-03-14T22:36:37.647859Z",
     "available": false
   },
@@ -3505,7 +3505,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:12:03Z",
+    "checked_at": "2026-02-28T02:12:42Z",
     "created_at": "2023-03-14T22:44:17.36965Z",
     "available": false
   },
@@ -3520,7 +3520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:12:10Z",
+    "checked_at": "2026-02-28T02:12:43Z",
     "created_at": "2023-03-14T23:33:59.79022Z",
     "available": false
   },
@@ -3535,7 +3535,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6,
-    "checked_at": "2025-03-12T13:12:18Z",
+    "checked_at": "2026-02-28T02:12:43Z",
     "created_at": "2023-03-14T23:46:27.924596Z",
     "available": false
   },
@@ -3550,7 +3550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:12:25Z",
+    "checked_at": "2026-02-28T02:12:44Z",
     "created_at": "2023-03-14T23:57:21.785045Z",
     "available": true
   },
@@ -3565,12 +3565,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:12:33Z",
+    "checked_at": "2026-02-28T02:12:45Z",
     "created_at": "2023-03-15T01:50:09.00503Z",
     "available": false
   },
   {
-    "ip": "83.235.176.53",
+    "ip": "83.235.176.226",
     "name": "omjlz1.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -3580,12 +3580,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:12:40Z",
+    "checked_at": "2026-02-28T02:12:45Z",
     "created_at": "2023-03-15T02:00:21.421068Z",
     "available": true
   },
   {
-    "ip": "62.74.226.174",
+    "ip": "62.74.226.106",
     "name": "dumy174.panafonet.gr.",
     "as_number": 12361,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -3595,9 +3595,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:12:40Z",
+    "checked_at": "2026-02-28T02:12:45Z",
     "created_at": "2023-03-15T02:30:02.457324Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "94.70.151.164",
@@ -3610,7 +3610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:12:48Z",
+    "checked_at": "2026-02-28T02:12:45Z",
     "created_at": "2023-03-15T03:00:05.126598Z",
     "available": true
   },
@@ -3625,7 +3625,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:12:55Z",
+    "checked_at": "2026-02-28T02:12:46Z",
     "created_at": "2023-03-15T03:00:15.093946Z",
     "available": true
   },
@@ -3640,7 +3640,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:13:02Z",
+    "checked_at": "2026-02-28T02:12:47Z",
     "created_at": "2023-03-15T03:11:16.61903Z",
     "available": false
   },
@@ -3655,7 +3655,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:13:10Z",
+    "checked_at": "2026-02-28T02:12:47Z",
     "created_at": "2023-03-15T03:22:40.341473Z",
     "available": true
   },
@@ -3670,12 +3670,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:13:10Z",
+    "checked_at": "2026-02-28T02:12:48Z",
     "created_at": "2023-03-15T04:26:47.24399Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "85.73.17.130",
+    "ip": "85.73.17.149",
     "name": "athedsl-248292.home.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -3685,9 +3685,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:13:15Z",
+    "checked_at": "2026-02-28T02:12:49Z",
     "created_at": "2023-03-15T05:16:48.96363Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "85.72.3.202",
@@ -3700,9 +3700,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:13:22Z",
+    "checked_at": "2026-02-28T02:12:49Z",
     "created_at": "2023-03-15T06:34:27.632171Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "79.129.2.87",
@@ -3715,7 +3715,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:13:27Z",
+    "checked_at": "2026-02-28T02:12:49Z",
     "created_at": "2023-03-15T07:39:17.772011Z",
     "available": false
   },
@@ -3730,12 +3730,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2025-03-12T13:13:34Z",
+    "checked_at": "2026-02-28T02:12:50Z",
     "created_at": "2023-03-15T07:53:56.580089Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "91.138.229.242",
+    "ip": "91.138.229.99",
     "name": "static091138229242.access.hol.gr.",
     "as_number": 3329,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -3745,12 +3745,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:13:36Z",
+    "checked_at": "2026-02-28T02:12:52Z",
     "created_at": "2023-03-15T08:46:45.484781Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "79.130.213.48",
+    "ip": "79.130.213.15",
     "name": "",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -3760,9 +3760,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:13:43Z",
+    "checked_at": "2026-02-28T02:12:53Z",
     "created_at": "2023-03-15T11:42:36.227712Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "85.75.216.110",
@@ -3775,7 +3775,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:13:51Z",
+    "checked_at": "2026-02-28T02:12:53Z",
     "created_at": "2023-03-15T11:48:29.848453Z",
     "available": false
   },
@@ -3790,7 +3790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96875,
-    "checked_at": "2025-03-12T13:13:58Z",
+    "checked_at": "2026-02-28T02:12:53Z",
     "created_at": "2023-03-15T13:01:32.253038Z",
     "available": true
   },
@@ -3805,9 +3805,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7419354838709677,
-    "checked_at": "2025-03-12T13:14:01Z",
+    "checked_at": "2026-02-28T02:12:54Z",
     "created_at": "2023-03-15T13:17:22.762416Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "85.74.139.43",
@@ -3820,12 +3820,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:14:08Z",
+    "checked_at": "2026-02-28T02:12:54Z",
     "created_at": "2023-03-15T14:50:33.904493Z",
     "available": false
   },
   {
-    "ip": "149.210.64.157",
+    "ip": "149.210.64.124",
     "name": "149-210-64-96.mobile.ren.cosmote.net.",
     "as_number": 29247,
     "as_org": "Cosmote Mobile Telecommunications S.A.",
@@ -3835,7 +3835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:14:16Z",
+    "checked_at": "2026-02-28T02:12:55Z",
     "created_at": "2023-03-15T15:13:55.73122Z",
     "available": true
   },
@@ -3850,12 +3850,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96875,
-    "checked_at": "2025-03-12T13:14:20Z",
+    "checked_at": "2026-02-28T02:12:55Z",
     "created_at": "2023-03-15T15:43:19.404294Z",
     "available": false
   },
   {
-    "ip": "94.68.84.250",
+    "ip": "94.68.84.5",
     "name": "250.84.68.94.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -3865,7 +3865,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:14:28Z",
+    "checked_at": "2026-02-28T02:12:57Z",
     "created_at": "2023-03-15T15:44:09.338543Z",
     "available": true
   },
@@ -3880,7 +3880,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:14:31Z",
+    "checked_at": "2026-02-28T02:12:57Z",
     "created_at": "2023-03-15T15:46:11.851035Z",
     "available": true
   },
@@ -3895,12 +3895,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:14:38Z",
+    "checked_at": "2026-02-28T02:12:58Z",
     "created_at": "2023-03-15T16:33:15.070621Z",
     "available": false
   },
   {
-    "ip": "91.138.161.1",
+    "ip": "91.138.161.101",
     "name": "",
     "as_number": 3329,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -3910,7 +3910,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.967741935483871,
-    "checked_at": "2025-03-12T13:14:46Z",
+    "checked_at": "2026-02-28T02:12:58Z",
     "created_at": "2023-03-15T16:36:46.8176Z",
     "available": true
   },
@@ -3925,12 +3925,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:14:47Z",
+    "checked_at": "2026-02-28T02:12:58Z",
     "created_at": "2023-03-15T17:11:54.198921Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "94.66.65.27",
+    "ip": "94.66.65.67",
     "name": "",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -3940,9 +3940,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:14:54Z",
+    "checked_at": "2026-02-28T02:13:00Z",
     "created_at": "2023-03-15T17:14:08.924603Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "94.71.88.208",
@@ -3955,12 +3955,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:15:01Z",
+    "checked_at": "2026-02-28T02:13:01Z",
     "created_at": "2023-03-15T17:29:19.619091Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "77.69.31.34",
+    "ip": "77.69.31.66",
     "name": "static077069031124.dsl.hol.gr.",
     "as_number": 3329,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -3970,7 +3970,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:15:09Z",
+    "checked_at": "2026-02-28T02:13:02Z",
     "created_at": "2023-03-15T18:34:18.860806Z",
     "available": true
   },
@@ -3985,9 +3985,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6756756756756757,
-    "checked_at": "2025-03-12T13:15:16Z",
+    "checked_at": "2026-02-28T02:13:02Z",
     "created_at": "2023-03-15T21:36:28.04308Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "81.2.129.120",
@@ -4000,9 +4000,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:15:19Z",
+    "checked_at": "2026-02-28T02:13:03Z",
     "created_at": "2023-03-16T00:04:55.72311Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "62.103.109.98",
@@ -4015,9 +4015,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:15:27Z",
+    "checked_at": "2026-02-28T02:13:04Z",
     "created_at": "2023-03-16T03:59:20.758026Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "79.129.2.77",
@@ -4030,7 +4030,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9696969696969697,
-    "checked_at": "2025-03-12T13:15:34Z",
+    "checked_at": "2026-02-28T02:13:05Z",
     "created_at": "2023-03-16T09:20:33.652817Z",
     "available": false
   },
@@ -4045,12 +4045,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:15:41Z",
+    "checked_at": "2026-02-28T02:13:06Z",
     "created_at": "2023-03-16T10:24:46.225654Z",
     "available": false
   },
   {
-    "ip": "79.129.126.184",
+    "ip": "79.129.126.83",
     "name": "o4q6i1.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -4060,7 +4060,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-12T13:15:49Z",
+    "checked_at": "2026-02-28T02:13:06Z",
     "created_at": "2023-03-16T12:42:19.884043Z",
     "available": true
   },
@@ -4075,7 +4075,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-12T13:15:56Z",
+    "checked_at": "2026-02-28T02:13:08Z",
     "created_at": "2023-03-16T14:04:06.214432Z",
     "available": true
   },
@@ -4090,7 +4090,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-12T13:16:04Z",
+    "checked_at": "2026-02-28T02:13:08Z",
     "created_at": "2023-03-16T14:36:26.656837Z",
     "available": true
   },
@@ -4105,7 +4105,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-12T13:16:07Z",
+    "checked_at": "2026-02-28T02:13:08Z",
     "created_at": "2023-03-16T14:37:23.280943Z",
     "available": true
   },
@@ -4120,7 +4120,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8888888888888888,
-    "checked_at": "2025-03-12T13:16:10Z",
+    "checked_at": "2026-02-28T02:13:09Z",
     "created_at": "2023-03-16T15:25:38.655517Z",
     "available": true
   },
@@ -4135,7 +4135,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6,
-    "checked_at": "2025-03-12T13:16:13Z",
+    "checked_at": "2026-02-28T02:13:09Z",
     "created_at": "2023-03-16T15:35:54.374643Z",
     "available": false
   },
@@ -4150,12 +4150,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-12T13:16:21Z",
+    "checked_at": "2026-02-28T02:13:09Z",
     "created_at": "2023-03-16T15:46:29.352209Z",
     "available": false
   },
   {
-    "ip": "87.202.254.194",
+    "ip": "87.202.254.146",
     "name": "olhfwx.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -4165,12 +4165,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2025-03-12T13:16:28Z",
+    "checked_at": "2026-02-28T02:13:10Z",
     "created_at": "2023-03-16T16:26:00.49774Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "84.254.4.18",
+    "ip": "84.254.4.145",
     "name": "ipa18.4.tellas.gr.",
     "as_number": 25472,
     "as_org": "Nova Telecommunications & Media Single Member S.A",
@@ -4180,7 +4180,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.5853658536585366,
-    "checked_at": "2025-03-12T13:16:35Z",
+    "checked_at": "2026-02-28T02:13:10Z",
     "created_at": "2023-03-16T17:20:44.680618Z",
     "available": true
   },
@@ -4195,7 +4195,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-12T13:16:39Z",
+    "checked_at": "2026-02-28T02:13:10Z",
     "created_at": "2023-03-16T18:00:37.945183Z",
     "available": true
   },
@@ -4210,7 +4210,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9290780141843972,
-    "checked_at": "2025-03-12T13:16:42Z",
+    "checked_at": "2026-02-28T02:13:11Z",
     "created_at": "2023-03-16T18:16:18.183658Z",
     "available": true
   },
@@ -4225,12 +4225,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5384615384615384,
-    "checked_at": "2025-03-12T13:16:45Z",
+    "checked_at": "2026-02-28T02:13:11Z",
     "created_at": "2023-03-16T19:12:01.592263Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "62.74.159.131",
+    "ip": "62.74.159.179",
     "name": "dumy221.panafonet.gr.",
     "as_number": 12361,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -4240,12 +4240,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7037037037037037,
-    "checked_at": "2025-03-12T13:16:52Z",
+    "checked_at": "2026-02-28T02:13:11Z",
     "created_at": "2023-03-16T19:28:06.15617Z",
     "available": true
   },
   {
-    "ip": "31.177.62.69",
+    "ip": "31.177.62.70",
     "name": "",
     "as_number": 56910,
     "as_org": "Digital Realty Hellas Single Member S.A",
@@ -4255,7 +4255,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6785714285714286,
-    "checked_at": "2025-03-12T13:16:57Z",
+    "checked_at": "2026-02-28T02:13:12Z",
     "created_at": "2023-03-16T20:04:15.835948Z",
     "available": true
   },
@@ -4270,7 +4270,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5357142857142857,
-    "checked_at": "2025-03-12T13:17:04Z",
+    "checked_at": "2026-02-28T02:13:13Z",
     "created_at": "2023-03-16T20:26:53.539136Z",
     "available": true
   },
@@ -4285,7 +4285,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5172413793103449,
-    "checked_at": "2025-03-12T13:17:12Z",
+    "checked_at": "2026-02-28T02:13:14Z",
     "created_at": "2023-03-16T22:13:46.400688Z",
     "available": false
   },
@@ -4300,7 +4300,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-12T13:17:19Z",
+    "checked_at": "2026-02-28T02:13:14Z",
     "created_at": "2023-03-16T23:14:18.943778Z",
     "available": false
   },
@@ -4315,7 +4315,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6451612903225806,
-    "checked_at": "2025-03-12T13:17:26Z",
+    "checked_at": "2026-02-28T02:13:14Z",
     "created_at": "2023-03-16T23:16:16.322776Z",
     "available": true
   },
@@ -4330,12 +4330,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5483870967741935,
-    "checked_at": "2025-03-12T13:17:30Z",
+    "checked_at": "2026-02-28T02:13:14Z",
     "created_at": "2023-03-17T00:03:29.086465Z",
     "available": true
   },
   {
-    "ip": "94.70.234.1",
+    "ip": "94.70.234.145",
     "name": "host1.marpessa.ondsl.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -4345,12 +4345,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5806451612903226,
-    "checked_at": "2025-03-12T13:17:37Z",
+    "checked_at": "2026-02-28T02:13:15Z",
     "created_at": "2023-03-17T00:09:39.663199Z",
     "available": true
   },
   {
-    "ip": "79.129.54.38",
+    "ip": "79.129.54.78",
     "name": "tbsp96.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -4360,7 +4360,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5483870967741935,
-    "checked_at": "2025-03-12T13:17:37Z",
+    "checked_at": "2026-02-28T02:13:15Z",
     "created_at": "2023-03-17T00:10:36.127303Z",
     "available": true
   },
@@ -4375,7 +4375,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-12T13:17:41Z",
+    "checked_at": "2026-02-28T02:13:17Z",
     "created_at": "2023-03-17T01:17:55.406968Z",
     "available": false
   },
@@ -4390,12 +4390,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5483870967741935,
-    "checked_at": "2025-03-12T13:17:48Z",
+    "checked_at": "2026-02-28T02:13:17Z",
     "created_at": "2023-03-17T01:22:19.093888Z",
     "available": true
   },
   {
-    "ip": "79.129.93.46",
+    "ip": "79.129.93.129",
     "name": "ocv8o9.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -4405,7 +4405,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5483870967741935,
-    "checked_at": "2025-03-12T13:17:55Z",
+    "checked_at": "2026-02-28T02:13:17Z",
     "created_at": "2023-03-17T01:31:15.385729Z",
     "available": true
   },
@@ -4420,7 +4420,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.71875,
-    "checked_at": "2025-03-12T13:17:56Z",
+    "checked_at": "2026-02-28T02:13:17Z",
     "created_at": "2023-03-17T02:18:56.5777Z",
     "available": true
   },
@@ -4435,12 +4435,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5625,
-    "checked_at": "2025-03-12T13:18:03Z",
+    "checked_at": "2026-02-28T02:13:18Z",
     "created_at": "2023-03-17T02:19:22.270616Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "94.70.166.6",
+    "ip": "94.70.166.66",
     "name": "unio36.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -4450,9 +4450,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4411764705882353,
-    "checked_at": "2025-03-12T13:18:04Z",
+    "checked_at": "2026-02-28T02:13:18Z",
     "created_at": "2023-03-17T03:27:34.700421Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "31.177.57.20",
@@ -4465,7 +4465,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7560975609756098,
-    "checked_at": "2025-03-12T13:18:11Z",
+    "checked_at": "2026-02-28T02:13:18Z",
     "created_at": "2023-03-17T04:06:57.918614Z",
     "available": false
   },
@@ -4480,7 +4480,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8780487804878049,
-    "checked_at": "2025-03-12T13:18:18Z",
+    "checked_at": "2026-02-28T02:13:19Z",
     "created_at": "2023-03-17T04:11:09.737422Z",
     "available": false
   },
@@ -4495,7 +4495,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6136363636363636,
-    "checked_at": "2025-03-12T13:18:26Z",
+    "checked_at": "2026-02-28T02:13:20Z",
     "created_at": "2023-03-17T05:42:23.003366Z",
     "available": true
   },
@@ -4510,7 +4510,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-12T13:18:33Z",
+    "checked_at": "2026-02-28T02:13:21Z",
     "created_at": "2023-03-17T06:19:27.166961Z",
     "available": true
   },
@@ -4525,7 +4525,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7727272727272727,
-    "checked_at": "2025-03-12T13:18:41Z",
+    "checked_at": "2026-02-28T02:13:21Z",
     "created_at": "2023-03-17T06:48:29.723566Z",
     "available": true
   },
@@ -4540,7 +4540,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6304347826086957,
-    "checked_at": "2025-03-12T13:18:48Z",
+    "checked_at": "2026-02-28T02:13:21Z",
     "created_at": "2023-03-17T06:55:30.499062Z",
     "available": true
   },
@@ -4555,12 +4555,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7954545454545454,
-    "checked_at": "2025-03-12T13:18:55Z",
+    "checked_at": "2026-02-28T02:13:23Z",
     "created_at": "2023-03-17T07:07:46.284896Z",
     "available": true
   },
   {
-    "ip": "79.129.55.28",
+    "ip": "79.129.55.97",
     "name": "o3g6pt.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -4570,9 +4570,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7727272727272727,
-    "checked_at": "2025-03-12T13:18:58Z",
+    "checked_at": "2026-02-28T02:13:24Z",
     "created_at": "2023-03-17T07:19:30.834857Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "79.129.100.212",
@@ -4585,9 +4585,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-12T13:19:06Z",
+    "checked_at": "2026-02-28T02:13:25Z",
     "created_at": "2023-03-17T08:49:37.256072Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "62.74.200.11",
@@ -4600,12 +4600,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.05555555555555555,
-    "checked_at": "2025-03-12T13:19:06Z",
+    "checked_at": "2026-02-28T02:13:25Z",
     "created_at": "2023-03-17T11:07:44.760771Z",
     "available": true
   },
   {
-    "ip": "62.74.209.13",
+    "ip": "62.74.209.35",
     "name": "",
     "as_number": 12361,
     "as_org": "Vodafone-panafon Hellenic Telecommunications Company SA",
@@ -4615,12 +4615,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.05555555555555555,
-    "checked_at": "2025-03-12T13:19:14Z",
+    "checked_at": "2026-02-28T02:13:25Z",
     "created_at": "2023-03-17T11:15:41.210578Z",
     "available": true
   },
   {
-    "ip": "79.129.10.169",
+    "ip": "79.129.10.185",
     "name": "o0k6im.static.otenet.gr.",
     "as_number": 6799,
     "as_org": "OTEnet S.A.",
@@ -4630,7 +4630,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7142857142857143,
-    "checked_at": "2025-03-12T13:19:21Z",
+    "checked_at": "2026-02-28T02:13:25Z",
     "created_at": "2023-03-17T12:44:55.646504Z",
     "available": true
   },
@@ -4645,7 +4645,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8571428571428571,
-    "checked_at": "2025-03-12T13:19:22Z",
+    "checked_at": "2026-02-28T02:13:25Z",
     "created_at": "2023-03-17T12:46:25.888796Z",
     "available": true
   },
@@ -4660,9 +4660,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.047619047619047616,
-    "checked_at": "2025-03-12T13:19:29Z",
+    "checked_at": "2026-02-28T02:13:26Z",
     "created_at": "2023-03-17T13:46:24.871083Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "91.138.160.201",
@@ -4675,7 +4675,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.047619047619047616,
-    "checked_at": "2025-03-12T13:19:36Z",
+    "checked_at": "2026-02-28T02:13:26Z",
     "created_at": "2023-03-17T14:05:19.220306Z",
     "available": false
   },
@@ -4690,7 +4690,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.047619047619047616,
-    "checked_at": "2025-03-12T13:19:44Z",
+    "checked_at": "2026-02-28T02:13:26Z",
     "created_at": "2023-03-17T14:13:11.285412Z",
     "available": true
   },
@@ -4705,7 +4705,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.043478260869565216,
-    "checked_at": "2025-03-12T13:19:51Z",
+    "checked_at": "2026-02-28T02:13:26Z",
     "created_at": "2023-03-17T15:04:30.684969Z",
     "available": true
   },
@@ -4720,9 +4720,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.90625,
-    "checked_at": "2025-03-12T13:19:59Z",
+    "checked_at": "2026-02-28T02:13:27Z",
     "created_at": "2023-03-17T15:13:36.375239Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "143.233.233.142",
@@ -4735,7 +4735,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8986175115207373,
-    "checked_at": "2025-03-12T13:20:06Z",
+    "checked_at": "2026-02-28T02:13:27Z",
     "created_at": "2023-03-17T15:27:37.540944Z",
     "available": true
   },
@@ -4750,7 +4750,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.987012987012987,
-    "checked_at": "2025-03-12T13:20:06Z",
+    "checked_at": "2026-02-28T02:13:28Z",
     "created_at": "2023-03-17T18:38:42.699773Z",
     "available": true
   },
@@ -4765,7 +4765,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.14814814814814814,
-    "checked_at": "2025-03-12T13:20:11Z",
+    "checked_at": "2026-02-28T02:13:28Z",
     "created_at": "2023-03-17T18:49:32.994292Z",
     "available": true
   },
@@ -4780,7 +4780,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9310344827586207,
-    "checked_at": "2025-03-12T13:20:18Z",
+    "checked_at": "2026-02-28T02:13:29Z",
     "created_at": "2023-03-17T19:06:56.399515Z",
     "available": true
   },
@@ -4795,7 +4795,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:20:26Z",
+    "checked_at": "2026-02-28T02:13:29Z",
     "created_at": "2023-03-18T06:38:56.078653Z",
     "available": true
   },
@@ -4810,7 +4810,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:20:29Z",
+    "checked_at": "2026-02-28T02:13:29Z",
     "created_at": "2023-03-18T09:43:58.867771Z",
     "available": true
   },
@@ -4825,7 +4825,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:20:36Z",
+    "checked_at": "2026-02-28T02:13:29Z",
     "created_at": "2023-03-18T13:17:26.631859Z",
     "available": true
   },
@@ -4840,7 +4840,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:20:44Z",
+    "checked_at": "2026-02-28T02:13:30Z",
     "created_at": "2023-03-18T16:48:50.937941Z",
     "available": true
   },
@@ -4855,7 +4855,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:20:44Z",
+    "checked_at": "2026-02-28T02:13:30Z",
     "created_at": "2023-03-18T17:03:43.87586Z",
     "available": true
   },
@@ -4870,9 +4870,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2025-03-12T13:20:45Z",
+    "checked_at": "2026-02-28T02:13:30Z",
     "created_at": "2023-03-18T17:48:16.38762Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "79.131.102.237",
@@ -4885,12 +4885,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9044585987261147,
-    "checked_at": "2025-03-12T13:20:52Z",
+    "checked_at": "2026-02-28T02:13:30Z",
     "created_at": "2023-03-18T20:56:04.690584Z",
     "available": true
   },
   {
-    "ip": "213.16.183.64",
+    "ip": "213.16.183.15",
     "name": "kteonfaliro.ath.forthnet.gr.",
     "as_number": 1241,
     "as_org": "Nova Telecommunications & Media Single Member S.A",
@@ -4900,9 +4900,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.25,
-    "checked_at": "2025-03-12T13:20:55Z",
+    "checked_at": "2026-02-28T02:13:30Z",
     "created_at": "2023-03-19T00:46:19.16271Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "85.72.59.180",
@@ -4915,7 +4915,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-12T13:21:02Z",
+    "checked_at": "2026-02-28T02:13:31Z",
     "created_at": "2023-03-19T01:34:45.61612Z",
     "available": true
   },
@@ -4930,7 +4930,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2025-03-12T13:21:10Z",
+    "checked_at": "2026-02-28T02:13:31Z",
     "created_at": "2023-03-19T02:24:25.077866Z",
     "available": false
   },
@@ -4945,7 +4945,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.3076923076923077,
-    "checked_at": "2025-03-12T13:21:14Z",
+    "checked_at": "2026-02-28T02:13:31Z",
     "created_at": "2023-03-19T04:18:48.68293Z",
     "available": true
   },
@@ -4960,7 +4960,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:21:15Z",
+    "checked_at": "2026-02-28T02:13:31Z",
     "created_at": "2023-03-19T07:23:22.690423Z",
     "available": false
   },
@@ -4975,7 +4975,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:21:22Z",
+    "checked_at": "2026-02-28T02:13:32Z",
     "created_at": "2023-03-19T09:52:54.331371Z",
     "available": true
   },
@@ -4990,7 +4990,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6551724137931034,
-    "checked_at": "2025-03-12T13:21:30Z",
+    "checked_at": "2026-02-28T02:13:32Z",
     "created_at": "2023-03-19T14:15:35.25195Z",
     "available": true
   },
@@ -5005,9 +5005,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6153846153846154,
-    "checked_at": "2025-03-12T13:21:34Z",
+    "checked_at": "2026-02-28T02:13:32Z",
     "created_at": "2023-03-19T20:08:31.065493Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "150.140.189.211",
@@ -5020,7 +5020,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:21:41Z",
+    "checked_at": "2026-02-28T02:13:33Z",
     "created_at": "2023-04-10T02:38:30.905099Z",
     "available": true
   },
@@ -5035,7 +5035,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-12T13:21:46Z",
+    "checked_at": "2026-02-28T02:13:33Z",
     "created_at": "2023-04-10T20:52:49.792764Z",
     "available": true
   },
@@ -5050,7 +5050,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.5864661654135338,
-    "checked_at": "2025-03-12T13:21:49Z",
+    "checked_at": "2026-02-28T02:13:33Z",
     "created_at": "2023-05-04T13:43:53.700649Z",
     "available": true
   }
