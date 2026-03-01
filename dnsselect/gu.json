@@ -10,12 +10,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T01:54:28Z",
+    "checked_at": "2026-03-01T08:26:56Z",
     "created_at": "2022-08-07T01:17:02.582503Z",
     "available": true
   },
   {
-    "ip": "209.164.189.55",
+    "ip": "209.164.189.52",
     "name": "209-164-189-55.biz.static.teleguam.net.",
     "as_number": 9246,
     "as_org": "Teleguam Holdings, LLC",
@@ -25,12 +25,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T01:54:29Z",
+    "checked_at": "2026-03-01T08:26:56Z",
     "created_at": "2022-08-07T01:17:06.483303Z",
     "available": true
   },
   {
-    "ip": "209.164.189.56",
+    "ip": "209.164.189.52",
     "name": "209-164-189-56.biz.static.teleguam.net.",
     "as_number": 9246,
     "as_org": "Teleguam Holdings, LLC",
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T01:54:29Z",
+    "checked_at": "2026-03-01T08:26:56Z",
     "created_at": "2022-08-07T01:17:08.800016Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T01:54:29Z",
+    "checked_at": "2026-03-01T08:26:56Z",
     "created_at": "2022-10-03T19:34:40.171206Z",
     "available": false
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-13T01:54:37Z",
+    "checked_at": "2026-03-01T08:26:56Z",
     "created_at": "2022-12-08T23:22:15.249856Z",
     "available": true
   },
@@ -85,9 +85,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T01:54:44Z",
+    "checked_at": "2026-03-01T08:26:56Z",
     "created_at": "2023-03-14T12:14:33.40643Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "202.151.81.209",
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T01:54:51Z",
+    "checked_at": "2026-03-01T08:26:56Z",
     "created_at": "2023-03-14T20:56:44.858033Z",
     "available": true
   },
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9650924024640657,
-    "checked_at": "2025-11-13T01:54:52Z",
+    "checked_at": "2026-03-01T08:26:56Z",
     "created_at": "2023-03-17T03:04:32.789789Z",
     "available": true
   }
