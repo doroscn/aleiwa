@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37517,"Description":"CVTS1","CC":"CV","Users":310431,"Percent of CC Pop":79.36,"Percent of Internet":0.0074,"Samples":266534},
-{"rank":2,"AS":37575,"Description":"TMAIS","CC":"CV","Users":94635,"Percent of CC Pop":24.19,"Percent of Internet":0.0023,"Samples":81082},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CV","Users":19461,"Percent of CC Pop":4.98,"Percent of Internet":0.0005,"Samples":16985},
-{"rank":4,"AS":327862,"Description":"NOSi","CC":"CV","Users":3082,"Percent of CC Pop":0.79,"Percent of Internet":0.0001,"Samples":2563},
-{"rank":5,"AS":329138,"Description":"BBCD1-AS","CC":"CV","Users":306,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":35},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CV","Users":240,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":64},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"CV","Users":206,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":42},
-{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CV","Users":194,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":14}
+{"rank":1,"AS":37517,"Description":"CVTS1","CC":"CV","Users":310198,"Percent of CC Pop":79.30,"Percent of Internet":0.0074,"Samples":280592},
+{"rank":2,"AS":37575,"Description":"TMAIS","CC":"CV","Users":92616,"Percent of CC Pop":23.68,"Percent of Internet":0.0022,"Samples":84032},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CV","Users":23210,"Percent of CC Pop":5.93,"Percent of Internet":0.0006,"Samples":21247},
+{"rank":4,"AS":327862,"Description":"NOSi","CC":"CV","Users":2816,"Percent of CC Pop":0.72,"Percent of Internet":0.0001,"Samples":2498},
+{"rank":5,"AS":329138,"Description":"BBCD1-AS","CC":"CV","Users":244,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":33},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CV","Users":218,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":70},
+{"rank":7,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CV","Users":197,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":17},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"CV","Users":193,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":54}
   ]
 }

@@ -1,17 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37173,"Description":"GETESA","CC":"GQ","Users":275552,"Percent of CC Pop":64.00,"Percent of Internet":0.0066,"Samples":132177},
-{"rank":2,"AS":37337,"Description":"MUNI-EG","CC":"GQ","Users":150157,"Percent of CC Pop":34.88,"Percent of Internet":0.0036,"Samples":71183},
-{"rank":3,"AS":37529,"Description":"GITGE","CC":"GQ","Users":52875,"Percent of CC Pop":12.28,"Percent of Internet":0.0013,"Samples":24497},
-{"rank":4,"AS":328311,"Description":"Conexxia-AS","CC":"GQ","Users":39381,"Percent of CC Pop":9.15,"Percent of Internet":0.0009,"Samples":19039},
-{"rank":5,"AS":328207,"Description":"OFFICE-TECH","CC":"GQ","Users":19705,"Percent of CC Pop":4.58,"Percent of Internet":0.0005,"Samples":9412},
-{"rank":6,"AS":329219,"Description":"Fenix-EG","CC":"GQ","Users":11627,"Percent of CC Pop":2.70,"Percent of Internet":0.0003,"Samples":5496},
-{"rank":7,"AS":37487,"Description":"GUINEANET","CC":"GQ","Users":2481,"Percent of CC Pop":0.58,"Percent of Internet":0.0001,"Samples":1125},
-{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"GQ","Users":1234,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":64},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GQ","Users":685,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":93}
+{"rank":1,"AS":37173,"Description":"GETESA","CC":"GQ","Users":261417,"Percent of CC Pop":60.72,"Percent of Internet":0.0063,"Samples":125493},
+{"rank":2,"AS":37337,"Description":"MUNI-EG","CC":"GQ","Users":161869,"Percent of CC Pop":37.60,"Percent of Internet":0.0039,"Samples":77171},
+{"rank":3,"AS":37529,"Description":"GITGE","CC":"GQ","Users":65627,"Percent of CC Pop":15.24,"Percent of Internet":0.0016,"Samples":31233},
+{"rank":4,"AS":328311,"Description":"Conexxia-AS","CC":"GQ","Users":30335,"Percent of CC Pop":7.05,"Percent of Internet":0.0007,"Samples":14240},
+{"rank":5,"AS":328207,"Description":"OFFICE-TECH","CC":"GQ","Users":19932,"Percent of CC Pop":4.63,"Percent of Internet":0.0005,"Samples":9502},
+{"rank":6,"AS":329219,"Description":"Fenix-EG","CC":"GQ","Users":11515,"Percent of CC Pop":2.67,"Percent of Internet":0.0003,"Samples":5402},
+{"rank":7,"AS":37487,"Description":"GUINEANET","CC":"GQ","Users":2980,"Percent of CC Pop":0.69,"Percent of Internet":0.0001,"Samples":1376},
+{"rank":8,"AS":29286,"Description":"SKYLOGIC-AS","CC":"GQ","Users":1211,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":63},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GQ","Users":772,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":89},
+{"rank":10,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GQ","Users":384,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":16}
   ]
 }

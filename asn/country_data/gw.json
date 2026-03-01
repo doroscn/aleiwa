@@ -1,11 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":327769,"Description":"MTN-Bissau","CC":"GW","Users":76867,"Percent of CC Pop":92.83,"Percent of Internet":0.0018,"Samples":74098},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GW","Users":22143,"Percent of CC Pop":26.74,"Percent of Internet":0.0005,"Samples":16634},
-{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GW","Users":1971,"Percent of CC Pop":2.38,"Percent of Internet":0.0000,"Samples":1042}
+{"rank":1,"AS":327769,"Description":"MTN-Bissau","CC":"GW","Users":71130,"Percent of CC Pop":85.90,"Percent of Internet":0.0017,"Samples":80103},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GW","Users":22756,"Percent of CC Pop":27.48,"Percent of Internet":0.0005,"Samples":24884},
+{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GW","Users":1691,"Percent of CC Pop":2.04,"Percent of Internet":0.0000,"Samples":1250},
+{"rank":4,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GW","Users":156,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":204649,"Description":"FALK","CC":"FK","Users":3610,"Percent of CC Pop":104.34,"Percent of Internet":0.0001,"Samples":7182},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"FK","Users":2124,"Percent of CC Pop":61.39,"Percent of Internet":0.0001,"Samples":248},
-{"rank":3,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"FK","Users":353,"Percent of CC Pop":10.20,"Percent of Internet":0.0000,"Samples":34}
+{"rank":1,"AS":204649,"Description":"FALK","CC":"FK","Users":3151,"Percent of CC Pop":91.07,"Percent of Internet":0.0001,"Samples":5647},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"FK","Users":2004,"Percent of CC Pop":57.92,"Percent of Internet":0.0000,"Samples":1528},
+{"rank":3,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"FK","Users":262,"Percent of CC Pop":7.57,"Percent of Internet":0.0000,"Samples":40}
   ]
 }

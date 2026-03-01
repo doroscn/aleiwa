@@ -1,22 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":327802,"Description":"MILLICOM-CHAD","CC":"TD","Users":770830,"Percent of CC Pop":50.64,"Percent of Internet":0.0185,"Samples":415573},
-{"rank":2,"AS":327756,"Description":"AIRTEL-","CC":"TD","Users":656871,"Percent of CC Pop":43.16,"Percent of Internet":0.0157,"Samples":354265},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TD","Users":349955,"Percent of CC Pop":22.99,"Percent of Internet":0.0084,"Samples":186230},
-{"rank":4,"AS":327975,"Description":"ILNET-TELECOM","CC":"TD","Users":8570,"Percent of CC Pop":0.56,"Percent of Internet":0.0002,"Samples":4480},
-{"rank":5,"AS":328594,"Description":"SAFITELCHAD-AS","CC":"TD","Users":2561,"Percent of CC Pop":0.17,"Percent of Internet":0.0001,"Samples":1341},
-{"rank":6,"AS":328310,"Description":"GLOBALTEL-Networks","CC":"TD","Users":2221,"Percent of CC Pop":0.15,"Percent of Internet":0.0001,"Samples":1042},
-{"rank":7,"AS":329207,"Description":"NBSS1-AS","CC":"TD","Users":1909,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":989},
-{"rank":8,"AS":327864,"Description":"ALBIDEYNET","CC":"TD","Users":1408,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":613},
+{"rank":1,"AS":327802,"Description":"MILLICOM-CHAD","CC":"TD","Users":709442,"Percent of CC Pop":46.61,"Percent of Internet":0.0170,"Samples":407449},
+{"rank":2,"AS":327756,"Description":"AIRTEL-","CC":"TD","Users":614307,"Percent of CC Pop":40.36,"Percent of Internet":0.0147,"Samples":352941},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TD","Users":464939,"Percent of CC Pop":30.55,"Percent of Internet":0.0111,"Samples":269855},
+{"rank":4,"AS":327975,"Description":"ILNET-TELECOM","CC":"TD","Users":8552,"Percent of CC Pop":0.56,"Percent of Internet":0.0002,"Samples":4792},
+{"rank":5,"AS":328594,"Description":"SAFITELCHAD-AS","CC":"TD","Users":2645,"Percent of CC Pop":0.17,"Percent of Internet":0.0001,"Samples":1467},
+{"rank":6,"AS":328310,"Description":"GLOBALTEL-Networks","CC":"TD","Users":1896,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":928},
+{"rank":7,"AS":329207,"Description":"NBSS1-AS","CC":"TD","Users":1649,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":913},
+{"rank":8,"AS":327864,"Description":"ALBIDEYNET","CC":"TD","Users":1332,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":631},
 {"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"TD","Users":1177,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":30},
-{"rank":10,"AS":37462,"Description":"Prestabist","CC":"TD","Users":913,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":314},
-{"rank":11,"AS":328604,"Description":"Sahel-Tele-Internet-AS","CC":"TD","Users":722,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":184},
-{"rank":12,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TD","Users":712,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":201},
-{"rank":13,"AS":328599,"Description":"Amanet-SARL","CC":"TD","Users":423,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":31},
-{"rank":14,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TD","Users":303,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":10}
+{"rank":10,"AS":37462,"Description":"Prestabist","CC":"TD","Users":863,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":319},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TD","Users":590,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":199},
+{"rank":12,"AS":328599,"Description":"Amanet-SARL","CC":"TD","Users":444,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":64},
+{"rank":13,"AS":328604,"Description":"Sahel-Tele-Internet-AS","CC":"TD","Users":441,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":95},
+{"rank":14,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TD","Users":291,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

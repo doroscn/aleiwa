@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30873,"Description":"PTC-YEMENNET","CC":"YE","Users":7284026,"Percent of CC Pop":82.54,"Percent of Internet":0.1746,"Samples":224479},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"YE","Users":2707261,"Percent of CC Pop":30.68,"Percent of Internet":0.0649,"Samples":953912},
-{"rank":3,"AS":204317,"Description":"ADENNET","CC":"YE","Users":218901,"Percent of CC Pop":2.48,"Percent of Internet":0.0052,"Samples":78290},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"YE","Users":11800,"Percent of CC Pop":0.13,"Percent of Internet":0.0003,"Samples":4180},
-{"rank":5,"AS":12486,"Description":"TELEYEMEN Sanaa","CC":"YE","Users":565,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":36},
-{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"YE","Users":437,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":18}
+{"rank":1,"AS":30873,"Description":"PTC-YEMENNET","CC":"YE","Users":7158752,"Percent of CC Pop":81.12,"Percent of Internet":0.1715,"Samples":205820},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"YE","Users":3077178,"Percent of CC Pop":34.87,"Percent of Internet":0.0737,"Samples":1076396},
+{"rank":3,"AS":204317,"Description":"ADENNET","CC":"YE","Users":219169,"Percent of CC Pop":2.48,"Percent of Internet":0.0053,"Samples":78574},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"YE","Users":12307,"Percent of CC Pop":0.14,"Percent of Internet":0.0003,"Samples":4358},
+{"rank":5,"AS":12486,"Description":"TELEYEMEN Sanaa","CC":"YE","Users":875,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":58},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"YE","Users":570,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":24}
   ]
 }

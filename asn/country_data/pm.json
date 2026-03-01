@@ -1,11 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3695,"Description":"SPM-TELECOM-1 - SPM TELECOM","CC":"PM","Users":3169,"Percent of CC Pop":99.47,"Percent of Internet":0.0001,"Samples":27639},
+{"rank":1,"AS":3695,"Description":"SPM-TELECOM-1 - SPM TELECOM","CC":"PM","Users":3167,"Percent of CC Pop":99.40,"Percent of Internet":0.0001,"Samples":29182},
 {"rank":2,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"PM","Users":36,"Percent of CC Pop":1.13,"Percent of Internet":0.0000,"Samples":13},
-{"rank":3,"AS":41653,"Description":"AQUARAY","CC":"PM","Users":24,"Percent of CC Pop":0.75,"Percent of Internet":0.0000,"Samples":32}
+{"rank":3,"AS":41653,"Description":"AQUARAY","CC":"PM","Users":31,"Percent of CC Pop":0.97,"Percent of Internet":0.0000,"Samples":42}
   ]
 }

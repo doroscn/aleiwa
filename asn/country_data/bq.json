@@ -1,17 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27745,"Description":"Telefonia Bonairiano N.V.","CC":"BQ","Users":7225,"Percent of CC Pop":50.10,"Percent of Internet":0.0002,"Samples":27506},
-{"rank":2,"AS":27694,"Description":"Flamingo TV Bonaire N.V.","CC":"BQ","Users":3915,"Percent of CC Pop":27.15,"Percent of Internet":0.0001,"Samples":15020},
-{"rank":3,"AS":28104,"Description":"Eutel N.V.","CC":"BQ","Users":2305,"Percent of CC Pop":15.98,"Percent of Internet":0.0001,"Samples":8566},
-{"rank":4,"AS":262188,"Description":"Satel NV","CC":"BQ","Users":1226,"Percent of CC Pop":8.50,"Percent of Internet":0.0000,"Samples":4569},
-{"rank":5,"AS":27660,"Description":"Curacao Telecom","CC":"BQ","Users":738,"Percent of CC Pop":5.12,"Percent of Internet":0.0000,"Samples":1165},
-{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BQ","Users":286,"Percent of CC Pop":1.98,"Percent of Internet":0.0000,"Samples":306},
-{"rank":7,"AS":52389,"Description":"SSCS BV","CC":"BQ","Users":105,"Percent of CC Pop":0.73,"Percent of Internet":0.0000,"Samples":64},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"BQ","Users":48,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":28},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BQ","Users":45,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":29}
+{"rank":1,"AS":27745,"Description":"Telefonia Bonairiano N.V.","CC":"BQ","Users":7316,"Percent of CC Pop":50.73,"Percent of Internet":0.0002,"Samples":29557},
+{"rank":2,"AS":27694,"Description":"Flamingo TV Bonaire N.V.","CC":"BQ","Users":4185,"Percent of CC Pop":29.02,"Percent of Internet":0.0001,"Samples":17320},
+{"rank":3,"AS":28104,"Description":"Eutel N.V.","CC":"BQ","Users":2017,"Percent of CC Pop":13.99,"Percent of Internet":0.0000,"Samples":7821},
+{"rank":4,"AS":262188,"Description":"Satel NV","CC":"BQ","Users":1307,"Percent of CC Pop":9.06,"Percent of Internet":0.0000,"Samples":5039},
+{"rank":5,"AS":27660,"Description":"Curacao Telecom","CC":"BQ","Users":751,"Percent of CC Pop":5.21,"Percent of Internet":0.0000,"Samples":514},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BQ","Users":217,"Percent of CC Pop":1.50,"Percent of Internet":0.0000,"Samples":389},
+{"rank":7,"AS":52389,"Description":"SSCS BV","CC":"BQ","Users":78,"Percent of CC Pop":0.54,"Percent of Internet":0.0000,"Samples":69},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BQ","Users":43,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":36},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"BQ","Users":38,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":30}
   ]
 }

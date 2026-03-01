@@ -1,18 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6752,"Description":"ANDORRA Andorra Telecom","CC":"AD","Users":75727,"Percent of CC Pop":97.29,"Percent of Internet":0.0018,"Samples":185388},
-{"rank":2,"AS":209854,"Description":"CYBERZONEHUB","CC":"AD","Users":2119,"Percent of CC Pop":2.72,"Percent of Internet":0.0001,"Samples":5183},
-{"rank":3,"AS":212238,"Description":"CDNEXT","CC":"AD","Users":1882,"Percent of CC Pop":2.42,"Percent of Internet":0.0000,"Samples":4477},
-{"rank":4,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"AD","Users":1339,"Percent of CC Pop":1.72,"Percent of Internet":0.0000,"Samples":3318},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AD","Users":303,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":21},
-{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"AD","Users":236,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":33},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AD","Users":106,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":151},
-{"rank":8,"AS":9009,"Description":"M247","CC":"AD","Users":87,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":101},
-{"rank":9,"AS":13213,"Description":"UK2NET-AS","CC":"AD","Users":71,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":40},
-{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AD","Users":62,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":43}
+{"rank":1,"AS":6752,"Description":"ANDORRA Andorra Telecom","CC":"AD","Users":76157,"Percent of CC Pop":97.84,"Percent of Internet":0.0018,"Samples":199196},
+{"rank":2,"AS":209854,"Description":"CYBERZONEHUB","CC":"AD","Users":2065,"Percent of CC Pop":2.65,"Percent of Internet":0.0000,"Samples":5340},
+{"rank":3,"AS":212238,"Description":"CDNEXT","CC":"AD","Users":1457,"Percent of CC Pop":1.87,"Percent of Internet":0.0000,"Samples":3687},
+{"rank":4,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"AD","Users":1408,"Percent of CC Pop":1.81,"Percent of Internet":0.0000,"Samples":3683},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AD","Users":341,"Percent of CC Pop":0.44,"Percent of Internet":0.0000,"Samples":58},
+{"rank":6,"AS":132372,"Description":"GBNETWORK-AS-AP GB Network Solutions Sdn. Bhd.","CC":"AD","Users":269,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":84},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AD","Users":117,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":171},
+{"rank":8,"AS":9009,"Description":"M247","CC":"AD","Users":69,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":62},
+{"rank":9,"AS":13213,"Description":"UK2NET-AS","CC":"AD","Users":59,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":26},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AD","Users":59,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":52},
+{"rank":11,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"AD","Users":46,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

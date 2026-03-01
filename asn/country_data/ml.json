@@ -1,16 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30985,"Description":"IKATELNET","CC":"ML","Users":2326583,"Percent of CC Pop":75.79,"Percent of Internet":0.0558,"Samples":2601460},
-{"rank":2,"AS":21271,"Description":"SOTELMABGP","CC":"ML","Users":1291775,"Percent of CC Pop":42.08,"Percent of Internet":0.0310,"Samples":1448336},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ML","Users":173829,"Percent of CC Pop":5.66,"Percent of Internet":0.0042,"Samples":36627},
-{"rank":4,"AS":328253,"Description":"MALI-ATEL","CC":"ML","Users":91349,"Percent of CC Pop":2.98,"Percent of Internet":0.0022,"Samples":100525},
-{"rank":5,"AS":36864,"Description":"AFRIBONEMALI-AS","CC":"ML","Users":28499,"Percent of CC Pop":0.93,"Percent of Internet":0.0007,"Samples":30921},
-{"rank":6,"AS":328284,"Description":"SMDT1-AS","CC":"ML","Users":1812,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":1957},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"ML","Users":561,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":549},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"ML","Users":103,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":11}
+{"rank":1,"AS":30985,"Description":"IKATELNET","CC":"ML","Users":2315283,"Percent of CC Pop":75.42,"Percent of Internet":0.0555,"Samples":2567691},
+{"rank":2,"AS":21271,"Description":"SOTELMABGP","CC":"ML","Users":1267909,"Percent of CC Pop":41.30,"Percent of Internet":0.0304,"Samples":1406865},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ML","Users":207958,"Percent of CC Pop":6.77,"Percent of Internet":0.0050,"Samples":102640},
+{"rank":4,"AS":328253,"Description":"MALI-ATEL","CC":"ML","Users":87059,"Percent of CC Pop":2.84,"Percent of Internet":0.0021,"Samples":94553},
+{"rank":5,"AS":36864,"Description":"AFRIBONEMALI-AS","CC":"ML","Users":29033,"Percent of CC Pop":0.95,"Percent of Internet":0.0007,"Samples":31459},
+{"rank":6,"AS":328284,"Description":"SMDT1-AS","CC":"ML","Users":1839,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":1940},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"ML","Users":623,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":644},
+{"rank":8,"AS":60171,"Description":"AFRIX-AS","CC":"ML","Users":136,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":11},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"ML","Users":119,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

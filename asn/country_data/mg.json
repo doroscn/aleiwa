@@ -1,17 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37054,"Description":"Telecom-Malagasy","CC":"MG","Users":2520117,"Percent of CC Pop":55.57,"Percent of Internet":0.0604,"Samples":458765},
-{"rank":2,"AS":37037,"Description":"ORANGEMG-AS","CC":"MG","Users":1530598,"Percent of CC Pop":33.75,"Percent of Internet":0.0367,"Samples":270854},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MG","Users":482029,"Percent of CC Pop":10.63,"Percent of Internet":0.0116,"Samples":88271},
-{"rank":4,"AS":37303,"Description":"AIRTELMADA","CC":"MG","Users":448895,"Percent of CC Pop":9.90,"Percent of Internet":0.0108,"Samples":80778},
-{"rank":5,"AS":328411,"Description":"Gulfsat-Madagascar-AS","CC":"MG","Users":163086,"Percent of CC Pop":3.60,"Percent of Internet":0.0039,"Samples":28956},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MG","Users":6279,"Percent of CC Pop":0.14,"Percent of Internet":0.0002,"Samples":596},
-{"rank":7,"AS":37608,"Description":"iRENALA-AS","CC":"MG","Users":2719,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":270},
-{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"MG","Users":1049,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":15},
-{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MG","Users":875,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":25}
+{"rank":1,"AS":37054,"Description":"Telecom-Malagasy","CC":"MG","Users":2414634,"Percent of CC Pop":53.24,"Percent of Internet":0.0579,"Samples":465515},
+{"rank":2,"AS":37037,"Description":"ORANGEMG-AS","CC":"MG","Users":1473321,"Percent of CC Pop":32.49,"Percent of Internet":0.0353,"Samples":269096},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MG","Users":641894,"Percent of CC Pop":14.15,"Percent of Internet":0.0154,"Samples":119317},
+{"rank":4,"AS":37303,"Description":"AIRTELMADA","CC":"MG","Users":487094,"Percent of CC Pop":10.74,"Percent of Internet":0.0117,"Samples":89821},
+{"rank":5,"AS":328411,"Description":"Gulfsat-Madagascar-AS","CC":"MG","Users":161335,"Percent of CC Pop":3.56,"Percent of Internet":0.0039,"Samples":29532},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MG","Users":5724,"Percent of CC Pop":0.13,"Percent of Internet":0.0001,"Samples":586},
+{"rank":7,"AS":37608,"Description":"iRENALA-AS","CC":"MG","Users":3095,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":321},
+{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"MG","Users":1074,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":14},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MG","Users":896,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":29}
   ]
 }

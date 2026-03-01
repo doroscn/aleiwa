@@ -1,10 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":201004,"Description":"GLOBALTT-AS","CC":"ER","Users":50109,"Percent of CC Pop":95.18,"Percent of Internet":0.0012,"Samples":144},
-{"rank":2,"AS":30987,"Description":"ERITEL-AS","CC":"ER","Users":44571,"Percent of CC Pop":84.66,"Percent of Internet":0.0011,"Samples":66}
+{"rank":1,"AS":201004,"Description":"GLOBALTT-AS","CC":"ER","Users":49818,"Percent of CC Pop":94.63,"Percent of Internet":0.0012,"Samples":99},
+{"rank":2,"AS":30987,"Description":"ERITEL-AS","CC":"ER","Users":48242,"Percent of CC Pop":91.64,"Percent of Internet":0.0012,"Samples":97},
+{"rank":3,"AS":9009,"Description":"M247","CC":"ER","Users":40315,"Percent of CC Pop":76.58,"Percent of Internet":0.0010,"Samples":11},
+{"rank":4,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"ER","Users":31419,"Percent of CC Pop":59.68,"Percent of Internet":0.0008,"Samples":12}
   ]
 }

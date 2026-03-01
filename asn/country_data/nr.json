@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NR","Users":4270,"Percent of CC Pop":71.73,"Percent of Internet":0.0001,"Samples":11820},
-{"rank":2,"AS":140504,"Description":"DIGICELNAURU-AS-AP Digicel Nauru Corporation","CC":"NR","Users":2658,"Percent of CC Pop":44.65,"Percent of Internet":0.0001,"Samples":7269},
-{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NR","Users":353,"Percent of CC Pop":5.93,"Percent of Internet":0.0000,"Samples":431},
-{"rank":4,"AS":141368,"Description":"ICT-NR-AS-AP ICT","CC":"NR","Users":108,"Percent of CC Pop":1.81,"Percent of Internet":0.0000,"Samples":13},
-{"rank":5,"AS":55722,"Description":"CENPAC-AS-AP Cenpac Net Inc","CC":"NR","Users":99,"Percent of CC Pop":1.66,"Percent of Internet":0.0000,"Samples":41},
-{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"NR","Users":87,"Percent of CC Pop":1.46,"Percent of Internet":0.0000,"Samples":24}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NR","Users":4356,"Percent of CC Pop":73.17,"Percent of Internet":0.0001,"Samples":12345},
+{"rank":2,"AS":140504,"Description":"DIGICELNAURU-AS-AP Digicel Nauru Corporation","CC":"NR","Users":2600,"Percent of CC Pop":43.68,"Percent of Internet":0.0001,"Samples":7342},
+{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NR","Users":329,"Percent of CC Pop":5.53,"Percent of Internet":0.0000,"Samples":362},
+{"rank":4,"AS":141368,"Description":"ICT-NR-AS-AP ICT","CC":"NR","Users":124,"Percent of CC Pop":2.08,"Percent of Internet":0.0000,"Samples":37},
+{"rank":5,"AS":55722,"Description":"CENPAC-AS-AP Cenpac Net Inc","CC":"NR","Users":112,"Percent of CC Pop":1.88,"Percent of Internet":0.0000,"Samples":52},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"NR","Users":95,"Percent of CC Pop":1.60,"Percent of Internet":0.0000,"Samples":27}
   ]
 }

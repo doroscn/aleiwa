@@ -1,18 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37531,"Description":"AIRTEL-NIGER","CC":"NE","Users":2532117,"Percent of CC Pop":56.36,"Percent of Internet":0.0607,"Samples":645874},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NE","Users":1269156,"Percent of CC Pop":28.25,"Percent of Internet":0.0304,"Samples":341662},
-{"rank":3,"AS":37233,"Description":"ORANGE-NIGER","CC":"NE","Users":768535,"Percent of CC Pop":17.11,"Percent of Internet":0.0184,"Samples":192537},
-{"rank":4,"AS":37205,"Description":"ATLANTIQUE-TELECOM-NIGER","CC":"NE","Users":598373,"Percent of CC Pop":13.32,"Percent of Internet":0.0143,"Samples":149971},
-{"rank":5,"AS":37385,"Description":"SONITEL","CC":"NE","Users":209591,"Percent of CC Pop":4.66,"Percent of Internet":0.0050,"Samples":52853},
-{"rank":6,"AS":26130,"Description":"LIPTINFOR-AS","CC":"NE","Users":18683,"Percent of CC Pop":0.42,"Percent of Internet":0.0004,"Samples":4696},
-{"rank":7,"AS":329103,"Description":"NINETEC","CC":"NE","Users":2293,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":428},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NE","Users":2225,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":415},
-{"rank":9,"AS":329224,"Description":"Global-Data-Services","CC":"NE","Users":1069,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":21},
-{"rank":10,"AS":60171,"Description":"AFRIX-AS","CC":"NE","Users":747,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":52}
+{"rank":1,"AS":37531,"Description":"AIRTEL-NIGER","CC":"NE","Users":2367308,"Percent of CC Pop":52.69,"Percent of Internet":0.0567,"Samples":650282},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NE","Users":1576322,"Percent of CC Pop":35.08,"Percent of Internet":0.0378,"Samples":448601},
+{"rank":3,"AS":37233,"Description":"ORANGE-NIGER","CC":"NE","Users":687532,"Percent of CC Pop":15.30,"Percent of Internet":0.0165,"Samples":188087},
+{"rank":4,"AS":37205,"Description":"ATLANTIQUE-TELECOM-NIGER","CC":"NE","Users":526148,"Percent of CC Pop":11.71,"Percent of Internet":0.0126,"Samples":143156},
+{"rank":5,"AS":36873,"Description":"VNL1-AS","CC":"NE","Users":468625,"Percent of CC Pop":10.43,"Percent of Internet":0.0112,"Samples":2132},
+{"rank":6,"AS":327708,"Description":"AIRTEL-","CC":"NE","Users":268570,"Percent of CC Pop":5.98,"Percent of Internet":0.0064,"Samples":17106},
+{"rank":7,"AS":37385,"Description":"SONITEL","CC":"NE","Users":202044,"Percent of CC Pop":4.50,"Percent of Internet":0.0048,"Samples":55323},
+{"rank":8,"AS":26130,"Description":"LIPTINFOR-AS","CC":"NE","Users":17181,"Percent of CC Pop":0.38,"Percent of Internet":0.0004,"Samples":4705},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NE","Users":2270,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":502},
+{"rank":10,"AS":329103,"Description":"NINETEC","CC":"NE","Users":1578,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":313},
+{"rank":11,"AS":60171,"Description":"AFRIX-AS","CC":"NE","Users":831,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":57},
+{"rank":12,"AS":329224,"Description":"Global-Data-Services","CC":"NE","Users":708,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

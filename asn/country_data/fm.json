@@ -1,14 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":139759,"Description":"FMTELECOM-AS-AP FSM Telecommunications Corporation","CC":"FM","Users":25127,"Percent of CC Pop":11.80,"Percent of Internet":0.0006,"Samples":56853},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"FM","Users":7183,"Percent of CC Pop":3.37,"Percent of Internet":0.0002,"Samples":15210},
-{"rank":3,"AS":45193,"Description":"AS45193 FSM Telecommunications Corporation","CC":"FM","Users":6597,"Percent of CC Pop":3.10,"Percent of Internet":0.0002,"Samples":14536},
-{"rank":4,"AS":38875,"Description":"AS38875 FSM Telecommunications Corporation","CC":"FM","Users":5032,"Percent of CC Pop":2.36,"Percent of Internet":0.0001,"Samples":11459},
-{"rank":5,"AS":58524,"Description":"AS58524 FSM Telecom","CC":"FM","Users":970,"Percent of CC Pop":0.46,"Percent of Internet":0.0000,"Samples":2017},
-{"rank":6,"AS":142139,"Description":"BOOMINC-AS-AP Boom! Inc.","CC":"FM","Users":766,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":1497}
+{"rank":1,"AS":139759,"Description":"FMTELECOM-AS-AP FSM Telecommunications Corporation","CC":"FM","Users":23651,"Percent of CC Pop":11.10,"Percent of Internet":0.0006,"Samples":52949},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"FM","Users":8515,"Percent of CC Pop":4.00,"Percent of Internet":0.0002,"Samples":18852},
+{"rank":3,"AS":45193,"Description":"AS45193 FSM Telecommunications Corporation","CC":"FM","Users":6568,"Percent of CC Pop":3.08,"Percent of Internet":0.0002,"Samples":14509},
+{"rank":4,"AS":38875,"Description":"AS38875 FSM Telecommunications Corporation","CC":"FM","Users":5158,"Percent of CC Pop":2.42,"Percent of Internet":0.0001,"Samples":11752},
+{"rank":5,"AS":58524,"Description":"AS58524 FSM Telecom","CC":"FM","Users":1102,"Percent of CC Pop":0.52,"Percent of Internet":0.0000,"Samples":2425},
+{"rank":6,"AS":142139,"Description":"BOOMINC-AS-AP Boom! Inc.","CC":"FM","Users":735,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":1459},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FM","Users":61,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

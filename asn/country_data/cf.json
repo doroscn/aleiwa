@@ -1,15 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37460,"Description":"ORANGE-CA","CC":"CF","Users":176472,"Percent of CC Pop":76.25,"Percent of Internet":0.0042,"Samples":72243},
-{"rank":2,"AS":329274,"Description":"MoovAfricaCentrafrique","CC":"CF","Users":71371,"Percent of CC Pop":30.84,"Percent of Internet":0.0017,"Samples":29644},
-{"rank":3,"AS":328079,"Description":"TELECEL-CENTRAFRIQUE-AS","CC":"CF","Users":46247,"Percent of CC Pop":19.98,"Percent of Internet":0.0011,"Samples":18939},
-{"rank":4,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CF","Users":2251,"Percent of CC Pop":0.97,"Percent of Internet":0.0001,"Samples":32},
-{"rank":5,"AS":329590,"Description":"NETCOM-SERVICES","CC":"CF","Users":843,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":66},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CF","Users":443,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":17},
-{"rank":7,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CF","Users":387,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":10}
+{"rank":1,"AS":37460,"Description":"ORANGE-CA","CC":"CF","Users":170505,"Percent of CC Pop":73.67,"Percent of Internet":0.0041,"Samples":72189},
+{"rank":2,"AS":329274,"Description":"MoovAfricaCentrafrique","CC":"CF","Users":75202,"Percent of CC Pop":32.49,"Percent of Internet":0.0018,"Samples":32376},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CF","Users":50049,"Percent of CC Pop":21.63,"Percent of Internet":0.0012,"Samples":1539},
+{"rank":4,"AS":328079,"Description":"TELECEL-CENTRAFRIQUE-AS","CC":"CF","Users":46357,"Percent of CC Pop":20.03,"Percent of Internet":0.0011,"Samples":19549},
+{"rank":5,"AS":29286,"Description":"SKYLOGIC-AS","CC":"CF","Users":1943,"Percent of CC Pop":0.84,"Percent of Internet":0.0000,"Samples":30},
+{"rank":6,"AS":329590,"Description":"NETCOM-SERVICES","CC":"CF","Users":839,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":121},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CF","Users":503,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":26},
+{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CF","Users":364,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":12}
   ]
 }

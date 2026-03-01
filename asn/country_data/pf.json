@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9471,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":121239,"Percent of CC Pop":53.73,"Percent of Internet":0.0029,"Samples":156800},
-{"rank":2,"AS":55943,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":56313,"Percent of CC Pop":24.96,"Percent of Internet":0.0013,"Samples":72879},
-{"rank":3,"AS":138179,"Description":"PMT-AS-AP PACIFIC MOBILE TELECOM","CC":"PF","Users":51141,"Percent of CC Pop":22.67,"Percent of Internet":0.0012,"Samples":66558},
-{"rank":4,"AS":56017,"Description":"VITI-AS-PF VITI","CC":"PF","Users":22826,"Percent of CC Pop":10.12,"Percent of Internet":0.0005,"Samples":29325},
-{"rank":5,"AS":139263,"Description":"UDLPF-AS-AP Universite de la Polynesie Francaise","CC":"PF","Users":164,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":25},
-{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"PF","Users":140,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":37},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"PF","Users":131,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":55}
+{"rank":1,"AS":9471,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":121991,"Percent of CC Pop":54.07,"Percent of Internet":0.0029,"Samples":174627},
+{"rank":2,"AS":55943,"Description":"ONATI-AS-AP ONATI","CC":"PF","Users":55706,"Percent of CC Pop":24.69,"Percent of Internet":0.0013,"Samples":79366},
+{"rank":3,"AS":138179,"Description":"PMT-AS-AP PACIFIC MOBILE TELECOM","CC":"PF","Users":51083,"Percent of CC Pop":22.64,"Percent of Internet":0.0012,"Samples":73416},
+{"rank":4,"AS":56017,"Description":"VITI-AS-PF VITI","CC":"PF","Users":23174,"Percent of CC Pop":10.27,"Percent of Internet":0.0006,"Samples":32682},
+{"rank":5,"AS":139263,"Description":"UDLPF-AS-AP Universite de la Polynesie Francaise","CC":"PF","Users":122,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":15},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"PF","Users":119,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":35},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"PF","Users":117,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":60}
   ]
 }

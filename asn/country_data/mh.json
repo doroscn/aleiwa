@@ -1,13 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/01/2026",
+  "Date": "25/02/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":24439,"Description":"NTAMAR-AS-AP MARSHALL ISLANDS NTA ISP AS","CC":"MH","Users":12904,"Percent of CC Pop":38.86,"Percent of Internet":0.0003,"Samples":21081},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MH","Users":10718,"Percent of CC Pop":32.28,"Percent of Internet":0.0003,"Samples":17830},
-{"rank":3,"AS":22363,"Description":"PHMGMT-AS1 - Powerhouse Management, Inc.","CC":"MH","Users":197,"Percent of CC Pop":0.59,"Percent of Internet":0.0000,"Samples":63},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MH","Users":195,"Percent of CC Pop":0.59,"Percent of Internet":0.0000,"Samples":77},
-{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MH","Users":136,"Percent of CC Pop":0.41,"Percent of Internet":0.0000,"Samples":16}
+{"rank":1,"AS":24439,"Description":"NTAMAR-AS-AP MARSHALL ISLANDS NTA ISP AS","CC":"MH","Users":13010,"Percent of CC Pop":39.18,"Percent of Internet":0.0003,"Samples":21989},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MH","Users":10508,"Percent of CC Pop":31.65,"Percent of Internet":0.0003,"Samples":17896},
+{"rank":3,"AS":22363,"Description":"PHMGMT-AS1 - Powerhouse Management, Inc.","CC":"MH","Users":815,"Percent of CC Pop":2.45,"Percent of Internet":0.0000,"Samples":459},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MH","Users":244,"Percent of CC Pop":0.73,"Percent of Internet":0.0000,"Samples":67}
   ]
 }
