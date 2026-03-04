@@ -58,5 +58,50 @@
     "checked_at": "2026-02-24T08:41:52Z",
     "created_at": "2021-09-24T04:09:54.730751Z",
     "available": true
+  },
+  {
+    "ip": "45.117.241.150",
+    "name": "cpe-45-117-241-150.unwired.com.fj",
+    "as_number": 45355,
+    "as_org": "Digicel Fiji Limited",
+    "country_id": "FJ",
+    "city": "Nasinu",
+    "version": "unknown",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-03-04T03:21:55Z",
+    "created_at": "2026-03-04T03:21:55.472300Z",
+    "available": true
+  },
+  {
+    "ip": "45.117.244.53",
+    "name": "fjnsrc002.unwired.com.fj",
+    "as_number": 45355,
+    "as_org": "Digicel Fiji Limited",
+    "country_id": "FJ",
+    "city": "Suva",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-03-04T03:22:05Z",
+    "created_at": "2026-03-04T03:22:05.939782Z",
+    "available": true
+  },
+  {
+    "ip": "45.117.244.52",
+    "name": "fjnsrc001.unwired.com.fj",
+    "as_number": 45355,
+    "as_org": "Digicel Fiji Limited",
+    "country_id": "FJ",
+    "city": "Suva",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-03-04T03:22:06Z",
+    "created_at": "2026-03-04T03:22:06.767873Z",
+    "available": true
   }
 ]
