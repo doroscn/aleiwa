@@ -753,12 +753,6 @@
     "index": 19
   },
   {
-    "country_id": "ba",
-    "checked_at": "2026-02-04T16:57:33Z",
-    "ip_availability_ratio%": 58.10,
-    "index": 25
-  },
-  {
     "country_id": "km",
     "checked_at": "2026-02-26T02:10:26Z",
     "ip_availability_ratio%": 50.00,
@@ -1231,5 +1225,11 @@
     "checked_at": "2026-03-04T16:55:05Z",
     "ip_availability_ratio%": 88.66,
     "index": 24
+  },
+  {
+    "country_id": "ba",
+    "checked_at": "2026-03-05T02:28:24Z",
+    "ip_availability_ratio%": 75.24,
+    "index": 25
   }
 ]
