@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:32:37Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2021-10-06T01:56:02.833357Z",
     "available": false
   },
@@ -25,12 +25,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:32:45Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-09-29T17:47:10.315926Z",
     "available": false
   },
   {
-    "ip": "200.114.113.198",
+    "ip": "200.114.113.193",
     "name": "",
     "as_number": 28087,
     "as_org": "COMNET,S.A.",
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:32:52Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-10-02T21:34:28.73409Z",
     "available": true
   },
   {
-    "ip": "181.174.85.109",
+    "ip": "181.174.85.50",
     "name": "",
     "as_number": 23243,
     "as_org": "COMCEL GUATEMALA S.A.",
@@ -55,9 +55,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:32:56Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-10-27T16:09:14.004556Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "181.174.92.46",
@@ -70,9 +70,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:33:04Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-10-30T18:30:19.639911Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.143.159.175",
@@ -85,12 +85,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:33:04Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-11-06T15:49:27.674619Z",
     "available": false
   },
   {
-    "ip": "190.149.72.155",
+    "ip": "190.149.72.130",
     "name": "155.72.149.190.dynamic.intelnet.net.gt.",
     "as_number": 14754,
     "as_org": "Telgua",
@@ -100,9 +100,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8571428571428571,
-    "checked_at": "2025-03-13T03:33:11Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-11-19T20:59:20.754396Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "24.152.55.10",
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8571428571428571,
-    "checked_at": "2025-03-13T03:33:19Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-11-24T11:12:17.925241Z",
     "available": true
   },
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.979381443298969,
-    "checked_at": "2025-03-13T03:33:26Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-11-27T06:40:09.057581Z",
     "available": false
   },
@@ -145,12 +145,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9777777777777777,
-    "checked_at": "2025-03-13T03:33:30Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-11-29T01:02:04.586599Z",
     "available": false
   },
   {
-    "ip": "191.98.194.1",
+    "ip": "191.98.194.43",
     "name": "",
     "as_number": 263218,
     "as_org": "INTERNET TELECOMUNICATION COMPANY DE GUATEMALA, S.A.",
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.875,
-    "checked_at": "2025-03-13T03:33:38Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-12-01T11:09:22.796772Z",
     "available": true
   },
@@ -175,9 +175,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:33:45Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-12-04T16:40:18.326452Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -190,9 +190,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:33:52Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-12-18T03:33:50.330936Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -205,9 +205,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:34:00Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-12-20T15:02:39.365966Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -220,9 +220,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:34:07Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2022-12-31T20:17:36.125Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -235,9 +235,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:34:14Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2023-01-03T09:47:43.476154Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -250,9 +250,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:34:22Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2023-02-21T20:49:58.548173Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -265,9 +265,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:34:29Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2023-02-22T04:22:03.678827Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.56.24.30",
@@ -280,7 +280,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9925925925925926,
-    "checked_at": "2025-03-13T03:34:37Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2023-03-05T18:37:36.425742Z",
     "available": false
   },
@@ -295,12 +295,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:34:44Z",
+    "checked_at": "2026-03-05T08:36:10Z",
     "created_at": "2023-03-09T08:44:39.094775Z",
     "available": false
   },
   {
-    "ip": "181.209.194.242",
+    "ip": "181.209.194.198",
     "name": "198.194.209.181.static.intelnet.net.gt.",
     "as_number": 14754,
     "as_org": "Telgua",
@@ -310,12 +310,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:34:51Z",
+    "checked_at": "2026-03-05T08:36:13Z",
     "created_at": "2023-03-13T01:22:30.135844Z",
     "available": true
   },
   {
-    "ip": "191.98.195.1",
+    "ip": "191.98.195.168",
     "name": "",
     "as_number": 263218,
     "as_org": "INTERNET TELECOMUNICATION COMPANY DE GUATEMALA, S.A.",
@@ -325,7 +325,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8746081504702194,
-    "checked_at": "2025-03-13T03:34:59Z",
+    "checked_at": "2026-03-05T08:36:26Z",
     "created_at": "2023-03-13T01:44:40.475299Z",
     "available": true
   },
@@ -340,9 +340,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:35:06Z",
+    "checked_at": "2026-03-05T08:36:27Z",
     "created_at": "2023-03-13T01:45:34.877179Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -355,9 +355,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:35:13Z",
+    "checked_at": "2026-03-05T08:36:28Z",
     "created_at": "2023-03-13T03:00:19.0628Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -370,9 +370,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:35:21Z",
+    "checked_at": "2026-03-05T08:36:29Z",
     "created_at": "2023-03-13T05:55:43.976086Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -385,9 +385,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:35:28Z",
+    "checked_at": "2026-03-05T08:36:29Z",
     "created_at": "2023-03-13T06:51:16.947227Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.4.18.218",
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:35:35Z",
+    "checked_at": "2026-03-05T08:36:29Z",
     "created_at": "2023-03-13T07:00:43.941505Z",
     "available": true
   },
@@ -415,7 +415,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:35:36Z",
+    "checked_at": "2026-03-05T08:36:29Z",
     "created_at": "2023-03-13T08:04:53.921952Z",
     "available": true
   },
@@ -430,9 +430,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:35:40Z",
+    "checked_at": "2026-03-05T08:36:29Z",
     "created_at": "2023-03-13T09:25:55.722902Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.149.154.102",
@@ -445,7 +445,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:35:48Z",
+    "checked_at": "2026-03-05T08:36:29Z",
     "created_at": "2023-03-13T09:34:19.578092Z",
     "available": false
   },
@@ -460,12 +460,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5892857142857143,
-    "checked_at": "2025-03-13T03:35:55Z",
+    "checked_at": "2026-03-05T08:36:29Z",
     "created_at": "2023-03-13T10:59:27.358198Z",
     "available": false
   },
   {
-    "ip": "186.189.214.104",
+    "ip": "186.189.214.128",
     "name": "",
     "as_number": 23243,
     "as_org": "COMCEL GUATEMALA S.A.",
@@ -475,7 +475,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:36:02Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-13T12:04:53.35771Z",
     "available": true
   },
@@ -490,7 +490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:36:10Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-13T12:52:08.610178Z",
     "available": false
   },
@@ -505,7 +505,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:36:17Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-13T13:46:52.480582Z",
     "available": true
   },
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:36:17Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-13T16:54:00.232759Z",
     "available": true
   },
@@ -535,7 +535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:36:18Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-13T17:10:30.425645Z",
     "available": true
   },
@@ -550,12 +550,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:36:18Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-13T18:27:43.651809Z",
     "available": true
   },
   {
-    "ip": "181.78.104.125",
+    "ip": "181.78.104.151",
     "name": "188.104.78.181.ufinet.com.gt.",
     "as_number": 52468,
     "as_org": "UFINET PANAMA S.A.",
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:36:25Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-13T18:37:46.158273Z",
     "available": true
   },
@@ -580,7 +580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:36:33Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-13T20:08:42.902988Z",
     "available": true
   },
@@ -595,7 +595,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:36:40Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-13T23:02:49.682148Z",
     "available": true
   },
@@ -610,7 +610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:36:47Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-13T23:59:06.491823Z",
     "available": true
   },
@@ -625,9 +625,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:36:55Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-14T01:54:39.329445Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.121.207.112",
@@ -640,9 +640,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:37:02Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-14T04:30:08.511717Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -655,9 +655,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:37:09Z",
+    "checked_at": "2026-03-05T08:36:30Z",
     "created_at": "2023-03-14T06:35:04.650365Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -670,9 +670,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:37:17Z",
+    "checked_at": "2026-03-05T08:36:31Z",
     "created_at": "2023-03-14T07:55:51.115119Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "143.208.182.103",
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:37:24Z",
+    "checked_at": "2026-03-05T08:36:31Z",
     "created_at": "2023-03-14T08:54:03.334226Z",
     "available": true
   },
@@ -700,9 +700,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:37:24Z",
+    "checked_at": "2026-03-05T08:36:31Z",
     "created_at": "2023-03-14T09:17:02.913202Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "200.6.252.162",
@@ -715,7 +715,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:37:32Z",
+    "checked_at": "2026-03-05T08:36:31Z",
     "created_at": "2023-03-14T12:04:33.592542Z",
     "available": true
   },
@@ -730,7 +730,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:37:39Z",
+    "checked_at": "2026-03-05T08:36:32Z",
     "created_at": "2023-03-14T17:04:49.669882Z",
     "available": true
   },
@@ -745,12 +745,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:37:46Z",
+    "checked_at": "2026-03-05T08:36:32Z",
     "created_at": "2023-03-14T23:00:35.574074Z",
     "available": true
   },
   {
-    "ip": "189.84.98.142",
+    "ip": "189.84.98.14",
     "name": "",
     "as_number": 263763,
     "as_org": "REDES HIBRIDAS, S. A.",
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:37:46Z",
+    "checked_at": "2026-03-05T08:36:32Z",
     "created_at": "2023-03-15T03:24:45.438544Z",
     "available": true
   },
@@ -775,9 +775,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:37:54Z",
+    "checked_at": "2026-03-05T08:36:32Z",
     "created_at": "2023-03-15T04:20:41.384061Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.4.41.101",
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:38:01Z",
+    "checked_at": "2026-03-05T08:36:32Z",
     "created_at": "2023-03-15T04:52:18.04574Z",
     "available": true
   },
@@ -805,9 +805,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:38:09Z",
+    "checked_at": "2026-03-05T08:36:33Z",
     "created_at": "2023-03-15T06:39:13.931163Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -820,9 +820,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:38:16Z",
+    "checked_at": "2026-03-05T08:36:33Z",
     "created_at": "2023-03-15T07:00:11.039489Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -835,9 +835,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:38:23Z",
+    "checked_at": "2026-03-05T08:36:41Z",
     "created_at": "2023-03-15T10:44:50.205067Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -850,9 +850,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:38:31Z",
+    "checked_at": "2026-03-05T08:36:47Z",
     "created_at": "2023-03-15T12:52:49.664112Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "181.78.105.127",
@@ -865,7 +865,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:38:38Z",
+    "checked_at": "2026-03-05T08:36:48Z",
     "created_at": "2023-03-15T15:02:51.140809Z",
     "available": true
   },
@@ -880,9 +880,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6231884057971014,
-    "checked_at": "2025-03-13T03:38:38Z",
+    "checked_at": "2026-03-05T08:36:48Z",
     "created_at": "2023-03-16T08:44:51.832163Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.121.192.234",
@@ -895,7 +895,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-13T03:38:46Z",
+    "checked_at": "2026-03-05T08:36:48Z",
     "created_at": "2023-03-16T12:54:50.883241Z",
     "available": true
   },
@@ -910,9 +910,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6923076923076923,
-    "checked_at": "2025-03-13T03:38:53Z",
+    "checked_at": "2026-03-05T08:36:48Z",
     "created_at": "2023-03-16T18:49:01.720098Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "45.171.66.170",
@@ -925,7 +925,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:39:00Z",
+    "checked_at": "2026-03-05T08:36:49Z",
     "created_at": "2023-03-16T19:58:34.39249Z",
     "available": true
   },
@@ -940,7 +940,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9354838709677419,
-    "checked_at": "2025-03-13T03:39:08Z",
+    "checked_at": "2026-03-05T08:36:49Z",
     "created_at": "2023-03-17T00:37:59.524771Z",
     "available": true
   },
@@ -955,7 +955,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6875,
-    "checked_at": "2025-03-13T03:39:15Z",
+    "checked_at": "2026-03-05T08:36:49Z",
     "created_at": "2023-03-17T01:40:16.181426Z",
     "available": true
   },
@@ -970,9 +970,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.71875,
-    "checked_at": "2025-03-13T03:39:19Z",
+    "checked_at": "2026-03-05T08:36:49Z",
     "created_at": "2023-03-17T02:52:07.247626Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.121.207.112",
@@ -985,9 +985,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.775,
-    "checked_at": "2025-03-13T03:39:27Z",
+    "checked_at": "2026-03-05T08:36:49Z",
     "created_at": "2023-03-17T03:48:21.199854Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "38.52.208.10",
@@ -1000,9 +1000,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7560975609756098,
-    "checked_at": "2025-03-13T03:39:34Z",
+    "checked_at": "2026-03-05T08:36:49Z",
     "created_at": "2023-03-17T04:02:48.991291Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "45.229.128.87",
@@ -1015,7 +1015,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.896551724137931,
-    "checked_at": "2025-03-13T03:39:41Z",
+    "checked_at": "2026-03-05T08:36:49Z",
     "created_at": "2023-03-17T19:24:22.295424Z",
     "available": false
   },
@@ -1030,8 +1030,8 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-13T03:39:49Z",
+    "checked_at": "2026-03-05T08:36:49Z",
     "created_at": "2023-03-18T13:43:35.574362Z",
-    "available": true
+    "available": false
   }
 ]
