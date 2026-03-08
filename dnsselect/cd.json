@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-08T08:28:54Z",
+    "checked_at": "2026-03-08T16:36:47Z",
     "created_at": "2022-10-18T23:07:13.936837Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.03932584269662921,
-    "checked_at": "2026-02-08T08:28:54Z",
+    "checked_at": "2026-03-08T16:36:47Z",
     "created_at": "2022-11-30T10:35:37.187966Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.3235294117647059,
-    "checked_at": "2026-02-08T08:28:54Z",
+    "checked_at": "2026-03-08T16:36:47Z",
     "created_at": "2022-12-14T06:40:57.462822Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9735099337748344,
-    "checked_at": "2026-02-08T08:28:54Z",
+    "checked_at": "2026-03-08T16:36:47Z",
     "created_at": "2023-01-03T17:01:20.208868Z",
     "available": false
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-08T08:28:54Z",
+    "checked_at": "2026-03-08T16:36:47Z",
     "created_at": "2023-03-13T23:35:41.585657Z",
     "available": false
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-08T08:28:54Z",
+    "checked_at": "2026-03-08T16:36:47Z",
     "created_at": "2023-03-14T01:52:45.737584Z",
     "available": false
   },
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.71875,
-    "checked_at": "2026-02-08T08:28:54Z",
+    "checked_at": "2026-03-08T16:36:47Z",
     "created_at": "2023-03-17T02:21:57.308976Z",
     "available": false
   },
   {
-    "ip": "41.174.131.206",
+    "ip": "41.174.131.218",
     "name": "",
     "as_number": 30844,
     "as_org": "Liquid Telecommunications Ltd",
@@ -115,12 +115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7878787878787878,
-    "checked_at": "2026-02-08T08:28:54Z",
+    "checked_at": "2026-03-08T16:36:47Z",
     "created_at": "2023-03-17T08:44:18.392114Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "41.174.133.242",
+    "ip": "41.174.133.118",
     "name": "",
     "as_number": 30844,
     "as_org": "Liquid Telecommunications Ltd",
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-08T08:28:54Z",
+    "checked_at": "2026-03-08T16:36:47Z",
     "created_at": "2023-03-19T16:12:29.679726Z",
     "available": true
   }
