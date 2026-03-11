@@ -12,11 +12,6 @@
     "index": 162
   },
   {
-    "country_id": "va",
-    "checked_at": "2025-03-13T18:33:03Z",
-    "index": 86
-  },
-  {
     "country_id": "hn",
     "checked_at": "2025-03-13T21:22:36Z",
     "index": 87
@@ -1236,5 +1231,11 @@
     "checked_at": "2026-03-11T02:24:27Z",
     "ip_availability_ratio%": 85.71,
     "index": 49
+  },
+  {
+    "country_id": "va",
+    "checked_at": "2026-03-11T08:36:20Z",
+    "ip_availability_ratio%": 100.00,
+    "index": 86
   }
 ]
