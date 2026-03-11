@@ -753,12 +753,6 @@
     "index": 6
   },
   {
-    "country_id": "cy",
-    "checked_at": "2026-02-11T08:43:32Z",
-    "ip_availability_ratio%": 72.50,
-    "index": 50
-  },
-  {
     "country_id": "cz",
     "checked_at": "2026-02-11T17:09:44Z",
     "ip_availability_ratio%": 70.66,
@@ -1237,5 +1231,11 @@
     "checked_at": "2026-03-11T08:36:20Z",
     "ip_availability_ratio%": 100.00,
     "index": 86
+  },
+  {
+    "country_id": "cy",
+    "checked_at": "2026-03-11T17:00:10Z",
+    "ip_availability_ratio%": 70.00,
+    "index": 50
   }
 ]
