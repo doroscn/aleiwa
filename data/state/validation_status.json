@@ -753,12 +753,6 @@
     "index": 6
   },
   {
-    "country_id": "ag",
-    "checked_at": "2026-02-12T02:36:58Z",
-    "ip_availability_ratio%": 60.00,
-    "index": 7
-  },
-  {
     "country_id": "dk",
     "checked_at": "2026-02-12T08:41:08Z",
     "ip_availability_ratio%": 45.03,
@@ -1237,5 +1231,11 @@
     "checked_at": "2026-03-12T02:30:12Z",
     "ip_availability_ratio%": 68.87,
     "index": 51
+  },
+  {
+    "country_id": "ag",
+    "checked_at": "2026-03-12T08:38:08Z",
+    "ip_availability_ratio%": 60.00,
+    "index": 7
   }
 ]
