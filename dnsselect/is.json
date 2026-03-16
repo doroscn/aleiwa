@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8393574297188755,
-    "checked_at": "2025-03-14T06:32:59Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2021-04-13T07:54:20.059606Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:03Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2021-10-02T14:25:09.237193Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:03Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2021-10-02T14:25:16.336297Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:11Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-10T21:31:42.739186Z",
     "available": true
   },
@@ -70,12 +70,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:11Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-13T03:12:34.117252Z",
     "available": true
   },
   {
-    "ip": "37.205.36.70",
+    "ip": "37.205.36.100",
     "name": "dns5.midja.is.",
     "as_number": 59396,
     "as_org": "Tolvu- og Rafeindapjonusta Sudurlands ehf",
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:19Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-13T10:55:18.177257Z",
     "available": true
   },
@@ -100,9 +100,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:19Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-13T14:38:25.651117Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "82.148.67.67",
@@ -115,9 +115,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:19Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-14T07:10:42.217421Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "78.40.253.33",
@@ -130,9 +130,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:27Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-14T07:29:12.940751Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "31.209.146.55",
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:34Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-14T11:15:01.033139Z",
     "available": false
   },
@@ -160,12 +160,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:38Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-14T11:43:02.396381Z",
     "available": false
   },
   {
-    "ip": "89.160.136.166",
+    "ip": "89.160.136.243",
     "name": "89-160-136-166.du.xdsl.is.",
     "as_number": 12969,
     "as_org": "Syn hf",
@@ -175,9 +175,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:43Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-14T15:25:42.898694Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "185.109.102.17",
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:50Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-14T16:09:28.951029Z",
     "available": false
   },
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:58Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-14T20:16:41.790352Z",
     "available": true
   },
@@ -220,12 +220,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:58Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-15T10:17:28.436543Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "93.95.224.28",
+    "ip": "93.95.224.212",
     "name": "dns-local-28.1984.is.",
     "as_number": 44925,
     "as_org": "1984 ehf",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-14T06:33:58Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-17T00:19:30.371893Z",
     "available": true
   },
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-14T06:33:58Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-18T18:58:06.980173Z",
     "available": true
   },
@@ -265,7 +265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2025-03-14T06:34:06Z",
+    "checked_at": "2026-03-16T11:18:40Z",
     "created_at": "2023-03-18T23:44:43.888487Z",
     "available": true
   }
