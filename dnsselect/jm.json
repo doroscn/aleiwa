@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:22:22Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2022-08-25T15:00:33.14748Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:22:22Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2022-08-25T15:53:27.162846Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5734870317002881,
-    "checked_at": "2025-03-15T09:22:22Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2022-11-17T14:45:15.993761Z",
     "available": false
   },
@@ -55,9 +55,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7871287128712872,
-    "checked_at": "2025-03-15T09:22:30Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-02-27T10:52:14.535597Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "207.204.98.23",
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:22:37Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-02-28T19:57:36.336937Z",
     "available": false
   },
@@ -85,12 +85,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:22:45Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-13T15:44:10.992225Z",
     "available": false
   },
   {
-    "ip": "72.27.53.219",
+    "ip": "72.27.53.107",
     "name": "219-53-27-72-br1-DYNAMIC-dsl.cwjamaica.com.",
     "as_number": 30689,
     "as_org": "FLOW-NET",
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:22:52Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-13T17:04:02.410681Z",
     "available": true
   },
   {
-    "ip": "208.131.166.46",
+    "ip": "208.131.166.250",
     "name": "",
     "as_number": 10292,
     "as_org": "CWJ-1",
@@ -115,12 +115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:22:55Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-13T19:38:55.918004Z",
     "available": true
   },
   {
-    "ip": "72.27.53.219",
+    "ip": "72.27.53.107",
     "name": "217-53-27-72-br1-DYNAMIC-dsl.cwjamaica.com.",
     "as_number": 30689,
     "as_org": "FLOW-NET",
@@ -130,12 +130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:22:56Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-14T01:08:30.8376Z",
     "available": true
   },
   {
-    "ip": "207.204.114.24",
+    "ip": "207.204.114.244",
     "name": "",
     "as_number": 30689,
     "as_org": "FLOW-NET",
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:23:00Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-14T02:49:26.421481Z",
     "available": true
   },
@@ -160,12 +160,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:23:07Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-14T03:35:10.153036Z",
     "available": false
   },
   {
-    "ip": "72.252.214.130",
+    "ip": "72.252.214.114",
     "name": "",
     "as_number": 30689,
     "as_org": "FLOW-NET",
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:23:15Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-14T05:04:40.789618Z",
     "available": true
   },
@@ -190,12 +190,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:23:15Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-14T11:39:03.44887Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "207.204.114.24",
+    "ip": "207.204.114.244",
     "name": "",
     "as_number": 30689,
     "as_org": "FLOW-NET",
@@ -205,12 +205,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:23:22Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-14T12:46:36.549775Z",
     "available": true
   },
   {
-    "ip": "63.143.98.90",
+    "ip": "63.143.98.158",
     "name": "digijmres-90-98-143-63.digicelbroadband.com.",
     "as_number": 33576,
     "as_org": "DIG001",
@@ -220,12 +220,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:23:29Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-14T18:09:06.553165Z",
     "available": true
   },
   {
-    "ip": "74.116.58.105",
+    "ip": "74.116.58.142",
     "name": "",
     "as_number": 11580,
     "as_org": "ISLAND-NETWORKS-LTD",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:23:30Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-14T18:39:37.304537Z",
     "available": true
   },
@@ -250,8 +250,8 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T09:23:37Z",
+    "checked_at": "2026-03-18T17:09:22Z",
     "created_at": "2023-03-14T19:01:47.334502Z",
-    "available": true
+    "available": false
   }
 ]
