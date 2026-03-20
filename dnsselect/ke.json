@@ -10,12 +10,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6474358974358975,
-    "checked_at": "2025-03-15T21:22:30Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2021-04-25T03:30:16.177681Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "41.191.226.86",
+    "ip": "41.191.226.206",
     "name": "41.191.226.86.liquidtelecom.net.",
     "as_number": 30844,
     "as_org": "Liquid Telecommunications Ltd",
@@ -25,9 +25,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.553314121037464,
-    "checked_at": "2025-03-15T21:22:31Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2021-10-20T13:12:59.769509Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "197.232.253.229",
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:22:38Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2021-10-26T06:13:40.483906Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:22:46Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2021-10-29T12:42:26.088545Z",
     "available": true
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:22:50Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-01-26T02:58:30.347404Z",
     "available": true
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:22:51Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-01-26T02:58:41.749604Z",
     "available": true
   },
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:22:52Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-09-29T08:41:59.467965Z",
     "available": true
   },
   {
-    "ip": "197.248.229.30",
+    "ip": "197.248.229.143",
     "name": "197-248-229-30.safaricombusiness.co.ke.",
     "as_number": 37061,
     "as_org": "Safaricom",
@@ -115,9 +115,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9,
-    "checked_at": "2025-03-15T21:22:59Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-01T08:11:21.074008Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "196.223.175.1",
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:23:06Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-03T09:23:25.828845Z",
     "available": true
   },
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8793969849246231,
-    "checked_at": "2025-03-15T21:23:14Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-11T01:48:29.954319Z",
     "available": true
   },
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:23:21Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-11T15:22:04.995729Z",
     "available": true
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:23:28Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-15T15:26:13.803745Z",
     "available": false
   },
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:23:36Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-15T18:36:40.591713Z",
     "available": true
   },
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:23:36Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-17T03:48:56.116287Z",
     "available": false
   },
@@ -220,12 +220,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8947368421052632,
-    "checked_at": "2025-03-15T21:23:44Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-19T12:55:11.142527Z",
     "available": true
   },
   {
-    "ip": "41.220.252.107",
+    "ip": "41.220.252.154",
     "name": "",
     "as_number": 30844,
     "as_org": "Liquid Telecommunications Ltd",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:23:51Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-24T12:45:57.013047Z",
     "available": true
   },
@@ -250,12 +250,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:23:58Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-25T07:13:02.18162Z",
     "available": true
   },
   {
-    "ip": "102.217.158.104",
+    "ip": "102.217.158.89",
     "name": "",
     "as_number": 328977,
     "as_org": "WISP2-AS",
@@ -265,7 +265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8876404494382022,
-    "checked_at": "2025-03-15T21:24:06Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-25T12:16:04.101903Z",
     "available": true
   },
@@ -280,7 +280,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:24:13Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-25T20:53:33.354284Z",
     "available": true
   },
@@ -295,7 +295,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8583333333333333,
-    "checked_at": "2025-03-15T21:24:20Z",
+    "checked_at": "2026-03-20T02:28:54Z",
     "created_at": "2022-10-25T23:11:04.36386Z",
     "available": true
   },
@@ -310,7 +310,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.885593220338983,
-    "checked_at": "2025-03-15T21:24:28Z",
+    "checked_at": "2026-03-20T02:28:55Z",
     "created_at": "2022-10-30T13:19:05.182176Z",
     "available": true
   },
@@ -325,7 +325,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9361702127659575,
-    "checked_at": "2025-03-15T21:24:35Z",
+    "checked_at": "2026-03-20T02:28:55Z",
     "created_at": "2022-11-10T13:06:30.627435Z",
     "available": true
   },
@@ -340,12 +340,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:24:42Z",
+    "checked_at": "2026-03-20T02:28:55Z",
     "created_at": "2022-11-17T10:22:18.564314Z",
     "available": true
   },
   {
-    "ip": "197.232.68.73",
+    "ip": "197.232.68.58",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -355,7 +355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9743589743589743,
-    "checked_at": "2025-03-15T21:24:50Z",
+    "checked_at": "2026-03-20T02:28:55Z",
     "created_at": "2022-11-23T10:22:26.38923Z",
     "available": true
   },
@@ -370,7 +370,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:24:57Z",
+    "checked_at": "2026-03-20T02:28:55Z",
     "created_at": "2022-11-27T17:31:56.997415Z",
     "available": false
   },
@@ -385,12 +385,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4,
-    "checked_at": "2025-03-15T21:25:04Z",
+    "checked_at": "2026-03-20T02:28:55Z",
     "created_at": "2022-11-30T14:16:56.53152Z",
     "available": false
   },
   {
-    "ip": "154.159.243.117",
+    "ip": "154.159.243.102",
     "name": "162-243-159-154.r.airtelkenya.com.",
     "as_number": 36926,
     "as_org": "CKL1-ASN",
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:25:12Z",
+    "checked_at": "2026-03-20T02:28:56Z",
     "created_at": "2022-12-01T21:58:13.728605Z",
     "available": true
   },
@@ -415,7 +415,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8922155688622755,
-    "checked_at": "2025-03-15T21:25:19Z",
+    "checked_at": "2026-03-20T02:28:57Z",
     "created_at": "2022-12-08T05:40:26.607867Z",
     "available": true
   },
@@ -430,7 +430,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.3525641025641026,
-    "checked_at": "2025-03-15T21:25:25Z",
+    "checked_at": "2026-03-20T02:28:57Z",
     "created_at": "2022-12-10T04:45:54.268894Z",
     "available": true
   },
@@ -445,7 +445,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2025-03-15T21:25:32Z",
+    "checked_at": "2026-03-20T02:28:57Z",
     "created_at": "2022-12-13T05:13:47.691189Z",
     "available": true
   },
@@ -460,12 +460,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8571428571428571,
-    "checked_at": "2025-03-15T21:25:36Z",
+    "checked_at": "2026-03-20T02:28:57Z",
     "created_at": "2022-12-14T21:38:30.838709Z",
     "available": true
   },
   {
-    "ip": "102.0.0.136",
+    "ip": "102.0.0.140",
     "name": "",
     "as_number": 36926,
     "as_org": "CKL1-ASN",
@@ -475,7 +475,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8125,
-    "checked_at": "2025-03-15T21:25:36Z",
+    "checked_at": "2026-03-20T02:28:57Z",
     "created_at": "2022-12-15T14:06:34.606585Z",
     "available": true
   },
@@ -490,7 +490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8260869565217391,
-    "checked_at": "2025-03-15T21:25:44Z",
+    "checked_at": "2026-03-20T02:28:57Z",
     "created_at": "2022-12-17T03:19:18.830805Z",
     "available": true
   },
@@ -505,12 +505,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-15T21:25:51Z",
+    "checked_at": "2026-03-20T02:28:58Z",
     "created_at": "2022-12-21T12:11:35.537718Z",
     "available": true
   },
   {
-    "ip": "197.231.181.100",
+    "ip": "197.231.181.243",
     "name": "",
     "as_number": 37305,
     "as_org": "FON",
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8144329896907216,
-    "checked_at": "2025-03-15T21:25:58Z",
+    "checked_at": "2026-03-20T02:28:58Z",
     "created_at": "2022-12-23T21:34:57.151791Z",
     "available": true
   },
@@ -535,7 +535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9918032786885246,
-    "checked_at": "2025-03-15T21:26:03Z",
+    "checked_at": "2026-03-20T02:28:59Z",
     "created_at": "2022-12-26T15:44:37.095462Z",
     "available": true
   },
@@ -550,7 +550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8161764705882353,
-    "checked_at": "2025-03-15T21:26:04Z",
+    "checked_at": "2026-03-20T02:28:59Z",
     "created_at": "2022-12-30T19:30:16.074567Z",
     "available": true
   },
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9407894736842105,
-    "checked_at": "2025-03-15T21:26:11Z",
+    "checked_at": "2026-03-20T02:28:59Z",
     "created_at": "2023-01-04T04:38:03.940123Z",
     "available": false
   },
@@ -580,12 +580,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:26:18Z",
+    "checked_at": "2026-03-20T02:29:01Z",
     "created_at": "2023-02-22T04:31:01.804952Z",
     "available": true
   },
   {
-    "ip": "197.248.89.46",
+    "ip": "197.248.89.91",
     "name": "197-248-89-46.safaricombusiness.co.ke.",
     "as_number": 37061,
     "as_org": "Safaricom",
@@ -595,12 +595,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-15T21:26:26Z",
+    "checked_at": "2026-03-20T02:29:01Z",
     "created_at": "2023-02-23T12:11:27.406932Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "197.232.48.225",
+    "ip": "197.232.48.47",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -610,9 +610,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6237623762376238,
-    "checked_at": "2025-03-15T21:26:33Z",
+    "checked_at": "2026-03-20T02:29:01Z",
     "created_at": "2023-02-25T13:20:15.748275Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "212.49.92.133",
@@ -625,7 +625,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9605263157894737,
-    "checked_at": "2025-03-15T21:26:40Z",
+    "checked_at": "2026-03-20T02:29:01Z",
     "created_at": "2023-02-26T06:41:57.227942Z",
     "available": true
   },
@@ -640,12 +640,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.94,
-    "checked_at": "2025-03-15T21:26:48Z",
+    "checked_at": "2026-03-20T02:29:02Z",
     "created_at": "2023-02-27T14:37:04.139365Z",
     "available": false
   },
   {
-    "ip": "197.232.69.167",
+    "ip": "197.232.69.189",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -655,12 +655,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7452830188679245,
-    "checked_at": "2025-03-15T21:26:55Z",
+    "checked_at": "2026-03-20T02:29:02Z",
     "created_at": "2023-02-28T01:37:27.422095Z",
     "available": true
   },
   {
-    "ip": "197.248.209.207",
+    "ip": "197.248.209.107",
     "name": "197-248-209-207.safaricombusiness.co.ke.",
     "as_number": 37061,
     "as_org": "Safaricom",
@@ -670,9 +670,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7032967032967034,
-    "checked_at": "2025-03-15T21:27:02Z",
+    "checked_at": "2026-03-20T02:29:02Z",
     "created_at": "2023-03-01T07:17:05.155389Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "154.159.248.54",
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7242647058823529,
-    "checked_at": "2025-03-15T21:27:10Z",
+    "checked_at": "2026-03-20T02:29:04Z",
     "created_at": "2023-03-11T12:10:30.16461Z",
     "available": true
   },
@@ -700,7 +700,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:27:10Z",
+    "checked_at": "2026-03-20T02:29:04Z",
     "created_at": "2023-03-12T00:39:35.180519Z",
     "available": true
   },
@@ -715,12 +715,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.18181818181818182,
-    "checked_at": "2025-03-15T21:27:15Z",
+    "checked_at": "2026-03-20T02:29:06Z",
     "created_at": "2023-03-13T01:10:36.400364Z",
     "available": true
   },
   {
-    "ip": "197.155.73.100",
+    "ip": "197.155.73.230",
     "name": "197.155.73.247.liquidtelecom.net.",
     "as_number": 30844,
     "as_org": "Liquid Telecommunications Ltd",
@@ -730,12 +730,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:27:22Z",
+    "checked_at": "2026-03-20T02:29:06Z",
     "created_at": "2023-03-13T01:58:37.047152Z",
     "available": true
   },
   {
-    "ip": "80.240.192.110",
+    "ip": "80.240.192.142",
     "name": "",
     "as_number": 30844,
     "as_org": "Liquid Telecommunications Ltd",
@@ -745,7 +745,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:27:30Z",
+    "checked_at": "2026-03-20T02:29:08Z",
     "created_at": "2023-03-13T03:07:13.212973Z",
     "available": true
   },
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:27:37Z",
+    "checked_at": "2026-03-20T02:29:09Z",
     "created_at": "2023-03-13T03:25:53.474071Z",
     "available": true
   },
@@ -775,12 +775,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:27:38Z",
+    "checked_at": "2026-03-20T02:29:10Z",
     "created_at": "2023-03-13T06:12:05.768484Z",
     "available": false
   },
   {
-    "ip": "102.0.1.158",
+    "ip": "102.0.1.12",
     "name": "",
     "as_number": 36926,
     "as_org": "CKL1-ASN",
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:27:42Z",
+    "checked_at": "2026-03-20T02:29:10Z",
     "created_at": "2023-03-13T07:21:27.354553Z",
     "available": true
   },
@@ -805,7 +805,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9166666666666666,
-    "checked_at": "2025-03-15T21:27:50Z",
+    "checked_at": "2026-03-20T02:29:10Z",
     "created_at": "2023-03-13T08:57:19.355203Z",
     "available": true
   },
@@ -820,12 +820,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9166666666666666,
-    "checked_at": "2025-03-15T21:27:57Z",
+    "checked_at": "2026-03-20T02:29:10Z",
     "created_at": "2023-03-13T09:33:20.83421Z",
     "available": true
   },
   {
-    "ip": "197.232.66.36",
+    "ip": "197.232.66.143",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -835,7 +835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7988980716253443,
-    "checked_at": "2025-03-15T21:28:04Z",
+    "checked_at": "2026-03-20T02:29:11Z",
     "created_at": "2023-03-13T09:45:09.565539Z",
     "available": true
   },
@@ -850,7 +850,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:28:12Z",
+    "checked_at": "2026-03-20T02:29:11Z",
     "created_at": "2023-03-13T10:45:10.74017Z",
     "available": true
   },
@@ -865,7 +865,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:28:19Z",
+    "checked_at": "2026-03-20T02:29:11Z",
     "created_at": "2023-03-13T14:13:21.526919Z",
     "available": false
   },
@@ -880,9 +880,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:28:26Z",
+    "checked_at": "2026-03-20T02:29:12Z",
     "created_at": "2023-03-13T16:03:56.873017Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "197.232.124.205",
@@ -895,12 +895,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:28:34Z",
+    "checked_at": "2026-03-20T02:29:12Z",
     "created_at": "2023-03-13T19:21:00.652075Z",
     "available": true
   },
   {
-    "ip": "197.232.69.167",
+    "ip": "197.232.69.189",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -910,12 +910,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:28:35Z",
+    "checked_at": "2026-03-20T02:29:12Z",
     "created_at": "2023-03-13T20:22:17.915885Z",
     "available": true
   },
   {
-    "ip": "41.57.103.130",
+    "ip": "41.57.103.37",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -925,7 +925,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:28:39Z",
+    "checked_at": "2026-03-20T02:29:12Z",
     "created_at": "2023-03-13T20:34:38.452452Z",
     "available": true
   },
@@ -940,12 +940,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:28:47Z",
+    "checked_at": "2026-03-20T02:29:12Z",
     "created_at": "2023-03-13T21:16:00.846794Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "102.219.208.106",
+    "ip": "102.219.208.114",
     "name": "",
     "as_number": 328856,
     "as_org": "VIJIJI-CONNECT-LIMITED",
@@ -955,7 +955,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:28:54Z",
+    "checked_at": "2026-03-20T02:29:12Z",
     "created_at": "2023-03-13T22:16:45.665369Z",
     "available": true
   },
@@ -970,7 +970,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:29:01Z",
+    "checked_at": "2026-03-20T02:29:14Z",
     "created_at": "2023-03-13T22:39:06.130631Z",
     "available": true
   },
@@ -985,7 +985,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9183673469387755,
-    "checked_at": "2025-03-15T21:29:02Z",
+    "checked_at": "2026-03-20T02:29:14Z",
     "created_at": "2023-03-13T22:57:13.741864Z",
     "available": false
   },
@@ -1000,7 +1000,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:29:10Z",
+    "checked_at": "2026-03-20T02:29:14Z",
     "created_at": "2023-03-14T00:24:00.047773Z",
     "available": true
   },
@@ -1015,7 +1015,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:29:17Z",
+    "checked_at": "2026-03-20T02:29:15Z",
     "created_at": "2023-03-14T00:52:41.617064Z",
     "available": false
   },
@@ -1030,7 +1030,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:29:24Z",
+    "checked_at": "2026-03-20T02:29:15Z",
     "created_at": "2023-03-14T01:19:53.480878Z",
     "available": true
   },
@@ -1045,7 +1045,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:29:32Z",
+    "checked_at": "2026-03-20T02:29:15Z",
     "created_at": "2023-03-14T01:43:47.370028Z",
     "available": false
   },
@@ -1060,7 +1060,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:29:39Z",
+    "checked_at": "2026-03-20T02:29:15Z",
     "created_at": "2023-03-14T01:53:33.306682Z",
     "available": true
   },
@@ -1075,7 +1075,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:29:40Z",
+    "checked_at": "2026-03-20T02:29:16Z",
     "created_at": "2023-03-14T02:49:57.140659Z",
     "available": true
   },
@@ -1090,12 +1090,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8571428571428571,
-    "checked_at": "2025-03-15T21:29:44Z",
+    "checked_at": "2026-03-20T02:29:16Z",
     "created_at": "2023-03-14T04:03:22.921069Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "197.232.141.131",
+    "ip": "197.232.141.200",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -1105,7 +1105,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:29:52Z",
+    "checked_at": "2026-03-20T02:29:16Z",
     "created_at": "2023-03-14T04:42:59.298203Z",
     "available": true
   },
@@ -1120,7 +1120,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:29:59Z",
+    "checked_at": "2026-03-20T02:29:16Z",
     "created_at": "2023-03-14T04:52:31.853208Z",
     "available": true
   },
@@ -1135,7 +1135,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:30:00Z",
+    "checked_at": "2026-03-20T02:29:17Z",
     "created_at": "2023-03-14T07:04:28.052359Z",
     "available": true
   },
@@ -1150,12 +1150,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:30:01Z",
+    "checked_at": "2026-03-20T02:29:17Z",
     "created_at": "2023-03-14T07:53:39.481393Z",
     "available": true
   },
   {
-    "ip": "197.231.179.101",
+    "ip": "197.231.179.91",
     "name": "",
     "as_number": 37305,
     "as_org": "FON",
@@ -1165,7 +1165,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:30:08Z",
+    "checked_at": "2026-03-20T02:29:17Z",
     "created_at": "2023-03-14T08:05:36.965791Z",
     "available": true
   },
@@ -1180,7 +1180,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-15T21:30:15Z",
+    "checked_at": "2026-03-20T02:29:17Z",
     "created_at": "2023-03-14T09:29:51.203406Z",
     "available": false
   },
@@ -1195,7 +1195,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:30:23Z",
+    "checked_at": "2026-03-20T02:29:18Z",
     "created_at": "2023-03-14T09:44:29.02075Z",
     "available": true
   },
@@ -1210,7 +1210,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9047619047619048,
-    "checked_at": "2025-03-15T21:30:27Z",
+    "checked_at": "2026-03-20T02:29:18Z",
     "created_at": "2023-03-14T13:07:10.327925Z",
     "available": true
   },
@@ -1225,12 +1225,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:30:35Z",
+    "checked_at": "2026-03-20T02:29:20Z",
     "created_at": "2023-03-14T13:13:34.504433Z",
     "available": true
   },
   {
-    "ip": "41.57.100.62",
+    "ip": "41.57.100.234",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -1240,9 +1240,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:30:36Z",
+    "checked_at": "2026-03-20T02:29:20Z",
     "created_at": "2023-03-14T15:53:42.472143Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "80.240.203.34",
@@ -1255,12 +1255,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5294117647058824,
-    "checked_at": "2025-03-15T21:30:43Z",
+    "checked_at": "2026-03-20T02:29:21Z",
     "created_at": "2023-03-14T17:47:41.201375Z",
     "available": true
   },
   {
-    "ip": "197.231.176.254",
+    "ip": "197.231.176.102",
     "name": "",
     "as_number": 37305,
     "as_org": "FON",
@@ -1270,12 +1270,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:30:50Z",
+    "checked_at": "2026-03-20T02:29:21Z",
     "created_at": "2023-03-14T19:24:20.112201Z",
     "available": true
   },
   {
-    "ip": "197.232.95.32",
+    "ip": "197.232.95.154",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -1285,9 +1285,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:30:51Z",
+    "checked_at": "2026-03-20T02:29:22Z",
     "created_at": "2023-03-14T20:17:13.441052Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "102.219.209.155",
@@ -1300,12 +1300,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:30:56Z",
+    "checked_at": "2026-03-20T02:29:22Z",
     "created_at": "2023-03-14T20:29:10.797741Z",
     "available": true
   },
   {
-    "ip": "197.248.185.173",
+    "ip": "197.248.185.115",
     "name": "197-248-185-173.safaricombusiness.co.ke.",
     "as_number": 37061,
     "as_org": "Safaricom",
@@ -1315,7 +1315,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:30:57Z",
+    "checked_at": "2026-03-20T02:29:22Z",
     "created_at": "2023-03-14T21:12:22.116558Z",
     "available": true
   },
@@ -1330,12 +1330,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:30:57Z",
+    "checked_at": "2026-03-20T02:29:25Z",
     "created_at": "2023-03-15T02:21:17.925543Z",
     "available": false
   },
   {
-    "ip": "197.254.75.206",
+    "ip": "197.254.75.70",
     "name": "197.254.75.170.acesskenya.net.",
     "as_number": 15808,
     "as_org": "ACCESSKENYA GROUP LTD is an ISP serving",
@@ -1345,7 +1345,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:31:05Z",
+    "checked_at": "2026-03-20T02:29:25Z",
     "created_at": "2023-03-15T02:47:30.141533Z",
     "available": true
   },
@@ -1360,7 +1360,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:31:12Z",
+    "checked_at": "2026-03-20T02:29:26Z",
     "created_at": "2023-03-15T03:26:59.659712Z",
     "available": true
   },
@@ -1375,7 +1375,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:31:17Z",
+    "checked_at": "2026-03-20T02:29:26Z",
     "created_at": "2023-03-15T03:36:32.87639Z",
     "available": true
   },
@@ -1390,12 +1390,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:31:24Z",
+    "checked_at": "2026-03-20T02:29:27Z",
     "created_at": "2023-03-15T05:18:11.432838Z",
     "available": false
   },
   {
-    "ip": "41.220.252.107",
+    "ip": "41.220.252.154",
     "name": "",
     "as_number": 30844,
     "as_org": "Liquid Telecommunications Ltd",
@@ -1405,7 +1405,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:31:32Z",
+    "checked_at": "2026-03-20T02:29:27Z",
     "created_at": "2023-03-15T05:21:00.950828Z",
     "available": true
   },
@@ -1420,12 +1420,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:31:39Z",
+    "checked_at": "2026-03-20T02:29:27Z",
     "created_at": "2023-03-15T06:36:28.153569Z",
     "available": true
   },
   {
-    "ip": "197.248.0.34",
+    "ip": "197.248.0.1",
     "name": "197-248-0-34.safaricombusiness.co.ke.",
     "as_number": 37061,
     "as_org": "Safaricom",
@@ -1435,7 +1435,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:31:40Z",
+    "checked_at": "2026-03-20T02:29:27Z",
     "created_at": "2023-03-15T07:24:09.705911Z",
     "available": true
   },
@@ -1450,7 +1450,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:31:42Z",
+    "checked_at": "2026-03-20T02:29:27Z",
     "created_at": "2023-03-15T07:34:00.882392Z",
     "available": true
   },
@@ -1465,12 +1465,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8846153846153846,
-    "checked_at": "2025-03-15T21:31:45Z",
+    "checked_at": "2026-03-20T02:29:27Z",
     "created_at": "2023-03-15T10:05:27.423967Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "41.72.195.210",
+    "ip": "41.72.195.10",
     "name": "41.72.195.210.liquidtelecom.net.",
     "as_number": 30844,
     "as_org": "Liquid Telecommunications Ltd",
@@ -1480,7 +1480,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:31:53Z",
+    "checked_at": "2026-03-20T02:29:28Z",
     "created_at": "2023-03-15T13:23:46.553346Z",
     "available": true
   },
@@ -1495,12 +1495,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.967741935483871,
-    "checked_at": "2025-03-15T21:31:53Z",
+    "checked_at": "2026-03-20T02:29:28Z",
     "created_at": "2023-03-15T16:00:34.049427Z",
     "available": true
   },
   {
-    "ip": "196.202.161.198",
+    "ip": "196.202.161.90",
     "name": "",
     "as_number": 15399,
     "as_org": "WANANCHI",
@@ -1510,12 +1510,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9696969696969697,
-    "checked_at": "2025-03-15T21:31:58Z",
+    "checked_at": "2026-03-20T02:29:29Z",
     "created_at": "2023-03-15T17:20:08.092888Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "197.248.81.115",
+    "ip": "197.248.81.163",
     "name": "197-248-81-111.safaricombusiness.co.ke.",
     "as_number": 37061,
     "as_org": "Safaricom",
@@ -1525,7 +1525,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9642857142857143,
-    "checked_at": "2025-03-15T21:32:05Z",
+    "checked_at": "2026-03-20T02:29:30Z",
     "created_at": "2023-03-16T02:17:41.325114Z",
     "available": true
   },
@@ -1540,7 +1540,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7575757575757576,
-    "checked_at": "2025-03-15T21:32:13Z",
+    "checked_at": "2026-03-20T02:29:30Z",
     "created_at": "2023-03-16T06:22:02.674128Z",
     "available": true
   },
@@ -1555,7 +1555,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-15T21:32:20Z",
+    "checked_at": "2026-03-20T02:29:30Z",
     "created_at": "2023-03-16T13:45:36.1444Z",
     "available": true
   },
@@ -1570,7 +1570,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4666666666666667,
-    "checked_at": "2025-03-15T21:32:21Z",
+    "checked_at": "2026-03-20T02:29:31Z",
     "created_at": "2023-03-16T16:42:09.290962Z",
     "available": true
   },
@@ -1585,7 +1585,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6923076923076923,
-    "checked_at": "2025-03-15T21:32:28Z",
+    "checked_at": "2026-03-20T02:29:31Z",
     "created_at": "2023-03-16T19:02:07.908885Z",
     "available": false
   },
@@ -1600,7 +1600,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6428571428571429,
-    "checked_at": "2025-03-15T21:32:35Z",
+    "checked_at": "2026-03-20T02:29:31Z",
     "created_at": "2023-03-16T20:08:13.30825Z",
     "available": true
   },
@@ -1615,12 +1615,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6428571428571429,
-    "checked_at": "2025-03-15T21:32:43Z",
+    "checked_at": "2026-03-20T02:29:32Z",
     "created_at": "2023-03-16T21:07:32.339308Z",
     "available": true
   },
   {
-    "ip": "197.232.43.152",
+    "ip": "197.232.43.219",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -1630,12 +1630,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.3448275862068966,
-    "checked_at": "2025-03-15T21:32:44Z",
+    "checked_at": "2026-03-20T02:29:32Z",
     "created_at": "2023-03-16T21:39:56.604452Z",
     "available": true
   },
   {
-    "ip": "41.84.143.206",
+    "ip": "41.84.143.106",
     "name": "",
     "as_number": 30844,
     "as_org": "Liquid Telecommunications Ltd",
@@ -1645,7 +1645,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6551724137931034,
-    "checked_at": "2025-03-15T21:32:51Z",
+    "checked_at": "2026-03-20T02:29:32Z",
     "created_at": "2023-03-16T22:01:44.423844Z",
     "available": true
   },
@@ -1660,7 +1660,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-15T21:32:52Z",
+    "checked_at": "2026-03-20T02:29:32Z",
     "created_at": "2023-03-16T22:55:32.664487Z",
     "available": false
   },
@@ -1675,12 +1675,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6774193548387096,
-    "checked_at": "2025-03-15T21:32:59Z",
+    "checked_at": "2026-03-20T02:29:33Z",
     "created_at": "2023-03-16T23:35:24.415173Z",
     "available": true
   },
   {
-    "ip": "102.216.155.22",
+    "ip": "102.216.155.235",
     "name": "",
     "as_number": 329014,
     "as_org": "Vilcom-Networks",
@@ -1690,7 +1690,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-15T21:33:00Z",
+    "checked_at": "2026-03-20T02:29:33Z",
     "created_at": "2023-03-17T00:13:56.520125Z",
     "available": true
   },
@@ -1705,7 +1705,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96875,
-    "checked_at": "2025-03-15T21:33:07Z",
+    "checked_at": "2026-03-20T02:29:33Z",
     "created_at": "2023-03-17T02:34:55.437224Z",
     "available": false
   },
@@ -1720,12 +1720,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2025-03-15T21:33:15Z",
+    "checked_at": "2026-03-20T02:29:34Z",
     "created_at": "2023-03-17T03:26:57.008076Z",
     "available": false
   },
   {
-    "ip": "196.207.21.142",
+    "ip": "196.207.21.134",
     "name": "196.207.21.46.accesskenya.com.",
     "as_number": 15808,
     "as_org": "ACCESSKENYA GROUP LTD is an ISP serving",
@@ -1735,7 +1735,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7352941176470589,
-    "checked_at": "2025-03-15T21:33:22Z",
+    "checked_at": "2026-03-20T02:29:35Z",
     "created_at": "2023-03-17T03:27:23.192187Z",
     "available": true
   },
@@ -1750,12 +1750,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.75,
-    "checked_at": "2025-03-15T21:33:29Z",
+    "checked_at": "2026-03-20T02:29:36Z",
     "created_at": "2023-03-17T04:13:21.778528Z",
     "available": true
   },
   {
-    "ip": "197.232.13.172",
+    "ip": "197.232.13.106",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -1765,12 +1765,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7272727272727273,
-    "checked_at": "2025-03-15T21:33:30Z",
+    "checked_at": "2026-03-20T02:29:36Z",
     "created_at": "2023-03-17T05:24:46.97882Z",
     "available": true
   },
   {
-    "ip": "41.206.50.118",
+    "ip": "41.206.50.226",
     "name": "41.206.50.118.accesskenya.com.",
     "as_number": 15808,
     "as_org": "ACCESSKENYA GROUP LTD is an ISP serving",
@@ -1780,12 +1780,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7272727272727273,
-    "checked_at": "2025-03-15T21:33:37Z",
+    "checked_at": "2026-03-20T02:29:37Z",
     "created_at": "2023-03-17T06:09:18.81905Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "197.232.153.101",
+    "ip": "197.232.153.114",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -1795,9 +1795,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8888888888888888,
-    "checked_at": "2025-03-15T21:33:45Z",
+    "checked_at": "2026-03-20T02:29:37Z",
     "created_at": "2023-03-17T11:49:51.950203Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "41.57.109.49",
@@ -1810,7 +1810,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8888888888888888,
-    "checked_at": "2025-03-15T21:33:52Z",
+    "checked_at": "2026-03-20T02:29:37Z",
     "created_at": "2023-03-17T12:19:33.894671Z",
     "available": false
   },
@@ -1825,7 +1825,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9310344827586207,
-    "checked_at": "2025-03-15T21:33:59Z",
+    "checked_at": "2026-03-20T02:29:40Z",
     "created_at": "2023-03-17T16:39:43.689629Z",
     "available": true
   },
@@ -1840,12 +1840,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9354838709677419,
-    "checked_at": "2025-03-15T21:34:07Z",
+    "checked_at": "2026-03-20T02:29:42Z",
     "created_at": "2023-03-17T17:17:37.238851Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "102.219.208.106",
+    "ip": "102.219.208.114",
     "name": "",
     "as_number": 328856,
     "as_org": "VIJIJI-CONNECT-LIMITED",
@@ -1855,7 +1855,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:34:11Z",
+    "checked_at": "2026-03-20T02:29:42Z",
     "created_at": "2023-03-18T05:21:40.971605Z",
     "available": true
   },
@@ -1870,9 +1870,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6923076923076923,
-    "checked_at": "2025-03-15T21:34:19Z",
+    "checked_at": "2026-03-20T02:29:43Z",
     "created_at": "2023-03-19T04:21:12.771959Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.206.58.234",
@@ -1885,12 +1885,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.35714285714285715,
-    "checked_at": "2025-03-15T21:34:22Z",
+    "checked_at": "2026-03-20T02:29:43Z",
     "created_at": "2023-03-19T08:00:53.638526Z",
     "available": true
   },
   {
-    "ip": "197.232.69.78",
+    "ip": "197.232.69.189",
     "name": "",
     "as_number": 36866,
     "as_org": "JTL",
@@ -1900,7 +1900,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6428571428571429,
-    "checked_at": "2025-03-15T21:34:29Z",
+    "checked_at": "2026-03-20T02:29:43Z",
     "created_at": "2023-03-19T08:06:24.698857Z",
     "available": true
   },
@@ -1915,9 +1915,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-15T21:34:30Z",
+    "checked_at": "2026-03-20T02:29:43Z",
     "created_at": "2023-03-19T10:20:31.674316Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "197.211.3.126",
@@ -1930,7 +1930,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8275862068965517,
-    "checked_at": "2025-03-15T21:34:37Z",
+    "checked_at": "2026-03-20T02:29:44Z",
     "created_at": "2023-03-19T15:52:10.908646Z",
     "available": false
   },
@@ -1945,7 +1945,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5037593984962406,
-    "checked_at": "2025-03-15T21:34:45Z",
+    "checked_at": "2026-03-20T02:29:45Z",
     "created_at": "2023-05-03T21:02:11.892326Z",
     "available": false
   },
@@ -1960,7 +1960,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6993464052287581,
-    "checked_at": "2025-03-15T21:34:52Z",
+    "checked_at": "2026-03-20T02:29:45Z",
     "created_at": "2023-05-07T15:13:15.155626Z",
     "available": false
   }
