@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9622641509433962,
-    "checked_at": "2025-03-16T15:22:53Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2021-10-03T12:10:35.453395Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9929577464788732,
-    "checked_at": "2025-03-16T15:22:54Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2021-10-03T12:10:38.025506Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.695852534562212,
-    "checked_at": "2025-03-16T15:22:57Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2022-09-10T11:20:44.049176Z",
     "available": true
   },
@@ -55,12 +55,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:23:05Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2022-09-30T00:16:45.282598Z",
     "available": true
   },
   {
-    "ip": "213.145.158.85",
+    "ip": "213.145.158.52",
     "name": "213-145-158-85.static.ktnet.kg.",
     "as_number": 12997,
     "as_org": "OJSC Kyrgyztelecom",
@@ -70,9 +70,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5263157894736842,
-    "checked_at": "2025-03-16T15:23:05Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2022-11-15T00:56:01.228723Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "92.62.72.127",
@@ -85,12 +85,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8742857142857143,
-    "checked_at": "2025-03-16T15:23:13Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-02-19T07:25:09.823228Z",
     "available": true
   },
   {
-    "ip": "31.192.249.76",
+    "ip": "31.192.249.250",
     "name": "",
     "as_number": 8449,
     "as_org": "ElCat Ltd.",
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9722222222222222,
-    "checked_at": "2025-03-16T15:23:20Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-02-23T08:52:02.262169Z",
     "available": true
   },
   {
-    "ip": "85.113.7.222",
+    "ip": "85.113.7.225",
     "name": "85-113-7-222.static.ktnet.kg.",
     "as_number": 12997,
     "as_org": "OJSC Kyrgyztelecom",
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6515151515151515,
-    "checked_at": "2025-03-16T15:23:28Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-09T05:25:49.761087Z",
     "available": true
   },
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:23:30Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T01:35:32.524318Z",
     "available": true
   },
@@ -145,9 +145,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:23:37Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T04:11:21.408739Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "5.57.9.234",
@@ -160,12 +160,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:23:42Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T05:42:44.363593Z",
     "available": true
   },
   {
-    "ip": "85.113.18.34",
+    "ip": "85.113.18.173",
     "name": "85-113-18-34.static.ktnet.kg.",
     "as_number": 12997,
     "as_org": "OJSC Kyrgyztelecom",
@@ -175,12 +175,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:23:49Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T07:45:10.273116Z",
     "available": true
   },
   {
-    "ip": "212.42.113.132",
+    "ip": "212.42.113.142",
     "name": "212-42-113-175.elcat.kg.",
     "as_number": 8449,
     "as_org": "ElCat Ltd.",
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:23:52Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T08:51:36.257712Z",
     "available": true
   },
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:24:00Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T10:39:35.041988Z",
     "available": true
   },
@@ -220,7 +220,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8787878787878788,
-    "checked_at": "2025-03-16T15:24:07Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T13:02:20.215234Z",
     "available": true
   },
@@ -235,12 +235,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9912663755458515,
-    "checked_at": "2025-03-16T15:24:08Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T13:04:35.631484Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "85.113.22.170",
+    "ip": "85.113.22.185",
     "name": "85-113-22-170.static.ktnet.kg.",
     "as_number": 12997,
     "as_org": "OJSC Kyrgyztelecom",
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:24:15Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T13:36:22.828477Z",
     "available": true
   },
@@ -265,7 +265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:24:15Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T14:28:24.030711Z",
     "available": true
   },
@@ -280,12 +280,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:24:23Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T16:53:39.36111Z",
     "available": true
   },
   {
-    "ip": "85.113.7.154",
+    "ip": "85.113.7.225",
     "name": "85-113-7-154.static.ktnet.kg.",
     "as_number": 12997,
     "as_org": "OJSC Kyrgyztelecom",
@@ -295,7 +295,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:24:30Z",
+    "checked_at": "2026-03-25T02:34:45Z",
     "created_at": "2023-03-13T18:34:38.321535Z",
     "available": true
   },
@@ -310,7 +310,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:24:31Z",
+    "checked_at": "2026-03-25T02:34:46Z",
     "created_at": "2023-03-13T23:56:23.345443Z",
     "available": true
   },
@@ -325,9 +325,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:24:31Z",
+    "checked_at": "2026-03-25T02:34:46Z",
     "created_at": "2023-03-14T02:14:06.778262Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "95.87.95.2",
@@ -340,7 +340,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:24:39Z",
+    "checked_at": "2026-03-25T02:34:46Z",
     "created_at": "2023-03-14T02:42:14.785687Z",
     "available": false
   },
@@ -355,7 +355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8571428571428571,
-    "checked_at": "2025-03-16T15:24:46Z",
+    "checked_at": "2026-03-25T02:34:46Z",
     "created_at": "2023-03-14T04:00:22.695277Z",
     "available": true
   },
@@ -370,7 +370,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:24:51Z",
+    "checked_at": "2026-03-25T02:34:46Z",
     "created_at": "2023-03-14T04:40:37.049619Z",
     "available": true
   },
@@ -385,7 +385,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:24:58Z",
+    "checked_at": "2026-03-25T02:34:46Z",
     "created_at": "2023-03-14T05:35:49.265518Z",
     "available": true
   },
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:25:05Z",
+    "checked_at": "2026-03-25T02:34:46Z",
     "created_at": "2023-03-14T05:45:22.853509Z",
     "available": true
   },
@@ -415,9 +415,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.5,
-    "checked_at": "2025-03-16T15:25:13Z",
+    "checked_at": "2026-03-25T02:34:46Z",
     "created_at": "2023-03-14T09:18:49.899361Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "85.113.30.110",
@@ -430,7 +430,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:25:20Z",
+    "checked_at": "2026-03-25T02:34:47Z",
     "created_at": "2023-03-14T09:46:36.698607Z",
     "available": true
   },
@@ -445,7 +445,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-16T15:25:27Z",
+    "checked_at": "2026-03-25T02:34:48Z",
     "created_at": "2023-03-14T11:25:07.1609Z",
     "available": true
   },
@@ -460,7 +460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:25:35Z",
+    "checked_at": "2026-03-25T02:34:48Z",
     "created_at": "2023-03-14T12:24:35.455989Z",
     "available": true
   },
@@ -475,12 +475,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:25:42Z",
+    "checked_at": "2026-03-25T02:34:48Z",
     "created_at": "2023-03-14T12:53:13.681442Z",
     "available": true
   },
   {
-    "ip": "77.235.18.74",
+    "ip": "77.235.18.18",
     "name": "77-235-18-74.mega.kg.",
     "as_number": 41750,
     "as_org": "Mega-Line Ltd.",
@@ -490,12 +490,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:25:49Z",
+    "checked_at": "2026-03-25T02:34:48Z",
     "created_at": "2023-03-14T13:41:45.493816Z",
     "available": true
   },
   {
-    "ip": "92.245.114.129",
+    "ip": "92.245.114.11",
     "name": "92-245-114-129.mega.kg.",
     "as_number": 41750,
     "as_org": "Mega-Line Ltd.",
@@ -505,7 +505,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:25:50Z",
+    "checked_at": "2026-03-25T02:34:48Z",
     "created_at": "2023-03-14T15:30:44.112173Z",
     "available": true
   },
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-16T15:25:53Z",
+    "checked_at": "2026-03-25T02:34:48Z",
     "created_at": "2023-03-14T16:42:35.58972Z",
     "available": true
   },
@@ -535,7 +535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:26:01Z",
+    "checked_at": "2026-03-25T02:34:49Z",
     "created_at": "2023-03-14T16:50:15.536154Z",
     "available": true
   },
@@ -550,7 +550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:26:08Z",
+    "checked_at": "2026-03-25T02:34:49Z",
     "created_at": "2023-03-14T17:24:16.59837Z",
     "available": true
   },
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:26:09Z",
+    "checked_at": "2026-03-25T02:34:49Z",
     "created_at": "2023-03-14T20:45:57.276985Z",
     "available": false
   },
@@ -580,12 +580,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:26:16Z",
+    "checked_at": "2026-03-25T02:34:49Z",
     "created_at": "2023-03-14T22:01:36.310708Z",
     "available": true
   },
   {
-    "ip": "77.235.27.233",
+    "ip": "77.235.27.1",
     "name": "77-235-27-233.mega.kg.",
     "as_number": 41750,
     "as_org": "Mega-Line Ltd.",
@@ -595,7 +595,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:26:23Z",
+    "checked_at": "2026-03-25T02:34:50Z",
     "created_at": "2023-03-14T22:32:04.697195Z",
     "available": true
   },
@@ -610,12 +610,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:26:24Z",
+    "checked_at": "2026-03-25T02:34:50Z",
     "created_at": "2023-03-14T22:39:49.776782Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "85.113.18.209",
+    "ip": "85.113.18.173",
     "name": "85-113-18-209.static.ktnet.kg.",
     "as_number": 12997,
     "as_org": "OJSC Kyrgyztelecom",
@@ -625,7 +625,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:26:31Z",
+    "checked_at": "2026-03-25T02:34:50Z",
     "created_at": "2023-03-15T01:30:12.885129Z",
     "available": true
   },
@@ -640,12 +640,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:26:34Z",
+    "checked_at": "2026-03-25T02:34:50Z",
     "created_at": "2023-03-15T02:03:48.915058Z",
     "available": true
   },
   {
-    "ip": "77.235.18.178",
+    "ip": "77.235.18.18",
     "name": "77-235-18-2.mega.kg.",
     "as_number": 41750,
     "as_org": "Mega-Line Ltd.",
@@ -655,7 +655,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:26:38Z",
+    "checked_at": "2026-03-25T02:34:53Z",
     "created_at": "2023-03-15T08:42:59.601526Z",
     "available": true
   },
@@ -670,7 +670,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:26:45Z",
+    "checked_at": "2026-03-25T02:34:54Z",
     "created_at": "2023-03-15T09:57:37.506864Z",
     "available": true
   },
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8181818181818182,
-    "checked_at": "2025-03-16T15:26:52Z",
+    "checked_at": "2026-03-25T02:34:56Z",
     "created_at": "2023-03-15T10:59:37.701723Z",
     "available": true
   },
@@ -700,7 +700,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:27:00Z",
+    "checked_at": "2026-03-25T02:35:01Z",
     "created_at": "2023-03-15T12:05:58.626225Z",
     "available": false
   },
@@ -715,7 +715,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:27:07Z",
+    "checked_at": "2026-03-25T02:35:02Z",
     "created_at": "2023-03-15T14:18:20.41988Z",
     "available": true
   },
@@ -730,7 +730,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:27:07Z",
+    "checked_at": "2026-03-25T02:35:02Z",
     "created_at": "2023-03-15T15:03:49.936873Z",
     "available": true
   },
@@ -745,12 +745,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96875,
-    "checked_at": "2025-03-16T15:27:11Z",
+    "checked_at": "2026-03-25T02:35:03Z",
     "created_at": "2023-03-15T15:28:39.466639Z",
     "available": true
   },
   {
-    "ip": "80.72.176.122",
+    "ip": "80.72.176.130",
     "name": "80-72-176-174.pppoe.ktnet.kg.",
     "as_number": 12997,
     "as_org": "OJSC Kyrgyztelecom",
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:27:13Z",
+    "checked_at": "2026-03-25T02:35:03Z",
     "created_at": "2023-03-15T16:39:16.895043Z",
     "available": true
   },
@@ -775,7 +775,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-16T15:27:21Z",
+    "checked_at": "2026-03-25T02:35:04Z",
     "created_at": "2023-03-16T03:43:39.41624Z",
     "available": true
   },
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.78125,
-    "checked_at": "2025-03-16T15:27:28Z",
+    "checked_at": "2026-03-25T02:35:04Z",
     "created_at": "2023-03-16T10:20:27.349196Z",
     "available": true
   },
@@ -805,7 +805,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9354838709677419,
-    "checked_at": "2025-03-16T15:27:29Z",
+    "checked_at": "2026-03-25T02:35:04Z",
     "created_at": "2023-03-16T11:04:23.490605Z",
     "available": true
   },
@@ -820,12 +820,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7741935483870968,
-    "checked_at": "2025-03-16T15:27:36Z",
+    "checked_at": "2026-03-25T02:35:04Z",
     "created_at": "2023-03-16T11:16:08.319426Z",
     "available": true
   },
   {
-    "ip": "85.113.15.228",
+    "ip": "85.113.15.198",
     "name": "85-113-15-150.static.ktnet.kg.",
     "as_number": 12997,
     "as_org": "OJSC Kyrgyztelecom",
@@ -835,7 +835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-16T15:27:43Z",
+    "checked_at": "2026-03-25T02:35:04Z",
     "created_at": "2023-03-16T13:24:26.803529Z",
     "available": true
   },
@@ -850,12 +850,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.25,
-    "checked_at": "2025-03-16T15:27:51Z",
+    "checked_at": "2026-03-25T02:35:04Z",
     "created_at": "2023-03-16T20:12:19.485682Z",
     "available": true
   },
   {
-    "ip": "85.113.16.18",
+    "ip": "85.113.16.132",
     "name": "85-113-16-18.static.ktnet.kg.",
     "as_number": 12997,
     "as_org": "OJSC Kyrgyztelecom",
@@ -865,12 +865,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9642857142857143,
-    "checked_at": "2025-03-16T15:27:54Z",
+    "checked_at": "2026-03-25T02:35:04Z",
     "created_at": "2023-03-16T21:09:34.125515Z",
     "available": true
   },
   {
-    "ip": "95.87.81.131",
+    "ip": "95.87.81.81",
     "name": "95-87-81-131.saimanet.kg.",
     "as_number": 29061,
     "as_org": "Saimanet Telecomunications",
@@ -880,9 +880,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6785714285714286,
-    "checked_at": "2025-03-16T15:27:54Z",
+    "checked_at": "2026-03-25T02:35:04Z",
     "created_at": "2023-03-16T21:20:25.071287Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "158.181.145.14",
@@ -895,7 +895,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.896551724137931,
-    "checked_at": "2025-03-16T15:28:02Z",
+    "checked_at": "2026-03-25T02:35:05Z",
     "created_at": "2023-03-16T21:55:08.591597Z",
     "available": false
   },
@@ -910,7 +910,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6551724137931034,
-    "checked_at": "2025-03-16T15:28:09Z",
+    "checked_at": "2026-03-25T02:35:04Z",
     "created_at": "2023-03-16T22:19:48.367459Z",
     "available": true
   },
@@ -925,12 +925,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7,
-    "checked_at": "2025-03-16T15:28:16Z",
+    "checked_at": "2026-03-25T02:35:05Z",
     "created_at": "2023-03-16T22:47:45.426573Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "92.62.65.138",
+    "ip": "92.62.65.147",
     "name": "92-62-65-138.saimanet.kg.",
     "as_number": 29061,
     "as_org": "Saimanet Telecomunications",
@@ -940,12 +940,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-16T15:28:24Z",
+    "checked_at": "2026-03-25T02:35:05Z",
     "created_at": "2023-03-16T23:35:35.110191Z",
     "available": true
   },
   {
-    "ip": "77.235.18.98",
+    "ip": "77.235.18.18",
     "name": "77-235-18-98.mega.kg.",
     "as_number": 41750,
     "as_org": "Mega-Line Ltd.",
@@ -955,7 +955,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-16T15:28:24Z",
+    "checked_at": "2026-03-25T02:35:05Z",
     "created_at": "2023-03-16T23:35:51.90975Z",
     "available": true
   },
@@ -970,7 +970,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-16T15:28:25Z",
+    "checked_at": "2026-03-25T02:35:05Z",
     "created_at": "2023-03-16T23:44:08.888234Z",
     "available": true
   },
@@ -985,12 +985,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-16T15:28:25Z",
+    "checked_at": "2026-03-25T02:35:05Z",
     "created_at": "2023-03-16T23:52:27.158458Z",
     "available": true
   },
   {
-    "ip": "85.113.16.148",
+    "ip": "85.113.16.132",
     "name": "85-113-16-130.static.ktnet.kg.",
     "as_number": 12997,
     "as_org": "OJSC Kyrgyztelecom",
@@ -1000,7 +1000,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.71875,
-    "checked_at": "2025-03-16T15:28:32Z",
+    "checked_at": "2026-03-25T02:35:06Z",
     "created_at": "2023-03-17T02:40:01.891421Z",
     "available": true
   },
@@ -1015,7 +1015,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7073170731707317,
-    "checked_at": "2025-03-16T15:28:40Z",
+    "checked_at": "2026-03-25T02:35:06Z",
     "created_at": "2023-03-17T04:07:51.989696Z",
     "available": true
   },
@@ -1030,12 +1030,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9761904761904762,
-    "checked_at": "2025-03-16T15:28:47Z",
+    "checked_at": "2026-03-25T02:35:06Z",
     "created_at": "2023-03-17T04:15:44.432869Z",
     "available": true
   },
   {
-    "ip": "94.143.194.179",
+    "ip": "94.143.194.145",
     "name": "94-143-194-179.elcat.kg.",
     "as_number": 8449,
     "as_org": "ElCat Ltd.",
@@ -1045,7 +1045,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7380952380952381,
-    "checked_at": "2025-03-16T15:28:50Z",
+    "checked_at": "2026-03-25T02:35:06Z",
     "created_at": "2023-03-17T05:01:46.004075Z",
     "available": true
   },
@@ -1060,7 +1060,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6744186046511628,
-    "checked_at": "2025-03-16T15:28:54Z",
+    "checked_at": "2026-03-25T02:35:06Z",
     "created_at": "2023-03-17T05:11:17.213675Z",
     "available": true
   },
@@ -1075,7 +1075,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6038961038961039,
-    "checked_at": "2025-03-16T15:28:57Z",
+    "checked_at": "2026-03-25T02:35:06Z",
     "created_at": "2023-03-17T19:51:40.982201Z",
     "available": true
   },
@@ -1090,7 +1090,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5384615384615384,
-    "checked_at": "2025-03-16T15:29:00Z",
+    "checked_at": "2026-03-25T02:35:07Z",
     "created_at": "2023-03-19T22:16:02.844102Z",
     "available": true
   }
