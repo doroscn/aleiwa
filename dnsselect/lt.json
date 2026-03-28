@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9535747446610956,
-    "checked_at": "2025-03-17T15:26:26Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2021-03-26T09:02:23.385923Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9191374663072777,
-    "checked_at": "2025-03-17T15:26:33Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2021-04-13T07:01:23.026341Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:26:41Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2021-09-26T00:27:01.959352Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:26:48Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2021-10-01T23:01:16.174456Z",
     "available": false
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:26:55Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2021-10-01T23:26:48.252558Z",
     "available": true
   },
@@ -85,12 +85,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:27:00Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2021-10-02T00:13:49.356386Z",
     "available": false
   },
   {
-    "ip": "5.199.174.10",
+    "ip": "5.199.174.150",
     "name": "pihole1.ispconfig.lt.",
     "as_number": 16125,
     "as_org": "UAB Cherry Servers",
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:27:07Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2021-10-02T00:14:52.949848Z",
     "available": true
   },
   {
-    "ip": "195.181.247.103",
+    "ip": "195.181.247.112",
     "name": "41004.s.time4vps.cloud.",
     "as_number": 212531,
     "as_org": "UAB Interneto vizija",
@@ -115,12 +115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:27:12Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2021-10-02T18:03:19.622638Z",
     "available": true
   },
   {
-    "ip": "88.119.204.120",
+    "ip": "88.119.204.227",
     "name": "88-119-204-62.static.zebra.lt.",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -130,12 +130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:27:19Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2021-10-24T11:42:26.785472Z",
     "available": true
   },
   {
-    "ip": "109.235.69.101",
+    "ip": "109.235.69.109",
     "name": "mail-lietuva.acvan.net.",
     "as_number": 212531,
     "as_org": "UAB Interneto vizija",
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:27:26Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2021-10-25T00:59:32.945252Z",
     "available": true
   },
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:27:34Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2021-10-25T00:59:33.584472Z",
     "available": false
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:27:34Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2022-09-08T04:31:38.113017Z",
     "available": false
   },
@@ -190,9 +190,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:27:41Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2022-09-08T04:33:08.252926Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "5.20.139.38",
@@ -205,12 +205,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:27:49Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2022-09-08T04:33:30.476903Z",
     "available": false
   },
   {
-    "ip": "5.133.65.170",
+    "ip": "5.133.65.245",
     "name": "",
     "as_number": 15440,
     "as_org": "UAB Baltnetos komunikacijos",
@@ -220,12 +220,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:27:56Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2022-09-08T17:45:33.597985Z",
     "available": true
   },
   {
-    "ip": "5.199.161.14",
+    "ip": "5.199.161.47",
     "name": "",
     "as_number": 16125,
     "as_org": "UAB Cherry Servers",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9836956521739131,
-    "checked_at": "2025-03-17T15:28:03Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2022-09-09T01:47:39.064518Z",
     "available": true
   },
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:28:11Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2022-09-10T06:47:31.105575Z",
     "available": false
   },
@@ -265,9 +265,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:28:18Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2022-09-10T06:47:59.325972Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "5.20.117.208",
@@ -280,7 +280,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:28:21Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2022-09-10T06:48:33.19826Z",
     "available": true
   },
@@ -295,12 +295,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:28:28Z",
+    "checked_at": "2026-03-28T02:33:53Z",
     "created_at": "2022-09-10T06:50:25.864426Z",
     "available": false
   },
   {
-    "ip": "62.77.153.21",
+    "ip": "62.77.153.134",
     "name": "server.ozbo.lt.",
     "as_number": 212531,
     "as_org": "UAB Interneto vizija",
@@ -310,7 +310,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8872458410351202,
-    "checked_at": "2025-03-17T15:28:36Z",
+    "checked_at": "2026-03-28T02:33:54Z",
     "created_at": "2022-09-28T07:19:08.473422Z",
     "available": true
   },
@@ -325,7 +325,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:28:39Z",
+    "checked_at": "2026-03-28T02:33:54Z",
     "created_at": "2022-10-15T08:31:22.151297Z",
     "available": true
   },
@@ -340,7 +340,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:28:46Z",
+    "checked_at": "2026-03-28T02:33:54Z",
     "created_at": "2022-10-20T01:52:55.973025Z",
     "available": false
   },
@@ -355,7 +355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:28:51Z",
+    "checked_at": "2026-03-28T02:33:54Z",
     "created_at": "2022-10-26T10:52:09.363006Z",
     "available": true
   },
@@ -370,7 +370,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:28:58Z",
+    "checked_at": "2026-03-28T02:33:54Z",
     "created_at": "2022-11-09T22:43:21.351657Z",
     "available": true
   },
@@ -385,7 +385,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:28:59Z",
+    "checked_at": "2026-03-28T02:33:54Z",
     "created_at": "2022-11-13T18:22:34.601985Z",
     "available": false
   },
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:29:06Z",
+    "checked_at": "2026-03-28T02:33:54Z",
     "created_at": "2022-11-18T14:40:54.649964Z",
     "available": true
   },
@@ -415,9 +415,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9761904761904762,
-    "checked_at": "2025-03-17T15:29:13Z",
+    "checked_at": "2026-03-28T02:33:55Z",
     "created_at": "2022-11-26T19:26:04.287465Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "188.69.227.55",
@@ -430,7 +430,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9753086419753086,
-    "checked_at": "2025-03-17T15:29:14Z",
+    "checked_at": "2026-03-28T02:33:57Z",
     "created_at": "2022-12-11T22:47:29.998175Z",
     "available": true
   },
@@ -445,7 +445,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:29:14Z",
+    "checked_at": "2026-03-28T02:33:57Z",
     "created_at": "2022-12-15T11:21:29.372621Z",
     "available": true
   },
@@ -460,7 +460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8289473684210527,
-    "checked_at": "2025-03-17T15:29:21Z",
+    "checked_at": "2026-03-28T02:33:57Z",
     "created_at": "2022-12-19T01:34:39.859313Z",
     "available": false
   },
@@ -475,7 +475,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9714285714285714,
-    "checked_at": "2025-03-17T15:29:29Z",
+    "checked_at": "2026-03-28T02:33:57Z",
     "created_at": "2022-12-20T02:24:18.638448Z",
     "available": true
   },
@@ -490,7 +490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9210526315789473,
-    "checked_at": "2025-03-17T15:29:29Z",
+    "checked_at": "2026-03-28T02:34:01Z",
     "created_at": "2022-12-20T18:15:31.115333Z",
     "available": true
   },
@@ -505,9 +505,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9761904761904762,
-    "checked_at": "2025-03-17T15:29:29Z",
+    "checked_at": "2026-03-28T02:34:02Z",
     "created_at": "2022-12-21T09:55:10.259754Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "212.59.30.150",
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4745762711864407,
-    "checked_at": "2025-03-17T15:29:30Z",
+    "checked_at": "2026-03-28T02:34:09Z",
     "created_at": "2022-12-25T13:42:51.521628Z",
     "available": false
   },
@@ -535,7 +535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:29:37Z",
+    "checked_at": "2026-03-28T02:34:10Z",
     "created_at": "2022-12-29T15:20:27.441271Z",
     "available": true
   },
@@ -550,7 +550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9963235294117647,
-    "checked_at": "2025-03-17T15:29:37Z",
+    "checked_at": "2026-03-28T02:34:11Z",
     "created_at": "2023-02-22T07:10:26.546871Z",
     "available": false
   },
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9735449735449735,
-    "checked_at": "2025-03-17T15:29:45Z",
+    "checked_at": "2026-03-28T02:34:11Z",
     "created_at": "2023-02-23T11:18:55.763418Z",
     "available": true
   },
@@ -580,9 +580,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:29:52Z",
+    "checked_at": "2026-03-28T02:34:11Z",
     "created_at": "2023-02-24T07:15:42.95214Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "212.59.30.149",
@@ -595,7 +595,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.32450331125827814,
-    "checked_at": "2025-03-17T15:29:59Z",
+    "checked_at": "2026-03-28T02:34:11Z",
     "created_at": "2023-02-25T04:19:35.978386Z",
     "available": false
   },
@@ -610,7 +610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:30:07Z",
+    "checked_at": "2026-03-28T02:34:11Z",
     "created_at": "2023-02-25T23:44:05.081195Z",
     "available": true
   },
@@ -625,7 +625,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9942196531791907,
-    "checked_at": "2025-03-17T15:30:14Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-02-26T17:41:35.832483Z",
     "available": true
   },
@@ -640,7 +640,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:30:22Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-02-26T19:48:29.084169Z",
     "available": true
   },
@@ -655,7 +655,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9793103448275862,
-    "checked_at": "2025-03-17T15:30:24Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-02-28T10:29:01.928925Z",
     "available": true
   },
@@ -670,7 +670,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:30:24Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-03-05T06:13:55.592777Z",
     "available": true
   },
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:30:25Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-03-09T02:19:35.090682Z",
     "available": true
   },
@@ -700,7 +700,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:30:32Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-03-12T02:41:52.847718Z",
     "available": true
   },
@@ -715,7 +715,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8382352941176471,
-    "checked_at": "2025-03-17T15:30:32Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-03-13T00:57:52.12841Z",
     "available": true
   },
@@ -730,12 +730,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:30:35Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-03-13T01:34:50.73594Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "85.206.34.2",
+    "ip": "85.206.34.18",
     "name": "85-206-34-2.static.zebra.lt.",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -745,9 +745,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:30:43Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-03-13T03:13:47.716639Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "88.119.146.78",
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:30:50Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-03-13T03:28:37.02456Z",
     "available": false
   },
@@ -775,7 +775,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:30:57Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-03-13T03:46:44.889445Z",
     "available": true
   },
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:02Z",
+    "checked_at": "2026-03-28T02:34:12Z",
     "created_at": "2023-03-13T04:23:36.340337Z",
     "available": true
   },
@@ -805,7 +805,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:05Z",
+    "checked_at": "2026-03-28T02:34:13Z",
     "created_at": "2023-03-13T05:09:56.83887Z",
     "available": true
   },
@@ -820,7 +820,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:12Z",
+    "checked_at": "2026-03-28T02:34:13Z",
     "created_at": "2023-03-13T05:34:13.869126Z",
     "available": false
   },
@@ -835,7 +835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:20Z",
+    "checked_at": "2026-03-28T02:34:13Z",
     "created_at": "2023-03-13T05:51:13.688906Z",
     "available": false
   },
@@ -850,7 +850,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:27Z",
+    "checked_at": "2026-03-28T02:34:13Z",
     "created_at": "2023-03-13T06:25:39.11912Z",
     "available": true
   },
@@ -865,9 +865,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:30Z",
+    "checked_at": "2026-03-28T02:34:13Z",
     "created_at": "2023-03-13T07:40:55.932249Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "85.255.111.7",
@@ -880,7 +880,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:31Z",
+    "checked_at": "2026-03-28T02:34:14Z",
     "created_at": "2023-03-13T08:48:50.324727Z",
     "available": true
   },
@@ -895,7 +895,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:34Z",
+    "checked_at": "2026-03-28T02:34:14Z",
     "created_at": "2023-03-13T08:51:55.382799Z",
     "available": false
   },
@@ -910,12 +910,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:41Z",
+    "checked_at": "2026-03-28T02:34:14Z",
     "created_at": "2023-03-13T09:45:39.440016Z",
     "available": true
   },
   {
-    "ip": "88.119.135.106",
+    "ip": "88.119.135.136",
     "name": "88-119-135-106.static.zebra.lt.",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -925,7 +925,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:42Z",
+    "checked_at": "2026-03-28T02:34:15Z",
     "created_at": "2023-03-13T09:46:16.148709Z",
     "available": true
   },
@@ -940,7 +940,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:44Z",
+    "checked_at": "2026-03-28T02:34:15Z",
     "created_at": "2023-03-13T09:56:15.657624Z",
     "available": true
   },
@@ -955,7 +955,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:44Z",
+    "checked_at": "2026-03-28T02:34:15Z",
     "created_at": "2023-03-13T10:44:54.842349Z",
     "available": true
   },
@@ -970,7 +970,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:47Z",
+    "checked_at": "2026-03-28T02:34:15Z",
     "created_at": "2023-03-13T12:27:58.630786Z",
     "available": true
   },
@@ -985,12 +985,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:55Z",
+    "checked_at": "2026-03-28T02:34:15Z",
     "created_at": "2023-03-13T12:49:38.797504Z",
     "available": true
   },
   {
-    "ip": "88.119.49.113",
+    "ip": "88.119.49.187",
     "name": "88-119-49-4.static.zebra.lt.",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -1000,7 +1000,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:31:55Z",
+    "checked_at": "2026-03-28T02:34:15Z",
     "created_at": "2023-03-13T12:52:32.195434Z",
     "available": true
   },
@@ -1015,7 +1015,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:02Z",
+    "checked_at": "2026-03-28T02:34:15Z",
     "created_at": "2023-03-13T13:18:37.957924Z",
     "available": true
   },
@@ -1030,9 +1030,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:10Z",
+    "checked_at": "2026-03-28T02:34:16Z",
     "created_at": "2023-03-13T13:30:49.075623Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "85.206.25.100",
@@ -1045,7 +1045,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:13Z",
+    "checked_at": "2026-03-28T02:34:16Z",
     "created_at": "2023-03-13T13:33:37.997053Z",
     "available": true
   },
@@ -1060,12 +1060,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:13Z",
+    "checked_at": "2026-03-28T02:34:18Z",
     "created_at": "2023-03-13T13:58:11.283555Z",
     "available": true
   },
   {
-    "ip": "46.36.77.99",
+    "ip": "46.36.77.1",
     "name": "ip-77-99.rev.kli.lt.",
     "as_number": 43627,
     "as_org": "UAB Besmegeniai",
@@ -1075,7 +1075,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:16Z",
+    "checked_at": "2026-03-28T02:34:18Z",
     "created_at": "2023-03-13T14:30:28.894432Z",
     "available": true
   },
@@ -1090,9 +1090,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:17Z",
+    "checked_at": "2026-03-28T02:34:18Z",
     "created_at": "2023-03-13T14:42:10.87836Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "91.233.176.248",
@@ -1105,12 +1105,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:17Z",
+    "checked_at": "2026-03-28T02:34:18Z",
     "created_at": "2023-03-13T14:45:16.670397Z",
     "available": true
   },
   {
-    "ip": "94.232.224.254",
+    "ip": "94.232.224.146",
     "name": "host-94-232-224-254.etanetas.lt.",
     "as_number": 39067,
     "as_org": "Etanetas Uab",
@@ -1120,7 +1120,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:17Z",
+    "checked_at": "2026-03-28T02:34:19Z",
     "created_at": "2023-03-13T15:30:02.725883Z",
     "available": true
   },
@@ -1135,7 +1135,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:18Z",
+    "checked_at": "2026-03-28T02:34:20Z",
     "created_at": "2023-03-13T15:50:38.948123Z",
     "available": true
   },
@@ -1150,7 +1150,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:25Z",
+    "checked_at": "2026-03-28T02:34:20Z",
     "created_at": "2023-03-13T16:00:31.41636Z",
     "available": true
   },
@@ -1165,12 +1165,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:28Z",
+    "checked_at": "2026-03-28T02:34:21Z",
     "created_at": "2023-03-13T16:17:30.811253Z",
     "available": true
   },
   {
-    "ip": "88.119.128.194",
+    "ip": "88.119.128.133",
     "name": "kaunas.mediaskopas.lt.",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -1180,7 +1180,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:33Z",
+    "checked_at": "2026-03-28T02:34:22Z",
     "created_at": "2023-03-13T17:06:33.500659Z",
     "available": true
   },
@@ -1195,7 +1195,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9841269841269841,
-    "checked_at": "2025-03-17T15:32:40Z",
+    "checked_at": "2026-03-28T02:34:22Z",
     "created_at": "2023-03-13T17:30:58.428848Z",
     "available": false
   },
@@ -1210,7 +1210,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:47Z",
+    "checked_at": "2026-03-28T02:34:24Z",
     "created_at": "2023-03-13T17:38:01.995883Z",
     "available": true
   },
@@ -1225,7 +1225,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:48Z",
+    "checked_at": "2026-03-28T02:34:24Z",
     "created_at": "2023-03-13T18:31:37.839039Z",
     "available": true
   },
@@ -1240,12 +1240,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:32:55Z",
+    "checked_at": "2026-03-28T02:34:26Z",
     "created_at": "2023-03-13T20:30:56.048477Z",
     "available": true
   },
   {
-    "ip": "85.254.98.18",
+    "ip": "85.254.98.24",
     "name": "",
     "as_number": 13194,
     "as_org": "UAB Bite Lietuva",
@@ -1255,12 +1255,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:02Z",
+    "checked_at": "2026-03-28T02:34:26Z",
     "created_at": "2023-03-13T20:39:34.428904Z",
     "available": true
   },
   {
-    "ip": "88.216.164.85",
+    "ip": "88.216.164.161",
     "name": "",
     "as_number": 33922,
     "as_org": "UAB Nacionalinis Telekomunikaciju Tinklas",
@@ -1270,7 +1270,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:10Z",
+    "checked_at": "2026-03-28T02:34:27Z",
     "created_at": "2023-03-13T21:23:56.020639Z",
     "available": true
   },
@@ -1285,7 +1285,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:10Z",
+    "checked_at": "2026-03-28T02:34:27Z",
     "created_at": "2023-03-13T21:27:47.074982Z",
     "available": true
   },
@@ -1300,7 +1300,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:11Z",
+    "checked_at": "2026-03-28T02:34:27Z",
     "created_at": "2023-03-13T21:30:44.947339Z",
     "available": true
   },
@@ -1315,7 +1315,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:18Z",
+    "checked_at": "2026-03-28T02:34:28Z",
     "created_at": "2023-03-13T23:06:03.089791Z",
     "available": true
   },
@@ -1330,12 +1330,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:22Z",
+    "checked_at": "2026-03-28T02:34:28Z",
     "created_at": "2023-03-14T01:20:42.550913Z",
     "available": false
   },
   {
-    "ip": "88.216.116.189",
+    "ip": "88.216.116.47",
     "name": "",
     "as_number": 33922,
     "as_org": "UAB Nacionalinis Telekomunikaciju Tinklas",
@@ -1345,12 +1345,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:30Z",
+    "checked_at": "2026-03-28T02:34:28Z",
     "created_at": "2023-03-14T02:05:54.890276Z",
     "available": true
   },
   {
-    "ip": "46.36.88.102",
+    "ip": "46.36.88.170",
     "name": "",
     "as_number": 43627,
     "as_org": "UAB Besmegeniai",
@@ -1360,7 +1360,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:37Z",
+    "checked_at": "2026-03-28T02:34:28Z",
     "created_at": "2023-03-14T02:17:04.147278Z",
     "available": true
   },
@@ -1375,7 +1375,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:44Z",
+    "checked_at": "2026-03-28T02:34:28Z",
     "created_at": "2023-03-14T04:39:46.597213Z",
     "available": true
   },
@@ -1390,7 +1390,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:47Z",
+    "checked_at": "2026-03-28T02:34:28Z",
     "created_at": "2023-03-14T04:42:53.39703Z",
     "available": true
   },
@@ -1405,7 +1405,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:47Z",
+    "checked_at": "2026-03-28T02:34:29Z",
     "created_at": "2023-03-14T05:13:37.101394Z",
     "available": false
   },
@@ -1420,7 +1420,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:54Z",
+    "checked_at": "2026-03-28T02:34:30Z",
     "created_at": "2023-03-14T05:15:58.579798Z",
     "available": true
   },
@@ -1435,7 +1435,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:33:58Z",
+    "checked_at": "2026-03-28T02:34:30Z",
     "created_at": "2023-03-14T05:43:36.924392Z",
     "available": true
   },
@@ -1450,9 +1450,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:05Z",
+    "checked_at": "2026-03-28T02:34:30Z",
     "created_at": "2023-03-14T06:36:16.182638Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "89.117.114.119",
@@ -1465,7 +1465,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:12Z",
+    "checked_at": "2026-03-28T02:34:30Z",
     "created_at": "2023-03-14T06:37:34.953342Z",
     "available": false
   },
@@ -1480,7 +1480,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:20Z",
+    "checked_at": "2026-03-28T02:34:31Z",
     "created_at": "2023-03-14T08:04:51.875686Z",
     "available": true
   },
@@ -1495,7 +1495,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:27Z",
+    "checked_at": "2026-03-28T02:34:31Z",
     "created_at": "2023-03-14T09:22:45.481777Z",
     "available": true
   },
@@ -1510,7 +1510,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:30Z",
+    "checked_at": "2026-03-28T02:34:31Z",
     "created_at": "2023-03-14T09:36:36.676837Z",
     "available": true
   },
@@ -1525,12 +1525,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7058823529411765,
-    "checked_at": "2025-03-17T15:34:31Z",
+    "checked_at": "2026-03-28T02:34:31Z",
     "created_at": "2023-03-14T10:16:54.455539Z",
     "available": true
   },
   {
-    "ip": "46.36.70.39",
+    "ip": "46.36.70.123",
     "name": "mail.tavopastoge.lt.",
     "as_number": 43627,
     "as_org": "UAB Besmegeniai",
@@ -1540,7 +1540,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:34Z",
+    "checked_at": "2026-03-28T02:34:32Z",
     "created_at": "2023-03-14T10:45:46.791761Z",
     "available": true
   },
@@ -1555,7 +1555,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:34Z",
+    "checked_at": "2026-03-28T02:34:32Z",
     "created_at": "2023-03-14T10:55:47.341318Z",
     "available": true
   },
@@ -1570,7 +1570,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:41Z",
+    "checked_at": "2026-03-28T02:34:32Z",
     "created_at": "2023-03-14T12:25:35.115307Z",
     "available": true
   },
@@ -1585,9 +1585,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:42Z",
+    "checked_at": "2026-03-28T02:34:32Z",
     "created_at": "2023-03-14T15:31:11.171465Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "89.117.114.8",
@@ -1600,7 +1600,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:49Z",
+    "checked_at": "2026-03-28T02:34:33Z",
     "created_at": "2023-03-14T15:49:02.652937Z",
     "available": false
   },
@@ -1615,7 +1615,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:56Z",
+    "checked_at": "2026-03-28T02:34:33Z",
     "created_at": "2023-03-14T16:50:09.738822Z",
     "available": true
   },
@@ -1630,7 +1630,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:34:57Z",
+    "checked_at": "2026-03-28T02:34:33Z",
     "created_at": "2023-03-14T18:03:30.72695Z",
     "available": true
   },
@@ -1645,12 +1645,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:35:04Z",
+    "checked_at": "2026-03-28T02:34:34Z",
     "created_at": "2023-03-14T20:56:30.596313Z",
     "available": true
   },
   {
-    "ip": "85.206.10.15",
+    "ip": "85.206.10.204",
     "name": "85-206-10-221.static.zebra.lt.",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -1660,7 +1660,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:35:12Z",
+    "checked_at": "2026-03-28T02:34:34Z",
     "created_at": "2023-03-14T21:06:30.689855Z",
     "available": true
   },
@@ -1675,7 +1675,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:35:19Z",
+    "checked_at": "2026-03-28T02:34:34Z",
     "created_at": "2023-03-14T21:10:49.496971Z",
     "available": true
   },
@@ -1690,7 +1690,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:35:19Z",
+    "checked_at": "2026-03-28T02:34:34Z",
     "created_at": "2023-03-14T21:43:49.987909Z",
     "available": true
   },
@@ -1705,12 +1705,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:35:27Z",
+    "checked_at": "2026-03-28T02:34:34Z",
     "created_at": "2023-03-14T23:27:10.423103Z",
     "available": true
   },
   {
-    "ip": "88.119.131.226",
+    "ip": "88.119.131.227",
     "name": "88-119-131-106.static.zebra.lt.",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -1720,7 +1720,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:35:30Z",
+    "checked_at": "2026-03-28T02:34:34Z",
     "created_at": "2023-03-14T23:47:39.436086Z",
     "available": true
   },
@@ -1735,7 +1735,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:35:37Z",
+    "checked_at": "2026-03-28T02:34:35Z",
     "created_at": "2023-03-15T01:50:39.253733Z",
     "available": true
   },
@@ -1750,12 +1750,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:35:39Z",
+    "checked_at": "2026-03-28T02:34:35Z",
     "created_at": "2023-03-15T02:08:03.524408Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "84.32.130.250",
+    "ip": "84.32.130.101",
     "name": "crescent-world.com.",
     "as_number": 204770,
     "as_org": "UAB Cherry Servers",
@@ -1765,7 +1765,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:35:43Z",
+    "checked_at": "2026-03-28T02:34:36Z",
     "created_at": "2023-03-15T02:33:25.446395Z",
     "available": true
   },
@@ -1780,7 +1780,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:35:50Z",
+    "checked_at": "2026-03-28T02:34:36Z",
     "created_at": "2023-03-15T02:41:51.019646Z",
     "available": true
   },
@@ -1795,12 +1795,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:35:57Z",
+    "checked_at": "2026-03-28T02:34:37Z",
     "created_at": "2023-03-15T02:46:17.928732Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "88.119.204.120",
+    "ip": "88.119.204.227",
     "name": "88-119-204-160.static.zebra.lt.",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -1810,7 +1810,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9320388349514563,
-    "checked_at": "2025-03-17T15:36:05Z",
+    "checked_at": "2026-03-28T02:34:37Z",
     "created_at": "2023-03-15T02:56:05.906879Z",
     "available": true
   },
@@ -1825,7 +1825,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:36:12Z",
+    "checked_at": "2026-03-28T02:34:37Z",
     "created_at": "2023-03-15T03:46:46.320416Z",
     "available": true
   },
@@ -1840,7 +1840,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:36:12Z",
+    "checked_at": "2026-03-28T02:34:37Z",
     "created_at": "2023-03-15T05:37:00.777617Z",
     "available": true
   },
@@ -1855,7 +1855,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:36:15Z",
+    "checked_at": "2026-03-28T02:34:37Z",
     "created_at": "2023-03-15T06:40:25.142366Z",
     "available": true
   },
@@ -1870,7 +1870,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:36:23Z",
+    "checked_at": "2026-03-28T02:34:38Z",
     "created_at": "2023-03-15T07:00:05.622735Z",
     "available": false
   },
@@ -1885,7 +1885,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:36:30Z",
+    "checked_at": "2026-03-28T02:34:38Z",
     "created_at": "2023-03-15T10:03:19.718917Z",
     "available": true
   },
@@ -1900,12 +1900,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:36:38Z",
+    "checked_at": "2026-03-28T02:34:40Z",
     "created_at": "2023-03-15T11:22:27.822434Z",
     "available": true
   },
   {
-    "ip": "85.254.97.30",
+    "ip": "85.254.97.114",
     "name": "",
     "as_number": 13194,
     "as_org": "UAB Bite Lietuva",
@@ -1915,9 +1915,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:36:38Z",
+    "checked_at": "2026-03-28T02:34:41Z",
     "created_at": "2023-03-15T12:46:26.300846Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "81.7.88.187",
@@ -1930,12 +1930,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:36:45Z",
+    "checked_at": "2026-03-28T02:34:41Z",
     "created_at": "2023-03-15T12:49:19.465244Z",
     "available": true
   },
   {
-    "ip": "81.7.86.154",
+    "ip": "81.7.86.135",
     "name": "81-7-86-154.static.zebra.lt.",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -1945,12 +1945,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:36:53Z",
+    "checked_at": "2026-03-28T02:34:41Z",
     "created_at": "2023-03-15T13:22:37.455959Z",
     "available": true
   },
   {
-    "ip": "85.206.44.107",
+    "ip": "85.206.44.1",
     "name": "",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -1960,7 +1960,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:36:54Z",
+    "checked_at": "2026-03-28T02:34:41Z",
     "created_at": "2023-03-15T14:10:24.609021Z",
     "available": true
   },
@@ -1975,7 +1975,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:36:57Z",
+    "checked_at": "2026-03-28T02:34:41Z",
     "created_at": "2023-03-15T14:13:31.896877Z",
     "available": true
   },
@@ -1990,7 +1990,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2025-03-17T15:37:04Z",
+    "checked_at": "2026-03-28T02:34:41Z",
     "created_at": "2023-03-15T15:42:14.368163Z",
     "available": true
   },
@@ -2005,7 +2005,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.967741935483871,
-    "checked_at": "2025-03-17T15:37:07Z",
+    "checked_at": "2026-03-28T02:34:42Z",
     "created_at": "2023-03-15T15:56:22.646559Z",
     "available": true
   },
@@ -2020,12 +2020,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8064516129032258,
-    "checked_at": "2025-03-17T15:37:15Z",
+    "checked_at": "2026-03-28T02:34:42Z",
     "created_at": "2023-03-15T16:37:15.391114Z",
     "available": true
   },
   {
-    "ip": "88.119.185.209",
+    "ip": "88.119.185.41",
     "name": "88-119-185-209.static.zebra.lt.",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -2035,7 +2035,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8737864077669902,
-    "checked_at": "2025-03-17T15:37:18Z",
+    "checked_at": "2026-03-28T02:34:42Z",
     "created_at": "2023-03-15T23:13:56.115702Z",
     "available": true
   },
@@ -2050,7 +2050,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8810572687224669,
-    "checked_at": "2025-03-17T15:37:21Z",
+    "checked_at": "2026-03-28T02:34:42Z",
     "created_at": "2023-03-16T01:15:44.762715Z",
     "available": true
   },
@@ -2065,12 +2065,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-17T15:37:21Z",
+    "checked_at": "2026-03-28T02:34:42Z",
     "created_at": "2023-03-16T12:37:22.222495Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "88.216.116.189",
+    "ip": "88.216.116.47",
     "name": "",
     "as_number": 33922,
     "as_org": "UAB Nacionalinis Telekomunikaciju Tinklas",
@@ -2080,12 +2080,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.38461538461538464,
-    "checked_at": "2025-03-17T15:37:29Z",
+    "checked_at": "2026-03-28T02:34:43Z",
     "created_at": "2023-03-16T16:03:44.25463Z",
     "available": true
   },
   {
-    "ip": "88.119.196.137",
+    "ip": "88.119.196.149",
     "name": "mail.jerpyliov.lt.",
     "as_number": 8764,
     "as_org": "Telia Lietuva, AB",
@@ -2095,7 +2095,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5555555555555556,
-    "checked_at": "2025-03-17T15:37:36Z",
+    "checked_at": "2026-03-28T02:34:43Z",
     "created_at": "2023-03-16T17:06:42.993635Z",
     "available": true
   },
@@ -2110,7 +2110,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6521739130434783,
-    "checked_at": "2025-03-17T15:37:40Z",
+    "checked_at": "2026-03-28T02:34:45Z",
     "created_at": "2023-03-16T17:48:03.540449Z",
     "available": true
   },
@@ -2125,9 +2125,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8846153846153846,
-    "checked_at": "2025-03-17T15:37:48Z",
+    "checked_at": "2026-03-28T02:34:45Z",
     "created_at": "2023-03-16T19:00:59.56572Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "88.119.153.69",
@@ -2140,7 +2140,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6923076923076923,
-    "checked_at": "2025-03-17T15:37:55Z",
+    "checked_at": "2026-03-28T02:34:45Z",
     "created_at": "2023-03-16T19:08:03.365406Z",
     "available": true
   },
@@ -2155,7 +2155,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6428571428571429,
-    "checked_at": "2025-03-17T15:37:58Z",
+    "checked_at": "2026-03-28T02:34:45Z",
     "created_at": "2023-03-16T19:47:19.992622Z",
     "available": true
   },
@@ -2170,9 +2170,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6785714285714286,
-    "checked_at": "2025-03-17T15:38:06Z",
+    "checked_at": "2026-03-28T02:34:45Z",
     "created_at": "2023-03-16T20:21:14.772404Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "185.82.92.1",
@@ -2185,7 +2185,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6785714285714286,
-    "checked_at": "2025-03-17T15:38:06Z",
+    "checked_at": "2026-03-28T02:34:46Z",
     "created_at": "2023-03-16T20:52:31.46941Z",
     "available": true
   },
@@ -2200,12 +2200,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6206896551724138,
-    "checked_at": "2025-03-17T15:38:13Z",
+    "checked_at": "2026-03-28T02:34:46Z",
     "created_at": "2023-03-16T21:41:08.277671Z",
     "available": true
   },
   {
-    "ip": "94.232.224.101",
+    "ip": "94.232.224.146",
     "name": "host-94-232-224-101.etanetas.lt.",
     "as_number": 39067,
     "as_org": "Etanetas Uab",
@@ -2215,7 +2215,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-17T15:38:14Z",
+    "checked_at": "2026-03-28T02:34:46Z",
     "created_at": "2023-03-16T22:02:59.233396Z",
     "available": true
   },
@@ -2230,9 +2230,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-17T15:38:14Z",
+    "checked_at": "2026-03-28T02:34:47Z",
     "created_at": "2023-03-16T22:12:02.519113Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "82.135.241.127",
@@ -2245,7 +2245,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-17T15:38:14Z",
+    "checked_at": "2026-03-28T02:34:48Z",
     "created_at": "2023-03-16T22:13:00.554154Z",
     "available": true
   },
@@ -2260,7 +2260,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6,
-    "checked_at": "2025-03-17T15:38:22Z",
+    "checked_at": "2026-03-28T02:34:48Z",
     "created_at": "2023-03-16T22:44:02.256068Z",
     "available": true
   },
@@ -2275,7 +2275,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7,
-    "checked_at": "2025-03-17T15:38:26Z",
+    "checked_at": "2026-03-28T02:34:49Z",
     "created_at": "2023-03-16T23:00:11.784507Z",
     "available": true
   },
@@ -2290,7 +2290,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-17T15:38:34Z",
+    "checked_at": "2026-03-28T02:34:49Z",
     "created_at": "2023-03-16T23:50:12.017839Z",
     "available": true
   },
@@ -2305,9 +2305,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-17T15:38:34Z",
+    "checked_at": "2026-03-28T02:34:49Z",
     "created_at": "2023-03-17T01:21:13.257627Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "88.119.249.102",
@@ -2320,7 +2320,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-17T15:38:36Z",
+    "checked_at": "2026-03-28T02:34:49Z",
     "created_at": "2023-03-17T01:24:44.366931Z",
     "available": true
   },
@@ -2335,7 +2335,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.71875,
-    "checked_at": "2025-03-17T15:38:44Z",
+    "checked_at": "2026-03-28T02:34:50Z",
     "created_at": "2023-03-17T02:36:38.350633Z",
     "available": true
   },
@@ -2350,7 +2350,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7352941176470589,
-    "checked_at": "2025-03-17T15:38:44Z",
+    "checked_at": "2026-03-28T02:34:50Z",
     "created_at": "2023-03-17T03:26:33.99528Z",
     "available": false
   },
@@ -2365,7 +2365,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.775,
-    "checked_at": "2025-03-17T15:38:51Z",
+    "checked_at": "2026-03-28T02:34:51Z",
     "created_at": "2023-03-17T03:44:28.867607Z",
     "available": true
   },
@@ -2380,7 +2380,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7209302325581395,
-    "checked_at": "2025-03-17T15:38:51Z",
+    "checked_at": "2026-03-28T02:34:51Z",
     "created_at": "2023-03-17T03:45:02.083542Z",
     "available": true
   },
@@ -2395,7 +2395,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7619047619047619,
-    "checked_at": "2025-03-17T15:38:52Z",
+    "checked_at": "2026-03-28T02:34:52Z",
     "created_at": "2023-03-17T04:50:29.226921Z",
     "available": true
   },
@@ -2410,7 +2410,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7727272727272727,
-    "checked_at": "2025-03-17T15:38:52Z",
+    "checked_at": "2026-03-28T02:34:52Z",
     "created_at": "2023-03-17T07:15:24.350961Z",
     "available": true
   },
@@ -2425,9 +2425,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7727272727272727,
-    "checked_at": "2025-03-17T15:38:52Z",
+    "checked_at": "2026-03-28T02:34:52Z",
     "created_at": "2023-03-17T07:26:33.000121Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "46.148.26.231",
@@ -2440,7 +2440,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-17T15:38:56Z",
+    "checked_at": "2026-03-28T02:34:52Z",
     "created_at": "2023-03-17T08:36:57.584401Z",
     "available": true
   },
@@ -2455,7 +2455,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-17T15:38:56Z",
+    "checked_at": "2026-03-28T02:34:52Z",
     "created_at": "2023-03-17T08:47:47.695358Z",
     "available": true
   },
@@ -2470,7 +2470,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8717948717948718,
-    "checked_at": "2025-03-17T15:38:56Z",
+    "checked_at": "2026-03-28T02:34:52Z",
     "created_at": "2023-03-17T09:26:16.005842Z",
     "available": true
   },
@@ -2485,7 +2485,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9411764705882353,
-    "checked_at": "2025-03-17T15:38:57Z",
+    "checked_at": "2026-03-28T02:34:52Z",
     "created_at": "2023-03-17T17:36:47.141795Z",
     "available": true
   },
@@ -2500,7 +2500,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9805194805194806,
-    "checked_at": "2025-03-17T15:39:01Z",
+    "checked_at": "2026-03-28T02:34:53Z",
     "created_at": "2023-03-17T20:44:30.686667Z",
     "available": true
   },
@@ -2515,7 +2515,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:39:09Z",
+    "checked_at": "2026-03-28T02:34:53Z",
     "created_at": "2023-03-18T11:31:02.958394Z",
     "available": true
   },
@@ -2530,7 +2530,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:39:13Z",
+    "checked_at": "2026-03-28T02:34:53Z",
     "created_at": "2023-03-18T13:43:49.625602Z",
     "available": true
   },
@@ -2545,7 +2545,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-17T15:39:20Z",
+    "checked_at": "2026-03-28T02:34:53Z",
     "created_at": "2023-03-18T14:18:33.505338Z",
     "available": true
   },
@@ -2560,7 +2560,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-17T15:39:28Z",
+    "checked_at": "2026-03-28T02:34:53Z",
     "created_at": "2023-03-19T01:38:35.139644Z",
     "available": true
   }
