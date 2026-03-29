@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5333333333333333,
-    "checked_at": "2025-03-18T01:55:10Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2021-09-27T15:16:31.628643Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4375,
-    "checked_at": "2025-03-18T01:55:13Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2021-09-27T15:19:08.832054Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:55:18Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2021-10-03T11:58:46.47141Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:55:18Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2021-10-03T11:58:58.168347Z",
     "available": true
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:55:18Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2022-09-08T05:55:09.752497Z",
     "available": true
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:55:26Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2022-09-10T08:19:03.669951Z",
     "available": true
   },
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7142857142857143,
-    "checked_at": "2025-03-18T01:55:26Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2022-10-03T03:54:41.193136Z",
     "available": true
   },
   {
-    "ip": "31.11.73.124",
+    "ip": "31.11.73.252",
     "name": "ctel-31-11-73-187.cabletel.com.mk.",
     "as_number": 16333,
     "as_org": "Company for communications services A1 Makedonija DOOEL Skopje",
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:55:26Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2022-10-03T05:45:25.721449Z",
     "available": true
   },
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:55:33Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2022-10-15T08:57:03.026412Z",
     "available": false
   },
@@ -145,9 +145,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:55:41Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2022-10-29T15:19:22.675304Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "146.255.89.70",
@@ -160,9 +160,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:55:48Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2022-11-07T19:46:07.495066Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "46.217.246.25",
@@ -175,9 +175,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9130434782608695,
-    "checked_at": "2025-03-18T01:55:55Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2022-11-10T08:31:33.230567Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "77.28.98.27",
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9339622641509434,
-    "checked_at": "2025-03-18T01:56:03Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2022-12-22T08:51:42.778081Z",
     "available": true
   },
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9133333333333333,
-    "checked_at": "2025-03-18T01:56:10Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-01-02T20:13:37.862089Z",
     "available": true
   },
@@ -220,12 +220,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7567567567567568,
-    "checked_at": "2025-03-18T01:56:10Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-02-22T16:13:25.289193Z",
     "available": true
   },
   {
-    "ip": "79.125.192.107",
+    "ip": "79.125.192.108",
     "name": "",
     "as_number": 6821,
     "as_org": "Makedonski Telekom AD-Skopje",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:56:18Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-13T04:13:43.866611Z",
     "available": true
   },
@@ -250,9 +250,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:56:25Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-13T04:40:26.529175Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "77.28.102.53",
@@ -265,7 +265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:56:33Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-13T04:47:12.815959Z",
     "available": false
   },
@@ -280,7 +280,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:56:40Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-13T08:29:17.255081Z",
     "available": true
   },
@@ -295,7 +295,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:56:43Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-13T09:56:48.093503Z",
     "available": true
   },
@@ -310,12 +310,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:56:43Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-13T12:09:25.45283Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "79.125.162.104",
+    "ip": "79.125.162.207",
     "name": "",
     "as_number": 6821,
     "as_org": "Makedonski Telekom AD-Skopje",
@@ -325,12 +325,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:56:51Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-13T15:55:18.356925Z",
     "available": true
   },
   {
-    "ip": "92.55.97.23",
+    "ip": "92.55.97.1",
     "name": "",
     "as_number": 34772,
     "as_org": "NEOTEL DOO export-import Skopje",
@@ -340,7 +340,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:56:58Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-13T20:24:27.206979Z",
     "available": true
   },
@@ -355,7 +355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:56:58Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-14T02:15:49.629878Z",
     "available": true
   },
@@ -370,9 +370,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:56:59Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-14T03:23:49.530493Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "81.17.232.194",
@@ -385,12 +385,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96,
-    "checked_at": "2025-03-18T01:57:06Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-14T07:03:41.721405Z",
     "available": true
   },
   {
-    "ip": "92.55.83.120",
+    "ip": "92.55.83.66",
     "name": "",
     "as_number": 41557,
     "as_org": "Drustvo za telekomunikaciski uslugi TELEKABEL DOOEL Stip",
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:57:06Z",
+    "checked_at": "2026-03-29T02:48:31Z",
     "created_at": "2023-03-14T07:50:30.765965Z",
     "available": true
   },
@@ -415,12 +415,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:57:09Z",
+    "checked_at": "2026-03-29T02:48:32Z",
     "created_at": "2023-03-14T12:19:12.484916Z",
     "available": false
   },
   {
-    "ip": "79.125.163.222",
+    "ip": "79.125.163.124",
     "name": "",
     "as_number": 6821,
     "as_org": "Makedonski Telekom AD-Skopje",
@@ -430,7 +430,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:57:17Z",
+    "checked_at": "2026-03-29T02:48:34Z",
     "created_at": "2023-03-14T12:42:52.747922Z",
     "available": true
   },
@@ -445,12 +445,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:57:17Z",
+    "checked_at": "2026-03-29T02:48:34Z",
     "created_at": "2023-03-14T18:28:14.05386Z",
     "available": true
   },
   {
-    "ip": "77.28.114.147",
+    "ip": "77.28.114.148",
     "name": "",
     "as_number": 6821,
     "as_org": "Makedonski Telekom AD-Skopje",
@@ -460,12 +460,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:57:24Z",
+    "checked_at": "2026-03-29T02:48:34Z",
     "created_at": "2023-03-14T18:32:42.955441Z",
     "available": true
   },
   {
-    "ip": "88.85.97.122",
+    "ip": "88.85.97.62",
     "name": "88.85.97.122.neotel.mk.",
     "as_number": 34772,
     "as_org": "NEOTEL DOO export-import Skopje",
@@ -475,12 +475,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9285714285714286,
-    "checked_at": "2025-03-18T01:57:30Z",
+    "checked_at": "2026-03-29T02:48:34Z",
     "created_at": "2023-03-14T23:17:21.509533Z",
     "available": true
   },
   {
-    "ip": "79.125.163.149",
+    "ip": "79.125.163.124",
     "name": "",
     "as_number": 6821,
     "as_org": "Makedonski Telekom AD-Skopje",
@@ -490,7 +490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:57:30Z",
+    "checked_at": "2026-03-29T02:48:34Z",
     "created_at": "2023-03-15T01:58:36.692559Z",
     "available": true
   },
@@ -505,9 +505,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:57:30Z",
+    "checked_at": "2026-03-29T02:48:34Z",
     "created_at": "2023-03-15T07:53:10.298191Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "185.229.27.15",
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-18T01:57:37Z",
+    "checked_at": "2026-03-29T02:48:34Z",
     "created_at": "2023-03-15T13:07:11.499686Z",
     "available": true
   },
@@ -535,7 +535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96875,
-    "checked_at": "2025-03-18T01:57:41Z",
+    "checked_at": "2026-03-29T02:48:38Z",
     "created_at": "2023-03-15T15:02:02.046269Z",
     "available": true
   },
@@ -550,12 +550,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-18T01:57:44Z",
+    "checked_at": "2026-03-29T02:48:42Z",
     "created_at": "2023-03-16T12:54:04.552476Z",
     "available": true
   },
   {
-    "ip": "95.128.184.40",
+    "ip": "95.128.184.22",
     "name": "",
     "as_number": 34547,
     "as_org": "Telesmart Telekom Doo",
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6785714285714286,
-    "checked_at": "2025-03-18T01:57:48Z",
+    "checked_at": "2026-03-29T02:48:45Z",
     "created_at": "2023-03-16T20:03:49.061194Z",
     "available": true
   },
@@ -580,7 +580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-18T01:57:49Z",
+    "checked_at": "2026-03-29T02:48:46Z",
     "created_at": "2023-03-16T21:58:08.848476Z",
     "available": false
   },
@@ -595,7 +595,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-18T01:57:56Z",
+    "checked_at": "2026-03-29T02:48:47Z",
     "created_at": "2023-03-17T00:42:35.156617Z",
     "available": false
   },
@@ -610,7 +610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.1590909090909091,
-    "checked_at": "2025-03-18T01:58:03Z",
+    "checked_at": "2026-03-29T02:48:48Z",
     "created_at": "2023-03-17T07:25:39.742362Z",
     "available": true
   }
