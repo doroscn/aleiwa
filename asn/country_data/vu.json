@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9249,"Description":"VUTELECOM-AS01-VU-AP Telecom Vanuatu Limited","CC":"VU","Users":48667,"Percent of CC Pop":55.07,"Percent of Internet":0.0012,"Samples":1254},
-{"rank":2,"AS":132429,"Description":"DIGICELVANUATU-VU Digicel Vanuatu LTD","CC":"VU","Users":30883,"Percent of CC Pop":34.94,"Percent of Internet":0.0007,"Samples":766},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VU","Users":19119,"Percent of CC Pop":21.63,"Percent of Internet":0.0005,"Samples":440},
-{"rank":4,"AS":132228,"Description":"VANGOV-AS-AP Vanuatu Government","CC":"VU","Users":8928,"Percent of CC Pop":10.10,"Percent of Internet":0.0002,"Samples":16},
-{"rank":5,"AS":45935,"Description":"WNL-AS-AP Wantok Network Limited","CC":"VU","Users":8618,"Percent of CC Pop":9.75,"Percent of Internet":0.0002,"Samples":59},
-{"rank":6,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"VU","Users":8376,"Percent of CC Pop":9.48,"Percent of Internet":0.0002,"Samples":34}
+{"rank":1,"AS":9249,"Description":"VUTELECOM-AS01-VU-AP Telecom Vanuatu Limited","CC":"VU","Users":47476,"Percent of CC Pop":53.72,"Percent of Internet":0.0011,"Samples":1251},
+{"rank":2,"AS":132429,"Description":"DIGICELVANUATU-VU Digicel Vanuatu LTD","CC":"VU","Users":31177,"Percent of CC Pop":35.28,"Percent of Internet":0.0007,"Samples":792},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VU","Users":21586,"Percent of CC Pop":24.42,"Percent of Internet":0.0005,"Samples":496},
+{"rank":4,"AS":132228,"Description":"VANGOV-AS-AP Vanuatu Government","CC":"VU","Users":7982,"Percent of CC Pop":9.03,"Percent of Internet":0.0002,"Samples":13},
+{"rank":5,"AS":45935,"Description":"WNL-AS-AP Wantok Network Limited","CC":"VU","Users":7334,"Percent of CC Pop":8.30,"Percent of Internet":0.0002,"Samples":52},
+{"rank":6,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"VU","Users":7018,"Percent of CC Pop":7.94,"Percent of Internet":0.0002,"Samples":31}
   ]
 }

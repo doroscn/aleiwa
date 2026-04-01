@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11816,"Description":"SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.","CC":"AW","Users":104111,"Percent of CC Pop":93.14,"Percent of Internet":0.0025,"Samples":195813},
-{"rank":2,"AS":264645,"Description":"NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"AW","Users":6395,"Percent of CC Pop":5.72,"Percent of Internet":0.0002,"Samples":11888},
-{"rank":3,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"AW","Users":140,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":44},
-{"rank":4,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"AW","Users":133,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":30},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AW","Users":112,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":93},
-{"rank":6,"AS":9009,"Description":"M247","CC":"AW","Users":83,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":10},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AW","Users":77,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":27}
+{"rank":1,"AS":11816,"Description":"SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.","CC":"AW","Users":104915,"Percent of CC Pop":93.86,"Percent of Internet":0.0025,"Samples":201205},
+{"rank":2,"AS":264645,"Description":"NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"AW","Users":5742,"Percent of CC Pop":5.14,"Percent of Internet":0.0001,"Samples":10902},
+{"rank":3,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"AW","Users":238,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":80},
+{"rank":4,"AS":132372,"Description":"GBNETWORK-AS-AP GB Network Solutions Sdn. Bhd.","CC":"AW","Users":120,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":12},
+{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"AW","Users":112,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":15},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AW","Users":111,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":105},
+{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AW","Users":86,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":32}
   ]
 }

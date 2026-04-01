@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":24439,"Description":"NTAMAR-AS-AP MARSHALL ISLANDS NTA ISP AS","CC":"MH","Users":13010,"Percent of CC Pop":39.18,"Percent of Internet":0.0003,"Samples":21989},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MH","Users":10508,"Percent of CC Pop":31.65,"Percent of Internet":0.0003,"Samples":17896},
-{"rank":3,"AS":22363,"Description":"PHMGMT-AS1 - Powerhouse Management, Inc.","CC":"MH","Users":815,"Percent of CC Pop":2.45,"Percent of Internet":0.0000,"Samples":459},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MH","Users":244,"Percent of CC Pop":0.73,"Percent of Internet":0.0000,"Samples":67}
+{"rank":1,"AS":24439,"Description":"NTAMAR-AS-AP MARSHALL ISLANDS NTA ISP AS","CC":"MH","Users":12830,"Percent of CC Pop":38.64,"Percent of Internet":0.0003,"Samples":21380},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MH","Users":10874,"Percent of CC Pop":32.75,"Percent of Internet":0.0003,"Samples":18237},
+{"rank":3,"AS":22363,"Description":"PHMGMT-AS1 - Powerhouse Management, Inc.","CC":"MH","Users":885,"Percent of CC Pop":2.67,"Percent of Internet":0.0000,"Samples":498},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MH","Users":248,"Percent of CC Pop":0.75,"Percent of Internet":0.0000,"Samples":54}
   ]
 }

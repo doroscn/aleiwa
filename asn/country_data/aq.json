@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AQ","Users":636,"Percent of CC Pop":99.07,"Percent of Internet":0.0000,"Samples":33},
-{"rank":2,"AS":58057,"Description":"SECUREBIT Securebit Autonomous System","CC":"AQ","Users":594,"Percent of CC Pop":92.52,"Percent of Internet":0.0000,"Samples":22}
+{"rank":1,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AQ","Users":636,"Percent of CC Pop":99.07,"Percent of Internet":0.0000,"Samples":30},
+{"rank":2,"AS":58057,"Description":"SECUREBIT Securebit Autonomous System","CC":"AQ","Users":499,"Percent of CC Pop":77.73,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

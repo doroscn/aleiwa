@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":49902,"Description":"SRR-AS","CC":"YT","Users":100494,"Percent of CC Pop":66.97,"Percent of Internet":0.0024,"Samples":43109},
-{"rank":2,"AS":202023,"Description":"OSP-AS","CC":"YT","Users":51571,"Percent of CC Pop":34.37,"Percent of Internet":0.0012,"Samples":23404},
-{"rank":3,"AS":3215,"Description":"France Telecom - Orange","CC":"YT","Users":25274,"Percent of CC Pop":16.84,"Percent of Internet":0.0006,"Samples":6828},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"YT","Users":14402,"Percent of CC Pop":9.60,"Percent of Internet":0.0003,"Samples":6257},
-{"rank":5,"AS":37614,"Description":"STOI-AS","CC":"YT","Users":13504,"Percent of CC Pop":9.00,"Percent of Internet":0.0003,"Samples":6463},
-{"rank":6,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"YT","Users":2479,"Percent of CC Pop":1.65,"Percent of Internet":0.0001,"Samples":921}
+{"rank":1,"AS":49902,"Description":"SRR-AS","CC":"YT","Users":94931,"Percent of CC Pop":63.27,"Percent of Internet":0.0023,"Samples":51120},
+{"rank":2,"AS":202023,"Description":"OSP-AS","CC":"YT","Users":49233,"Percent of CC Pop":32.81,"Percent of Internet":0.0012,"Samples":27324},
+{"rank":3,"AS":3215,"Description":"France Telecom - Orange","CC":"YT","Users":35252,"Percent of CC Pop":23.49,"Percent of Internet":0.0008,"Samples":13884},
+{"rank":4,"AS":37614,"Description":"STOI-AS","CC":"YT","Users":15061,"Percent of CC Pop":10.04,"Percent of Internet":0.0004,"Samples":8677},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"YT","Users":14330,"Percent of CC Pop":9.55,"Percent of Internet":0.0003,"Samples":7963},
+{"rank":6,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"YT","Users":2588,"Percent of CC Pop":1.72,"Percent of Internet":0.0001,"Samples":1293}
   ]
 }

@@ -1,19 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS STE PDN Internal AS","CC":"SY","Users":7024498,"Percent of CC Pop":104.48,"Percent of Internet":0.1683,"Samples":5209091},
-{"rank":2,"AS":48065,"Description":"SYRIATEL-AS","CC":"SY","Users":1453393,"Percent of CC Pop":21.62,"Percent of Internet":0.0348,"Samples":1033282},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SY","Users":1368618,"Percent of CC Pop":20.36,"Percent of Internet":0.0328,"Samples":782422},
-{"rank":4,"AS":214707,"Description":"RCELL","CC":"SY","Users":388961,"Percent of CC Pop":5.79,"Percent of Internet":0.0093,"Samples":292099},
-{"rank":5,"AS":216472,"Description":"HS-SYR","CC":"SY","Users":245314,"Percent of CC Pop":3.65,"Percent of Internet":0.0059,"Samples":38743},
-{"rank":6,"AS":215900,"Description":"TULIPGROUP","CC":"SY","Users":44448,"Percent of CC Pop":0.66,"Percent of Internet":0.0011,"Samples":15499},
-{"rank":7,"AS":213812,"Description":"ALFATEH","CC":"SY","Users":34087,"Percent of CC Pop":0.51,"Percent of Internet":0.0008,"Samples":1845},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SY","Users":13267,"Percent of CC Pop":0.20,"Percent of Internet":0.0003,"Samples":9630},
-{"rank":9,"AS":208972,"Description":"GIBIRNET-","CC":"SY","Users":3171,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":30},
-{"rank":10,"AS":9009,"Description":"M247","CC":"SY","Users":232,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":41},
-{"rank":11,"AS":16276,"Description":"OVH","CC":"SY","Users":180,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":17}
+{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS STE PDN Internal AS","CC":"SY","Users":6907871,"Percent of CC Pop":102.74,"Percent of Internet":0.1655,"Samples":5457716},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SY","Users":1356992,"Percent of CC Pop":20.18,"Percent of Internet":0.0325,"Samples":1006508},
+{"rank":3,"AS":48065,"Description":"SYRIATEL-AS","CC":"SY","Users":1276927,"Percent of CC Pop":18.99,"Percent of Internet":0.0306,"Samples":993284},
+{"rank":4,"AS":214707,"Description":"RCELL","CC":"SY","Users":469133,"Percent of CC Pop":6.98,"Percent of Internet":0.0112,"Samples":319907},
+{"rank":5,"AS":216472,"Description":"HS-SYR","CC":"SY","Users":100588,"Percent of CC Pop":1.50,"Percent of Internet":0.0024,"Samples":39546},
+{"rank":6,"AS":215900,"Description":"TULIPGROUP","CC":"SY","Users":36412,"Percent of CC Pop":0.54,"Percent of Internet":0.0009,"Samples":7611},
+{"rank":7,"AS":210557,"Description":"FALAKNET Falaknet Syria","CC":"SY","Users":10992,"Percent of CC Pop":0.16,"Percent of Internet":0.0003,"Samples":619},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SY","Users":10200,"Percent of CC Pop":0.15,"Percent of Internet":0.0002,"Samples":7997},
+{"rank":9,"AS":9009,"Description":"M247","CC":"SY","Users":227,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":38},
+{"rank":10,"AS":213999,"Description":"THE-CLIENTS","CC":"SY","Users":175,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

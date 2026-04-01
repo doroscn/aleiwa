@@ -1,18 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":19863,"Description":"Guyana Telephone & Telegraph Co.","CC":"GY","Users":188682,"Percent of CC Pop":59.51,"Percent of Internet":0.0045,"Samples":904670},
-{"rank":2,"AS":52253,"Description":"E-Networks Inc.","CC":"GY","Users":75814,"Percent of CC Pop":23.91,"Percent of Internet":0.0018,"Samples":390201},
-{"rank":3,"AS":52433,"Description":"U Mobile Cellular Inc.","CC":"GY","Users":46543,"Percent of CC Pop":14.68,"Percent of Internet":0.0011,"Samples":223699},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GY","Users":15212,"Percent of CC Pop":4.80,"Percent of Internet":0.0004,"Samples":72704},
-{"rank":5,"AS":264694,"Description":"EGOVERNMENT UNIT","CC":"GY","Users":5052,"Percent of CC Pop":1.59,"Percent of Internet":0.0001,"Samples":24088},
-{"rank":6,"AS":270108,"Description":"XEN1 NETWORKS INC","CC":"GY","Users":966,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":4652},
-{"rank":7,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"GY","Users":280,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":853},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GY","Users":154,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":625},
-{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GY","Users":40,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":53},
-{"rank":10,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GY","Users":34,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":19}
+{"rank":1,"AS":19863,"Description":"Guyana Telephone & Telegraph Co.","CC":"GY","Users":202897,"Percent of CC Pop":63.99,"Percent of Internet":0.0049,"Samples":821788},
+{"rank":2,"AS":52253,"Description":"E-Networks Inc.","CC":"GY","Users":56395,"Percent of CC Pop":17.79,"Percent of Internet":0.0014,"Samples":259822},
+{"rank":3,"AS":52433,"Description":"U Mobile Cellular Inc.","CC":"GY","Users":50759,"Percent of CC Pop":16.01,"Percent of Internet":0.0012,"Samples":204115},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GY","Users":16654,"Percent of CC Pop":5.25,"Percent of Internet":0.0004,"Samples":65794},
+{"rank":5,"AS":264694,"Description":"EGOVERNMENT UNIT","CC":"GY","Users":5409,"Percent of CC Pop":1.71,"Percent of Internet":0.0001,"Samples":21266},
+{"rank":6,"AS":270108,"Description":"XEN1 NETWORKS INC","CC":"GY","Users":923,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":3768},
+{"rank":7,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"GY","Users":291,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":866},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GY","Users":155,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":480},
+{"rank":9,"AS":398985,"Description":"CITY-OF-ARVADA - City of Arvada","CC":"GY","Users":103,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":15},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GY","Users":47,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":64},
+{"rank":11,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GY","Users":34,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":17}
   ]
 }

@@ -1,21 +1,23 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37002,"Description":"Reunicable","CC":"RE","Users":191145,"Percent of CC Pop":38.82,"Percent of Internet":0.0046,"Samples":354057},
-{"rank":2,"AS":49902,"Description":"SRR-AS","CC":"RE","Users":140003,"Percent of CC Pop":28.43,"Percent of Internet":0.0034,"Samples":259525},
-{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"RE","Users":108130,"Percent of CC Pop":21.96,"Percent of Internet":0.0026,"Samples":200301},
-{"rank":4,"AS":327697,"Description":"TELCO-OI-AS","CC":"RE","Users":58452,"Percent of CC Pop":11.87,"Percent of Internet":0.0014,"Samples":108905},
-{"rank":5,"AS":199140,"Description":"ORE-AS","CC":"RE","Users":49037,"Percent of CC Pop":9.96,"Percent of Internet":0.0012,"Samples":57016},
-{"rank":6,"AS":3215,"Description":"France Telecom - Orange","CC":"RE","Users":21236,"Percent of CC Pop":4.31,"Percent of Internet":0.0005,"Samples":53442},
-{"rank":7,"AS":327956,"Description":"Reserved (afrinic)","CC":"RE","Users":3352,"Percent of CC Pop":0.68,"Percent of Internet":0.0001,"Samples":1260},
-{"rank":8,"AS":34306,"Description":"MOBIUS-AS","CC":"RE","Users":799,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":1264},
-{"rank":9,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"RE","Users":610,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":1015},
-{"rank":10,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"RE","Users":487,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":811},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"RE","Users":276,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":401},
-{"rank":12,"AS":20776,"Description":"OUTREMER-AS","CC":"RE","Users":127,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":14},
-{"rank":13,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"RE","Users":76,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":51}
+{"rank":1,"AS":37002,"Description":"Reunicable","CC":"RE","Users":172762,"Percent of CC Pop":35.08,"Percent of Internet":0.0041,"Samples":348078},
+{"rank":2,"AS":49902,"Description":"SRR-AS","CC":"RE","Users":126018,"Percent of CC Pop":25.59,"Percent of Internet":0.0030,"Samples":254426},
+{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM","CC":"RE","Users":99603,"Percent of CC Pop":20.23,"Percent of Internet":0.0024,"Samples":200560},
+{"rank":4,"AS":3215,"Description":"France Telecom - Orange","CC":"RE","Users":64838,"Percent of CC Pop":13.17,"Percent of Internet":0.0016,"Samples":160570},
+{"rank":5,"AS":327697,"Description":"TELCO-OI-AS","CC":"RE","Users":51548,"Percent of CC Pop":10.47,"Percent of Internet":0.0012,"Samples":104312},
+{"rank":6,"AS":199140,"Description":"ORE-AS","CC":"RE","Users":46794,"Percent of CC Pop":9.50,"Percent of Internet":0.0011,"Samples":73638},
+{"rank":7,"AS":34306,"Description":"MOBIUS-AS","CC":"RE","Users":753,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":1330},
+{"rank":8,"AS":51110,"Description":"IDOMTECHNOLOGIES-AS","CC":"RE","Users":602,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":1144},
+{"rank":9,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"RE","Users":478,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":834},
+{"rank":10,"AS":327956,"Description":"Reserved (afrinic)","CC":"RE","Users":261,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":11},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"RE","Users":242,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":361},
+{"rank":12,"AS":198825,"Description":"VERYCLOUD-SAS","CC":"RE","Users":229,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":98},
+{"rank":13,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"RE","Users":81,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":16},
+{"rank":14,"AS":20776,"Description":"OUTREMER-AS","CC":"RE","Users":80,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":11},
+{"rank":15,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"RE","Users":67,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":53}
   ]
 }

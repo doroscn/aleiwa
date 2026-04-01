@@ -1,13 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30990,"Description":"ADJIB-AS","CC":"DJ","Users":1249794,"Percent of CC Pop":116.25,"Percent of Internet":0.0299,"Samples":379720},
-{"rank":2,"AS":329140,"Description":"AS5-AS","CC":"DJ","Users":3987,"Percent of CC Pop":0.37,"Percent of Internet":0.0001,"Samples":1139},
-{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"DJ","Users":1430,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":334},
-{"rank":4,"AS":327831,"Description":"Djibouti-Data-Center","CC":"DJ","Users":1376,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":73},
-{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"DJ","Users":571,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":14}
+{"rank":1,"AS":30990,"Description":"ADJIB-AS","CC":"DJ","Users":1267088,"Percent of CC Pop":117.86,"Percent of Internet":0.0304,"Samples":374461},
+{"rank":2,"AS":329140,"Description":"AS5-AS","CC":"DJ","Users":3584,"Percent of CC Pop":0.33,"Percent of Internet":0.0001,"Samples":1014},
+{"rank":3,"AS":15169,"Description":"GOOGLE - Google LLC","CC":"DJ","Users":1717,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":16},
+{"rank":4,"AS":327831,"Description":"Djibouti-Data-Center","CC":"DJ","Users":1294,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":52},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"DJ","Users":1218,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":234},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"DJ","Users":530,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

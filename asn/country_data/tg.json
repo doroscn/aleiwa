@@ -1,18 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":24691,"Description":"TOGOTEL-AS TogoTelecom, Togo","CC":"TG","Users":781982,"Percent of CC Pop":57.83,"Percent of Internet":0.0187,"Samples":1313852},
-{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"TG","Users":545079,"Percent of CC Pop":40.31,"Percent of Internet":0.0131,"Samples":919560},
-{"rank":3,"AS":37229,"Description":"ATLANTIQUE-TELECOM-","CC":"TG","Users":214729,"Percent of CC Pop":15.88,"Percent of Internet":0.0051,"Samples":361707},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TG","Users":9120,"Percent of CC Pop":0.67,"Percent of Internet":0.0002,"Samples":15291},
-{"rank":5,"AS":30982,"Description":"CAFENET","CC":"TG","Users":2581,"Percent of CC Pop":0.19,"Percent of Internet":0.0001,"Samples":4429},
-{"rank":6,"AS":212238,"Description":"CDNEXT","CC":"TG","Users":768,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":686},
-{"rank":7,"AS":328282,"Description":"TEOLIS-SAU","CC":"TG","Users":539,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":823},
-{"rank":8,"AS":328293,"Description":"RDED-AS","CC":"TG","Users":513,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":619},
-{"rank":9,"AS":329010,"Description":"SDN1-AS","CC":"TG","Users":420,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":475},
-{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"TG","Users":109,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":19}
+{"rank":1,"AS":24691,"Description":"TOGOTEL-AS TogoTelecom, Togo","CC":"TG","Users":796301,"Percent of CC Pop":58.89,"Percent of Internet":0.0191,"Samples":1255761},
+{"rank":2,"AS":36924,"Description":"GVA-Canalbox","CC":"TG","Users":547866,"Percent of CC Pop":40.51,"Percent of Internet":0.0131,"Samples":869710},
+{"rank":3,"AS":37229,"Description":"ATLANTIQUE-TELECOM-","CC":"TG","Users":212513,"Percent of CC Pop":15.72,"Percent of Internet":0.0051,"Samples":337138},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TG","Users":7125,"Percent of CC Pop":0.53,"Percent of Internet":0.0002,"Samples":10633},
+{"rank":5,"AS":30982,"Description":"CAFENET","CC":"TG","Users":2573,"Percent of CC Pop":0.19,"Percent of Internet":0.0001,"Samples":4120},
+{"rank":6,"AS":328282,"Description":"TEOLIS-SAU","CC":"TG","Users":569,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":768},
+{"rank":7,"AS":328293,"Description":"RDED-AS","CC":"TG","Users":468,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":516},
+{"rank":8,"AS":329010,"Description":"SDN1-AS","CC":"TG","Users":435,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":464},
+{"rank":9,"AS":212238,"Description":"CDNEXT","CC":"TG","Users":357,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":171},
+{"rank":10,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TG","Users":175,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":32},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"TG","Users":78,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

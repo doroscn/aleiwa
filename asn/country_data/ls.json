@@ -1,17 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37057,"Description":"VODACOM-LESOTHO","CC":"LS","Users":432588,"Percent of CC Pop":59.00,"Percent of Internet":0.0104,"Samples":183948},
-{"rank":2,"AS":33567,"Description":"TELECOM-LESOTHO","CC":"LS","Users":364793,"Percent of CC Pop":49.75,"Percent of Internet":0.0087,"Samples":154894},
-{"rank":3,"AS":37642,"Description":"Comnet-Lesotho-AS","CC":"LS","Users":9183,"Percent of CC Pop":1.25,"Percent of Internet":0.0002,"Samples":3890},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LS","Users":3351,"Percent of CC Pop":0.46,"Percent of Internet":0.0001,"Samples":1400},
-{"rank":5,"AS":327750,"Description":"JENNY-INTERNET","CC":"LS","Users":2723,"Percent of CC Pop":0.37,"Percent of Internet":0.0001,"Samples":1076},
-{"rank":6,"AS":328567,"Description":"LEC-Communications","CC":"LS","Users":1606,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":535},
-{"rank":7,"AS":25695,"Description":"LEO","CC":"LS","Users":1597,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":530},
-{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"LS","Users":1341,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":22},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LS","Users":592,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":68}
+{"rank":1,"AS":37057,"Description":"VODACOM-LESOTHO","CC":"LS","Users":427099,"Percent of CC Pop":58.25,"Percent of Internet":0.0102,"Samples":183105},
+{"rank":2,"AS":33567,"Description":"TELECOM-LESOTHO","CC":"LS","Users":373531,"Percent of CC Pop":50.94,"Percent of Internet":0.0090,"Samples":160502},
+{"rank":3,"AS":37642,"Description":"Comnet-Lesotho-AS","CC":"LS","Users":8764,"Percent of CC Pop":1.20,"Percent of Internet":0.0002,"Samples":3742},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LS","Users":4115,"Percent of CC Pop":0.56,"Percent of Internet":0.0001,"Samples":1683},
+{"rank":5,"AS":327750,"Description":"JENNY-INTERNET","CC":"LS","Users":2725,"Percent of CC Pop":0.37,"Percent of Internet":0.0001,"Samples":1100},
+{"rank":6,"AS":328567,"Description":"LEC-Communications","CC":"LS","Users":1524,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":470},
+{"rank":7,"AS":25695,"Description":"LEO","CC":"LS","Users":1346,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":443},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LS","Users":654,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":69}
   ]
 }

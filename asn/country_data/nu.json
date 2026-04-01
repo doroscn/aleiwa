@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NU","Users":1044,"Percent of CC Pop":116.78,"Percent of Internet":0.0000,"Samples":391},
-{"rank":2,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"NU","Users":840,"Percent of CC Pop":93.96,"Percent of Internet":0.0000,"Samples":27}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NU","Users":1049,"Percent of CC Pop":117.34,"Percent of Internet":0.0000,"Samples":453},
+{"rank":2,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"NU","Users":690,"Percent of CC Pop":77.18,"Percent of Internet":0.0000,"Samples":19}
   ]
 }

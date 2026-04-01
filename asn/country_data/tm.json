@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20661,"Description":"TURKMENTELECOM-AS","CC":"TM","Users":1539238,"Percent of CC Pop":93.82,"Percent of Internet":0.0369,"Samples":9216},
-{"rank":2,"AS":212238,"Description":"CDNEXT","CC":"TM","Users":176262,"Percent of CC Pop":10.74,"Percent of Internet":0.0042,"Samples":135},
-{"rank":3,"AS":59974,"Description":"TMCELL-NET","CC":"TM","Users":137771,"Percent of CC Pop":8.40,"Percent of Internet":0.0033,"Samples":732},
-{"rank":4,"AS":51495,"Description":"AGTS-AS","CC":"TM","Users":125669,"Percent of CC Pop":7.66,"Percent of Internet":0.0030,"Samples":594},
-{"rank":5,"AS":205471,"Description":"CDMA-AGTS-AS","CC":"TM","Users":47859,"Percent of CC Pop":2.92,"Percent of Internet":0.0011,"Samples":41},
-{"rank":6,"AS":204579,"Description":"TH","CC":"TM","Users":42943,"Percent of CC Pop":2.62,"Percent of Internet":0.0010,"Samples":77},
-{"rank":7,"AS":213541,"Description":"WS-TELECOM-SDN","CC":"TM","Users":25830,"Percent of CC Pop":1.57,"Percent of Internet":0.0006,"Samples":15}
+{"rank":1,"AS":20661,"Description":"TURKMENTELECOM-AS","CC":"TM","Users":1526474,"Percent of CC Pop":93.04,"Percent of Internet":0.0366,"Samples":8454},
+{"rank":2,"AS":51495,"Description":"AGTS-AS","CC":"TM","Users":187119,"Percent of CC Pop":11.41,"Percent of Internet":0.0045,"Samples":935},
+{"rank":3,"AS":212238,"Description":"CDNEXT","CC":"TM","Users":160063,"Percent of CC Pop":9.76,"Percent of Internet":0.0038,"Samples":152},
+{"rank":4,"AS":59974,"Description":"TMCELL-NET","CC":"TM","Users":107772,"Percent of CC Pop":6.57,"Percent of Internet":0.0026,"Samples":502},
+{"rank":5,"AS":205471,"Description":"CDMA-AGTS-AS","CC":"TM","Users":48557,"Percent of CC Pop":2.96,"Percent of Internet":0.0012,"Samples":34},
+{"rank":6,"AS":204579,"Description":"TH","CC":"TM","Users":42671,"Percent of CC Pop":2.60,"Percent of Internet":0.0010,"Samples":67},
+{"rank":7,"AS":213541,"Description":"WS-TELECOM-SDN","CC":"TM","Users":25435,"Percent of CC Pop":1.55,"Percent of Internet":0.0006,"Samples":17}
   ]
 }

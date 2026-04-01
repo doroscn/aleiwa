@@ -1,13 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":10131,"Description":"CKTELECOM-CK-AP Telecom Cook Islands","CC":"CK","Users":4972,"Percent of CC Pop":50.69,"Percent of Internet":0.0001,"Samples":19813},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CK","Users":4765,"Percent of CC Pop":48.58,"Percent of Internet":0.0001,"Samples":18550},
-{"rank":3,"AS":152093,"Description":"VAKANETLIMITED-AS-AP VakaNet Limited","CC":"CK","Users":456,"Percent of CC Pop":4.65,"Percent of Internet":0.0000,"Samples":1156},
-{"rank":4,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"CK","Users":133,"Percent of CC Pop":1.36,"Percent of Internet":0.0000,"Samples":10},
-{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CK","Users":47,"Percent of CC Pop":0.48,"Percent of Internet":0.0000,"Samples":29}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CK","Users":5032,"Percent of CC Pop":51.31,"Percent of Internet":0.0001,"Samples":18939},
+{"rank":2,"AS":10131,"Description":"CKTELECOM-CK-AP Telecom Cook Islands","CC":"CK","Users":4719,"Percent of CC Pop":48.11,"Percent of Internet":0.0001,"Samples":18359},
+{"rank":3,"AS":152093,"Description":"VAKANETLIMITED-AS-AP VakaNet Limited","CC":"CK","Users":447,"Percent of CC Pop":4.56,"Percent of Internet":0.0000,"Samples":1268},
+{"rank":4,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"CK","Users":47,"Percent of CC Pop":0.48,"Percent of Internet":0.0000,"Samples":23}
   ]
 }

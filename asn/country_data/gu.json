@@ -1,21 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "25/02/2026",
+  "Date": "28/03/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":7131,"Description":"PTIPACIFICAINC-AS-AP PTI Pacifica Inc.","CC":"GU","Users":40297,"Percent of CC Pop":27.38,"Percent of Internet":0.0010,"Samples":68954},
-{"rank":2,"AS":9246,"Description":"GTA-AP Teleguam Holdings, LLC","CC":"GU","Users":39471,"Percent of CC Pop":26.82,"Percent of Internet":0.0009,"Samples":63308},
-{"rank":3,"AS":3605,"Description":"ERX-KUENTOS-AS Guam Cablevision, LLC.","CC":"GU","Users":38434,"Percent of CC Pop":26.11,"Percent of Internet":0.0009,"Samples":62412},
-{"rank":4,"AS":21996,"Description":"GUAMCELL - GUAMCELL Communications","CC":"GU","Users":25054,"Percent of CC Pop":17.02,"Percent of Internet":0.0006,"Samples":40465},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GU","Users":8120,"Percent of CC Pop":5.52,"Percent of Internet":0.0002,"Samples":13205},
-{"rank":6,"AS":17456,"Description":"PDSGUAM-USTRANSPORT-AS-GU-AP Pacific Data Systems","CC":"GU","Users":975,"Percent of CC Pop":0.66,"Percent of Internet":0.0000,"Samples":1157},
-{"rank":7,"AS":212238,"Description":"CDNEXT","CC":"GU","Users":408,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":221},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GU","Users":323,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":322},
-{"rank":9,"AS":395400,"Description":"UNIVERSITY-GUAM - UNIVERSITY OF GUAM","CC":"GU","Users":322,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":302},
-{"rank":10,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"GU","Users":233,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":197},
-{"rank":11,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"GU","Users":166,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":17},
-{"rank":12,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GU","Users":126,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":17},
-{"rank":13,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GU","Users":117,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":54}
+{"rank":1,"AS":7131,"Description":"PTIPACIFICAINC-AS-AP PTI Pacifica Inc.","CC":"GU","Users":42055,"Percent of CC Pop":28.58,"Percent of Internet":0.0010,"Samples":77394},
+{"rank":2,"AS":9246,"Description":"GTA-AP Teleguam Holdings, LLC","CC":"GU","Users":38495,"Percent of CC Pop":26.16,"Percent of Internet":0.0009,"Samples":65917},
+{"rank":3,"AS":3605,"Description":"ERX-KUENTOS-AS Guam Cablevision, LLC.","CC":"GU","Users":37217,"Percent of CC Pop":25.29,"Percent of Internet":0.0009,"Samples":63855},
+{"rank":4,"AS":21996,"Description":"GUAMCELL - GUAMCELL Communications","CC":"GU","Users":25502,"Percent of CC Pop":17.33,"Percent of Internet":0.0006,"Samples":43920},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GU","Users":8473,"Percent of CC Pop":5.76,"Percent of Internet":0.0002,"Samples":14709},
+{"rank":6,"AS":17456,"Description":"PDSGUAM-USTRANSPORT-AS-GU-AP Pacific Data Systems","CC":"GU","Users":985,"Percent of CC Pop":0.67,"Percent of Internet":0.0000,"Samples":1212},
+{"rank":7,"AS":212238,"Description":"CDNEXT","CC":"GU","Users":379,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":229},
+{"rank":8,"AS":395400,"Description":"UNIVERSITY-GUAM - UNIVERSITY OF GUAM","CC":"GU","Users":374,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":347},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GU","Users":321,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":322},
+{"rank":10,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"GU","Users":212,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":158},
+{"rank":11,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"GU","Users":147,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":17},
+{"rank":12,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GU","Users":136,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":14},
+{"rank":13,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GU","Users":112,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":67}
   ]
 }
