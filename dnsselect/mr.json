@@ -10,12 +10,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8024316109422492,
-    "checked_at": "2025-03-19T03:33:03Z",
+    "checked_at": "2026-04-01T02:55:52Z",
     "created_at": "2021-09-26T00:28:33.351101Z",
     "available": true
   },
   {
-    "ip": "82.151.73.122",
+    "ip": "82.151.73.56",
     "name": "",
     "as_number": 29544,
     "as_org": "MAURITEL",
@@ -25,9 +25,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9166666666666666,
-    "checked_at": "2025-03-19T03:33:03Z",
+    "checked_at": "2026-04-01T02:55:52Z",
     "created_at": "2023-02-28T19:53:07.288353Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "82.151.90.1",
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8244897959183674,
-    "checked_at": "2025-03-19T03:33:11Z",
+    "checked_at": "2026-04-01T02:55:52Z",
     "created_at": "2023-02-28T19:53:11.371858Z",
     "available": true
   },
   {
-    "ip": "82.151.83.187",
+    "ip": "82.151.83.71",
     "name": "",
     "as_number": 29544,
     "as_org": "MAURITEL",
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5357142857142857,
-    "checked_at": "2025-03-19T03:33:11Z",
+    "checked_at": "2026-04-01T02:55:52Z",
     "created_at": "2023-03-16T20:15:46.593355Z",
     "available": true
   },
@@ -70,9 +70,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8888888888888888,
-    "checked_at": "2025-03-19T03:33:19Z",
+    "checked_at": "2026-04-01T02:55:52Z",
     "created_at": "2023-03-17T11:36:35.863041Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "82.151.66.179",
@@ -85,8 +85,8 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8496732026143791,
-    "checked_at": "2025-03-19T03:33:19Z",
+    "checked_at": "2026-04-01T02:55:52Z",
     "created_at": "2017-01-08T21:51:10Z",
-    "available": true
+    "available": false
   }
 ]
