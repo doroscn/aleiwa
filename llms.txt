@@ -1,0 +1,18 @@
+# Aleiwa LDNS Directory
+
+> Global real-time verified Local DNS (LDNS) IP database and ISP rankings.
+
+## Core Data
+- [Global LDNS List](/v1/ldns/all): Comprehensive list of verified LDNS IPs by country.
+- [ISP Rankings](/rankings): Network performance rankings for global carriers.
+- [API Documentation](/docs/api): Integration guide for developers and AI agents.
+
+## Data Specifics
+- **Validation Frequency**: Automated verification every 30 days per country.
+- **Data Sources**: Real-world user resolution data via CDNPerf and proprietary probes.
+- **Attributes**: IP address, ISP name, Country Code, Latency, and ECS support status.
+
+## Key Resources
+- [Japan LDNS](/ldns/jp): Top performing DNS for NTT, Softbank, KDDI.
+- [US LDNS](/ldns/us): Verified IPs for AT&T, Verizon, Comcast.
+- [Recent Updates](/updates): Log of the latest IP additions and removals.
