@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T03:32:15Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2022-10-26T04:26:34.788039Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T03:32:22Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2022-10-26T05:42:06.098598Z",
     "available": true
   },
@@ -40,9 +40,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-20T03:32:29Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2022-11-14T04:06:02.634587Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "197.235.15.162",
@@ -55,12 +55,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6585365853658537,
-    "checked_at": "2025-03-20T03:32:30Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2022-12-27T01:20:40.066043Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "196.22.60.4",
+    "ip": "196.22.60.5",
     "name": "ip-196-22-60-4.teledata.mz.",
     "as_number": 36865,
     "as_org": "Teledata Mozambique",
@@ -70,12 +70,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T03:32:35Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2023-03-01T22:17:29.886421Z",
     "available": true
   },
   {
-    "ip": "197.231.216.15",
+    "ip": "197.231.216.2",
     "name": "ns2.cilix.co.mz.",
     "as_number": 37556,
     "as_org": "CILIXSOFT-ASN",
@@ -85,12 +85,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T03:32:38Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2023-03-13T10:15:19.281543Z",
     "available": true
   },
   {
-    "ip": "197.249.65.16",
+    "ip": "197.249.65.51",
     "name": "cust16-65-249-197.netcabo.co.mz.",
     "as_number": 25139,
     "as_org": "Comunicacoes Multimedia, Lda.",
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-20T03:32:45Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2023-03-13T21:53:04.803647Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "197.249.87.169",
+    "ip": "197.249.87.149",
     "name": "cust110-87-249-197.netcabo.co.mz.",
     "as_number": 25139,
     "as_org": "Comunicacoes Multimedia, Lda.",
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9411764705882353,
-    "checked_at": "2025-03-20T03:32:53Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2023-03-15T07:41:40.77309Z",
     "available": true
   },
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-20T03:33:00Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2023-03-15T13:56:36.904337Z",
     "available": true
   },
@@ -145,12 +145,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-20T03:33:03Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2023-03-15T17:09:16.548604Z",
     "available": true
   },
   {
-    "ip": "169.255.135.130",
+    "ip": "169.255.135.114",
     "name": "",
     "as_number": 37697,
     "as_org": "webmasters",
@@ -160,12 +160,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-20T03:33:11Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2023-03-16T12:42:58.851113Z",
     "available": true
   },
   {
-    "ip": "197.249.6.12",
+    "ip": "197.249.6.127",
     "name": "cust205-6-249-197.netcabo.co.mz.",
     "as_number": 25139,
     "as_org": "Comunicacoes Multimedia, Lda.",
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6774193548387096,
-    "checked_at": "2025-03-20T03:33:18Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2023-03-17T00:13:42.612015Z",
     "available": true
   },
@@ -190,12 +190,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-20T03:33:25Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2023-03-17T04:51:43.644618Z",
     "available": true
   },
   {
-    "ip": "197.249.6.12",
+    "ip": "197.249.6.127",
     "name": "cust201-6-249-197.netcabo.co.mz.",
     "as_number": 25139,
     "as_org": "Comunicacoes Multimedia, Lda.",
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7608695652173914,
-    "checked_at": "2025-03-20T03:33:30Z",
+    "checked_at": "2026-04-04T08:37:05Z",
     "created_at": "2023-03-17T08:15:47.206512Z",
     "available": true
   }
