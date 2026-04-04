@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.783410138248848,
-    "checked_at": "2025-03-20T06:07:26Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2020-12-14T04:27:17.915895Z",
     "available": false
   },
@@ -25,9 +25,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7466340269277846,
-    "checked_at": "2025-03-20T06:07:33Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2020-12-14T04:34:28.00817Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "103.85.107.99",
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9696969696969697,
-    "checked_at": "2025-03-20T06:07:36Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2020-12-14T04:34:32.378447Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.927007299270073,
-    "checked_at": "2025-03-20T06:07:37Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2021-04-07T03:35:25.650634Z",
     "available": true
   },
@@ -70,12 +70,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6955161626694474,
-    "checked_at": "2025-03-20T06:07:44Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2021-04-07T03:52:26.327378Z",
     "available": true
   },
   {
-    "ip": "103.154.241.17",
+    "ip": "103.154.241.126",
     "name": "",
     "as_number": 141015,
     "as_org": "Myanmar Link Telecommunication Ltd",
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7659352142110762,
-    "checked_at": "2025-03-20T06:07:45Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2021-04-07T04:10:00.611352Z",
     "available": true
   },
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.0011210762331838565,
-    "checked_at": "2025-03-20T06:07:52Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2021-06-01T09:13:43.153506Z",
     "available": true
   },
   {
-    "ip": "65.18.114.134",
+    "ip": "65.18.114.218",
     "name": "",
     "as_number": 136255,
     "as_org": "Telecom International Myanmar Co., Ltd",
@@ -115,12 +115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:07:59Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2021-09-24T04:23:39.331369Z",
     "available": true
   },
   {
-    "ip": "74.50.211.170",
+    "ip": "74.50.211.178",
     "name": "undefined.hostname.localhost.",
     "as_number": 132167,
     "as_org": "OOREDOO MYANMAR",
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:08:07Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2021-09-24T04:23:42.517006Z",
     "available": true
   },
@@ -145,9 +145,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.3901734104046243,
-    "checked_at": "2025-03-20T06:08:11Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2021-09-27T02:19:23.279887Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "203.81.95.66",
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8592964824120602,
-    "checked_at": "2025-03-20T06:08:19Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2021-10-26T04:53:27.807886Z",
     "available": true
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9977876106194691,
-    "checked_at": "2025-03-20T06:08:26Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2022-02-07T07:32:39.297484Z",
     "available": true
   },
@@ -190,12 +190,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:08:27Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2022-08-26T04:09:26.353854Z",
     "available": false
   },
   {
-    "ip": "103.213.30.120",
+    "ip": "103.213.30.17",
     "name": "",
     "as_number": 135300,
     "as_org": "Myanmar Broadband Telecom Co., Ltd",
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:08:34Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2022-10-17T06:59:07.406248Z",
     "available": true
   },
@@ -220,7 +220,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:08:38Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2022-11-13T17:23:13.854411Z",
     "available": true
   },
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-20T06:08:46Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2022-11-21T00:50:22.629233Z",
     "available": true
   },
@@ -250,12 +250,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9910313901345291,
-    "checked_at": "2025-03-20T06:08:49Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2022-12-25T00:39:29.390012Z",
     "available": true
   },
   {
-    "ip": "121.54.164.130",
+    "ip": "121.54.164.142",
     "name": "",
     "as_number": 134739,
     "as_org": "AGB Communication Co.Ltd",
@@ -265,7 +265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.923728813559322,
-    "checked_at": "2025-03-20T06:08:50Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2022-12-25T03:53:54.711703Z",
     "available": true
   },
@@ -280,7 +280,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2025-03-20T06:08:50Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2023-02-19T13:27:12.58266Z",
     "available": false
   },
@@ -295,12 +295,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9351851851851852,
-    "checked_at": "2025-03-20T06:08:57Z",
+    "checked_at": "2026-04-04T16:42:33Z",
     "created_at": "2023-02-28T03:28:31.835851Z",
     "available": true
   },
   {
-    "ip": "121.54.164.130",
+    "ip": "121.54.164.142",
     "name": "",
     "as_number": 134739,
     "as_org": "AGB Communication Co.Ltd",
@@ -310,7 +310,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:09:01Z",
+    "checked_at": "2026-04-04T16:42:34Z",
     "created_at": "2023-03-13T05:14:55.228839Z",
     "available": true
   },
@@ -325,12 +325,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:09:05Z",
+    "checked_at": "2026-04-04T16:42:34Z",
     "created_at": "2023-03-13T06:01:49.352035Z",
     "available": true
   },
   {
-    "ip": "202.165.94.150",
+    "ip": "202.165.94.170",
     "name": "",
     "as_number": 136255,
     "as_org": "Telecom International Myanmar Co., Ltd",
@@ -340,12 +340,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:09:10Z",
+    "checked_at": "2026-04-04T16:42:34Z",
     "created_at": "2023-03-13T06:39:03.665265Z",
     "available": true
   },
   {
-    "ip": "203.81.66.105",
+    "ip": "203.81.66.102",
     "name": "",
     "as_number": 9988,
     "as_org": "Myanma Posts and Telecommunications",
@@ -355,9 +355,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:09:17Z",
+    "checked_at": "2026-04-04T16:42:34Z",
     "created_at": "2023-03-13T08:42:45.79161Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "185.133.214.138",
@@ -370,12 +370,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:09:24Z",
+    "checked_at": "2026-04-04T16:42:34Z",
     "created_at": "2023-03-13T21:10:46.53002Z",
     "available": true
   },
   {
-    "ip": "185.205.140.112",
+    "ip": "185.205.140.237",
     "name": "",
     "as_number": 134739,
     "as_org": "AGB Communication Co.Ltd",
@@ -385,12 +385,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:09:32Z",
+    "checked_at": "2026-04-04T16:42:34Z",
     "created_at": "2023-03-14T02:24:45.14388Z",
     "available": true
   },
   {
-    "ip": "202.165.94.142",
+    "ip": "202.165.94.170",
     "name": "",
     "as_number": 136255,
     "as_org": "Telecom International Myanmar Co., Ltd",
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:09:39Z",
+    "checked_at": "2026-04-04T16:42:34Z",
     "created_at": "2023-03-14T02:56:30.97942Z",
     "available": true
   },
@@ -415,12 +415,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:09:46Z",
+    "checked_at": "2026-04-04T16:42:36Z",
     "created_at": "2023-03-14T06:45:07.908817Z",
     "available": true
   },
   {
-    "ip": "202.191.103.138",
+    "ip": "202.191.103.114",
     "name": "",
     "as_number": 136255,
     "as_org": "Telecom International Myanmar Co., Ltd",
@@ -430,7 +430,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:09:54Z",
+    "checked_at": "2026-04-04T16:42:36Z",
     "created_at": "2023-03-14T17:49:56.852579Z",
     "available": true
   },
@@ -445,12 +445,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:10:01Z",
+    "checked_at": "2026-04-04T16:42:36Z",
     "created_at": "2023-03-15T02:24:55.894397Z",
     "available": false
   },
   {
-    "ip": "136.228.168.10",
+    "ip": "136.228.168.86",
     "name": "",
     "as_number": 9988,
     "as_org": "Myanma Posts and Telecommunications",
@@ -460,7 +460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2025-03-20T06:10:09Z",
+    "checked_at": "2026-04-04T16:42:36Z",
     "created_at": "2023-03-15T08:10:58.950838Z",
     "available": true
   },
@@ -475,7 +475,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2025-03-20T06:10:12Z",
+    "checked_at": "2026-04-04T16:42:37Z",
     "created_at": "2023-03-15T08:48:14.022168Z",
     "available": false
   },
@@ -490,7 +490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T06:10:19Z",
+    "checked_at": "2026-04-04T16:42:37Z",
     "created_at": "2023-03-15T09:57:45.03038Z",
     "available": false
   }
