@@ -1,18 +1,106 @@
-# Aleiwa LDNS Directory
+# Title
+> Aleiwa LLM index for structured discovery of DNS, ASN, and blog pages.
 
-> Global real-time verified Local DNS (LDNS) IP database and ISP rankings.
+This file provides a concise, machine-readable entrypoint for LLMs.  
+Source of truth is the sitemap: https://www.aleiwa.com/sitemap.xml.
 
-## Core Data
-- [Global LDNS List](/v1/ldns/all): Comprehensive list of verified LDNS IPs by country.
-- [ISP Rankings](/rankings): Network performance rankings for global carriers.
-- [API Documentation](/docs/api): Integration guide for developers and AI agents.
-
-## Data Specifics
-- **Validation Frequency**: Automated verification every 30 days per country.
-- **Data Sources**: Real-world user resolution data via CDNPerf and proprietary probes.
-- **Attributes**: IP address, ISP name, Country Code, Latency, and ECS support status.
-
-## Key Resources
-- [Japan LDNS](/ldns/jp): Top performing DNS for NTT, Softbank, KDDI.
-- [US LDNS](/ldns/us): Verified IPs for AT&T, Verizon, Comcast.
-- [Recent Updates](/updates): Log of the latest IP additions and removals.
+## Docs
+- [Canonical site](https://www.aleiwa.com/): Reference link
+- [Sitemap index](https://www.aleiwa.com/sitemap.xml): Reference link
+- Full URL inventory: ./llms-full.txt
+- Generated date: 2026-04-08
+- Total indexed URLs: 520
+## Policies
+- [Privacy policy](https://www.aleiwa.com/privacy.html): Reference link
+- [About page](https://www.aleiwa.com/about.html): Reference link
+- URL descriptions are extracted from each page title (with H1 supplement when useful).
+## Core Pages
+- [Aleiwa: Best Public DNS & ISP Rankings](https://www.aleiwa.com/): Aleiwa: Best Public DNS & ISP Rankings
+- [Aleiwa: Best Public DNS & ISP Rankings](https://www.aleiwa.com/index.html): Aleiwa: Best Public DNS & ISP Rankings
+- [Aleiwa: Best Public DNS & ISP Rankings | Best Public DNS Servers](https://www.aleiwa.com/dns.html): Aleiwa: Best Public DNS & ISP Rankings | Best Public DNS Servers
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | TOP ASNs Information](https://www.aleiwa.com/topisps.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | TOP ASNs Information
+- [About Aleiwa - Network Analytics and Reference Platform](https://www.aleiwa.com/about.html): About Aleiwa - Network Analytics and Reference Platform
+- [Privacy Policy - Aleiwa Network Tools](https://www.aleiwa.com/privacy.html): Privacy Policy - Aleiwa Network Tools
+## ASN Pages
+- [Top ASNs in Afghanistan | Aleiwa Network Tools](https://www.aleiwa.com/asn/af.html): Top ASNs in Afghanistan | Aleiwa Network Tools
+- [Top ASNs in Albania | Aleiwa Network Tools](https://www.aleiwa.com/asn/al.html): Top ASNs in Albania | Aleiwa Network Tools
+- [Top ASNs in Algeria | Aleiwa Network Tools](https://www.aleiwa.com/asn/dz.html): Top ASNs in Algeria | Aleiwa Network Tools
+- [Top ASNs in American Samoa | Aleiwa Network Tools](https://www.aleiwa.com/asn/as.html): Top ASNs in American Samoa | Aleiwa Network Tools
+- [Top ASNs in Andorra | Aleiwa Network Tools](https://www.aleiwa.com/asn/ad.html): Top ASNs in Andorra | Aleiwa Network Tools
+- [Top ASNs in Angola | Aleiwa Network Tools](https://www.aleiwa.com/asn/ao.html): Top ASNs in Angola | Aleiwa Network Tools
+- [Top ASNs in Anguilla | Aleiwa Network Tools](https://www.aleiwa.com/asn/ai.html): Top ASNs in Anguilla | Aleiwa Network Tools
+- [Top ASNs in Antarctica | Aleiwa Network Tools](https://www.aleiwa.com/asn/aq.html): Top ASNs in Antarctica | Aleiwa Network Tools
+- [Top ASNs in Antigua and Barbuda | Aleiwa Network Tools](https://www.aleiwa.com/asn/ag.html): Top ASNs in Antigua and Barbuda | Aleiwa Network Tools
+- [Top ASNs in Argentina | Aleiwa Network Tools](https://www.aleiwa.com/asn/ar.html): Top ASNs in Argentina | Aleiwa Network Tools
+- [Top ASNs in Armenia | Aleiwa Network Tools](https://www.aleiwa.com/asn/am.html): Top ASNs in Armenia | Aleiwa Network Tools
+- [Top ASNs in Aruba | Aleiwa Network Tools](https://www.aleiwa.com/asn/aw.html): Top ASNs in Aruba | Aleiwa Network Tools
+- [Top ASNs in Australia | Aleiwa Network Tools](https://www.aleiwa.com/asn/au.html): Top ASNs in Australia | Aleiwa Network Tools
+- [Top ASNs in Austria | Aleiwa Network Tools](https://www.aleiwa.com/asn/at.html): Top ASNs in Austria | Aleiwa Network Tools
+- [Top ASNs in Azerbaijan | Aleiwa Network Tools](https://www.aleiwa.com/asn/az.html): Top ASNs in Azerbaijan | Aleiwa Network Tools
+- [Top ASNs in Bahamas | Aleiwa Network Tools](https://www.aleiwa.com/asn/bs.html): Top ASNs in Bahamas | Aleiwa Network Tools
+- [Top ASNs in Bahrain | Aleiwa Network Tools](https://www.aleiwa.com/asn/bh.html): Top ASNs in Bahrain | Aleiwa Network Tools
+- [Top ASNs in Bangladesh | Aleiwa Network Tools](https://www.aleiwa.com/asn/bd.html): Top ASNs in Bangladesh | Aleiwa Network Tools
+- [Top ASNs in Barbados | Aleiwa Network Tools](https://www.aleiwa.com/asn/bb.html): Top ASNs in Barbados | Aleiwa Network Tools
+- [Top ASNs in Belarus | Aleiwa Network Tools](https://www.aleiwa.com/asn/by.html): Top ASNs in Belarus | Aleiwa Network Tools
+- [Top ASNs in Belgium | Aleiwa Network Tools](https://www.aleiwa.com/asn/be.html): Top ASNs in Belgium | Aleiwa Network Tools
+- [Top ASNs in Belize | Aleiwa Network Tools](https://www.aleiwa.com/asn/bz.html): Top ASNs in Belize | Aleiwa Network Tools
+- [Top ASNs in Benin | Aleiwa Network Tools](https://www.aleiwa.com/asn/bj.html): Top ASNs in Benin | Aleiwa Network Tools
+- [Top ASNs in Bermuda | Aleiwa Network Tools](https://www.aleiwa.com/asn/bm.html): Top ASNs in Bermuda | Aleiwa Network Tools
+- [Top ASNs in Bhutan | Aleiwa Network Tools](https://www.aleiwa.com/asn/bt.html): Top ASNs in Bhutan | Aleiwa Network Tools
+- [Top ASNs in Bolivia | Aleiwa Network Tools](https://www.aleiwa.com/asn/bo.html): Top ASNs in Bolivia | Aleiwa Network Tools
+- [Top ASNs in Bosnia and Herzegovina | Aleiwa Network Tools](https://www.aleiwa.com/asn/ba.html): Top ASNs in Bosnia and Herzegovina | Aleiwa Network Tools
+- [Top ASNs in Botswana | Aleiwa Network Tools](https://www.aleiwa.com/asn/bw.html): Top ASNs in Botswana | Aleiwa Network Tools
+- [Top ASNs in Bouvet Island | Aleiwa Network Tools](https://www.aleiwa.com/asn/bv.html): Top ASNs in Bouvet Island | Aleiwa Network Tools
+- [Top ASNs in Brazil | Aleiwa Network Tools](https://www.aleiwa.com/asn/br.html): Top ASNs in Brazil | Aleiwa Network Tools
+- ... and 219 more (see llms-full.txt)
+## DNS Pages
+- [Public DNS Servers in Afghanistan | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/af.html): Public DNS Servers in Afghanistan | Aleiwa DNS Tools
+- [Public DNS Servers in Albania | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/al.html): Public DNS Servers in Albania | Aleiwa DNS Tools
+- [Public DNS Servers in Algeria | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/dz.html): Public DNS Servers in Algeria | Aleiwa DNS Tools
+- [Public DNS Servers in American Samoa | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/as.html): Public DNS Servers in American Samoa | Aleiwa DNS Tools
+- [Public DNS Servers in Andorra | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/ad.html): Public DNS Servers in Andorra | Aleiwa DNS Tools
+- [Public DNS Servers in Angola | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/ao.html): Public DNS Servers in Angola | Aleiwa DNS Tools
+- [Public DNS Servers in Anguilla | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/ai.html): Public DNS Servers in Anguilla | Aleiwa DNS Tools
+- [Public DNS Servers in Antarctica | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/aq.html): Public DNS Servers in Antarctica | Aleiwa DNS Tools
+- [Public DNS Servers in Antigua and Barbuda | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/ag.html): Public DNS Servers in Antigua and Barbuda | Aleiwa DNS Tools
+- [Public DNS Servers in Argentina | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/ar.html): Public DNS Servers in Argentina | Aleiwa DNS Tools
+- [Public DNS Servers in Armenia | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/am.html): Public DNS Servers in Armenia | Aleiwa DNS Tools
+- [Public DNS Servers in Aruba | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/aw.html): Public DNS Servers in Aruba | Aleiwa DNS Tools
+- [Public DNS Servers in Australia | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/au.html): Public DNS Servers in Australia | Aleiwa DNS Tools
+- [Public DNS Servers in Austria | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/at.html): Public DNS Servers in Austria | Aleiwa DNS Tools
+- [Public DNS Servers in Azerbaijan | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/az.html): Public DNS Servers in Azerbaijan | Aleiwa DNS Tools
+- [Public DNS Servers in Bahamas | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/bs.html): Public DNS Servers in Bahamas | Aleiwa DNS Tools
+- [Public DNS Servers in Bahrain | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/bh.html): Public DNS Servers in Bahrain | Aleiwa DNS Tools
+- [Public DNS Servers in Bangladesh | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/bd.html): Public DNS Servers in Bangladesh | Aleiwa DNS Tools
+- [Public DNS Servers in Barbados | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/bb.html): Public DNS Servers in Barbados | Aleiwa DNS Tools
+- [Public DNS Servers in Belarus | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/by.html): Public DNS Servers in Belarus | Aleiwa DNS Tools
+- [Public DNS Servers in Belgium | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/be.html): Public DNS Servers in Belgium | Aleiwa DNS Tools
+- [Public DNS Servers in Belize | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/bz.html): Public DNS Servers in Belize | Aleiwa DNS Tools
+- [Public DNS Servers in Benin | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/bj.html): Public DNS Servers in Benin | Aleiwa DNS Tools
+- [Public DNS Servers in Bermuda | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/bm.html): Public DNS Servers in Bermuda | Aleiwa DNS Tools
+- [Public DNS Servers in Bhutan | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/bt.html): Public DNS Servers in Bhutan | Aleiwa DNS Tools
+- [Public DNS Servers in Bolivia | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/bo.html): Public DNS Servers in Bolivia | Aleiwa DNS Tools
+- [Public DNS Servers in Bosnia and Herzegovina | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/ba.html): Public DNS Servers in Bosnia and Herzegovina | Aleiwa DNS Tools
+- [Public DNS Servers in Botswana | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/bw.html): Public DNS Servers in Botswana | Aleiwa DNS Tools
+- [Public DNS Servers in Bouvet Island | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/bv.html): Public DNS Servers in Bouvet Island | Aleiwa DNS Tools
+- [Public DNS Servers in Brazil | Aleiwa DNS Tools](https://www.aleiwa.com/nameserver/br.html): Public DNS Servers in Brazil | Aleiwa DNS Tools
+- ... and 219 more (see llms-full.txt)
+## Blog Pages
+- [Aleiwa: Best Public DNS & ISP Rankings | Aleiwa Global Network Information.](https://www.aleiwa.com/blog/index.html): Aleiwa: Best Public DNS & ISP Rankings | Aleiwa Global Network Information.
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | PCCW Asia Segment Congestion Impacts US–Singapore](https://www.aleiwa.com/blog/20260226.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | PCCW Asia Segment Congestion Impacts US–Singapore Traffic
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | IIX Jakarta Traffic Outage — Root Cause Identifie](https://www.aleiwa.com/blog/20251030-1.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | IIX Jakarta Traffic Outage — Root Cause Identified (Oct 30 2025)
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Microsoft Azure Outage Impacts Global Services](https://www.aleiwa.com/blog/20251030.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Microsoft Azure Outage Impacts Global Services
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | High Packet Loss on Cogent Routes Between US and ](https://www.aleiwa.com/blog/20250930.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | High Packet Loss on Cogent Routes Between US and Singapore
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Afghanistan Nationwide Communication Blackout](https://www.aleiwa.com/blog/20250929.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Afghanistan Nationwide Communication Blackout
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Red Sea Submarine Cable Cuts (Sep 2025)](https://www.aleiwa.com/blog/20250906.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Red Sea Submarine Cable Cuts (Sep 2025)
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Indonesia Blocks TikTok Live and Short Videos](https://www.aleiwa.com/blog/20250831.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Indonesia Blocks TikTok Live and Short Videos
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | U.S. East–West Coast Transmission Outage — Causes](https://www.aleiwa.com/blog/20250826.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | U.S. East–West Coast Transmission Outage — Causes, Impacts, and Lessons Learned
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Incident Report: TCP/443 Resets Between Mainland ](https://www.aleiwa.com/blog/20250820.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Incident Report: TCP/443 Resets Between Mainland China and Non-Mainland Networks
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Pakistan Internet Outage: Connectivity Slashed to](https://www.aleiwa.com/blog/20250819.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Pakistan Internet Outage: Connectivity Slashed to 20%
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Deutsche Telekom, Peering Pricing and Bandwidth B](https://www.aleiwa.com/blog/20250814.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Deutsche Telekom, Peering Pricing and Bandwidth Bottlenecks — A Deep Dive
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Iraq’s Nationwide Internet Shutdown During 2025 E](https://www.aleiwa.com/blog/20250801.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Iraq’s Nationwide Internet Shutdown During 2025 Examination Period
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Myanmar’s ISP to Implement International Network ](https://www.aleiwa.com/blog/20250728.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Myanmar’s ISP to Implement International Network Firewall — IP Whitelisting Required
+- [Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Restrictions on Public LDNS IPs in Iraq: Impact a](https://www.aleiwa.com/blog/20250516.html): Aleiwa Network Tools: Best Public DNS, ISP Rankings & Route Analysis | Restrictions on Public LDNS IPs in Iraq: Impact and Solutions
+- [How to Choose the Best Public DNS Server for Your Location | Aleiwa Network Tools](https://www.aleiwa.com/blog/choosing-dns-server.html): How to Choose the Best Public DNS Server for Your Location | Aleiwa Network Tools
+## Other Pages
+- (none)
