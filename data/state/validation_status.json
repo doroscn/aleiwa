@@ -18,11 +18,6 @@
     "index": 111
   },
   {
-    "country_id": "nl",
-    "checked_at": "2025-03-20T09:26:23Z",
-    "index": 142
-  },
-  {
     "country_id": "nc",
     "checked_at": "2025-03-20T11:08:40Z",
     "index": 143
@@ -1292,5 +1287,11 @@
     "checked_at": "2026-04-07T17:08:17Z",
     "ip_availability_ratio%": 84.85,
     "index": 141
+  },
+  {
+    "country_id": "nl",
+    "checked_at": "2026-04-08T02:46:31Z",
+    "ip_availability_ratio%": 62.50,
+    "index": 142
   }
 ]
