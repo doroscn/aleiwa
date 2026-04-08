@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.948051948051948,
-    "checked_at": "2025-03-20T11:08:40Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2022-10-12T02:54:01.336774Z",
     "available": false
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-20T11:08:45Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2022-10-12T15:18:01.162584Z",
     "available": false
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-20T11:08:52Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2022-10-14T04:31:31.584922Z",
     "available": false
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T11:08:59Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2022-10-23T22:38:40.696603Z",
     "available": true
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T11:09:07Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2022-11-26T03:49:27.535203Z",
     "available": false
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9920634920634921,
-    "checked_at": "2025-03-20T11:09:14Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2022-12-28T03:09:04.488301Z",
     "available": false
   },
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9789915966386554,
-    "checked_at": "2025-03-20T11:09:21Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2023-02-24T17:52:55.731744Z",
     "available": false
   },
   {
-    "ip": "202.22.141.72",
+    "ip": "202.22.141.81",
     "name": "host-202-22-141-29.static.lagoon.nc.",
     "as_number": 56089,
     "as_org": "OFFRATEL",
@@ -115,12 +115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T11:09:29Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2023-03-13T01:00:52.458805Z",
     "available": true
   },
   {
-    "ip": "202.22.145.168",
+    "ip": "202.22.145.27",
     "name": "host-202-22-145-168.static.lagoon.nc.",
     "as_number": 56089,
     "as_org": "OFFRATEL",
@@ -130,12 +130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T11:09:36Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2023-03-13T15:44:46.856906Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "220.156.163.108",
+    "ip": "220.156.163.161",
     "name": "host-220-156-163-246.canl.nc.",
     "as_number": 17480,
     "as_org": "CANL",
@@ -145,12 +145,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9624060150375939,
-    "checked_at": "2025-03-20T11:09:43Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2023-05-03T13:17:40.718393Z",
     "available": true
   },
   {
-    "ip": "202.171.73.57",
+    "ip": "202.171.73.178",
     "name": "202-171-73-57.h10.canl.nc.",
     "as_number": 17480,
     "as_org": "CANL",
@@ -160,9 +160,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9473684210526315,
-    "checked_at": "2025-03-20T11:09:51Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2023-05-03T23:46:29.644541Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "203.147.81.243",
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9624060150375939,
-    "checked_at": "2025-03-20T11:09:58Z",
+    "checked_at": "2026-04-08T08:57:05Z",
     "created_at": "2023-05-04T17:32:10.512939Z",
     "available": false
   }
