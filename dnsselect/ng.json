@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5958005249343832,
-    "checked_at": "2025-03-20T18:33:40Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-09-23T11:55:33.851754Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4406779661016949,
-    "checked_at": "2025-03-20T18:33:47Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-09-23T13:24:22.331047Z",
     "available": false
   },
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5800492610837439,
-    "checked_at": "2025-03-20T18:33:54Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-09-23T13:25:59.570272Z",
     "available": false
   },
   {
-    "ip": "154.113.151.177",
+    "ip": "154.113.151.170",
     "name": "",
     "as_number": 37282,
     "as_org": "MAINONE",
@@ -55,9 +55,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5593667546174143,
-    "checked_at": "2025-03-20T18:34:02Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-09-23T13:30:21.069696Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "154.113.69.106",
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.65,
-    "checked_at": "2025-03-20T18:34:09Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-09-23T13:30:38.731847Z",
     "available": true
   },
@@ -85,12 +85,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5989445910290238,
-    "checked_at": "2025-03-20T18:34:16Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-09-23T13:30:41.003568Z",
     "available": false
   },
   {
-    "ip": "41.76.155.157",
+    "ip": "41.76.155.137",
     "name": "",
     "as_number": 37230,
     "as_org": "SWIFTTALK",
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.28232189973614774,
-    "checked_at": "2025-03-20T18:34:24Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-09-23T13:31:37.201554Z",
     "available": true
   },
@@ -115,9 +115,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:34:31Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-09-24T04:24:24.168613Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "196.43.235.17",
@@ -130,12 +130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5294117647058824,
-    "checked_at": "2025-03-20T18:34:38Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-09-26T01:13:17.570829Z",
     "available": true
   },
   {
-    "ip": "155.93.96.54",
+    "ip": "155.93.96.137",
     "name": "",
     "as_number": 16284,
     "as_org": "Inq-Digital-Nigeria-AS",
@@ -145,12 +145,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7188498402555911,
-    "checked_at": "2025-03-20T18:34:46Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-09-27T07:11:27.127751Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "169.239.48.118",
+    "ip": "169.239.48.107",
     "name": "proxy_server.hooptelecoms.com.",
     "as_number": 327924,
     "as_org": "EXCELSIMO-NETWORKS",
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:34:53Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-10-01T23:58:26.319359Z",
     "available": true
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:34:58Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-10-02T00:02:23.470938Z",
     "available": false
   },
@@ -190,9 +190,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:35:01Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-10-03T05:21:20.043749Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "154.113.66.146",
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.2012121212121212,
-    "checked_at": "2025-03-20T18:35:09Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-10-12T15:48:26.486439Z",
     "available": true
   },
@@ -220,9 +220,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:35:16Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-11-02T12:22:58.975738Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "129.205.119.198",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:35:23Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2021-11-02T15:09:08.476108Z",
     "available": false
   },
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:35:31Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2022-10-03T08:53:08.126558Z",
     "available": false
   },
@@ -265,7 +265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.64,
-    "checked_at": "2025-03-20T18:35:38Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2022-10-04T11:24:54.291438Z",
     "available": false
   },
@@ -280,7 +280,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:35:46Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2022-10-10T23:45:15.482362Z",
     "available": false
   },
@@ -295,12 +295,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9726027397260274,
-    "checked_at": "2025-03-20T18:35:53Z",
+    "checked_at": "2026-04-09T17:14:06Z",
     "created_at": "2022-10-12T12:39:01.591344Z",
     "available": false
   },
   {
-    "ip": "105.112.133.45",
+    "ip": "105.112.133.196",
     "name": "",
     "as_number": 36873,
     "as_org": "Celtel Nigeria Limited t.a ZAIN",
@@ -310,12 +310,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8325358851674641,
-    "checked_at": "2025-03-20T18:36:00Z",
+    "checked_at": "2026-04-09T17:14:07Z",
     "created_at": "2022-10-15T11:50:05.883583Z",
     "available": true
   },
   {
-    "ip": "197.253.8.109",
+    "ip": "197.253.8.147",
     "name": "",
     "as_number": 37282,
     "as_org": "MAINONE",
@@ -325,7 +325,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:36:04Z",
+    "checked_at": "2026-04-09T17:14:07Z",
     "created_at": "2022-10-15T19:35:13.790574Z",
     "available": true
   },
@@ -340,7 +340,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9943181818181818,
-    "checked_at": "2025-03-20T18:36:04Z",
+    "checked_at": "2026-04-09T17:14:07Z",
     "created_at": "2022-10-17T01:50:23.167832Z",
     "available": false
   },
@@ -355,12 +355,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:36:11Z",
+    "checked_at": "2026-04-09T17:14:08Z",
     "created_at": "2022-10-17T15:36:58.747472Z",
     "available": false
   },
   {
-    "ip": "105.112.90.19",
+    "ip": "105.112.90.218",
     "name": "",
     "as_number": 36873,
     "as_org": "Celtel Nigeria Limited t.a ZAIN",
@@ -370,9 +370,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6995073891625616,
-    "checked_at": "2025-03-20T18:36:19Z",
+    "checked_at": "2026-04-09T17:14:10Z",
     "created_at": "2022-10-21T20:19:12.165179Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "41.184.157.152",
@@ -385,7 +385,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:36:26Z",
+    "checked_at": "2026-04-09T17:14:10Z",
     "created_at": "2022-10-25T07:29:51.791776Z",
     "available": false
   },
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:36:31Z",
+    "checked_at": "2026-04-09T17:14:24Z",
     "created_at": "2022-10-30T03:06:52.972411Z",
     "available": false
   },
@@ -415,7 +415,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9641255605381166,
-    "checked_at": "2025-03-20T18:36:35Z",
+    "checked_at": "2026-04-09T17:14:25Z",
     "created_at": "2022-10-30T14:30:05.147448Z",
     "available": false
   },
@@ -430,7 +430,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:36:43Z",
+    "checked_at": "2026-04-09T17:14:25Z",
     "created_at": "2022-10-31T19:52:32.827528Z",
     "available": false
   },
@@ -445,9 +445,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.0967741935483871,
-    "checked_at": "2025-03-20T18:36:47Z",
+    "checked_at": "2026-04-09T17:14:25Z",
     "created_at": "2022-11-05T02:55:22.723432Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.184.166.89",
@@ -460,7 +460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:36:48Z",
+    "checked_at": "2026-04-09T17:14:25Z",
     "created_at": "2022-11-08T08:06:28.805111Z",
     "available": false
   },
@@ -475,7 +475,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.967741935483871,
-    "checked_at": "2025-03-20T18:36:52Z",
+    "checked_at": "2026-04-09T17:14:25Z",
     "created_at": "2022-11-09T13:26:49.86305Z",
     "available": false
   },
@@ -490,7 +490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8364779874213837,
-    "checked_at": "2025-03-20T18:37:00Z",
+    "checked_at": "2026-04-09T17:14:25Z",
     "created_at": "2022-11-11T09:19:04.870884Z",
     "available": false
   },
@@ -505,9 +505,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:37:07Z",
+    "checked_at": "2026-04-09T17:14:25Z",
     "created_at": "2022-11-14T09:22:51.401516Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.184.164.225",
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8614457831325302,
-    "checked_at": "2025-03-20T18:37:08Z",
+    "checked_at": "2026-04-09T17:14:25Z",
     "created_at": "2022-11-15T20:25:12.2583Z",
     "available": false
   },
@@ -535,7 +535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:37:15Z",
+    "checked_at": "2026-04-09T17:14:26Z",
     "created_at": "2022-11-17T06:48:52.964282Z",
     "available": true
   },
@@ -550,9 +550,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:37:22Z",
+    "checked_at": "2026-04-09T17:14:26Z",
     "created_at": "2022-11-22T11:33:31.983044Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "102.221.136.71",
@@ -565,9 +565,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6,
-    "checked_at": "2025-03-20T18:37:23Z",
+    "checked_at": "2026-04-09T17:14:26Z",
     "created_at": "2022-11-25T20:46:51.281738Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.184.245.99",
@@ -580,7 +580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:37:30Z",
+    "checked_at": "2026-04-09T17:14:26Z",
     "created_at": "2022-11-27T16:22:38.330381Z",
     "available": false
   },
@@ -595,7 +595,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:37:38Z",
+    "checked_at": "2026-04-09T17:14:26Z",
     "created_at": "2022-11-28T21:41:43.791479Z",
     "available": false
   },
@@ -610,12 +610,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:37:45Z",
+    "checked_at": "2026-04-09T17:14:26Z",
     "created_at": "2022-11-29T15:13:41.386791Z",
     "available": false
   },
   {
-    "ip": "169.239.237.13",
+    "ip": "169.239.237.101",
     "name": "",
     "as_number": 327986,
     "as_org": "GUTTI-GLOBAL-NETWORKS",
@@ -625,12 +625,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8157894736842105,
-    "checked_at": "2025-03-20T18:37:52Z",
+    "checked_at": "2026-04-09T17:14:27Z",
     "created_at": "2022-12-14T10:41:27.856689Z",
     "available": true
   },
   {
-    "ip": "41.76.195.115",
+    "ip": "41.76.195.133",
     "name": "",
     "as_number": 37280,
     "as_org": "BCL",
@@ -640,7 +640,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:38:00Z",
+    "checked_at": "2026-04-09T17:14:27Z",
     "created_at": "2022-12-19T06:18:52.01111Z",
     "available": true
   },
@@ -655,12 +655,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7448979591836735,
-    "checked_at": "2025-03-20T18:38:07Z",
+    "checked_at": "2026-04-09T17:14:28Z",
     "created_at": "2022-12-24T03:11:21.757164Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "41.203.83.42",
+    "ip": "41.203.83.242",
     "name": "",
     "as_number": 37148,
     "as_org": "globacom-as",
@@ -670,12 +670,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.775,
-    "checked_at": "2025-03-20T18:38:08Z",
+    "checked_at": "2026-04-09T17:14:28Z",
     "created_at": "2022-12-25T21:52:09.031405Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "105.112.90.226",
+    "ip": "105.112.90.218",
     "name": "",
     "as_number": 36873,
     "as_org": "Celtel Nigeria Limited t.a ZAIN",
@@ -685,9 +685,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8674351585014409,
-    "checked_at": "2025-03-20T18:38:15Z",
+    "checked_at": "2026-04-09T17:14:29Z",
     "created_at": "2023-02-20T02:35:24.802752Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "51.38.188.113",
@@ -700,7 +700,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9432314410480349,
-    "checked_at": "2025-03-20T18:38:22Z",
+    "checked_at": "2026-04-09T17:14:29Z",
     "created_at": "2023-02-20T04:06:18.474843Z",
     "available": true
   },
@@ -715,7 +715,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:38:23Z",
+    "checked_at": "2026-04-09T17:14:30Z",
     "created_at": "2023-02-21T17:49:41.543295Z",
     "available": false
   },
@@ -730,12 +730,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9166666666666666,
-    "checked_at": "2025-03-20T18:38:30Z",
+    "checked_at": "2026-04-09T17:14:37Z",
     "created_at": "2023-02-21T20:18:48.097141Z",
     "available": true
   },
   {
-    "ip": "102.91.39.130",
+    "ip": "102.91.39.234",
     "name": "",
     "as_number": 29465,
     "as_org": "MTN NIGERIA Communication limited",
@@ -745,7 +745,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:38:31Z",
+    "checked_at": "2026-04-09T17:14:39Z",
     "created_at": "2023-02-24T00:13:43.363011Z",
     "available": true
   },
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:38:38Z",
+    "checked_at": "2026-04-09T17:14:40Z",
     "created_at": "2023-03-01T02:14:35.221719Z",
     "available": true
   },
@@ -775,7 +775,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:38:45Z",
+    "checked_at": "2026-04-09T17:14:41Z",
     "created_at": "2023-03-05T10:39:30.246162Z",
     "available": false
   },
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:38:53Z",
+    "checked_at": "2026-04-09T17:14:41Z",
     "created_at": "2023-03-08T16:51:44.100642Z",
     "available": false
   },
@@ -805,12 +805,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:39:00Z",
+    "checked_at": "2026-04-09T17:14:41Z",
     "created_at": "2023-03-11T21:43:31.967756Z",
     "available": false
   },
   {
-    "ip": "154.66.13.156",
+    "ip": "154.66.13.141",
     "name": "",
     "as_number": 37637,
     "as_org": "Smile-Nigeria-AS",
@@ -820,9 +820,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:39:07Z",
+    "checked_at": "2026-04-09T17:14:42Z",
     "created_at": "2023-03-13T06:05:16.128703Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "160.119.127.17",
@@ -835,7 +835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:39:15Z",
+    "checked_at": "2026-04-09T17:14:42Z",
     "created_at": "2023-03-13T07:30:16.199062Z",
     "available": true
   },
@@ -850,7 +850,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:39:22Z",
+    "checked_at": "2026-04-09T17:14:42Z",
     "created_at": "2023-03-13T08:16:51.112707Z",
     "available": false
   },
@@ -865,7 +865,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:39:27Z",
+    "checked_at": "2026-04-09T17:14:42Z",
     "created_at": "2023-03-13T09:01:17.535457Z",
     "available": false
   },
@@ -880,7 +880,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:39:34Z",
+    "checked_at": "2026-04-09T17:14:42Z",
     "created_at": "2023-03-13T12:05:40.034036Z",
     "available": true
   },
@@ -895,12 +895,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:39:41Z",
+    "checked_at": "2026-04-09T17:14:42Z",
     "created_at": "2023-03-13T13:57:13.068804Z",
     "available": true
   },
   {
-    "ip": "129.18.216.137",
+    "ip": "129.18.216.227",
     "name": "",
     "as_number": 36923,
     "as_org": "SWIFTNG-ASN",
@@ -910,12 +910,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:39:42Z",
+    "checked_at": "2026-04-09T17:14:43Z",
     "created_at": "2023-03-13T15:21:08.453029Z",
     "available": true
   },
   {
-    "ip": "102.67.23.134",
+    "ip": "102.67.23.67",
     "name": "",
     "as_number": 36920,
     "as_org": "KKON",
@@ -925,8 +925,23 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:39:49Z",
+    "checked_at": "2026-04-09T17:14:43Z",
     "created_at": "2023-03-13T18:49:40.358421Z",
+    "available": true
+  },
+  {
+    "ip": "129.18.220.166",
+    "name": "",
+    "as_number": 36923,
+    "as_org": "SWIFTNG-ASN",
+    "country_id": "NG",
+    "city": "Agege",
+    "version": "dnsmasq-2.40",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-04-09T17:14:43Z",
+    "created_at": "2023-03-13T19:09:08.031725Z",
     "available": false
   },
   {
@@ -940,24 +955,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:39:57Z",
-    "created_at": "2023-03-13T19:09:08.031725Z",
-    "available": true
-  },
-  {
-    "ip": "129.18.220.166",
-    "name": "",
-    "as_number": 36923,
-    "as_org": "SWIFTNG-ASN",
-    "country_id": "NG",
-    "city": "Agege",
-    "version": "dnsmasq-2.40",
-    "error": "",
-    "dnssec": false,
-    "reliability": 1,
-    "checked_at": "2025-03-20T18:40:04Z",
+    "checked_at": "2026-04-09T17:14:43Z",
     "created_at": "2023-03-14T04:34:24.871928Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "160.226.1.1",
@@ -970,12 +970,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:40:11Z",
+    "checked_at": "2026-04-09T17:14:44Z",
     "created_at": "2023-03-14T16:26:58.481227Z",
     "available": false
   },
   {
-    "ip": "41.203.83.66",
+    "ip": "41.203.83.242",
     "name": "",
     "as_number": 37148,
     "as_org": "globacom-as",
@@ -985,12 +985,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:40:16Z",
+    "checked_at": "2026-04-09T17:14:44Z",
     "created_at": "2023-03-14T17:06:15.96817Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "41.184.188.100",
+    "ip": "41.184.188.137",
     "name": "mail.ihmsnigeria.com.",
     "as_number": 29091,
     "as_org": "IPNXng",
@@ -1000,7 +1000,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-20T18:40:23Z",
+    "checked_at": "2026-04-09T17:14:44Z",
     "created_at": "2023-03-14T17:39:10.370129Z",
     "available": true
   },
@@ -1015,7 +1015,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:40:31Z",
+    "checked_at": "2026-04-09T17:14:45Z",
     "created_at": "2023-03-14T19:42:32.705648Z",
     "available": true
   },
@@ -1030,7 +1030,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:40:31Z",
+    "checked_at": "2026-04-09T17:14:45Z",
     "created_at": "2023-03-14T23:19:52.875576Z",
     "available": true
   },
@@ -1045,7 +1045,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:40:36Z",
+    "checked_at": "2026-04-09T17:14:45Z",
     "created_at": "2023-03-15T03:17:34.333882Z",
     "available": true
   },
@@ -1060,7 +1060,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:40:39Z",
+    "checked_at": "2026-04-09T17:14:45Z",
     "created_at": "2023-03-15T07:31:08.701767Z",
     "available": true
   },
@@ -1075,9 +1075,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2025-03-20T18:40:44Z",
+    "checked_at": "2026-04-09T17:14:46Z",
     "created_at": "2023-03-15T08:33:32.880977Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "129.18.220.166",
@@ -1090,9 +1090,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.375,
-    "checked_at": "2025-03-20T18:40:51Z",
+    "checked_at": "2026-04-09T17:14:46Z",
     "created_at": "2023-03-15T13:07:30.776877Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "102.141.234.6",
@@ -1105,7 +1105,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8181818181818182,
-    "checked_at": "2025-03-20T18:40:59Z",
+    "checked_at": "2026-04-09T17:14:46Z",
     "created_at": "2023-03-15T14:33:32.32311Z",
     "available": true
   },
@@ -1120,7 +1120,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-20T18:41:02Z",
+    "checked_at": "2026-04-09T17:14:46Z",
     "created_at": "2023-03-16T14:08:28.45604Z",
     "available": true
   },
@@ -1135,7 +1135,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-20T18:41:05Z",
+    "checked_at": "2026-04-09T17:14:46Z",
     "created_at": "2023-03-16T15:21:51.649419Z",
     "available": false
   },
@@ -1150,7 +1150,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.625,
-    "checked_at": "2025-03-20T18:41:12Z",
+    "checked_at": "2026-04-09T17:14:46Z",
     "created_at": "2023-03-16T18:07:54.267546Z",
     "available": true
   },
@@ -1165,9 +1165,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6923076923076923,
-    "checked_at": "2025-03-20T18:41:16Z",
+    "checked_at": "2026-04-09T17:14:47Z",
     "created_at": "2023-03-16T19:04:15.252546Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.75.93.190",
@@ -1180,7 +1180,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8064516129032258,
-    "checked_at": "2025-03-20T18:41:16Z",
+    "checked_at": "2026-04-09T17:14:50Z",
     "created_at": "2023-03-17T00:43:57.68136Z",
     "available": true
   },
@@ -1195,9 +1195,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8790322580645161,
-    "checked_at": "2025-03-20T18:41:24Z",
+    "checked_at": "2026-04-09T17:14:50Z",
     "created_at": "2023-03-17T06:38:41.451256Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "197.210.12.80",
@@ -1210,7 +1210,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7777777777777778,
-    "checked_at": "2025-03-20T18:41:31Z",
+    "checked_at": "2026-04-09T17:14:51Z",
     "created_at": "2023-03-17T07:55:56.345852Z",
     "available": false
   },
@@ -1225,7 +1225,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7391304347826086,
-    "checked_at": "2025-03-20T18:41:39Z",
+    "checked_at": "2026-04-09T17:14:51Z",
     "created_at": "2023-03-17T07:58:57.351767Z",
     "available": false
   },
@@ -1240,12 +1240,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9206349206349206,
-    "checked_at": "2025-03-20T18:41:46Z",
+    "checked_at": "2026-04-09T17:14:56Z",
     "created_at": "2023-03-17T09:33:09.094606Z",
     "available": true
   },
   {
-    "ip": "102.91.14.146",
+    "ip": "102.91.14.94",
     "name": "",
     "as_number": 29465,
     "as_org": "MTN NIGERIA Communication limited",
@@ -1255,12 +1255,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9130434782608695,
-    "checked_at": "2025-03-20T18:41:48Z",
+    "checked_at": "2026-04-09T17:14:57Z",
     "created_at": "2023-03-17T15:13:25.125054Z",
     "available": true
   },
   {
-    "ip": "102.135.208.86",
+    "ip": "102.135.208.60",
     "name": "",
     "as_number": 37088,
     "as_org": "VDT COMMUNICATIONS",
@@ -1270,7 +1270,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6434108527131783,
-    "checked_at": "2025-03-20T18:41:56Z",
+    "checked_at": "2026-04-09T17:14:57Z",
     "created_at": "2023-05-02T10:56:11.383737Z",
     "available": true
   },
@@ -1285,7 +1285,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-20T18:42:00Z",
+    "checked_at": "2026-04-09T17:14:58Z",
     "created_at": "2023-08-16T12:12:37.732932Z",
     "available": true
   },
@@ -1300,9 +1300,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.934640522875817,
-    "checked_at": "2025-03-20T18:42:08Z",
+    "checked_at": "2026-04-09T17:14:58Z",
     "created_at": "2017-02-21T00:24:13Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "80.248.14.50",
@@ -1315,7 +1315,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.934640522875817,
-    "checked_at": "2025-03-20T18:42:15Z",
+    "checked_at": "2026-04-09T17:14:58Z",
     "created_at": "2017-09-06T02:47:14Z",
     "available": false
   }

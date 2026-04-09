@@ -18,11 +18,6 @@
     "index": 111
   },
   {
-    "country_id": "ng",
-    "checked_at": "2025-03-20T18:33:40Z",
-    "index": 147
-  },
-  {
     "country_id": "nu",
     "checked_at": "2025-03-20T21:22:34Z",
     "index": 148
@@ -1297,5 +1292,11 @@
     "checked_at": "2026-04-09T09:03:15Z",
     "ip_availability_ratio%": 100.00,
     "index": 146
+  },
+  {
+    "country_id": "ng",
+    "checked_at": "2026-04-09T17:14:06Z",
+    "ip_availability_ratio%": 50.00,
+    "index": 147
   }
 ]
