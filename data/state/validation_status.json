@@ -18,11 +18,6 @@
     "index": 111
   },
   {
-    "country_id": "pw",
-    "checked_at": "2025-03-21T06:35:12Z",
-    "index": 152
-  },
-  {
     "country_id": "ps",
     "checked_at": "2025-03-21T08:29:37Z",
     "index": 153
@@ -1302,5 +1297,11 @@
     "checked_at": "2026-04-10T11:53:43Z",
     "ip_availability_ratio%": 68.27,
     "index": 151
+  },
+  {
+    "country_id": "pw",
+    "checked_at": "2026-04-10T16:42:38Z",
+    "ip_availability_ratio%": 42.86,
+    "index": 152
   }
 ]
