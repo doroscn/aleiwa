@@ -18,11 +18,6 @@
     "index": 111
   },
   {
-    "country_id": "om",
-    "checked_at": "2025-03-21T02:50:29Z",
-    "index": 150
-  },
-  {
     "country_id": "pk",
     "checked_at": "2025-03-21T03:33:27Z",
     "index": 151
@@ -1300,5 +1295,11 @@
     "checked_at": "2026-04-10T11:29:41Z",
     "ip_availability_ratio%": 32.10,
     "index": 149
+  },
+  {
+    "country_id": "om",
+    "checked_at": "2026-04-10T11:52:02Z",
+    "ip_availability_ratio%": 21.43,
+    "index": 150
   }
 ]
