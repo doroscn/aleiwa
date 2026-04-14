@@ -10,9 +10,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5748218527315915,
-    "checked_at": "2025-03-24T06:17:59Z",
+    "checked_at": "2026-04-14T16:58:39Z",
     "created_at": "2022-10-01T10:22:18.688309Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.215.248.143",
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-24T06:18:00Z",
+    "checked_at": "2026-04-14T16:58:39Z",
     "created_at": "2022-10-12T01:15:15.153401Z",
     "available": false
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.3137254901960784,
-    "checked_at": "2025-03-24T06:18:05Z",
+    "checked_at": "2026-04-14T16:58:39Z",
     "created_at": "2022-10-18T12:54:37.752735Z",
     "available": true
   },
@@ -55,12 +55,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.97,
-    "checked_at": "2025-03-24T06:18:08Z",
+    "checked_at": "2026-04-14T16:58:39Z",
     "created_at": "2023-02-26T13:36:47.330388Z",
     "available": true
   },
   {
-    "ip": "196.12.149.197",
+    "ip": "196.12.149.122",
     "name": "",
     "as_number": 37006,
     "as_org": "Liquid Telecommunication Rwanda",
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-24T06:18:15Z",
+    "checked_at": "2026-04-14T16:58:39Z",
     "created_at": "2023-03-15T05:16:37.65252Z",
     "available": true
   }
