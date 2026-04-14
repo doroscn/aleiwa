@@ -628,5 +628,20 @@
     "checked_at": "2026-04-10T11:52:20Z",
     "created_at": "2023-05-08T09:16:47.729244Z",
     "available": false
+  },
+  {
+    "ip": "185.27.88.52",
+    "name": "",
+    "as_number": 60680,
+    "as_org": "Telecommunications Regulatory Authority (TRA)",
+    "country_id": "OM",
+    "city": "Seeb",
+    "version": "Unavailable.",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-04-14T08:23:55Z",
+    "created_at": "2026-04-14T08:23:55.051903Z",
+    "available": true
   }
 ]
