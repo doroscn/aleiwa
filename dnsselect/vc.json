@@ -1,6 +1,6 @@
 [
   {
-    "ip": "204.152.80.40",
+    "ip": "204.152.80.13",
     "name": "",
     "as_number": 33582,
     "as_org": "Digicel St.Lucia Ltd",
@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.0457516339869281,
-    "checked_at": "2025-03-24T21:22:29Z",
+    "checked_at": "2026-04-16T09:15:31Z",
     "created_at": "2017-03-18T22:10:01Z",
     "available": true
   },
@@ -25,9 +25,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.3660130718954248,
-    "checked_at": "2025-03-24T21:22:36Z",
+    "checked_at": "2026-04-16T09:15:31Z",
     "created_at": "2017-03-18T22:10:01Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "65.48.141.92",
@@ -40,9 +40,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.3660130718954248,
-    "checked_at": "2025-03-24T21:22:36Z",
+    "checked_at": "2026-04-16T09:15:31Z",
     "created_at": "2017-03-18T22:10:01Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "65.48.142.124",
@@ -55,8 +55,8 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.3660130718954248,
-    "checked_at": "2025-03-24T21:22:36Z",
+    "checked_at": "2026-04-16T09:15:31Z",
     "created_at": "2017-03-18T22:10:01Z",
-    "available": true
+    "available": false
   }
 ]
