@@ -10,12 +10,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.27814029363784665,
-    "checked_at": "2025-03-25T03:34:54Z",
+    "checked_at": "2026-04-17T02:54:03Z",
     "created_at": "2017-02-26T22:59:53Z",
     "available": false
   },
   {
-    "ip": "194.183.65.121",
+    "ip": "194.183.65.226",
     "name": "",
     "as_number": 15433,
     "as_org": "Telecom Italia San Marino S.p.A",
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.27814029363784665,
-    "checked_at": "2025-03-25T03:34:54Z",
+    "checked_at": "2026-04-17T02:54:03Z",
     "created_at": "2017-02-26T22:59:53Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.27814029363784665,
-    "checked_at": "2025-03-25T03:34:54Z",
+    "checked_at": "2026-04-17T02:54:03Z",
     "created_at": "2017-02-26T22:59:53Z",
     "available": true
   },
@@ -55,9 +55,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.27814029363784665,
-    "checked_at": "2025-03-25T03:34:54Z",
+    "checked_at": "2026-04-17T02:54:03Z",
     "created_at": "2017-02-26T22:59:53Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "77.242.213.89",
@@ -70,9 +70,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.27814029363784665,
-    "checked_at": "2025-03-25T03:34:54Z",
+    "checked_at": "2026-04-17T02:54:03Z",
     "created_at": "2017-02-26T22:59:53Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "194.183.74.120",
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-01-16T08:58:53Z",
+    "checked_at": "2026-04-17T02:54:03Z",
     "created_at": "2026-01-16T08:58:53.940258Z",
     "available": true
   },
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-01-16T08:59:14Z",
+    "checked_at": "2026-04-17T02:54:03Z",
     "created_at": "2026-01-16T08:59:14.822678Z",
     "available": true
   }
