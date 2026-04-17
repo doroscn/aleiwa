@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8859649122807017,
-    "checked_at": "2025-03-26T09:26:46Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-04-28T17:25:40.224332Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7401129943502824,
-    "checked_at": "2025-03-26T09:26:49Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-04-28T17:25:42.492897Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8960739030023095,
-    "checked_at": "2025-03-26T09:26:52Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-06-09T14:18:30.640624Z",
     "available": false
   },
@@ -55,9 +55,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8928571428571429,
-    "checked_at": "2025-03-26T09:27:00Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-09-27T05:41:15.932513Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "160.119.221.6",
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:27:07Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-01T22:54:04.024674Z",
     "available": true
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:27:14Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-01T22:59:52.364985Z",
     "available": false
   },
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:27:22Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-01T23:03:37.313522Z",
     "available": true
   },
@@ -115,12 +115,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:27:29Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-01T23:12:21.222867Z",
     "available": true
   },
   {
-    "ip": "169.239.84.134",
+    "ip": "169.239.84.215",
     "name": "",
     "as_number": 327943,
     "as_org": "MEZOBYTE",
@@ -130,12 +130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:27:29Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-01T23:13:19.57506Z",
     "available": true
   },
   {
-    "ip": "160.119.253.10",
+    "ip": "160.119.253.134",
     "name": "",
     "as_number": 328364,
     "as_org": "Host-Africa-AS",
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:27:37Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-01T23:30:15.212719Z",
     "available": true
   },
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:27:44Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-01T23:38:22.137728Z",
     "available": true
   },
@@ -175,12 +175,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:27:52Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-01T23:58:04.380406Z",
     "available": true
   },
   {
-    "ip": "102.22.80.105",
+    "ip": "102.22.80.182",
     "name": "",
     "as_number": 328170,
     "as_org": "DataKeepers",
@@ -190,12 +190,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:27:59Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-02T00:30:20.188243Z",
     "available": true
   },
   {
-    "ip": "102.132.228.244",
+    "ip": "102.132.228.209",
     "name": "njxw-cust.coolideas.co.za.",
     "as_number": 37680,
     "as_org": "COOL-IDEAS",
@@ -205,9 +205,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:28:06Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-02T16:21:18.105874Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "197.81.205.74",
@@ -220,7 +220,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:28:14Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-02T16:41:40.031385Z",
     "available": false
   },
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:28:21Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-02T16:43:46.837609Z",
     "available": false
   },
@@ -250,9 +250,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:28:28Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-02T17:22:22.335401Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "102.221.255.248",
@@ -265,9 +265,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:28:36Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-02T18:01:05.205652Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "105.213.180.181",
@@ -280,7 +280,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:28:43Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-02T18:03:33.326591Z",
     "available": false
   },
@@ -295,12 +295,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9438202247191011,
-    "checked_at": "2025-03-26T09:28:50Z",
+    "checked_at": "2026-04-17T06:10:07Z",
     "created_at": "2021-10-05T16:27:49.519415Z",
     "available": false
   },
   {
-    "ip": "102.68.73.131",
+    "ip": "102.68.73.142",
     "name": "",
     "as_number": 5713,
     "as_org": "SAIX-NET",
@@ -310,12 +310,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:28:58Z",
+    "checked_at": "2026-04-17T06:10:08Z",
     "created_at": "2021-10-14T15:10:48.084814Z",
     "available": true
   },
   {
-    "ip": "197.85.7.11",
+    "ip": "197.85.7.24",
     "name": "tel76.fortanee.com.",
     "as_number": 10474,
     "as_org": "OPTINET",
@@ -325,7 +325,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9601518026565465,
-    "checked_at": "2025-03-26T09:29:05Z",
+    "checked_at": "2026-04-17T06:10:08Z",
     "created_at": "2021-10-18T10:27:22.956306Z",
     "available": true
   },
@@ -340,12 +340,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:29:12Z",
+    "checked_at": "2026-04-17T06:10:08Z",
     "created_at": "2021-10-18T14:36:55.723496Z",
     "available": true
   },
   {
-    "ip": "165.73.232.2",
+    "ip": "165.73.232.254",
     "name": "",
     "as_number": 328237,
     "as_org": "Mega-Max-AS",
@@ -355,12 +355,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:29:20Z",
+    "checked_at": "2026-04-17T06:10:08Z",
     "created_at": "2021-10-18T14:50:08.520122Z",
     "available": true
   },
   {
-    "ip": "196.15.199.126",
+    "ip": "196.15.199.209",
     "name": "",
     "as_number": 5713,
     "as_org": "SAIX-NET",
@@ -370,7 +370,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:29:27Z",
+    "checked_at": "2026-04-17T06:10:08Z",
     "created_at": "2021-10-20T10:08:12.925881Z",
     "available": true
   },
@@ -385,7 +385,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-26T09:29:34Z",
+    "checked_at": "2026-04-17T06:10:08Z",
     "created_at": "2021-10-22T15:20:35.70405Z",
     "available": true
   },
@@ -400,9 +400,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:29:42Z",
+    "checked_at": "2026-04-17T06:10:08Z",
     "created_at": "2021-10-26T06:17:48.617205Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.162.108.210",
@@ -415,7 +415,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:29:49Z",
+    "checked_at": "2026-04-17T06:10:10Z",
     "created_at": "2021-10-26T15:54:01.748354Z",
     "available": true
   },
@@ -430,9 +430,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8802816901408451,
-    "checked_at": "2025-03-26T09:29:56Z",
+    "checked_at": "2026-04-17T06:10:11Z",
     "created_at": "2021-11-01T06:29:52.185771Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.170.65.40",
@@ -445,7 +445,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.759481961147086,
-    "checked_at": "2025-03-26T09:30:00Z",
+    "checked_at": "2026-04-17T06:10:11Z",
     "created_at": "2021-11-07T08:10:21.348278Z",
     "available": false
   },
@@ -460,7 +460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:30:07Z",
+    "checked_at": "2026-04-17T06:10:24Z",
     "created_at": "2021-11-09T07:36:46.316561Z",
     "available": false
   },
@@ -475,7 +475,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:30:14Z",
+    "checked_at": "2026-04-17T06:10:26Z",
     "created_at": "2022-09-28T22:01:29.766072Z",
     "available": true
   },
@@ -490,7 +490,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:30:22Z",
+    "checked_at": "2026-04-17T06:10:26Z",
     "created_at": "2022-09-29T01:23:29.165606Z",
     "available": false
   },
@@ -505,9 +505,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:30:29Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-09-29T16:12:44.838442Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "102.66.234.78",
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:30:36Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-09-29T16:16:52.670671Z",
     "available": false
   },
@@ -535,12 +535,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9904761904761905,
-    "checked_at": "2025-03-26T09:30:44Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-09-30T03:17:11.28842Z",
     "available": true
   },
   {
-    "ip": "41.193.214.206",
+    "ip": "41.193.214.198",
     "name": "",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -550,7 +550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:30:44Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-09-30T03:47:27.736386Z",
     "available": true
   },
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:30:52Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-09-30T06:32:46.844101Z",
     "available": false
   },
@@ -580,12 +580,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.45454545454545453,
-    "checked_at": "2025-03-26T09:30:59Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-09-30T14:29:25.743514Z",
     "available": false
   },
   {
-    "ip": "102.182.95.206",
+    "ip": "102.182.95.30",
     "name": "102-182-95-93.ip.afrihost.joburg.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -595,7 +595,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:31:06Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-10-01T23:36:49.122048Z",
     "available": true
   },
@@ -610,7 +610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:31:14Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-10-02T03:35:01.004542Z",
     "available": true
   },
@@ -625,12 +625,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:31:21Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-10-02T07:59:06.625133Z",
     "available": false
   },
   {
-    "ip": "102.216.74.209",
+    "ip": "102.216.74.27",
     "name": "",
     "as_number": 329028,
     "as_org": "RNL1-AS",
@@ -640,7 +640,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:31:28Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-10-02T11:33:23.62033Z",
     "available": true
   },
@@ -655,7 +655,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:31:36Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-10-02T12:10:14.210072Z",
     "available": false
   },
@@ -670,7 +670,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:31:43Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-10-02T17:17:59.669936Z",
     "available": true
   },
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9473684210526315,
-    "checked_at": "2025-03-26T09:31:45Z",
+    "checked_at": "2026-04-17T06:10:27Z",
     "created_at": "2022-10-02T19:11:30.402062Z",
     "available": false
   },
@@ -700,7 +700,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9634551495016611,
-    "checked_at": "2025-03-26T09:31:52Z",
+    "checked_at": "2026-04-17T06:10:28Z",
     "created_at": "2022-10-04T11:14:51.870955Z",
     "available": false
   },
@@ -715,12 +715,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8958333333333334,
-    "checked_at": "2025-03-26T09:31:59Z",
+    "checked_at": "2026-04-17T06:10:28Z",
     "created_at": "2022-10-04T11:46:40.888286Z",
     "available": true
   },
   {
-    "ip": "154.117.129.10",
+    "ip": "154.117.129.134",
     "name": "10-129-117-154.bitcointernet.co.za.",
     "as_number": 37358,
     "as_org": "BITCO",
@@ -730,12 +730,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7717717717717718,
-    "checked_at": "2025-03-26T09:32:07Z",
+    "checked_at": "2026-04-17T06:10:28Z",
     "created_at": "2022-10-04T13:32:05.143017Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "192.143.230.163",
+    "ip": "192.143.230.98",
     "name": "192-143-230-163.ip.airmobile.co.za.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -745,9 +745,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:32:14Z",
+    "checked_at": "2026-04-17T06:10:28Z",
     "created_at": "2022-10-04T14:35:53.796988Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "41.23.184.125",
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9325842696629213,
-    "checked_at": "2025-03-26T09:32:21Z",
+    "checked_at": "2026-04-17T06:10:29Z",
     "created_at": "2022-10-04T17:01:56.014075Z",
     "available": true
   },
@@ -775,7 +775,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8284671532846716,
-    "checked_at": "2025-03-26T09:32:22Z",
+    "checked_at": "2026-04-17T06:10:29Z",
     "created_at": "2022-10-11T04:34:31.494078Z",
     "available": false
   },
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:32:29Z",
+    "checked_at": "2026-04-17T06:10:29Z",
     "created_at": "2022-10-12T10:06:28.710138Z",
     "available": false
   },
@@ -805,7 +805,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.936986301369863,
-    "checked_at": "2025-03-26T09:32:34Z",
+    "checked_at": "2026-04-17T06:10:29Z",
     "created_at": "2022-10-13T09:16:41.300232Z",
     "available": true
   },
@@ -820,7 +820,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:32:34Z",
+    "checked_at": "2026-04-17T06:10:30Z",
     "created_at": "2022-10-14T03:17:21.771994Z",
     "available": true
   },
@@ -835,7 +835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9896907216494846,
-    "checked_at": "2025-03-26T09:32:42Z",
+    "checked_at": "2026-04-17T06:10:30Z",
     "created_at": "2022-10-14T23:39:40.371244Z",
     "available": true
   },
@@ -850,9 +850,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:32:42Z",
+    "checked_at": "2026-04-17T06:10:30Z",
     "created_at": "2022-10-15T01:59:07.865347Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "102.164.12.43",
@@ -865,12 +865,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:32:43Z",
+    "checked_at": "2026-04-17T06:10:30Z",
     "created_at": "2022-10-15T19:16:28.005628Z",
     "available": false
   },
   {
-    "ip": "102.222.31.1",
+    "ip": "102.222.31.65",
     "name": "",
     "as_number": 327817,
     "as_org": "LADYSMITH-WIRELESS-SOLUTIONS",
@@ -880,12 +880,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9333333333333333,
-    "checked_at": "2025-03-26T09:32:50Z",
+    "checked_at": "2026-04-17T06:10:31Z",
     "created_at": "2022-10-16T01:08:11.265452Z",
     "available": true
   },
   {
-    "ip": "197.234.27.134",
+    "ip": "197.234.27.3",
     "name": "",
     "as_number": 37239,
     "as_org": "ICTGLOBE",
@@ -895,12 +895,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:32:58Z",
+    "checked_at": "2026-04-17T06:10:41Z",
     "created_at": "2022-10-16T13:53:17.205032Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "105.243.179.214",
+    "ip": "105.243.179.104",
     "name": "vc-gp-n-105-243-179-214.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -910,7 +910,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:33:05Z",
+    "checked_at": "2026-04-17T06:10:42Z",
     "created_at": "2022-10-17T14:08:53.750874Z",
     "available": true
   },
@@ -925,12 +925,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:33:06Z",
+    "checked_at": "2026-04-17T06:10:44Z",
     "created_at": "2022-10-17T21:06:58.518711Z",
     "available": true
   },
   {
-    "ip": "129.232.201.225",
+    "ip": "129.232.201.102",
     "name": "",
     "as_number": 37153,
     "as_org": "xneelo",
@@ -940,7 +940,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:33:10Z",
+    "checked_at": "2026-04-17T06:10:44Z",
     "created_at": "2022-10-17T21:18:07.175156Z",
     "available": true
   },
@@ -955,7 +955,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:33:11Z",
+    "checked_at": "2026-04-17T06:10:45Z",
     "created_at": "2022-10-17T22:27:15.60101Z",
     "available": false
   },
@@ -970,7 +970,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:33:18Z",
+    "checked_at": "2026-04-17T06:10:45Z",
     "created_at": "2022-10-17T22:32:32.925015Z",
     "available": true
   },
@@ -985,12 +985,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9234234234234234,
-    "checked_at": "2025-03-26T09:33:25Z",
+    "checked_at": "2026-04-17T06:10:45Z",
     "created_at": "2022-10-18T06:21:57.57885Z",
     "available": false
   },
   {
-    "ip": "156.38.141.125",
+    "ip": "156.38.141.10",
     "name": "28.141.38.156.reverse.xneelo.net.",
     "as_number": 37153,
     "as_org": "xneelo",
@@ -1000,7 +1000,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:33:33Z",
+    "checked_at": "2026-04-17T06:10:45Z",
     "created_at": "2022-10-18T18:17:24.941878Z",
     "available": true
   },
@@ -1015,12 +1015,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:33:40Z",
+    "checked_at": "2026-04-17T06:10:45Z",
     "created_at": "2022-10-19T14:05:43.97716Z",
     "available": true
   },
   {
-    "ip": "160.19.196.141",
+    "ip": "160.19.196.124",
     "name": "undefined.hostname.localhost.",
     "as_number": 37542,
     "as_org": "Iclix-CC",
@@ -1030,7 +1030,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8148148148148148,
-    "checked_at": "2025-03-26T09:33:47Z",
+    "checked_at": "2026-04-17T06:10:45Z",
     "created_at": "2022-10-19T14:52:36.789746Z",
     "available": true
   },
@@ -1045,12 +1045,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:33:51Z",
+    "checked_at": "2026-04-17T06:10:46Z",
     "created_at": "2022-10-19T20:47:24.640343Z",
     "available": false
   },
   {
-    "ip": "196.216.133.112",
+    "ip": "196.216.133.1",
     "name": "",
     "as_number": 328471,
     "as_org": "Hero-Telecoms",
@@ -1060,7 +1060,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:33:58Z",
+    "checked_at": "2026-04-17T06:10:46Z",
     "created_at": "2022-10-19T21:59:09.184423Z",
     "available": true
   },
@@ -1075,9 +1075,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.25196850393700787,
-    "checked_at": "2025-03-26T09:34:05Z",
+    "checked_at": "2026-04-17T06:10:46Z",
     "created_at": "2022-10-20T01:01:50.983008Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.23.113.130",
@@ -1090,7 +1090,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:34:09Z",
+    "checked_at": "2026-04-17T06:10:46Z",
     "created_at": "2022-10-20T10:35:24.173565Z",
     "available": true
   },
@@ -1105,12 +1105,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9,
-    "checked_at": "2025-03-26T09:34:10Z",
+    "checked_at": "2026-04-17T06:10:46Z",
     "created_at": "2022-10-20T19:11:59.416645Z",
     "available": true
   },
   {
-    "ip": "196.214.51.33",
+    "ip": "196.214.51.97",
     "name": "",
     "as_number": 3741,
     "as_org": "IS",
@@ -1120,7 +1120,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:34:18Z",
+    "checked_at": "2026-04-17T06:10:46Z",
     "created_at": "2022-10-21T03:27:59.29299Z",
     "available": true
   },
@@ -1135,7 +1135,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:34:19Z",
+    "checked_at": "2026-04-17T06:10:46Z",
     "created_at": "2022-10-21T09:25:21.56555Z",
     "available": true
   },
@@ -1150,12 +1150,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:34:19Z",
+    "checked_at": "2026-04-17T06:10:46Z",
     "created_at": "2022-10-21T11:48:51.206587Z",
     "available": false
   },
   {
-    "ip": "105.208.6.237",
+    "ip": "105.208.6.249",
     "name": "",
     "as_number": 16637,
     "as_org": "MTN Business Solutions",
@@ -1165,7 +1165,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:34:26Z",
+    "checked_at": "2026-04-17T06:10:46Z",
     "created_at": "2022-10-22T04:31:48.704289Z",
     "available": true
   },
@@ -1180,7 +1180,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:34:34Z",
+    "checked_at": "2026-04-17T06:10:46Z",
     "created_at": "2022-10-22T08:32:32.420527Z",
     "available": true
   },
@@ -1195,7 +1195,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:34:34Z",
+    "checked_at": "2026-04-17T06:10:47Z",
     "created_at": "2022-10-22T23:03:56.705187Z",
     "available": false
   },
@@ -1210,12 +1210,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:34:42Z",
+    "checked_at": "2026-04-17T06:10:47Z",
     "created_at": "2022-10-23T14:24:14.462276Z",
     "available": true
   },
   {
-    "ip": "105.30.56.121",
+    "ip": "105.30.56.161",
     "name": "",
     "as_number": 37100,
     "as_org": "SEACOM-AS",
@@ -1225,12 +1225,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:34:42Z",
+    "checked_at": "2026-04-17T06:10:47Z",
     "created_at": "2022-10-23T22:39:31.344695Z",
     "available": true
   },
   {
-    "ip": "41.23.113.113",
+    "ip": "41.23.113.1",
     "name": "vc-41-23-113-113.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -1240,7 +1240,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:34:50Z",
+    "checked_at": "2026-04-17T06:10:47Z",
     "created_at": "2022-10-24T02:56:22.588855Z",
     "available": true
   },
@@ -1255,7 +1255,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.792,
-    "checked_at": "2025-03-26T09:34:53Z",
+    "checked_at": "2026-04-17T06:10:47Z",
     "created_at": "2022-10-24T11:20:44.560949Z",
     "available": false
   },
@@ -1270,7 +1270,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.2413793103448276,
-    "checked_at": "2025-03-26T09:35:00Z",
+    "checked_at": "2026-04-17T06:10:48Z",
     "created_at": "2022-10-24T13:17:15.565236Z",
     "available": false
   },
@@ -1285,12 +1285,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:35:08Z",
+    "checked_at": "2026-04-17T06:10:48Z",
     "created_at": "2022-10-24T21:15:10.775742Z",
     "available": true
   },
   {
-    "ip": "102.141.127.250",
+    "ip": "102.141.127.226",
     "name": "",
     "as_number": 328323,
     "as_org": "Brilliant-Telco-AS",
@@ -1300,7 +1300,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:35:15Z",
+    "checked_at": "2026-04-17T06:10:49Z",
     "created_at": "2022-10-24T21:39:51.150175Z",
     "available": true
   },
@@ -1315,7 +1315,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7967914438502673,
-    "checked_at": "2025-03-26T09:35:22Z",
+    "checked_at": "2026-04-17T06:10:51Z",
     "created_at": "2022-10-24T22:58:43.246885Z",
     "available": true
   },
@@ -1330,9 +1330,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:35:27Z",
+    "checked_at": "2026-04-17T06:10:52Z",
     "created_at": "2022-10-25T02:38:10.905573Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "160.0.192.33",
@@ -1345,7 +1345,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:35:34Z",
+    "checked_at": "2026-04-17T06:10:59Z",
     "created_at": "2022-10-26T00:13:28.150524Z",
     "available": true
   },
@@ -1360,7 +1360,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:35:42Z",
+    "checked_at": "2026-04-17T06:11:01Z",
     "created_at": "2022-10-26T01:58:28.943112Z",
     "available": true
   },
@@ -1375,12 +1375,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:35:49Z",
+    "checked_at": "2026-04-17T06:11:02Z",
     "created_at": "2022-10-26T14:42:09.857687Z",
     "available": true
   },
   {
-    "ip": "197.245.81.131",
+    "ip": "197.245.81.83",
     "name": "dsl-197-245-81-4.voxdsl.co.za.",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -1390,7 +1390,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:35:52Z",
+    "checked_at": "2026-04-17T06:11:03Z",
     "created_at": "2022-10-28T05:24:13.465364Z",
     "available": true
   },
@@ -1405,7 +1405,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:36:00Z",
+    "checked_at": "2026-04-17T06:11:03Z",
     "created_at": "2022-10-28T06:10:48.633058Z",
     "available": true
   },
@@ -1420,12 +1420,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2025-03-26T09:36:07Z",
+    "checked_at": "2026-04-17T06:11:03Z",
     "created_at": "2022-10-28T22:25:26.301121Z",
     "available": false
   },
   {
-    "ip": "41.23.114.95",
+    "ip": "41.23.114.1",
     "name": "vc-41-23-114-95.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -1435,12 +1435,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9975609756097561,
-    "checked_at": "2025-03-26T09:36:12Z",
+    "checked_at": "2026-04-17T06:11:03Z",
     "created_at": "2022-10-29T06:32:42.921647Z",
     "available": true
   },
   {
-    "ip": "197.221.186.59",
+    "ip": "197.221.186.101",
     "name": "197-221-186-59.sainet.co.za.",
     "as_number": 37356,
     "as_org": "Huge-Networks",
@@ -1450,12 +1450,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:36:12Z",
+    "checked_at": "2026-04-17T06:11:03Z",
     "created_at": "2022-10-29T12:11:07.728971Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "102.39.111.140",
+    "ip": "102.39.111.169",
     "name": "",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -1465,7 +1465,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:36:20Z",
+    "checked_at": "2026-04-17T06:11:03Z",
     "created_at": "2022-10-29T14:06:07.363575Z",
     "available": true
   },
@@ -1480,12 +1480,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:36:27Z",
+    "checked_at": "2026-04-17T06:11:03Z",
     "created_at": "2022-10-30T01:10:18.981889Z",
     "available": true
   },
   {
-    "ip": "102.216.74.209",
+    "ip": "102.216.74.27",
     "name": "",
     "as_number": 329028,
     "as_org": "RNL1-AS",
@@ -1495,12 +1495,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7757847533632287,
-    "checked_at": "2025-03-26T09:36:34Z",
+    "checked_at": "2026-04-17T06:11:04Z",
     "created_at": "2022-10-30T13:57:50.163379Z",
     "available": true
   },
   {
-    "ip": "41.203.37.25",
+    "ip": "41.203.37.119",
     "name": "",
     "as_number": 36968,
     "as_org": "ECN Telecommunications",
@@ -1510,7 +1510,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8653846153846154,
-    "checked_at": "2025-03-26T09:36:42Z",
+    "checked_at": "2026-04-17T06:11:04Z",
     "created_at": "2022-10-30T15:43:13.300779Z",
     "available": true
   },
@@ -1525,12 +1525,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6485355648535565,
-    "checked_at": "2025-03-26T09:36:49Z",
+    "checked_at": "2026-04-17T06:11:04Z",
     "created_at": "2022-11-03T11:01:35.120513Z",
     "available": true
   },
   {
-    "ip": "102.221.14.135",
+    "ip": "102.221.14.35",
     "name": "102-221-14-145.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -1540,9 +1540,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9818181818181818,
-    "checked_at": "2025-03-26T09:36:56Z",
+    "checked_at": "2026-04-17T06:11:04Z",
     "created_at": "2022-11-03T20:30:20.630885Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "156.155.201.126",
@@ -1555,7 +1555,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9369266055045872,
-    "checked_at": "2025-03-26T09:37:04Z",
+    "checked_at": "2026-04-17T06:11:04Z",
     "created_at": "2022-11-04T04:51:52.119746Z",
     "available": false
   },
@@ -1570,12 +1570,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:37:11Z",
+    "checked_at": "2026-04-17T06:11:04Z",
     "created_at": "2022-11-04T07:55:07.329015Z",
     "available": false
   },
   {
-    "ip": "102.182.132.159",
+    "ip": "102.182.132.204",
     "name": "102-182-132-231.ip.afrihost.capetown.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -1585,12 +1585,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:37:18Z",
+    "checked_at": "2026-04-17T06:11:04Z",
     "created_at": "2022-11-04T19:47:27.084955Z",
     "available": true
   },
   {
-    "ip": "41.157.64.118",
+    "ip": "41.157.64.200",
     "name": "",
     "as_number": 37168,
     "as_org": "CELL-C",
@@ -1600,7 +1600,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4444444444444444,
-    "checked_at": "2025-03-26T09:37:26Z",
+    "checked_at": "2026-04-17T06:11:05Z",
     "created_at": "2022-11-05T09:27:33.572576Z",
     "available": true
   },
@@ -1615,7 +1615,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:37:29Z",
+    "checked_at": "2026-04-17T06:11:05Z",
     "created_at": "2022-11-06T14:36:43.427342Z",
     "available": true
   },
@@ -1630,7 +1630,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:37:32Z",
+    "checked_at": "2026-04-17T06:11:05Z",
     "created_at": "2022-11-08T03:35:06.3399Z",
     "available": false
   },
@@ -1645,7 +1645,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8153153153153153,
-    "checked_at": "2025-03-26T09:37:40Z",
+    "checked_at": "2026-04-17T06:11:05Z",
     "created_at": "2022-11-08T06:48:52.031399Z",
     "available": true
   },
@@ -1660,12 +1660,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.989010989010989,
-    "checked_at": "2025-03-26T09:37:47Z",
+    "checked_at": "2026-04-17T06:11:05Z",
     "created_at": "2022-11-09T06:06:55.634279Z",
     "available": true
   },
   {
-    "ip": "160.19.196.126",
+    "ip": "160.19.196.124",
     "name": "undefined.hostname.localhost.",
     "as_number": 37542,
     "as_org": "Iclix-CC",
@@ -1675,7 +1675,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8947368421052632,
-    "checked_at": "2025-03-26T09:37:48Z",
+    "checked_at": "2026-04-17T06:11:05Z",
     "created_at": "2022-11-09T09:15:00.597893Z",
     "available": true
   },
@@ -1690,7 +1690,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.967741935483871,
-    "checked_at": "2025-03-26T09:37:52Z",
+    "checked_at": "2026-04-17T06:11:06Z",
     "created_at": "2022-11-09T12:49:29.486363Z",
     "available": false
   },
@@ -1705,7 +1705,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:37:59Z",
+    "checked_at": "2026-04-17T06:11:06Z",
     "created_at": "2022-11-09T13:03:22.977725Z",
     "available": true
   },
@@ -1720,7 +1720,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8055555555555556,
-    "checked_at": "2025-03-26T09:38:00Z",
+    "checked_at": "2026-04-17T06:11:06Z",
     "created_at": "2022-11-09T23:38:11.42161Z",
     "available": true
   },
@@ -1735,7 +1735,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:38:08Z",
+    "checked_at": "2026-04-17T06:11:06Z",
     "created_at": "2022-11-10T11:15:29.894422Z",
     "available": true
   },
@@ -1750,7 +1750,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9736842105263158,
-    "checked_at": "2025-03-26T09:38:12Z",
+    "checked_at": "2026-04-17T06:11:07Z",
     "created_at": "2022-11-10T15:35:50.092569Z",
     "available": false
   },
@@ -1765,9 +1765,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:38:19Z",
+    "checked_at": "2026-04-17T06:11:07Z",
     "created_at": "2022-11-10T21:23:11.500562Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "156.38.200.234",
@@ -1780,12 +1780,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:38:27Z",
+    "checked_at": "2026-04-17T06:11:07Z",
     "created_at": "2022-11-11T12:39:59.429166Z",
     "available": true
   },
   {
-    "ip": "168.253.200.70",
+    "ip": "168.253.200.146",
     "name": "168.253.200.70.voconnect.co.za.",
     "as_number": 37276,
     "as_org": "VOFFICE",
@@ -1795,9 +1795,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9047619047619048,
-    "checked_at": "2025-03-26T09:38:34Z",
+    "checked_at": "2026-04-17T06:11:07Z",
     "created_at": "2022-11-12T02:10:56.670907Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "169.0.228.138",
@@ -1810,9 +1810,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:38:42Z",
+    "checked_at": "2026-04-17T06:11:08Z",
     "created_at": "2022-11-12T07:50:31.451272Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "102.164.8.218",
@@ -1825,12 +1825,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:38:49Z",
+    "checked_at": "2026-04-17T06:11:08Z",
     "created_at": "2022-11-12T07:51:17.561371Z",
     "available": false
   },
   {
-    "ip": "197.245.211.137",
+    "ip": "197.245.211.123",
     "name": "dsl-197-245-211-118.voxdsl.co.za.",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -1840,7 +1840,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9333333333333333,
-    "checked_at": "2025-03-26T09:38:56Z",
+    "checked_at": "2026-04-17T06:11:18Z",
     "created_at": "2022-11-12T10:35:15.63055Z",
     "available": true
   },
@@ -1855,9 +1855,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:39:01Z",
+    "checked_at": "2026-04-17T06:11:21Z",
     "created_at": "2022-11-12T13:13:24.646222Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "197.245.22.186",
@@ -1870,12 +1870,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:39:08Z",
+    "checked_at": "2026-04-17T06:11:20Z",
     "created_at": "2022-11-13T06:01:39.603109Z",
     "available": false
   },
   {
-    "ip": "41.23.184.182",
+    "ip": "41.23.184.102",
     "name": "vc-41-23-184-182.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -1885,7 +1885,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:39:15Z",
+    "checked_at": "2026-04-17T06:11:22Z",
     "created_at": "2022-11-13T08:15:41.70345Z",
     "available": true
   },
@@ -1900,12 +1900,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:39:17Z",
+    "checked_at": "2026-04-17T06:11:22Z",
     "created_at": "2022-11-13T20:42:51.703442Z",
     "available": true
   },
   {
-    "ip": "102.221.14.176",
+    "ip": "102.221.14.35",
     "name": "102-221-14-176.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -1915,12 +1915,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.965034965034965,
-    "checked_at": "2025-03-26T09:39:24Z",
+    "checked_at": "2026-04-17T06:11:22Z",
     "created_at": "2022-11-14T10:27:48.058015Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "154.0.170.132",
+    "ip": "154.0.170.218",
     "name": "pewpew.dedicated.co.za.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -1930,7 +1930,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:39:32Z",
+    "checked_at": "2026-04-17T06:11:22Z",
     "created_at": "2022-11-15T01:15:47.074856Z",
     "available": true
   },
@@ -1945,7 +1945,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7314629258517034,
-    "checked_at": "2025-03-26T09:39:33Z",
+    "checked_at": "2026-04-17T06:11:22Z",
     "created_at": "2022-11-15T20:54:13.032438Z",
     "available": false
   },
@@ -1960,12 +1960,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:39:40Z",
+    "checked_at": "2026-04-17T06:11:22Z",
     "created_at": "2022-11-16T23:52:36.961708Z",
     "available": false
   },
   {
-    "ip": "105.243.203.216",
+    "ip": "105.243.203.171",
     "name": "vc-gp-n-105-243-203-216.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -1975,7 +1975,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:39:48Z",
+    "checked_at": "2026-04-17T06:11:23Z",
     "created_at": "2022-11-17T06:27:32.057908Z",
     "available": true
   },
@@ -1990,7 +1990,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:39:48Z",
+    "checked_at": "2026-04-17T06:11:23Z",
     "created_at": "2022-11-17T10:02:05.0198Z",
     "available": true
   },
@@ -2005,9 +2005,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:39:49Z",
+    "checked_at": "2026-04-17T06:11:23Z",
     "created_at": "2022-11-17T22:10:51.988071Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.193.149.134",
@@ -2020,9 +2020,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:39:50Z",
+    "checked_at": "2026-04-17T06:11:23Z",
     "created_at": "2022-11-19T00:36:47.145189Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "102.33.41.30",
@@ -2035,12 +2035,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9926686217008798,
-    "checked_at": "2025-03-26T09:39:57Z",
+    "checked_at": "2026-04-17T06:11:23Z",
     "created_at": "2022-11-20T18:13:38.081688Z",
     "available": false
   },
   {
-    "ip": "102.22.81.114",
+    "ip": "102.22.81.11",
     "name": "",
     "as_number": 328170,
     "as_org": "DataKeepers",
@@ -2050,7 +2050,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:40:02Z",
+    "checked_at": "2026-04-17T06:11:23Z",
     "created_at": "2022-11-20T18:27:03.692565Z",
     "available": true
   },
@@ -2065,7 +2065,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7368421052631579,
-    "checked_at": "2025-03-26T09:40:02Z",
+    "checked_at": "2026-04-17T06:11:23Z",
     "created_at": "2022-11-21T13:17:25.931422Z",
     "available": true
   },
@@ -2080,7 +2080,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9411764705882353,
-    "checked_at": "2025-03-26T09:40:10Z",
+    "checked_at": "2026-04-17T06:11:24Z",
     "created_at": "2022-11-21T17:15:06.991176Z",
     "available": false
   },
@@ -2095,7 +2095,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:40:17Z",
+    "checked_at": "2026-04-17T06:11:24Z",
     "created_at": "2022-11-21T19:28:05.851428Z",
     "available": false
   },
@@ -2110,7 +2110,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:40:24Z",
+    "checked_at": "2026-04-17T06:11:25Z",
     "created_at": "2022-11-22T05:17:04.562004Z",
     "available": false
   },
@@ -2125,7 +2125,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9629629629629629,
-    "checked_at": "2025-03-26T09:40:32Z",
+    "checked_at": "2026-04-17T06:11:25Z",
     "created_at": "2022-11-22T09:33:12.371832Z",
     "available": false
   },
@@ -2140,12 +2140,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9038461538461539,
-    "checked_at": "2025-03-26T09:40:39Z",
+    "checked_at": "2026-04-17T06:11:25Z",
     "created_at": "2022-11-23T07:17:18.061108Z",
     "available": true
   },
   {
-    "ip": "105.243.179.103",
+    "ip": "105.243.179.104",
     "name": "vc-gp-n-105-243-179-77.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -2155,7 +2155,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:40:40Z",
+    "checked_at": "2026-04-17T06:11:26Z",
     "created_at": "2022-11-24T02:38:24.351188Z",
     "available": true
   },
@@ -2170,7 +2170,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:40:47Z",
+    "checked_at": "2026-04-17T06:11:26Z",
     "created_at": "2022-11-24T12:52:22.450499Z",
     "available": true
   },
@@ -2185,7 +2185,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5014084507042254,
-    "checked_at": "2025-03-26T09:40:48Z",
+    "checked_at": "2026-04-17T06:11:27Z",
     "created_at": "2022-11-25T07:40:09.526195Z",
     "available": true
   },
@@ -2200,7 +2200,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8921568627450981,
-    "checked_at": "2025-03-26T09:40:55Z",
+    "checked_at": "2026-04-17T06:11:30Z",
     "created_at": "2022-11-28T04:21:12.999872Z",
     "available": true
   },
@@ -2215,7 +2215,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9967948717948718,
-    "checked_at": "2025-03-26T09:41:02Z",
+    "checked_at": "2026-04-17T06:11:33Z",
     "created_at": "2022-11-30T04:42:29.242761Z",
     "available": true
   },
@@ -2230,7 +2230,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:41:04Z",
+    "checked_at": "2026-04-17T06:11:33Z",
     "created_at": "2022-11-30T10:27:57.530044Z",
     "available": true
   },
@@ -2245,12 +2245,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:41:04Z",
+    "checked_at": "2026-04-17T06:11:35Z",
     "created_at": "2022-12-01T08:49:44.81118Z",
     "available": false
   },
   {
-    "ip": "41.185.24.117",
+    "ip": "41.185.24.220",
     "name": "jointuress.com.",
     "as_number": 36943,
     "as_org": "ZA-1-Grid",
@@ -2260,12 +2260,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:41:12Z",
+    "checked_at": "2026-04-17T06:11:36Z",
     "created_at": "2022-12-03T23:32:52.752166Z",
     "available": true
   },
   {
-    "ip": "102.221.14.220",
+    "ip": "102.221.14.35",
     "name": "102-221-14-220.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -2275,9 +2275,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:41:12Z",
+    "checked_at": "2026-04-17T06:11:36Z",
     "created_at": "2022-12-04T14:14:44.433821Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "169.255.228.106",
@@ -2290,12 +2290,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.967741935483871,
-    "checked_at": "2025-03-26T09:41:20Z",
+    "checked_at": "2026-04-17T06:11:38Z",
     "created_at": "2022-12-05T10:50:32.297253Z",
     "available": true
   },
   {
-    "ip": "105.244.179.78",
+    "ip": "105.244.179.103",
     "name": "vc-gp-n-105-244-179-78.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -2305,7 +2305,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:41:27Z",
+    "checked_at": "2026-04-17T06:11:38Z",
     "created_at": "2022-12-07T16:11:04.971833Z",
     "available": true
   },
@@ -2320,7 +2320,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9520958083832335,
-    "checked_at": "2025-03-26T09:41:27Z",
+    "checked_at": "2026-04-17T06:11:38Z",
     "created_at": "2022-12-07T17:05:16.464159Z",
     "available": false
   },
@@ -2335,7 +2335,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7684210526315789,
-    "checked_at": "2025-03-26T09:41:32Z",
+    "checked_at": "2026-04-17T06:11:39Z",
     "created_at": "2022-12-08T06:06:51.856883Z",
     "available": true
   },
@@ -2350,7 +2350,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:41:33Z",
+    "checked_at": "2026-04-17T06:11:39Z",
     "created_at": "2022-12-09T05:24:50.350322Z",
     "available": false
   },
@@ -2365,7 +2365,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8064516129032258,
-    "checked_at": "2025-03-26T09:41:40Z",
+    "checked_at": "2026-04-17T06:11:39Z",
     "created_at": "2022-12-10T23:43:19.285575Z",
     "available": true
   },
@@ -2380,7 +2380,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9512195121951219,
-    "checked_at": "2025-03-26T09:41:41Z",
+    "checked_at": "2026-04-17T06:11:39Z",
     "created_at": "2022-12-14T09:43:45.47058Z",
     "available": true
   },
@@ -2395,7 +2395,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8484848484848485,
-    "checked_at": "2025-03-26T09:41:48Z",
+    "checked_at": "2026-04-17T06:11:39Z",
     "created_at": "2022-12-14T10:58:11.251898Z",
     "available": true
   },
@@ -2410,12 +2410,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7857142857142857,
-    "checked_at": "2025-03-26T09:41:53Z",
+    "checked_at": "2026-04-17T06:11:39Z",
     "created_at": "2022-12-14T13:57:11.15003Z",
     "available": true
   },
   {
-    "ip": "41.185.10.153",
+    "ip": "41.185.10.102",
     "name": "",
     "as_number": 36943,
     "as_org": "ZA-1-Grid",
@@ -2425,12 +2425,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:42:00Z",
+    "checked_at": "2026-04-17T06:11:39Z",
     "created_at": "2022-12-16T09:50:18.75748Z",
     "available": true
   },
   {
-    "ip": "154.119.166.213",
+    "ip": "154.119.166.150",
     "name": "",
     "as_number": 36968,
     "as_org": "ECN Telecommunications",
@@ -2440,7 +2440,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8846153846153846,
-    "checked_at": "2025-03-26T09:42:01Z",
+    "checked_at": "2026-04-17T06:11:39Z",
     "created_at": "2022-12-17T17:58:25.661622Z",
     "available": true
   },
@@ -2455,12 +2455,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.908256880733945,
-    "checked_at": "2025-03-26T09:42:01Z",
+    "checked_at": "2026-04-17T06:11:40Z",
     "created_at": "2022-12-17T18:33:59.217403Z",
     "available": true
   },
   {
-    "ip": "165.73.224.104",
+    "ip": "165.73.224.15",
     "name": "",
     "as_number": 328747,
     "as_org": "Wan4u",
@@ -2470,7 +2470,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5925925925925926,
-    "checked_at": "2025-03-26T09:42:08Z",
+    "checked_at": "2026-04-17T06:11:40Z",
     "created_at": "2022-12-18T03:58:58.056082Z",
     "available": true
   },
@@ -2485,7 +2485,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8387096774193549,
-    "checked_at": "2025-03-26T09:42:16Z",
+    "checked_at": "2026-04-17T06:11:40Z",
     "created_at": "2022-12-18T21:08:49.818662Z",
     "available": true
   },
@@ -2500,7 +2500,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:42:23Z",
+    "checked_at": "2026-04-17T06:11:40Z",
     "created_at": "2022-12-19T23:03:36.47459Z",
     "available": false
   },
@@ -2515,7 +2515,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9166666666666666,
-    "checked_at": "2025-03-26T09:42:31Z",
+    "checked_at": "2026-04-17T06:11:40Z",
     "created_at": "2022-12-20T07:36:50.307215Z",
     "available": false
   },
@@ -2530,12 +2530,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-26T09:42:38Z",
+    "checked_at": "2026-04-17T06:11:40Z",
     "created_at": "2022-12-20T08:24:25.18767Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "102.36.123.181",
+    "ip": "102.36.123.28",
     "name": "102-36-123-181.clearaccess.co.za.",
     "as_number": 327794,
     "as_org": "CLEAR-ACCESS",
@@ -2545,12 +2545,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6756756756756757,
-    "checked_at": "2025-03-26T09:42:45Z",
+    "checked_at": "2026-04-17T06:11:40Z",
     "created_at": "2022-12-20T13:11:27.176682Z",
     "available": true
   },
   {
-    "ip": "102.221.14.99",
+    "ip": "102.221.14.37",
     "name": "102-221-14-99.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -2560,12 +2560,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9988344988344988,
-    "checked_at": "2025-03-26T09:42:49Z",
+    "checked_at": "2026-04-17T06:11:41Z",
     "created_at": "2022-12-20T13:22:05.541086Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "105.184.161.65",
+    "ip": "105.184.161.110",
     "name": "105-184-161-65.south.dsl.telkomsa.net.",
     "as_number": 37457,
     "as_org": "Telkom-Internet",
@@ -2575,12 +2575,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9154929577464789,
-    "checked_at": "2025-03-26T09:42:56Z",
+    "checked_at": "2026-04-17T06:11:41Z",
     "created_at": "2022-12-21T06:32:31.920714Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "102.23.194.114",
+    "ip": "102.23.194.108",
     "name": "",
     "as_number": 328548,
     "as_org": "TOUCHNET-TELECOMMUNICATIONS-AS",
@@ -2590,12 +2590,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8636363636363636,
-    "checked_at": "2025-03-26T09:43:03Z",
+    "checked_at": "2026-04-17T06:11:41Z",
     "created_at": "2022-12-21T21:36:12.822724Z",
     "available": true
   },
   {
-    "ip": "102.221.14.18",
+    "ip": "102.221.14.35",
     "name": "102-221-14-18.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -2605,9 +2605,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:43:08Z",
+    "checked_at": "2026-04-17T06:11:42Z",
     "created_at": "2022-12-23T15:43:13.055412Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "102.216.223.14",
@@ -2620,7 +2620,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9896907216494846,
-    "checked_at": "2025-03-26T09:43:15Z",
+    "checked_at": "2026-04-17T06:11:42Z",
     "created_at": "2022-12-24T03:17:55.068536Z",
     "available": true
   },
@@ -2635,7 +2635,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6701030927835051,
-    "checked_at": "2025-03-26T09:43:16Z",
+    "checked_at": "2026-04-17T06:11:42Z",
     "created_at": "2022-12-24T03:32:39.8462Z",
     "available": true
   },
@@ -2650,7 +2650,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:43:23Z",
+    "checked_at": "2026-04-17T06:11:43Z",
     "created_at": "2022-12-24T15:20:06.062742Z",
     "available": true
   },
@@ -2665,7 +2665,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.1834862385321101,
-    "checked_at": "2025-03-26T09:43:24Z",
+    "checked_at": "2026-04-17T06:11:43Z",
     "created_at": "2022-12-24T15:51:43.944654Z",
     "available": false
   },
@@ -2680,7 +2680,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9576271186440678,
-    "checked_at": "2025-03-26T09:43:31Z",
+    "checked_at": "2026-04-17T06:11:43Z",
     "created_at": "2022-12-25T08:27:32.424235Z",
     "available": false
   },
@@ -2695,12 +2695,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8760330578512396,
-    "checked_at": "2025-03-26T09:43:38Z",
+    "checked_at": "2026-04-17T06:11:43Z",
     "created_at": "2022-12-26T05:55:47.147905Z",
     "available": false
   },
   {
-    "ip": "160.119.235.131",
+    "ip": "160.119.235.11",
     "name": "",
     "as_number": 328137,
     "as_org": "Web-Squad-Connect-AS",
@@ -2710,7 +2710,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8699186991869918,
-    "checked_at": "2025-03-26T09:43:46Z",
+    "checked_at": "2026-04-17T06:11:53Z",
     "created_at": "2022-12-27T04:19:59.428718Z",
     "available": true
   },
@@ -2725,12 +2725,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9193548387096774,
-    "checked_at": "2025-03-26T09:43:49Z",
+    "checked_at": "2026-04-17T06:11:53Z",
     "created_at": "2022-12-27T12:30:03.000201Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "41.23.114.15",
+    "ip": "41.23.114.1",
     "name": "vc-41-23-114-15.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -2740,7 +2740,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9516129032258065,
-    "checked_at": "2025-03-26T09:43:56Z",
+    "checked_at": "2026-04-17T06:11:54Z",
     "created_at": "2022-12-27T14:36:38.811128Z",
     "available": true
   },
@@ -2755,7 +2755,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9444444444444444,
-    "checked_at": "2025-03-26T09:44:00Z",
+    "checked_at": "2026-04-17T06:11:55Z",
     "created_at": "2022-12-28T14:08:43.435591Z",
     "available": true
   },
@@ -2770,12 +2770,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:44:07Z",
+    "checked_at": "2026-04-17T06:11:55Z",
     "created_at": "2022-12-29T18:00:08.874124Z",
     "available": true
   },
   {
-    "ip": "41.23.113.159",
+    "ip": "41.23.113.1",
     "name": "vc-41-23-113-159.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -2785,7 +2785,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8134328358208955,
-    "checked_at": "2025-03-26T09:44:14Z",
+    "checked_at": "2026-04-17T06:11:56Z",
     "created_at": "2022-12-29T19:29:30.973608Z",
     "available": true
   },
@@ -2800,7 +2800,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9925373134328358,
-    "checked_at": "2025-03-26T09:44:15Z",
+    "checked_at": "2026-04-17T06:11:56Z",
     "created_at": "2022-12-30T02:45:36.433796Z",
     "available": true
   },
@@ -2815,7 +2815,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7482517482517482,
-    "checked_at": "2025-03-26T09:44:22Z",
+    "checked_at": "2026-04-17T06:11:56Z",
     "created_at": "2023-01-01T21:12:41.365556Z",
     "available": false
   },
@@ -2830,7 +2830,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:44:27Z",
+    "checked_at": "2026-04-17T06:11:57Z",
     "created_at": "2023-01-02T22:30:46.602058Z",
     "available": false
   },
@@ -2845,12 +2845,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9668874172185431,
-    "checked_at": "2025-03-26T09:44:32Z",
+    "checked_at": "2026-04-17T06:11:57Z",
     "created_at": "2023-01-03T13:14:47.926544Z",
     "available": true
   },
   {
-    "ip": "197.245.185.74",
+    "ip": "197.245.185.149",
     "name": "dsl-197-245-185-36.voxdsl.co.za.",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -2860,12 +2860,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.875,
-    "checked_at": "2025-03-26T09:44:35Z",
+    "checked_at": "2026-04-17T06:11:57Z",
     "created_at": "2023-01-03T19:20:37.326032Z",
     "available": true
   },
   {
-    "ip": "197.234.27.114",
+    "ip": "197.234.27.3",
     "name": "",
     "as_number": 37239,
     "as_org": "ICTGLOBE",
@@ -2875,9 +2875,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7161290322580646,
-    "checked_at": "2025-03-26T09:44:40Z",
+    "checked_at": "2026-04-17T06:11:57Z",
     "created_at": "2023-01-04T00:08:01.818695Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "102.39.246.175",
@@ -2890,9 +2890,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8562091503267973,
-    "checked_at": "2025-03-26T09:44:47Z",
+    "checked_at": "2026-04-17T06:11:57Z",
     "created_at": "2023-01-04T18:06:07.662388Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "197.189.200.10",
@@ -2905,12 +2905,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:44:54Z",
+    "checked_at": "2026-04-17T06:11:58Z",
     "created_at": "2023-02-19T04:55:25.398669Z",
     "available": true
   },
   {
-    "ip": "160.226.239.48",
+    "ip": "160.226.239.37",
     "name": "",
     "as_number": 37542,
     "as_org": "Iclix-CC",
@@ -2920,9 +2920,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5908045977011495,
-    "checked_at": "2025-03-26T09:44:59Z",
+    "checked_at": "2026-04-17T06:11:58Z",
     "created_at": "2023-02-19T14:05:03.411893Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "105.255.211.6",
@@ -2935,12 +2935,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9251497005988024,
-    "checked_at": "2025-03-26T09:45:06Z",
+    "checked_at": "2026-04-17T06:11:58Z",
     "created_at": "2023-02-19T18:42:29.171705Z",
     "available": false
   },
   {
-    "ip": "196.22.230.164",
+    "ip": "196.22.230.121",
     "name": "",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -2950,7 +2950,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.816,
-    "checked_at": "2025-03-26T09:45:14Z",
+    "checked_at": "2026-04-17T06:11:58Z",
     "created_at": "2023-02-20T02:40:35.526933Z",
     "available": true
   },
@@ -2965,7 +2965,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8542857142857143,
-    "checked_at": "2025-03-26T09:45:21Z",
+    "checked_at": "2026-04-17T06:11:58Z",
     "created_at": "2023-02-20T05:14:16.898806Z",
     "available": true
   },
@@ -2980,7 +2980,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:45:22Z",
+    "checked_at": "2026-04-17T06:11:58Z",
     "created_at": "2023-02-20T22:50:55.868155Z",
     "available": true
   },
@@ -2995,7 +2995,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8253968253968254,
-    "checked_at": "2025-03-26T09:45:22Z",
+    "checked_at": "2026-04-17T06:11:59Z",
     "created_at": "2023-02-21T02:04:45.070843Z",
     "available": true
   },
@@ -3010,7 +3010,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:45:29Z",
+    "checked_at": "2026-04-17T06:11:59Z",
     "created_at": "2023-02-21T07:35:48.173181Z",
     "available": true
   },
@@ -3025,12 +3025,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8541666666666666,
-    "checked_at": "2025-03-26T09:45:30Z",
+    "checked_at": "2026-04-17T06:11:59Z",
     "created_at": "2023-02-21T09:05:42.074407Z",
     "available": false
   },
   {
-    "ip": "156.155.194.77",
+    "ip": "156.155.194.101",
     "name": "156-155-194-164.ip.internet.co.za.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -3040,12 +3040,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8947368421052632,
-    "checked_at": "2025-03-26T09:45:37Z",
+    "checked_at": "2026-04-17T06:11:59Z",
     "created_at": "2023-02-21T10:01:18.634826Z",
     "available": true
   },
   {
-    "ip": "102.22.117.100",
+    "ip": "102.22.117.157",
     "name": "",
     "as_number": 328257,
     "as_org": "ASK-Internet-Technologies",
@@ -3055,12 +3055,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8241206030150754,
-    "checked_at": "2025-03-26T09:45:45Z",
+    "checked_at": "2026-04-17T06:12:00Z",
     "created_at": "2023-02-22T14:02:00.051128Z",
     "available": true
   },
   {
-    "ip": "41.76.218.1",
+    "ip": "41.76.218.18",
     "name": "mv-hs1.pmbg.megs.co.za.",
     "as_number": 37254,
     "as_org": "GREENFLASH",
@@ -3070,7 +3070,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9166666666666666,
-    "checked_at": "2025-03-26T09:45:52Z",
+    "checked_at": "2026-04-17T06:12:00Z",
     "created_at": "2023-02-23T23:49:12.068468Z",
     "available": true
   },
@@ -3085,7 +3085,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:45:59Z",
+    "checked_at": "2026-04-17T06:12:00Z",
     "created_at": "2023-02-24T02:31:41.092431Z",
     "available": true
   },
@@ -3100,7 +3100,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9430379746835443,
-    "checked_at": "2025-03-26T09:46:00Z",
+    "checked_at": "2026-04-17T06:12:01Z",
     "created_at": "2023-02-25T01:45:10.446926Z",
     "available": false
   },
@@ -3115,12 +3115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6296296296296297,
-    "checked_at": "2025-03-26T09:46:07Z",
+    "checked_at": "2026-04-17T06:12:01Z",
     "created_at": "2023-02-25T04:43:39.427328Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "41.23.113.86",
+    "ip": "41.23.113.1",
     "name": "vc-41-23-113-86.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -3130,7 +3130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:46:15Z",
+    "checked_at": "2026-04-17T06:12:02Z",
     "created_at": "2023-02-25T11:48:41.992387Z",
     "available": true
   },
@@ -3145,7 +3145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:46:15Z",
+    "checked_at": "2026-04-17T06:12:02Z",
     "created_at": "2023-02-25T13:15:29.475937Z",
     "available": true
   },
@@ -3160,7 +3160,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:46:23Z",
+    "checked_at": "2026-04-17T06:12:03Z",
     "created_at": "2023-02-25T14:50:08.058189Z",
     "available": false
   },
@@ -3175,12 +3175,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7582417582417582,
-    "checked_at": "2025-03-26T09:46:27Z",
+    "checked_at": "2026-04-17T06:12:03Z",
     "created_at": "2023-02-26T09:16:33.365099Z",
     "available": true
   },
   {
-    "ip": "102.221.14.169",
+    "ip": "102.221.14.35",
     "name": "102-221-14-169.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -3190,9 +3190,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:46:34Z",
+    "checked_at": "2026-04-17T06:12:07Z",
     "created_at": "2023-02-26T09:17:33.687966Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "105.255.221.234",
@@ -3205,7 +3205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7647058823529411,
-    "checked_at": "2025-03-26T09:46:42Z",
+    "checked_at": "2026-04-17T06:12:07Z",
     "created_at": "2023-02-27T08:25:10.361478Z",
     "available": true
   },
@@ -3220,12 +3220,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:46:49Z",
+    "checked_at": "2026-04-17T06:12:08Z",
     "created_at": "2023-02-28T03:35:42.719176Z",
     "available": true
   },
   {
-    "ip": "102.221.14.14",
+    "ip": "102.221.14.35",
     "name": "102-221-14-14.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -3235,9 +3235,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9857142857142858,
-    "checked_at": "2025-03-26T09:46:56Z",
+    "checked_at": "2026-04-17T06:12:09Z",
     "created_at": "2023-02-28T05:18:26.623204Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "105.243.202.114",
@@ -3250,7 +3250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:47:04Z",
+    "checked_at": "2026-04-17T06:12:10Z",
     "created_at": "2023-02-28T11:10:57.650896Z",
     "available": true
   },
@@ -3265,12 +3265,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:47:11Z",
+    "checked_at": "2026-04-17T06:12:11Z",
     "created_at": "2023-02-28T18:18:04.612695Z",
     "available": true
   },
   {
-    "ip": "129.232.164.26",
+    "ip": "129.232.164.98",
     "name": "",
     "as_number": 37153,
     "as_org": "xneelo",
@@ -3280,7 +3280,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:47:12Z",
+    "checked_at": "2026-04-17T06:12:11Z",
     "created_at": "2023-02-28T18:18:09.023812Z",
     "available": true
   },
@@ -3295,7 +3295,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:47:12Z",
+    "checked_at": "2026-04-17T06:12:12Z",
     "created_at": "2023-02-28T19:08:26.973623Z",
     "available": true
   },
@@ -3310,12 +3310,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:47:20Z",
+    "checked_at": "2026-04-17T06:12:13Z",
     "created_at": "2023-02-28T19:21:18.27893Z",
     "available": true
   },
   {
-    "ip": "102.221.14.113",
+    "ip": "102.221.14.35",
     "name": "102-221-14-113.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -3325,12 +3325,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:47:23Z",
+    "checked_at": "2026-04-17T06:12:12Z",
     "created_at": "2023-03-01T10:40:28.38622Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "102.221.247.101",
+    "ip": "102.221.247.139",
     "name": "",
     "as_number": 328474,
     "as_org": "Jebo-Connect-AS",
@@ -3340,7 +3340,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:47:30Z",
+    "checked_at": "2026-04-17T06:12:13Z",
     "created_at": "2023-03-01T20:52:38.018094Z",
     "available": true
   },
@@ -3355,7 +3355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6235294117647059,
-    "checked_at": "2025-03-26T09:47:35Z",
+    "checked_at": "2026-04-17T06:12:14Z",
     "created_at": "2023-03-02T08:04:31.280944Z",
     "available": true
   },
@@ -3370,12 +3370,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8571428571428571,
-    "checked_at": "2025-03-26T09:47:42Z",
+    "checked_at": "2026-04-17T06:12:14Z",
     "created_at": "2023-03-03T00:00:24.440369Z",
     "available": true
   },
   {
-    "ip": "102.248.9.147",
+    "ip": "102.248.9.108",
     "name": "8ta-248-9-110.telkomadsl.co.za.",
     "as_number": 37457,
     "as_org": "Telkom-Internet",
@@ -3385,7 +3385,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9636363636363636,
-    "checked_at": "2025-03-26T09:47:49Z",
+    "checked_at": "2026-04-17T06:12:14Z",
     "created_at": "2023-03-03T01:00:46.219579Z",
     "available": true
   },
@@ -3400,7 +3400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:47:57Z",
+    "checked_at": "2026-04-17T06:12:14Z",
     "created_at": "2023-03-03T02:36:24.707469Z",
     "available": true
   },
@@ -3415,12 +3415,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:48:04Z",
+    "checked_at": "2026-04-17T06:12:14Z",
     "created_at": "2023-03-03T12:21:04.385623Z",
     "available": true
   },
   {
-    "ip": "102.218.25.39",
+    "ip": "102.218.25.38",
     "name": "",
     "as_number": 328631,
     "as_org": "BallitoISP",
@@ -3430,7 +3430,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:48:05Z",
+    "checked_at": "2026-04-17T06:12:14Z",
     "created_at": "2023-03-03T13:35:24.411262Z",
     "available": true
   },
@@ -3445,7 +3445,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:48:09Z",
+    "checked_at": "2026-04-17T06:12:14Z",
     "created_at": "2023-03-03T15:02:07.615252Z",
     "available": false
   },
@@ -3460,7 +3460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:48:17Z",
+    "checked_at": "2026-04-17T06:12:15Z",
     "created_at": "2023-03-03T19:32:59.848958Z",
     "available": true
   },
@@ -3475,12 +3475,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:48:17Z",
+    "checked_at": "2026-04-17T06:12:15Z",
     "created_at": "2023-03-03T20:48:08.181387Z",
     "available": false
   },
   {
-    "ip": "105.186.165.119",
+    "ip": "105.186.165.103",
     "name": "105-186-165-119.telkomsa.net.",
     "as_number": 37457,
     "as_org": "Telkom-Internet",
@@ -3490,9 +3490,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.5555555555555556,
-    "checked_at": "2025-03-26T09:48:25Z",
+    "checked_at": "2026-04-17T06:12:15Z",
     "created_at": "2023-03-04T06:14:42.489548Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "156.38.195.59",
@@ -3505,7 +3505,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:48:32Z",
+    "checked_at": "2026-04-17T06:12:15Z",
     "created_at": "2023-03-05T00:52:44.35837Z",
     "available": true
   },
@@ -3520,12 +3520,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:48:32Z",
+    "checked_at": "2026-04-17T06:12:15Z",
     "created_at": "2023-03-05T13:57:28.314355Z",
     "available": false
   },
   {
-    "ip": "41.23.113.133",
+    "ip": "41.23.113.1",
     "name": "vc-41-23-113-133.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -3535,12 +3535,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7553191489361702,
-    "checked_at": "2025-03-26T09:48:40Z",
+    "checked_at": "2026-04-17T06:12:16Z",
     "created_at": "2023-03-05T17:39:37.227346Z",
     "available": true
   },
   {
-    "ip": "197.221.183.130",
+    "ip": "197.221.183.10",
     "name": "197-221-183-191.sainet.co.za.",
     "as_number": 37356,
     "as_org": "Huge-Networks",
@@ -3550,7 +3550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:48:43Z",
+    "checked_at": "2026-04-17T06:12:16Z",
     "created_at": "2023-03-05T23:46:06.831378Z",
     "available": true
   },
@@ -3565,9 +3565,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:48:50Z",
+    "checked_at": "2026-04-17T06:12:16Z",
     "created_at": "2023-03-08T14:14:34.649942Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "102.214.23.40",
@@ -3580,7 +3580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:48:51Z",
+    "checked_at": "2026-04-17T06:12:16Z",
     "created_at": "2023-03-09T03:25:46.622223Z",
     "available": false
   },
@@ -3595,9 +3595,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:48:58Z",
+    "checked_at": "2026-04-17T06:12:17Z",
     "created_at": "2023-03-09T12:59:03.64507Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "156.38.238.114",
@@ -3610,12 +3610,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:49:06Z",
+    "checked_at": "2026-04-17T06:12:17Z",
     "created_at": "2023-03-09T15:40:34.588542Z",
     "available": true
   },
   {
-    "ip": "102.219.85.105",
+    "ip": "102.219.85.227",
     "name": "",
     "as_number": 328882,
     "as_org": "Sahdsoft-AS",
@@ -3625,7 +3625,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8837209302325582,
-    "checked_at": "2025-03-26T09:49:13Z",
+    "checked_at": "2026-04-17T06:12:17Z",
     "created_at": "2023-03-10T16:54:57.769202Z",
     "available": true
   },
@@ -3640,9 +3640,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9390243902439024,
-    "checked_at": "2025-03-26T09:49:20Z",
+    "checked_at": "2026-04-17T06:12:17Z",
     "created_at": "2023-03-10T22:50:19.318862Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.185.20.100",
@@ -3655,12 +3655,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:49:28Z",
+    "checked_at": "2026-04-17T06:12:18Z",
     "created_at": "2023-03-11T01:45:39.26784Z",
     "available": true
   },
   {
-    "ip": "165.73.82.119",
+    "ip": "165.73.82.14",
     "name": "sheriffctwest.dedicated.co.za.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -3670,7 +3670,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:49:35Z",
+    "checked_at": "2026-04-17T06:12:19Z",
     "created_at": "2023-03-11T11:16:53.03105Z",
     "available": true
   },
@@ -3685,7 +3685,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:49:36Z",
+    "checked_at": "2026-04-17T06:12:19Z",
     "created_at": "2023-03-11T19:34:40.120085Z",
     "available": true
   },
@@ -3700,12 +3700,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.926984126984127,
-    "checked_at": "2025-03-26T09:49:43Z",
+    "checked_at": "2026-04-17T06:12:20Z",
     "created_at": "2023-03-12T02:24:19.124918Z",
     "available": false
   },
   {
-    "ip": "102.132.235.18",
+    "ip": "102.132.235.237",
     "name": "nl9l-cust.coolideas.co.za.",
     "as_number": 37680,
     "as_org": "COOL-IDEAS",
@@ -3715,12 +3715,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:49:50Z",
+    "checked_at": "2026-04-17T06:12:20Z",
     "created_at": "2023-03-13T01:18:19.184013Z",
     "available": true
   },
   {
-    "ip": "102.221.13.160",
+    "ip": "102.221.13.250",
     "name": "102-221-13-54.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -3730,7 +3730,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:49:58Z",
+    "checked_at": "2026-04-17T06:12:22Z",
     "created_at": "2023-03-13T01:21:45.322168Z",
     "available": true
   },
@@ -3745,12 +3745,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:50:05Z",
+    "checked_at": "2026-04-17T06:12:26Z",
     "created_at": "2023-03-13T02:07:05.421867Z",
     "available": false
   },
   {
-    "ip": "41.193.214.206",
+    "ip": "41.193.214.198",
     "name": "",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -3760,7 +3760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:50:12Z",
+    "checked_at": "2026-04-17T06:12:30Z",
     "created_at": "2023-03-13T02:14:13.207329Z",
     "available": true
   },
@@ -3775,7 +3775,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:50:17Z",
+    "checked_at": "2026-04-17T06:12:30Z",
     "created_at": "2023-03-13T02:20:21.714807Z",
     "available": true
   },
@@ -3790,7 +3790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:50:17Z",
+    "checked_at": "2026-04-17T06:12:31Z",
     "created_at": "2023-03-13T02:25:44.842956Z",
     "available": true
   },
@@ -3805,7 +3805,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:50:25Z",
+    "checked_at": "2026-04-17T06:12:32Z",
     "created_at": "2023-03-13T02:32:42.151492Z",
     "available": false
   },
@@ -3820,7 +3820,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:50:32Z",
+    "checked_at": "2026-04-17T06:12:32Z",
     "created_at": "2023-03-13T02:43:37.489221Z",
     "available": false
   },
@@ -3835,7 +3835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:50:39Z",
+    "checked_at": "2026-04-17T06:12:32Z",
     "created_at": "2023-03-13T02:55:30.73853Z",
     "available": false
   },
@@ -3850,7 +3850,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:50:47Z",
+    "checked_at": "2026-04-17T06:12:32Z",
     "created_at": "2023-03-13T03:06:47.457873Z",
     "available": false
   },
@@ -3865,12 +3865,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:50:54Z",
+    "checked_at": "2026-04-17T06:12:32Z",
     "created_at": "2023-03-13T03:08:11.61933Z",
     "available": true
   },
   {
-    "ip": "102.141.126.68",
+    "ip": "102.141.126.34",
     "name": "",
     "as_number": 328323,
     "as_org": "Brilliant-Telco-AS",
@@ -3880,9 +3880,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:51:01Z",
+    "checked_at": "2026-04-17T06:12:32Z",
     "created_at": "2023-03-13T03:23:17.12512Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "196.15.216.65",
@@ -3895,12 +3895,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:51:09Z",
+    "checked_at": "2026-04-17T06:12:33Z",
     "created_at": "2023-03-13T03:44:29.28552Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "160.19.199.137",
+    "ip": "160.19.199.183",
     "name": "undefined.hostname.localhost.",
     "as_number": 37542,
     "as_org": "Iclix-CC",
@@ -3910,12 +3910,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:51:13Z",
+    "checked_at": "2026-04-17T06:12:33Z",
     "created_at": "2023-03-13T03:55:45.042005Z",
     "available": true
   },
   {
-    "ip": "102.33.20.241",
+    "ip": "102.33.20.170",
     "name": "",
     "as_number": 327782,
     "as_org": "METROFIBRE-NETWORX",
@@ -3925,7 +3925,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:51:19Z",
+    "checked_at": "2026-04-17T06:12:33Z",
     "created_at": "2023-03-13T03:57:57.329021Z",
     "available": true
   },
@@ -3940,12 +3940,27 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:51:22Z",
+    "checked_at": "2026-04-17T06:12:33Z",
     "created_at": "2023-03-13T04:02:22.395677Z",
+    "available": false
+  },
+  {
+    "ip": "197.234.27.3",
+    "name": "",
+    "as_number": 37239,
+    "as_org": "ICTGLOBE",
+    "country_id": "ZA",
+    "city": "Kimberley",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-04-17T06:12:34Z",
+    "created_at": "2023-03-13T04:32:14.254729Z",
     "available": true
   },
   {
-    "ip": "197.234.27.133",
+    "ip": "197.234.27.3",
     "name": "",
     "as_number": 37239,
     "as_org": "ICTGLOBE",
@@ -3955,24 +3970,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:51:30Z",
-    "created_at": "2023-03-13T04:32:14.254729Z",
-    "available": false
-  },
-  {
-    "ip": "197.234.27.47",
-    "name": "",
-    "as_number": 37239,
-    "as_org": "ICTGLOBE",
-    "country_id": "ZA",
-    "city": "Kimberley",
-    "version": "",
-    "error": "",
-    "dnssec": false,
-    "reliability": 1,
-    "checked_at": "2025-03-26T09:51:37Z",
+    "checked_at": "2026-04-17T06:12:34Z",
     "created_at": "2023-03-13T04:33:46.599004Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "196.250.239.222",
@@ -3985,7 +3985,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:51:44Z",
+    "checked_at": "2026-04-17T06:12:34Z",
     "created_at": "2023-03-13T05:01:25.119829Z",
     "available": false
   },
@@ -4000,7 +4000,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:51:49Z",
+    "checked_at": "2026-04-17T06:12:34Z",
     "created_at": "2023-03-13T05:10:16.612496Z",
     "available": true
   },
@@ -4015,7 +4015,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:51:53Z",
+    "checked_at": "2026-04-17T06:12:35Z",
     "created_at": "2023-03-13T05:18:25.75322Z",
     "available": true
   },
@@ -4030,12 +4030,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:52:01Z",
+    "checked_at": "2026-04-17T06:12:35Z",
     "created_at": "2023-03-13T05:24:26.600982Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "102.176.237.14",
+    "ip": "102.176.237.5",
     "name": "102-176-237-42.client.cd.net.za.",
     "as_number": 32437,
     "as_org": "edgeconnect-legacy",
@@ -4045,7 +4045,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9955555555555555,
-    "checked_at": "2025-03-26T09:52:05Z",
+    "checked_at": "2026-04-17T06:12:35Z",
     "created_at": "2023-03-13T05:44:01.9466Z",
     "available": true
   },
@@ -4060,9 +4060,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:52:13Z",
+    "checked_at": "2026-04-17T06:12:36Z",
     "created_at": "2023-03-13T05:46:07.31335Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "196.6.235.197",
@@ -4075,12 +4075,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:52:20Z",
+    "checked_at": "2026-04-17T06:12:37Z",
     "created_at": "2023-03-13T05:47:27.705638Z",
     "available": false
   },
   {
-    "ip": "197.242.158.1",
+    "ip": "197.242.158.121",
     "name": "trinesofttechnologies23.dedicated.co.za.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -4090,7 +4090,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:52:27Z",
+    "checked_at": "2026-04-17T06:12:37Z",
     "created_at": "2023-03-13T05:54:07.557844Z",
     "available": true
   },
@@ -4105,7 +4105,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:52:35Z",
+    "checked_at": "2026-04-17T06:12:38Z",
     "created_at": "2023-03-13T06:00:50.158447Z",
     "available": true
   },
@@ -4120,7 +4120,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:52:35Z",
+    "checked_at": "2026-04-17T06:12:39Z",
     "created_at": "2023-03-13T06:01:00.7831Z",
     "available": false
   },
@@ -4135,7 +4135,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:52:43Z",
+    "checked_at": "2026-04-17T06:12:42Z",
     "created_at": "2023-03-13T06:07:45.228707Z",
     "available": false
   },
@@ -4150,12 +4150,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:52:50Z",
+    "checked_at": "2026-04-17T06:12:43Z",
     "created_at": "2023-03-13T06:12:40.482218Z",
     "available": true
   },
   {
-    "ip": "160.119.121.111",
+    "ip": "160.119.121.185",
     "name": "",
     "as_number": 328024,
     "as_org": "JACQCO-MANAGEMENT",
@@ -4165,7 +4165,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:52:57Z",
+    "checked_at": "2026-04-17T06:12:44Z",
     "created_at": "2023-03-13T06:31:58.313917Z",
     "available": true
   },
@@ -4180,12 +4180,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:53:02Z",
+    "checked_at": "2026-04-17T06:12:46Z",
     "created_at": "2023-03-13T06:41:07.010273Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "41.23.184.1",
+    "ip": "41.23.184.102",
     "name": "vc-41-23-184-40.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -4195,12 +4195,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:53:09Z",
+    "checked_at": "2026-04-17T06:12:48Z",
     "created_at": "2023-03-13T06:48:42.763091Z",
     "available": true
   },
   {
-    "ip": "102.33.34.164",
+    "ip": "102.33.34.121",
     "name": "",
     "as_number": 327782,
     "as_org": "METROFIBRE-NETWORX",
@@ -4210,12 +4210,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:53:17Z",
+    "checked_at": "2026-04-17T06:12:50Z",
     "created_at": "2023-03-13T06:59:19.585993Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "41.76.103.1",
+    "ip": "41.76.103.2",
     "name": "",
     "as_number": 37334,
     "as_org": "ARC",
@@ -4225,7 +4225,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:53:24Z",
+    "checked_at": "2026-04-17T06:12:50Z",
     "created_at": "2023-03-13T07:08:43.949591Z",
     "available": true
   },
@@ -4240,12 +4240,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:53:31Z",
+    "checked_at": "2026-04-17T06:12:50Z",
     "created_at": "2023-03-13T07:14:19.269513Z",
     "available": true
   },
   {
-    "ip": "129.205.133.217",
+    "ip": "129.205.133.11",
     "name": "129-205-133-217.dynamic.macrolan.co.za.",
     "as_number": 37353,
     "as_org": "SEACOM-AS",
@@ -4255,9 +4255,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:53:39Z",
+    "checked_at": "2026-04-17T06:12:50Z",
     "created_at": "2023-03-13T07:53:29.763011Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "102.182.78.93",
@@ -4270,7 +4270,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:53:46Z",
+    "checked_at": "2026-04-17T06:12:50Z",
     "created_at": "2023-03-13T07:54:32.813844Z",
     "available": false
   },
@@ -4285,12 +4285,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:53:53Z",
+    "checked_at": "2026-04-17T06:12:51Z",
     "created_at": "2023-03-13T07:56:52.752314Z",
     "available": true
   },
   {
-    "ip": "102.221.14.30",
+    "ip": "102.221.14.35",
     "name": "102-221-14-30.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -4300,9 +4300,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:54:01Z",
+    "checked_at": "2026-04-17T06:12:51Z",
     "created_at": "2023-03-13T08:12:45.180875Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "165.165.173.110",
@@ -4315,12 +4315,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:54:05Z",
+    "checked_at": "2026-04-17T06:12:51Z",
     "created_at": "2023-03-13T08:20:10.053839Z",
     "available": true
   },
   {
-    "ip": "160.119.100.112",
+    "ip": "160.119.100.103",
     "name": "remote.sahcare.co.za.",
     "as_number": 328170,
     "as_org": "DataKeepers",
@@ -4330,7 +4330,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:54:12Z",
+    "checked_at": "2026-04-17T06:12:51Z",
     "created_at": "2023-03-13T09:13:34.762484Z",
     "available": true
   },
@@ -4345,12 +4345,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5833333333333334,
-    "checked_at": "2025-03-26T09:54:13Z",
+    "checked_at": "2026-04-17T06:12:51Z",
     "created_at": "2023-03-13T09:32:19.128825Z",
     "available": false
   },
   {
-    "ip": "102.22.72.12",
+    "ip": "102.22.72.24",
     "name": "",
     "as_number": 327907,
     "as_org": "Paw-Paw-Wireless",
@@ -4360,7 +4360,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:54:21Z",
+    "checked_at": "2026-04-17T06:12:51Z",
     "created_at": "2023-03-13T10:06:52.286439Z",
     "available": true
   },
@@ -4375,12 +4375,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7619047619047619,
-    "checked_at": "2025-03-26T09:54:21Z",
+    "checked_at": "2026-04-17T06:12:51Z",
     "created_at": "2023-03-13T10:24:41.457336Z",
     "available": false
   },
   {
-    "ip": "102.221.100.135",
+    "ip": "102.221.100.42",
     "name": "",
     "as_number": 328785,
     "as_org": "Gigawave-Solutions",
@@ -4390,12 +4390,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:54:28Z",
+    "checked_at": "2026-04-17T06:12:51Z",
     "created_at": "2023-03-13T10:32:32.313363Z",
     "available": true
   },
   {
-    "ip": "160.19.199.137",
+    "ip": "160.19.199.183",
     "name": "undefined.hostname.localhost.",
     "as_number": 37542,
     "as_org": "Iclix-CC",
@@ -4405,7 +4405,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:54:36Z",
+    "checked_at": "2026-04-17T06:12:52Z",
     "created_at": "2023-03-13T10:49:29.954337Z",
     "available": true
   },
@@ -4420,7 +4420,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-26T09:54:43Z",
+    "checked_at": "2026-04-17T06:12:54Z",
     "created_at": "2023-03-13T11:18:17.801281Z",
     "available": true
   },
@@ -4435,7 +4435,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:54:44Z",
+    "checked_at": "2026-04-17T06:12:54Z",
     "created_at": "2023-03-13T11:19:34.617267Z",
     "available": true
   },
@@ -4450,12 +4450,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:54:44Z",
+    "checked_at": "2026-04-17T06:12:54Z",
     "created_at": "2023-03-13T11:19:58.241826Z",
     "available": true
   },
   {
-    "ip": "102.67.157.148",
+    "ip": "102.67.157.112",
     "name": "",
     "as_number": 37546,
     "as_org": "MIA-TELECOMs",
@@ -4465,7 +4465,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:54:52Z",
+    "checked_at": "2026-04-17T06:12:54Z",
     "created_at": "2023-03-13T12:25:09.317756Z",
     "available": true
   },
@@ -4480,7 +4480,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:54:59Z",
+    "checked_at": "2026-04-17T06:12:55Z",
     "created_at": "2023-03-13T12:41:54.629565Z",
     "available": true
   },
@@ -4495,7 +4495,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:55:00Z",
+    "checked_at": "2026-04-17T06:12:55Z",
     "created_at": "2023-03-13T12:46:48.714515Z",
     "available": true
   },
@@ -4510,7 +4510,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:55:00Z",
+    "checked_at": "2026-04-17T06:12:55Z",
     "created_at": "2023-03-13T12:47:49.343191Z",
     "available": true
   },
@@ -4525,7 +4525,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:55:08Z",
+    "checked_at": "2026-04-17T06:12:55Z",
     "created_at": "2023-03-13T13:00:46.65642Z",
     "available": true
   },
@@ -4540,7 +4540,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9014084507042254,
-    "checked_at": "2025-03-26T09:55:08Z",
+    "checked_at": "2026-04-17T06:12:55Z",
     "created_at": "2023-03-13T13:06:44.751015Z",
     "available": false
   },
@@ -4555,7 +4555,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:55:16Z",
+    "checked_at": "2026-04-17T06:12:56Z",
     "created_at": "2023-03-13T13:28:42.100303Z",
     "available": false
   },
@@ -4570,7 +4570,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:55:23Z",
+    "checked_at": "2026-04-17T06:12:56Z",
     "created_at": "2023-03-13T13:48:15.913484Z",
     "available": true
   },
@@ -4585,7 +4585,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:55:23Z",
+    "checked_at": "2026-04-17T06:12:57Z",
     "created_at": "2023-03-13T14:05:42.861729Z",
     "available": true
   },
@@ -4600,7 +4600,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:55:24Z",
+    "checked_at": "2026-04-17T06:12:57Z",
     "created_at": "2023-03-13T14:24:55.398399Z",
     "available": false
   },
@@ -4615,12 +4615,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:55:31Z",
+    "checked_at": "2026-04-17T06:12:57Z",
     "created_at": "2023-03-13T14:32:54.23906Z",
     "available": false
   },
   {
-    "ip": "102.221.14.82",
+    "ip": "102.221.14.35",
     "name": "102-221-14-82.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -4630,9 +4630,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:55:39Z",
+    "checked_at": "2026-04-17T06:12:58Z",
     "created_at": "2023-03-13T14:37:12.390902Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "102.222.150.75",
@@ -4645,7 +4645,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:55:46Z",
+    "checked_at": "2026-04-17T06:12:58Z",
     "created_at": "2023-03-13T14:54:10.991619Z",
     "available": true
   },
@@ -4660,7 +4660,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:55:53Z",
+    "checked_at": "2026-04-17T06:13:00Z",
     "created_at": "2023-03-13T15:02:32.76953Z",
     "available": false
   },
@@ -4675,7 +4675,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:01Z",
+    "checked_at": "2026-04-17T06:13:01Z",
     "created_at": "2023-03-13T15:18:48.283853Z",
     "available": true
   },
@@ -4690,7 +4690,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:01Z",
+    "checked_at": "2026-04-17T06:13:01Z",
     "created_at": "2023-03-13T15:30:09.08305Z",
     "available": false
   },
@@ -4705,7 +4705,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:09Z",
+    "checked_at": "2026-04-17T06:13:03Z",
     "created_at": "2023-03-13T15:34:57.10429Z",
     "available": true
   },
@@ -4720,12 +4720,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:16Z",
+    "checked_at": "2026-04-17T06:13:03Z",
     "created_at": "2023-03-13T15:41:18.651647Z",
     "available": true
   },
   {
-    "ip": "160.119.101.224",
+    "ip": "160.119.101.125",
     "name": "",
     "as_number": 328170,
     "as_org": "DataKeepers",
@@ -4735,7 +4735,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:23Z",
+    "checked_at": "2026-04-17T06:13:03Z",
     "created_at": "2023-03-13T16:30:21.949268Z",
     "available": true
   },
@@ -4750,12 +4750,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:24Z",
+    "checked_at": "2026-04-17T06:13:04Z",
     "created_at": "2023-03-13T16:31:35.507318Z",
     "available": true
   },
   {
-    "ip": "102.214.195.103",
+    "ip": "102.214.195.126",
     "name": "",
     "as_number": 328474,
     "as_org": "Jebo-Connect-AS",
@@ -4765,7 +4765,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:31Z",
+    "checked_at": "2026-04-17T06:13:05Z",
     "created_at": "2023-03-13T16:48:07.560882Z",
     "available": true
   },
@@ -4780,7 +4780,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:39Z",
+    "checked_at": "2026-04-17T06:13:05Z",
     "created_at": "2023-03-13T16:53:55.806423Z",
     "available": true
   },
@@ -4795,12 +4795,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:39Z",
+    "checked_at": "2026-04-17T06:13:06Z",
     "created_at": "2023-03-13T17:07:23.525737Z",
     "available": true
   },
   {
-    "ip": "102.22.118.104",
+    "ip": "102.22.118.102",
     "name": "",
     "as_number": 328888,
     "as_org": "ORCA-TECHNOLOGIES-AS",
@@ -4810,7 +4810,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:44Z",
+    "checked_at": "2026-04-17T06:13:06Z",
     "created_at": "2023-03-13T17:28:25.757729Z",
     "available": true
   },
@@ -4825,7 +4825,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:48Z",
+    "checked_at": "2026-04-17T06:13:06Z",
     "created_at": "2023-03-13T18:08:13.019781Z",
     "available": false
   },
@@ -4840,7 +4840,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:56:56Z",
+    "checked_at": "2026-04-17T06:13:06Z",
     "created_at": "2023-03-13T18:23:30.496654Z",
     "available": false
   },
@@ -4855,7 +4855,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:57:03Z",
+    "checked_at": "2026-04-17T06:13:06Z",
     "created_at": "2023-03-13T18:39:08.96652Z",
     "available": true
   },
@@ -4870,12 +4870,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:57:10Z",
+    "checked_at": "2026-04-17T06:13:06Z",
     "created_at": "2023-03-13T18:40:50.411038Z",
     "available": false
   },
   {
-    "ip": "102.221.14.109",
+    "ip": "102.221.14.35",
     "name": "102-221-14-109.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -4885,9 +4885,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:57:18Z",
+    "checked_at": "2026-04-17T06:13:07Z",
     "created_at": "2023-03-13T18:49:56.297382Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "102.39.21.218",
@@ -4900,12 +4900,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:57:25Z",
+    "checked_at": "2026-04-17T06:13:07Z",
     "created_at": "2023-03-13T18:52:49.892704Z",
     "available": true
   },
   {
-    "ip": "41.193.138.77",
+    "ip": "41.193.138.1",
     "name": "",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -4915,9 +4915,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:57:32Z",
+    "checked_at": "2026-04-17T06:13:07Z",
     "created_at": "2023-03-13T19:15:37.953053Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "41.157.113.85",
@@ -4930,9 +4930,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:57:40Z",
+    "checked_at": "2026-04-17T06:13:07Z",
     "created_at": "2023-03-13T19:30:05.109256Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "160.226.142.165",
@@ -4945,9 +4945,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:57:47Z",
+    "checked_at": "2026-04-17T06:13:08Z",
     "created_at": "2023-03-13T19:33:32.876007Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.23.184.193",
@@ -4960,7 +4960,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:57:54Z",
+    "checked_at": "2026-04-17T06:13:09Z",
     "created_at": "2023-03-13T19:59:15.240732Z",
     "available": true
   },
@@ -4975,9 +4975,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:57:55Z",
+    "checked_at": "2026-04-17T06:13:10Z",
     "created_at": "2023-03-13T20:05:35.069886Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.193.246.96",
@@ -4990,7 +4990,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:58:02Z",
+    "checked_at": "2026-04-17T06:13:10Z",
     "created_at": "2023-03-13T20:18:01.041705Z",
     "available": true
   },
@@ -5005,7 +5005,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:58:10Z",
+    "checked_at": "2026-04-17T06:13:10Z",
     "created_at": "2023-03-13T20:38:10.385912Z",
     "available": false
   },
@@ -5020,7 +5020,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9285714285714286,
-    "checked_at": "2025-03-26T09:58:17Z",
+    "checked_at": "2026-04-17T06:13:11Z",
     "created_at": "2023-03-13T20:51:30.889302Z",
     "available": true
   },
@@ -5035,12 +5035,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:58:18Z",
+    "checked_at": "2026-04-17T06:13:11Z",
     "created_at": "2023-03-13T20:58:53.984352Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "197.83.229.210",
+    "ip": "197.83.229.246",
     "name": "197-83-229-74.dyn.mweb.co.za.",
     "as_number": 10474,
     "as_org": "OPTINET",
@@ -5050,12 +5050,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:58:21Z",
+    "checked_at": "2026-04-17T06:13:12Z",
     "created_at": "2023-03-13T21:28:41.271055Z",
     "available": true
   },
   {
-    "ip": "102.214.203.1",
+    "ip": "102.214.203.28",
     "name": "102.214.203.75.techtribe.network.",
     "as_number": 329159,
     "as_org": "TIL3-AS",
@@ -5065,12 +5065,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:58:28Z",
+    "checked_at": "2026-04-17T06:13:13Z",
     "created_at": "2023-03-13T21:32:20.817683Z",
     "available": true
   },
   {
-    "ip": "154.117.169.182",
+    "ip": "154.117.169.116",
     "name": "savuti.co.za.",
     "as_number": 37358,
     "as_org": "BITCO",
@@ -5080,7 +5080,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:58:36Z",
+    "checked_at": "2026-04-17T06:13:14Z",
     "created_at": "2023-03-13T21:33:37.080114Z",
     "available": true
   },
@@ -5095,12 +5095,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:58:43Z",
+    "checked_at": "2026-04-17T06:13:14Z",
     "created_at": "2023-03-13T21:42:33.883206Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "102.221.244.105",
+    "ip": "102.221.244.1",
     "name": "",
     "as_number": 328474,
     "as_org": "Jebo-Connect-AS",
@@ -5110,12 +5110,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:58:50Z",
+    "checked_at": "2026-04-17T06:13:14Z",
     "created_at": "2023-03-13T21:46:18.521082Z",
     "available": true
   },
   {
-    "ip": "165.0.15.154",
+    "ip": "165.0.15.80",
     "name": "",
     "as_number": 37053,
     "as_org": "RSAWEB Internet Services",
@@ -5125,7 +5125,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:58:55Z",
+    "checked_at": "2026-04-17T06:13:14Z",
     "created_at": "2023-03-13T21:48:02.187223Z",
     "available": true
   },
@@ -5140,7 +5140,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:59:02Z",
+    "checked_at": "2026-04-17T06:13:15Z",
     "created_at": "2023-03-13T22:01:38.183013Z",
     "available": false
   },
@@ -5155,7 +5155,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:59:10Z",
+    "checked_at": "2026-04-17T06:13:15Z",
     "created_at": "2023-03-13T22:04:36.424232Z",
     "available": false
   },
@@ -5170,7 +5170,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:59:17Z",
+    "checked_at": "2026-04-17T06:13:16Z",
     "created_at": "2023-03-13T22:35:44.850713Z",
     "available": false
   },
@@ -5185,7 +5185,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:59:24Z",
+    "checked_at": "2026-04-17T06:13:17Z",
     "created_at": "2023-03-13T22:41:27.169141Z",
     "available": true
   },
@@ -5200,7 +5200,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9942196531791907,
-    "checked_at": "2025-03-26T09:59:32Z",
+    "checked_at": "2026-04-17T06:13:18Z",
     "created_at": "2023-03-13T22:44:33.923151Z",
     "available": true
   },
@@ -5215,12 +5215,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:59:36Z",
+    "checked_at": "2026-04-17T06:13:19Z",
     "created_at": "2023-03-13T22:49:05.991281Z",
     "available": true
   },
   {
-    "ip": "197.221.184.46",
+    "ip": "197.221.184.151",
     "name": "197-221-184-245.sainet.co.za.",
     "as_number": 37356,
     "as_org": "Huge-Networks",
@@ -5230,7 +5230,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:59:37Z",
+    "checked_at": "2026-04-17T06:13:20Z",
     "created_at": "2023-03-13T22:52:33.415644Z",
     "available": true
   },
@@ -5245,7 +5245,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.975609756097561,
-    "checked_at": "2025-03-26T09:59:44Z",
+    "checked_at": "2026-04-17T06:13:21Z",
     "created_at": "2023-03-13T22:57:35.66267Z",
     "available": false
   },
@@ -5260,12 +5260,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8823529411764706,
-    "checked_at": "2025-03-26T09:59:51Z",
+    "checked_at": "2026-04-17T06:13:23Z",
     "created_at": "2023-03-13T23:10:21.725467Z",
     "available": true
   },
   {
-    "ip": "155.93.177.13",
+    "ip": "155.93.177.231",
     "name": "u9ot-cust.coolideas.co.za.",
     "as_number": 37680,
     "as_org": "COOL-IDEAS",
@@ -5275,9 +5275,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T09:59:59Z",
+    "checked_at": "2026-04-17T06:13:23Z",
     "created_at": "2023-03-13T23:15:11.91775Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "102.182.117.179",
@@ -5290,12 +5290,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:00:06Z",
+    "checked_at": "2026-04-17T06:13:24Z",
     "created_at": "2023-03-13T23:26:26.627175Z",
     "available": false
   },
   {
-    "ip": "102.221.14.167",
+    "ip": "102.221.14.35",
     "name": "102-221-14-167.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -5305,9 +5305,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:00:13Z",
+    "checked_at": "2026-04-17T06:13:24Z",
     "created_at": "2023-03-13T23:35:17.947811Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "102.66.161.10",
@@ -5320,7 +5320,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:00:21Z",
+    "checked_at": "2026-04-17T06:13:24Z",
     "created_at": "2023-03-13T23:42:01.798053Z",
     "available": true
   },
@@ -5335,7 +5335,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:00:28Z",
+    "checked_at": "2026-04-17T06:13:24Z",
     "created_at": "2023-03-14T00:23:36.855938Z",
     "available": true
   },
@@ -5350,12 +5350,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:00:36Z",
+    "checked_at": "2026-04-17T06:13:25Z",
     "created_at": "2023-03-14T00:40:45.368306Z",
     "available": true
   },
   {
-    "ip": "102.22.118.104",
+    "ip": "102.22.118.102",
     "name": "",
     "as_number": 328888,
     "as_org": "ORCA-TECHNOLOGIES-AS",
@@ -5365,12 +5365,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:00:43Z",
+    "checked_at": "2026-04-17T06:13:25Z",
     "created_at": "2023-03-14T00:53:14.699418Z",
     "available": true
   },
   {
-    "ip": "156.38.239.106",
+    "ip": "156.38.239.114",
     "name": "179.239.38.156.reverse.xneelo.net.",
     "as_number": 37153,
     "as_org": "xneelo",
@@ -5380,7 +5380,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:00:50Z",
+    "checked_at": "2026-04-17T06:13:26Z",
     "created_at": "2023-03-14T01:06:40.531744Z",
     "available": true
   },
@@ -5395,9 +5395,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9693877551020408,
-    "checked_at": "2025-03-26T10:00:58Z",
+    "checked_at": "2026-04-17T06:13:26Z",
     "created_at": "2023-03-14T01:14:58.288408Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.23.98.1",
@@ -5410,12 +5410,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9655172413793104,
-    "checked_at": "2025-03-26T10:01:05Z",
+    "checked_at": "2026-04-17T06:13:26Z",
     "created_at": "2023-03-14T01:15:31.929546Z",
     "available": true
   },
   {
-    "ip": "102.218.44.40",
+    "ip": "102.218.44.129",
     "name": "",
     "as_number": 328946,
     "as_org": "FL8-AS",
@@ -5425,9 +5425,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:01:12Z",
+    "checked_at": "2026-04-17T06:13:27Z",
     "created_at": "2023-03-14T01:21:11.92036Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "197.245.223.118",
@@ -5440,7 +5440,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:01:20Z",
+    "checked_at": "2026-04-17T06:13:27Z",
     "created_at": "2023-03-14T01:22:19.519728Z",
     "available": true
   },
@@ -5455,7 +5455,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:01:27Z",
+    "checked_at": "2026-04-17T06:13:27Z",
     "created_at": "2023-03-14T01:22:26.786093Z",
     "available": false
   },
@@ -5470,7 +5470,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:01:34Z",
+    "checked_at": "2026-04-17T06:13:27Z",
     "created_at": "2023-03-14T01:46:00.840873Z",
     "available": true
   },
@@ -5485,12 +5485,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:01:39Z",
+    "checked_at": "2026-04-17T06:13:27Z",
     "created_at": "2023-03-14T01:56:46.369128Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "102.182.83.90",
+    "ip": "102.182.83.45",
     "name": "102-182-83-90.ip.afrihost.joburg.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -5500,9 +5500,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:01:39Z",
+    "checked_at": "2026-04-17T06:13:27Z",
     "created_at": "2023-03-14T02:23:58.294385Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "154.119.230.9",
@@ -5515,12 +5515,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:01:47Z",
+    "checked_at": "2026-04-17T06:13:27Z",
     "created_at": "2023-03-14T02:59:51.883996Z",
     "available": true
   },
   {
-    "ip": "102.141.126.199",
+    "ip": "102.141.126.34",
     "name": "",
     "as_number": 328323,
     "as_org": "Brilliant-Telco-AS",
@@ -5530,9 +5530,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:01:54Z",
+    "checked_at": "2026-04-17T06:13:27Z",
     "created_at": "2023-03-14T03:20:50.678798Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "102.218.156.112",
@@ -5545,12 +5545,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:02:01Z",
+    "checked_at": "2026-04-17T06:13:29Z",
     "created_at": "2023-03-14T03:29:32.269769Z",
     "available": true
   },
   {
-    "ip": "165.73.121.254",
+    "ip": "165.73.121.252",
     "name": "165-73-121-22.ip.afrihost.capetown.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -5560,7 +5560,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:02:05Z",
+    "checked_at": "2026-04-17T06:13:29Z",
     "created_at": "2023-03-14T03:31:59.964864Z",
     "available": true
   },
@@ -5575,7 +5575,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:02:12Z",
+    "checked_at": "2026-04-17T06:13:30Z",
     "created_at": "2023-03-14T03:52:13.511857Z",
     "available": true
   },
@@ -5590,7 +5590,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9887005649717514,
-    "checked_at": "2025-03-26T10:02:19Z",
+    "checked_at": "2026-04-17T06:13:30Z",
     "created_at": "2023-03-14T03:54:17.677794Z",
     "available": true
   },
@@ -5605,9 +5605,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:02:23Z",
+    "checked_at": "2026-04-17T06:13:31Z",
     "created_at": "2023-03-14T04:00:16.122375Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.160.147.209",
@@ -5620,12 +5620,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:02:27Z",
+    "checked_at": "2026-04-17T06:13:31Z",
     "created_at": "2023-03-14T04:05:52.340941Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "168.253.201.126",
+    "ip": "168.253.201.234",
     "name": "",
     "as_number": 37276,
     "as_org": "VOFFICE",
@@ -5635,7 +5635,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:02:35Z",
+    "checked_at": "2026-04-17T06:13:31Z",
     "created_at": "2023-03-14T04:23:36.679123Z",
     "available": true
   },
@@ -5650,7 +5650,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:02:42Z",
+    "checked_at": "2026-04-17T06:13:32Z",
     "created_at": "2023-03-14T04:47:42.269989Z",
     "available": false
   },
@@ -5665,12 +5665,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:02:49Z",
+    "checked_at": "2026-04-17T06:13:34Z",
     "created_at": "2023-03-14T05:17:40.868775Z",
     "available": false
   },
   {
-    "ip": "102.66.0.200",
+    "ip": "102.66.0.213",
     "name": "102-66-0-132.as328471.net.",
     "as_number": 328471,
     "as_org": "Hero-Telecoms",
@@ -5680,12 +5680,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:02:57Z",
+    "checked_at": "2026-04-17T06:13:34Z",
     "created_at": "2023-03-14T05:50:14.509515Z",
     "available": true
   },
   {
-    "ip": "102.130.104.198",
+    "ip": "102.130.104.1",
     "name": "",
     "as_number": 328068,
     "as_org": "Active-Fibre",
@@ -5695,12 +5695,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:03:04Z",
+    "checked_at": "2026-04-17T06:13:35Z",
     "created_at": "2023-03-14T06:03:42.444827Z",
     "available": true
   },
   {
-    "ip": "165.0.15.154",
+    "ip": "165.0.15.16",
     "name": "",
     "as_number": 37053,
     "as_org": "RSAWEB Internet Services",
@@ -5710,7 +5710,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:03:11Z",
+    "checked_at": "2026-04-17T06:13:35Z",
     "created_at": "2023-03-14T06:07:22.794353Z",
     "available": true
   },
@@ -5725,7 +5725,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:03:19Z",
+    "checked_at": "2026-04-17T06:13:36Z",
     "created_at": "2023-03-14T06:25:21.455221Z",
     "available": true
   },
@@ -5740,7 +5740,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:03:22Z",
+    "checked_at": "2026-04-17T06:13:38Z",
     "created_at": "2023-03-14T06:38:31.877878Z",
     "available": true
   },
@@ -5755,12 +5755,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:03:29Z",
+    "checked_at": "2026-04-17T06:13:39Z",
     "created_at": "2023-03-14T06:38:48.893603Z",
     "available": true
   },
   {
-    "ip": "197.155.100.31",
+    "ip": "197.155.100.119",
     "name": "197-155-100-31.sainet.co.za.",
     "as_number": 37356,
     "as_org": "Huge-Networks",
@@ -5770,12 +5770,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:03:30Z",
+    "checked_at": "2026-04-17T06:13:40Z",
     "created_at": "2023-03-14T06:45:16.055696Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "102.182.93.35",
+    "ip": "102.182.93.87",
     "name": "102-182-93-35.ip.afrihost.joburg.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -5785,9 +5785,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:03:37Z",
+    "checked_at": "2026-04-17T06:13:40Z",
     "created_at": "2023-03-14T06:48:04.359889Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "196.216.134.71",
@@ -5800,7 +5800,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:03:44Z",
+    "checked_at": "2026-04-17T06:13:40Z",
     "created_at": "2023-03-14T07:23:01.969854Z",
     "available": true
   },
@@ -5815,9 +5815,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:03:45Z",
+    "checked_at": "2026-04-17T06:13:41Z",
     "created_at": "2023-03-14T07:43:10.104241Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "196.6.234.205",
@@ -5830,7 +5830,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:03:53Z",
+    "checked_at": "2026-04-17T06:13:41Z",
     "created_at": "2023-03-14T08:17:58.284605Z",
     "available": false
   },
@@ -5845,7 +5845,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:04:00Z",
+    "checked_at": "2026-04-17T06:13:41Z",
     "created_at": "2023-03-14T08:20:37.186026Z",
     "available": false
   },
@@ -5860,7 +5860,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:04:07Z",
+    "checked_at": "2026-04-17T06:13:43Z",
     "created_at": "2023-03-14T08:30:05.522675Z",
     "available": true
   },
@@ -5875,12 +5875,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:04:11Z",
+    "checked_at": "2026-04-17T06:13:43Z",
     "created_at": "2023-03-14T08:49:14.710058Z",
     "available": true
   },
   {
-    "ip": "41.76.103.1",
+    "ip": "41.76.103.2",
     "name": "",
     "as_number": 37334,
     "as_org": "ARC",
@@ -5890,7 +5890,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:04:15Z",
+    "checked_at": "2026-04-17T06:13:43Z",
     "created_at": "2023-03-14T09:40:39.99362Z",
     "available": true
   },
@@ -5905,7 +5905,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:04:22Z",
+    "checked_at": "2026-04-17T06:13:43Z",
     "created_at": "2023-03-14T09:49:58.224252Z",
     "available": false
   },
@@ -5920,7 +5920,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:04:30Z",
+    "checked_at": "2026-04-17T06:13:43Z",
     "created_at": "2023-03-14T09:55:45.232161Z",
     "available": true
   },
@@ -5935,12 +5935,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:04:37Z",
+    "checked_at": "2026-04-17T06:13:43Z",
     "created_at": "2023-03-14T10:38:16.966665Z",
     "available": true
   },
   {
-    "ip": "102.217.29.78",
+    "ip": "102.217.29.219",
     "name": "",
     "as_number": 37053,
     "as_org": "RSAWEB Internet Services",
@@ -5950,7 +5950,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:04:44Z",
+    "checked_at": "2026-04-17T06:13:44Z",
     "created_at": "2023-03-14T10:57:43.743754Z",
     "available": true
   },
@@ -5965,7 +5965,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:04:45Z",
+    "checked_at": "2026-04-17T06:13:44Z",
     "created_at": "2023-03-14T11:06:20.752041Z",
     "available": false
   },
@@ -5980,7 +5980,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:04:52Z",
+    "checked_at": "2026-04-17T06:13:44Z",
     "created_at": "2023-03-14T11:27:43.399378Z",
     "available": true
   },
@@ -5995,12 +5995,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:04:53Z",
+    "checked_at": "2026-04-17T06:13:45Z",
     "created_at": "2023-03-14T11:51:17.507922Z",
     "available": true
   },
   {
-    "ip": "197.234.29.208",
+    "ip": "197.234.29.118",
     "name": "",
     "as_number": 37239,
     "as_org": "ICTGLOBE",
@@ -6010,7 +6010,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:05:01Z",
+    "checked_at": "2026-04-17T06:13:45Z",
     "created_at": "2023-03-14T11:52:51.95942Z",
     "available": true
   },
@@ -6025,7 +6025,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:05:08Z",
+    "checked_at": "2026-04-17T06:13:46Z",
     "created_at": "2023-03-14T12:23:22.120736Z",
     "available": false
   },
@@ -6040,12 +6040,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:05:15Z",
+    "checked_at": "2026-04-17T06:13:46Z",
     "created_at": "2023-03-14T12:34:14.305582Z",
     "available": false
   },
   {
-    "ip": "102.182.203.14",
+    "ip": "102.182.203.168",
     "name": "102-182-203-167.ip.afrihost.co.za.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -6055,12 +6055,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:05:23Z",
+    "checked_at": "2026-04-17T06:13:47Z",
     "created_at": "2023-03-14T12:46:44.314924Z",
     "available": true
   },
   {
-    "ip": "41.23.99.243",
+    "ip": "41.23.99.102",
     "name": "vc-41-23-99-243.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -6070,12 +6070,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8571428571428571,
-    "checked_at": "2025-03-26T10:05:30Z",
+    "checked_at": "2026-04-17T06:13:47Z",
     "created_at": "2023-03-14T13:07:32.756286Z",
     "available": true
   },
   {
-    "ip": "102.67.157.148",
+    "ip": "102.67.157.112",
     "name": "",
     "as_number": 37546,
     "as_org": "MIA-TELECOMs",
@@ -6085,7 +6085,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:05:31Z",
+    "checked_at": "2026-04-17T06:13:47Z",
     "created_at": "2023-03-14T13:08:38.912187Z",
     "available": true
   },
@@ -6100,12 +6100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:05:38Z",
+    "checked_at": "2026-04-17T06:13:48Z",
     "created_at": "2023-03-14T13:11:26.829575Z",
     "available": true
   },
   {
-    "ip": "169.0.15.231",
+    "ip": "169.0.15.168",
     "name": "169-0-15-56.ip.afrihost.co.za.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -6115,12 +6115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:05:45Z",
+    "checked_at": "2026-04-17T06:13:48Z",
     "created_at": "2023-03-14T13:40:39.75886Z",
     "available": true
   },
   {
-    "ip": "197.242.158.1",
+    "ip": "197.242.158.121",
     "name": "justaddasmile.dedicated.co.za.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -6130,12 +6130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:05:53Z",
+    "checked_at": "2026-04-17T06:13:49Z",
     "created_at": "2023-03-14T14:01:10.150213Z",
     "available": true
   },
   {
-    "ip": "102.221.14.92",
+    "ip": "102.221.14.35",
     "name": "102-221-14-92.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -6145,9 +6145,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:06:00Z",
+    "checked_at": "2026-04-17T06:13:49Z",
     "created_at": "2023-03-14T14:33:39.756568Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "160.19.38.155",
@@ -6160,7 +6160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6,
-    "checked_at": "2025-03-26T10:06:07Z",
+    "checked_at": "2026-04-17T06:13:49Z",
     "created_at": "2023-03-14T14:40:57.698094Z",
     "available": true
   },
@@ -6175,9 +6175,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:06:15Z",
+    "checked_at": "2026-04-17T06:13:49Z",
     "created_at": "2023-03-14T15:01:40.650885Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "196.211.18.17",
@@ -6190,12 +6190,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8181818181818182,
-    "checked_at": "2025-03-26T10:06:18Z",
+    "checked_at": "2026-04-17T06:13:53Z",
     "created_at": "2023-03-14T15:04:58.522722Z",
     "available": false
   },
   {
-    "ip": "197.245.219.54",
+    "ip": "197.245.219.208",
     "name": "dsl-197-245-219-54.voxdsl.co.za.",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -6205,9 +6205,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-26T10:06:26Z",
+    "checked_at": "2026-04-17T06:13:55Z",
     "created_at": "2023-03-14T15:10:49.68128Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "196.25.130.34",
@@ -6220,12 +6220,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:06:33Z",
+    "checked_at": "2026-04-17T06:13:55Z",
     "created_at": "2023-03-14T15:23:37.340677Z",
     "available": true
   },
   {
-    "ip": "41.23.216.101",
+    "ip": "41.23.216.120",
     "name": "vc-41-23-216-154.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -6235,12 +6235,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:06:41Z",
+    "checked_at": "2026-04-17T06:13:56Z",
     "created_at": "2023-03-14T16:01:16.849225Z",
     "available": true
   },
   {
-    "ip": "196.250.216.132",
+    "ip": "196.250.216.158",
     "name": "",
     "as_number": 328471,
     "as_org": "Hero-Telecoms",
@@ -6250,7 +6250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:06:48Z",
+    "checked_at": "2026-04-17T06:13:57Z",
     "created_at": "2023-03-14T16:05:27.321502Z",
     "available": true
   },
@@ -6265,7 +6265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:06:55Z",
+    "checked_at": "2026-04-17T06:13:57Z",
     "created_at": "2023-03-14T16:07:36.866227Z",
     "available": true
   },
@@ -6280,12 +6280,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:03Z",
+    "checked_at": "2026-04-17T06:13:58Z",
     "created_at": "2023-03-14T16:12:25.251873Z",
     "available": false
   },
   {
-    "ip": "196.201.110.137",
+    "ip": "196.201.110.110",
     "name": "",
     "as_number": 37515,
     "as_org": "iCONNECT",
@@ -6295,7 +6295,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:07Z",
+    "checked_at": "2026-04-17T06:13:59Z",
     "created_at": "2023-03-14T16:26:52.997217Z",
     "available": true
   },
@@ -6310,7 +6310,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:08Z",
+    "checked_at": "2026-04-17T06:13:59Z",
     "created_at": "2023-03-14T16:50:29.051032Z",
     "available": false
   },
@@ -6325,7 +6325,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:15Z",
+    "checked_at": "2026-04-17T06:13:59Z",
     "created_at": "2023-03-14T17:11:04.753213Z",
     "available": true
   },
@@ -6340,12 +6340,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:19Z",
+    "checked_at": "2026-04-17T06:13:59Z",
     "created_at": "2023-03-14T17:30:23.021119Z",
     "available": false
   },
   {
-    "ip": "41.76.100.130",
+    "ip": "41.76.100.230",
     "name": "",
     "as_number": 37334,
     "as_org": "ARC",
@@ -6355,7 +6355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7692307692307693,
-    "checked_at": "2025-03-26T10:07:26Z",
+    "checked_at": "2026-04-17T06:14:00Z",
     "created_at": "2023-03-14T18:00:33.832484Z",
     "available": true
   },
@@ -6370,12 +6370,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:26Z",
+    "checked_at": "2026-04-17T06:14:01Z",
     "created_at": "2023-03-14T18:10:32.84385Z",
     "available": true
   },
   {
-    "ip": "154.0.160.102",
+    "ip": "154.0.160.134",
     "name": "zeus1.dedicated.co.za.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -6385,12 +6385,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:34Z",
+    "checked_at": "2026-04-17T06:14:01Z",
     "created_at": "2023-03-14T18:30:34.461205Z",
     "available": true
   },
   {
-    "ip": "41.23.98.47",
+    "ip": "41.23.98.1",
     "name": "vc-41-23-98-47.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -6400,7 +6400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:41Z",
+    "checked_at": "2026-04-17T06:14:02Z",
     "created_at": "2023-03-14T18:32:15.470874Z",
     "available": true
   },
@@ -6415,12 +6415,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:42Z",
+    "checked_at": "2026-04-17T06:14:02Z",
     "created_at": "2023-03-14T18:34:15.744889Z",
     "available": false
   },
   {
-    "ip": "102.222.88.137",
+    "ip": "102.222.88.197",
     "name": "",
     "as_number": 327750,
     "as_org": "JENNY-INTERNET",
@@ -6430,7 +6430,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:49Z",
+    "checked_at": "2026-04-17T06:14:02Z",
     "created_at": "2023-03-14T19:00:11.343023Z",
     "available": true
   },
@@ -6445,7 +6445,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-26T10:07:54Z",
+    "checked_at": "2026-04-17T06:14:02Z",
     "created_at": "2023-03-14T19:01:12.164475Z",
     "available": true
   },
@@ -6460,12 +6460,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:58Z",
+    "checked_at": "2026-04-17T06:14:03Z",
     "created_at": "2023-03-14T19:14:11.74948Z",
     "available": true
   },
   {
-    "ip": "197.234.27.101",
+    "ip": "197.234.27.3",
     "name": "",
     "as_number": 37239,
     "as_org": "ICTGLOBE",
@@ -6475,9 +6475,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:07:59Z",
+    "checked_at": "2026-04-17T06:14:03Z",
     "created_at": "2023-03-14T19:23:30.575798Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "102.22.83.102",
@@ -6490,7 +6490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:08:06Z",
+    "checked_at": "2026-04-17T06:14:03Z",
     "created_at": "2023-03-14T19:29:06.599856Z",
     "available": true
   },
@@ -6505,7 +6505,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:08:11Z",
+    "checked_at": "2026-04-17T06:14:04Z",
     "created_at": "2023-03-14T19:31:49.268645Z",
     "available": true
   },
@@ -6520,7 +6520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:08:18Z",
+    "checked_at": "2026-04-17T06:14:04Z",
     "created_at": "2023-03-14T19:39:40.150953Z",
     "available": true
   },
@@ -6535,12 +6535,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:08:25Z",
+    "checked_at": "2026-04-17T06:14:04Z",
     "created_at": "2023-03-14T19:50:25.021707Z",
     "available": false
   },
   {
-    "ip": "102.128.186.41",
+    "ip": "102.128.186.40",
     "name": "",
     "as_number": 328444,
     "as_org": "Wirelexx-AS",
@@ -6550,12 +6550,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:08:30Z",
+    "checked_at": "2026-04-17T06:14:05Z",
     "created_at": "2023-03-14T20:01:48.216262Z",
     "available": true
   },
   {
-    "ip": "154.73.183.146",
+    "ip": "154.73.183.139",
     "name": "",
     "as_number": 327808,
     "as_org": "Tesuco-Telecommunications",
@@ -6565,7 +6565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:08:37Z",
+    "checked_at": "2026-04-17T06:14:05Z",
     "created_at": "2023-03-14T20:14:54.648853Z",
     "available": true
   },
@@ -6580,7 +6580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:08:45Z",
+    "checked_at": "2026-04-17T06:14:05Z",
     "created_at": "2023-03-14T20:16:13.341556Z",
     "available": true
   },
@@ -6595,9 +6595,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:08:45Z",
+    "checked_at": "2026-04-17T06:14:05Z",
     "created_at": "2023-03-14T20:26:39.346384Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.208.24.173",
@@ -6610,7 +6610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:08:50Z",
+    "checked_at": "2026-04-17T06:14:05Z",
     "created_at": "2023-03-14T21:00:07.481044Z",
     "available": false
   },
@@ -6625,12 +6625,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:08:57Z",
+    "checked_at": "2026-04-17T06:14:06Z",
     "created_at": "2023-03-14T21:19:12.626545Z",
     "available": true
   },
   {
-    "ip": "197.215.167.122",
+    "ip": "197.215.167.129",
     "name": "",
     "as_number": 327936,
     "as_org": "KiboConnect",
@@ -6640,12 +6640,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:09:05Z",
+    "checked_at": "2026-04-17T06:14:07Z",
     "created_at": "2023-03-14T21:33:00.059629Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "197.245.221.188",
+    "ip": "197.245.221.28",
     "name": "dsl-197-245-221-188.voxdsl.co.za.",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -6655,9 +6655,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:09:12Z",
+    "checked_at": "2026-04-17T06:14:07Z",
     "created_at": "2023-03-14T21:42:32.205613Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "197.155.101.103",
@@ -6670,12 +6670,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:09:19Z",
+    "checked_at": "2026-04-17T06:14:08Z",
     "created_at": "2023-03-14T22:12:25.519576Z",
     "available": false
   },
   {
-    "ip": "165.73.232.2",
+    "ip": "165.73.232.254",
     "name": "",
     "as_number": 328237,
     "as_org": "Mega-Max-AS",
@@ -6685,12 +6685,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:09:27Z",
+    "checked_at": "2026-04-17T06:14:09Z",
     "created_at": "2023-03-14T22:28:04.42501Z",
     "available": true
   },
   {
-    "ip": "102.221.14.165",
+    "ip": "102.221.14.35",
     "name": "102-221-14-165.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -6700,9 +6700,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:09:34Z",
+    "checked_at": "2026-04-17T06:14:10Z",
     "created_at": "2023-03-14T22:39:54.791259Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "41.23.190.210",
@@ -6715,7 +6715,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:09:41Z",
+    "checked_at": "2026-04-17T06:14:13Z",
     "created_at": "2023-03-14T22:43:21.756275Z",
     "available": true
   },
@@ -6730,12 +6730,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:09:42Z",
+    "checked_at": "2026-04-17T06:14:13Z",
     "created_at": "2023-03-14T22:48:55.708937Z",
     "available": true
   },
   {
-    "ip": "154.70.254.161",
+    "ip": "154.70.254.154",
     "name": "",
     "as_number": 37239,
     "as_org": "ICTGLOBE",
@@ -6745,9 +6745,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:09:49Z",
+    "checked_at": "2026-04-17T06:14:14Z",
     "created_at": "2023-03-14T22:50:36.562773Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "197.189.200.10",
@@ -6760,7 +6760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:09:54Z",
+    "checked_at": "2026-04-17T06:14:14Z",
     "created_at": "2023-03-14T22:55:16.239397Z",
     "available": true
   },
@@ -6775,12 +6775,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:09:58Z",
+    "checked_at": "2026-04-17T06:14:14Z",
     "created_at": "2023-03-14T23:17:34.473219Z",
     "available": false
   },
   {
-    "ip": "129.232.134.93",
+    "ip": "129.232.134.122",
     "name": "",
     "as_number": 37153,
     "as_org": "xneelo",
@@ -6790,7 +6790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:06Z",
+    "checked_at": "2026-04-17T06:14:15Z",
     "created_at": "2023-03-14T23:34:15.098387Z",
     "available": true
   },
@@ -6805,9 +6805,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:06Z",
+    "checked_at": "2026-04-17T06:14:15Z",
     "created_at": "2023-03-15T00:05:04.46836Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "102.133.131.235",
@@ -6820,7 +6820,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:07Z",
+    "checked_at": "2026-04-17T06:14:15Z",
     "created_at": "2023-03-15T00:12:00.770393Z",
     "available": false
   },
@@ -6835,12 +6835,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:14Z",
+    "checked_at": "2026-04-17T06:14:16Z",
     "created_at": "2023-03-15T00:26:55.669325Z",
     "available": true
   },
   {
-    "ip": "41.23.114.25",
+    "ip": "41.23.114.1",
     "name": "vc-41-23-114-25.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -6850,12 +6850,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:19Z",
+    "checked_at": "2026-04-17T06:14:16Z",
     "created_at": "2023-03-15T01:39:49.453701Z",
     "available": true
   },
   {
-    "ip": "169.239.176.248",
+    "ip": "169.239.176.140",
     "name": "",
     "as_number": 327962,
     "as_org": "PacketSky",
@@ -6865,7 +6865,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:19Z",
+    "checked_at": "2026-04-17T06:14:16Z",
     "created_at": "2023-03-15T01:42:14.977053Z",
     "available": true
   },
@@ -6880,12 +6880,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:23Z",
+    "checked_at": "2026-04-17T06:14:17Z",
     "created_at": "2023-03-15T01:44:49.457986Z",
     "available": true
   },
   {
-    "ip": "45.221.84.129",
+    "ip": "45.221.84.38",
     "name": "45-221-84-210.clearaccess.co.za.",
     "as_number": 327794,
     "as_org": "CLEAR-ACCESS",
@@ -6895,12 +6895,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:26Z",
+    "checked_at": "2026-04-17T06:14:17Z",
     "created_at": "2023-03-15T02:22:33.906239Z",
     "available": true
   },
   {
-    "ip": "160.19.199.137",
+    "ip": "160.19.199.183",
     "name": "undefined.hostname.localhost.",
     "as_number": 37542,
     "as_org": "Iclix-CC",
@@ -6910,7 +6910,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:33Z",
+    "checked_at": "2026-04-17T06:14:18Z",
     "created_at": "2023-03-15T02:48:07.131627Z",
     "available": true
   },
@@ -6925,12 +6925,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:41Z",
+    "checked_at": "2026-04-17T06:14:19Z",
     "created_at": "2023-03-15T03:04:27.673563Z",
     "available": true
   },
   {
-    "ip": "154.73.183.146",
+    "ip": "154.73.183.139",
     "name": "",
     "as_number": 327808,
     "as_org": "Tesuco-Telecommunications",
@@ -6940,7 +6940,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:45Z",
+    "checked_at": "2026-04-17T06:14:19Z",
     "created_at": "2023-03-15T03:20:47.214806Z",
     "available": true
   },
@@ -6955,12 +6955,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:10:53Z",
+    "checked_at": "2026-04-17T06:14:20Z",
     "created_at": "2023-03-15T03:38:18.110335Z",
     "available": true
   },
   {
-    "ip": "102.214.111.117",
+    "ip": "102.214.111.122",
     "name": "",
     "as_number": 329165,
     "as_org": "WPTL-AS",
@@ -6970,12 +6970,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:11:00Z",
+    "checked_at": "2026-04-17T06:14:20Z",
     "created_at": "2023-03-15T03:52:58.2392Z",
     "available": true
   },
   {
-    "ip": "196.15.218.105",
+    "ip": "196.15.218.72",
     "name": "",
     "as_number": 5713,
     "as_org": "SAIX-NET",
@@ -6985,7 +6985,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:11:04Z",
+    "checked_at": "2026-04-17T06:14:20Z",
     "created_at": "2023-03-15T04:19:43.943191Z",
     "available": true
   },
@@ -7000,7 +7000,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:11:12Z",
+    "checked_at": "2026-04-17T06:14:21Z",
     "created_at": "2023-03-15T04:34:45.723017Z",
     "available": false
   },
@@ -7015,12 +7015,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:11:16Z",
+    "checked_at": "2026-04-17T06:14:21Z",
     "created_at": "2023-03-15T04:38:42.286044Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "197.155.100.194",
+    "ip": "197.155.100.119",
     "name": "197-155-100-194.sainet.co.za.",
     "as_number": 37356,
     "as_org": "Huge-Networks",
@@ -7030,12 +7030,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:11:24Z",
+    "checked_at": "2026-04-17T06:14:21Z",
     "created_at": "2023-03-15T04:43:19.41488Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "102.22.122.189",
+    "ip": "102.22.122.225",
     "name": "",
     "as_number": 328399,
     "as_org": "Vaal-Networking-AS",
@@ -7045,7 +7045,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:11:31Z",
+    "checked_at": "2026-04-17T06:14:22Z",
     "created_at": "2023-03-15T04:54:17.870913Z",
     "available": true
   },
@@ -7060,7 +7060,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9833333333333333,
-    "checked_at": "2025-03-26T10:11:38Z",
+    "checked_at": "2026-04-17T06:14:23Z",
     "created_at": "2023-03-15T04:56:11.081034Z",
     "available": true
   },
@@ -7075,9 +7075,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:11:46Z",
+    "checked_at": "2026-04-17T06:14:23Z",
     "created_at": "2023-03-15T05:20:34.824331Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "154.117.182.38",
@@ -7090,7 +7090,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:11:53Z",
+    "checked_at": "2026-04-17T06:14:23Z",
     "created_at": "2023-03-15T05:23:13.95159Z",
     "available": true
   },
@@ -7105,7 +7105,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:12:00Z",
+    "checked_at": "2026-04-17T06:14:24Z",
     "created_at": "2023-03-15T05:36:26.094641Z",
     "available": true
   },
@@ -7120,7 +7120,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.985981308411215,
-    "checked_at": "2025-03-26T10:12:04Z",
+    "checked_at": "2026-04-17T06:14:25Z",
     "created_at": "2023-03-15T05:42:09.017528Z",
     "available": true
   },
@@ -7135,12 +7135,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:12:11Z",
+    "checked_at": "2026-04-17T06:14:25Z",
     "created_at": "2023-03-15T05:45:43.056612Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "102.182.209.109",
+    "ip": "102.182.209.114",
     "name": "102-182-209-185.ip.afrihost.joburg.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -7150,7 +7150,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-26T10:12:18Z",
+    "checked_at": "2026-04-17T06:14:27Z",
     "created_at": "2023-03-15T06:57:58.256847Z",
     "available": true
   },
@@ -7165,12 +7165,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:12:26Z",
+    "checked_at": "2026-04-17T06:14:27Z",
     "created_at": "2023-03-15T07:19:20.449111Z",
     "available": false
   },
   {
-    "ip": "197.221.183.130",
+    "ip": "197.221.183.10",
     "name": "197-221-183-133.sainet.co.za.",
     "as_number": 37356,
     "as_org": "Huge-Networks",
@@ -7180,12 +7180,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:12:33Z",
+    "checked_at": "2026-04-17T06:14:28Z",
     "created_at": "2023-03-15T07:26:23.62554Z",
     "available": true
   },
   {
-    "ip": "154.117.166.182",
+    "ip": "154.117.166.134",
     "name": "198-166-117-154.bitcointernet.co.za.",
     "as_number": 37358,
     "as_org": "BITCO",
@@ -7195,12 +7195,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:12:40Z",
+    "checked_at": "2026-04-17T06:14:29Z",
     "created_at": "2023-03-15T07:54:47.183129Z",
     "available": true
   },
   {
-    "ip": "197.242.146.100",
+    "ip": "197.242.146.106",
     "name": "unigradient.dedicated.co.za.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -7210,12 +7210,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:12:48Z",
+    "checked_at": "2026-04-17T06:14:29Z",
     "created_at": "2023-03-15T08:50:15.105102Z",
     "available": true
   },
   {
-    "ip": "169.1.254.190",
+    "ip": "169.1.254.159",
     "name": "169-1-254-224.ip.afrihost.co.za.",
     "as_number": 37611,
     "as_org": "Afrihost",
@@ -7225,7 +7225,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9767441860465116,
-    "checked_at": "2025-03-26T10:12:55Z",
+    "checked_at": "2026-04-17T06:14:30Z",
     "created_at": "2023-03-15T08:58:27.795631Z",
     "available": true
   },
@@ -7240,7 +7240,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9782608695652174,
-    "checked_at": "2025-03-26T10:13:02Z",
+    "checked_at": "2026-04-17T06:14:30Z",
     "created_at": "2023-03-15T09:18:35.248677Z",
     "available": true
   },
@@ -7255,7 +7255,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7471264367816092,
-    "checked_at": "2025-03-26T10:13:10Z",
+    "checked_at": "2026-04-17T06:14:30Z",
     "created_at": "2023-03-15T09:38:12.820952Z",
     "available": true
   },
@@ -7270,12 +7270,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.84375,
-    "checked_at": "2025-03-26T10:13:14Z",
+    "checked_at": "2026-04-17T06:14:31Z",
     "created_at": "2023-03-15T11:32:42.959471Z",
     "available": false
   },
   {
-    "ip": "169.255.36.58",
+    "ip": "169.255.36.1",
     "name": "hst-169-255-36-58.123net.link.",
     "as_number": 61092,
     "as_org": "123 Net Cpt (pty) Ltd",
@@ -7285,7 +7285,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:13:22Z",
+    "checked_at": "2026-04-17T06:14:31Z",
     "created_at": "2023-03-15T11:38:38.40549Z",
     "available": true
   },
@@ -7300,12 +7300,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.90625,
-    "checked_at": "2025-03-26T10:13:25Z",
+    "checked_at": "2026-04-17T06:14:32Z",
     "created_at": "2023-03-15T11:54:30.662333Z",
     "available": true
   },
   {
-    "ip": "102.221.14.141",
+    "ip": "102.221.14.35",
     "name": "102-221-14-141.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -7315,9 +7315,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:13:26Z",
+    "checked_at": "2026-04-17T06:14:33Z",
     "created_at": "2023-03-15T11:56:48.361389Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "41.79.82.150",
@@ -7330,7 +7330,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:13:33Z",
+    "checked_at": "2026-04-17T06:14:34Z",
     "created_at": "2023-03-15T12:46:20.226942Z",
     "available": false
   },
@@ -7345,12 +7345,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96875,
-    "checked_at": "2025-03-26T10:13:40Z",
+    "checked_at": "2026-04-17T06:14:34Z",
     "created_at": "2023-03-15T12:47:54.296082Z",
     "available": true
   },
   {
-    "ip": "102.132.169.170",
+    "ip": "102.132.169.12",
     "name": "n88l-cust.coolideas.co.za.",
     "as_number": 37680,
     "as_org": "COOL-IDEAS",
@@ -7360,7 +7360,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:13:45Z",
+    "checked_at": "2026-04-17T06:14:35Z",
     "created_at": "2023-03-15T12:54:42.067275Z",
     "available": true
   },
@@ -7375,7 +7375,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96875,
-    "checked_at": "2025-03-26T10:13:52Z",
+    "checked_at": "2026-04-17T06:14:35Z",
     "created_at": "2023-03-15T13:08:26.335685Z",
     "available": false
   },
@@ -7390,7 +7390,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9393939393939394,
-    "checked_at": "2025-03-26T10:14:00Z",
+    "checked_at": "2026-04-17T06:14:36Z",
     "created_at": "2023-03-15T14:04:38.464968Z",
     "available": true
   },
@@ -7405,9 +7405,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:14:00Z",
+    "checked_at": "2026-04-17T06:14:36Z",
     "created_at": "2023-03-15T14:26:52.845909Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.23.99.102",
@@ -7420,12 +7420,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.84375,
-    "checked_at": "2025-03-26T10:14:08Z",
+    "checked_at": "2026-04-17T06:14:36Z",
     "created_at": "2023-03-15T14:57:52.679872Z",
     "available": true
   },
   {
-    "ip": "102.219.253.30",
+    "ip": "102.219.253.101",
     "name": "",
     "as_number": 5713,
     "as_org": "SAIX-NET",
@@ -7435,7 +7435,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.90625,
-    "checked_at": "2025-03-26T10:14:15Z",
+    "checked_at": "2026-04-17T06:14:36Z",
     "created_at": "2023-03-15T15:05:02.838797Z",
     "available": true
   },
@@ -7450,7 +7450,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96875,
-    "checked_at": "2025-03-26T10:14:23Z",
+    "checked_at": "2026-04-17T06:14:37Z",
     "created_at": "2023-03-15T15:10:01.093599Z",
     "available": false
   },
@@ -7465,7 +7465,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:14:30Z",
+    "checked_at": "2026-04-17T06:14:37Z",
     "created_at": "2023-03-15T15:28:19.854939Z",
     "available": true
   },
@@ -7480,7 +7480,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96875,
-    "checked_at": "2025-03-26T10:14:33Z",
+    "checked_at": "2026-04-17T06:14:37Z",
     "created_at": "2023-03-15T15:43:12.871452Z",
     "available": true
   },
@@ -7495,7 +7495,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:14:41Z",
+    "checked_at": "2026-04-17T06:14:37Z",
     "created_at": "2023-03-15T15:57:17.049348Z",
     "available": true
   },
@@ -7510,7 +7510,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9666666666666667,
-    "checked_at": "2025-03-26T10:14:48Z",
+    "checked_at": "2026-04-17T06:14:38Z",
     "created_at": "2023-03-15T16:17:49.147446Z",
     "available": true
   },
@@ -7525,7 +7525,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:14:55Z",
+    "checked_at": "2026-04-17T06:14:39Z",
     "created_at": "2023-03-15T16:25:08.410036Z",
     "available": true
   },
@@ -7540,7 +7540,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:14:56Z",
+    "checked_at": "2026-04-17T06:14:39Z",
     "created_at": "2023-03-15T16:29:40.081218Z",
     "available": false
   },
@@ -7555,12 +7555,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6714975845410628,
-    "checked_at": "2025-03-26T10:15:03Z",
+    "checked_at": "2026-04-17T06:14:41Z",
     "created_at": "2023-03-15T16:38:35.691504Z",
     "available": false
   },
   {
-    "ip": "41.203.32.73",
+    "ip": "41.203.32.134",
     "name": "",
     "as_number": 36968,
     "as_org": "ECN Telecommunications",
@@ -7570,12 +7570,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9696969696969697,
-    "checked_at": "2025-03-26T10:15:10Z",
+    "checked_at": "2026-04-17T06:14:41Z",
     "created_at": "2023-03-15T16:59:58.031666Z",
     "available": true
   },
   {
-    "ip": "197.245.244.28",
+    "ip": "197.245.244.39",
     "name": "dsl-197-245-244-28.voxdsl.co.za.",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -7585,9 +7585,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:15:18Z",
+    "checked_at": "2026-04-17T06:14:41Z",
     "created_at": "2023-03-15T17:14:02.401421Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "160.19.197.115",
@@ -7600,12 +7600,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.875,
-    "checked_at": "2025-03-26T10:15:25Z",
+    "checked_at": "2026-04-17T06:14:41Z",
     "created_at": "2023-03-15T18:15:35.79859Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "102.221.244.105",
+    "ip": "102.221.244.1",
     "name": "",
     "as_number": 328474,
     "as_org": "Jebo-Connect-AS",
@@ -7615,7 +7615,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:15:30Z",
+    "checked_at": "2026-04-17T06:14:42Z",
     "created_at": "2023-03-15T20:34:10.83459Z",
     "available": true
   },
@@ -7630,12 +7630,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9666666666666667,
-    "checked_at": "2025-03-26T10:15:37Z",
+    "checked_at": "2026-04-17T06:14:42Z",
     "created_at": "2023-03-15T21:09:58.591767Z",
     "available": true
   },
   {
-    "ip": "197.234.27.26",
+    "ip": "197.234.27.3",
     "name": "",
     "as_number": 37239,
     "as_org": "ICTGLOBE",
@@ -7645,12 +7645,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.801980198019802,
-    "checked_at": "2025-03-26T10:15:40Z",
+    "checked_at": "2026-04-17T06:14:42Z",
     "created_at": "2023-03-15T23:33:29.894582Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "41.23.234.88",
+    "ip": "41.23.234.101",
     "name": "vc-41-23-234-88.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -7660,7 +7660,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9259259259259259,
-    "checked_at": "2025-03-26T10:15:48Z",
+    "checked_at": "2026-04-17T06:14:43Z",
     "created_at": "2023-03-16T00:49:14.458545Z",
     "available": true
   },
@@ -7675,12 +7675,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9310344827586207,
-    "checked_at": "2025-03-26T10:15:48Z",
+    "checked_at": "2026-04-17T06:14:43Z",
     "created_at": "2023-03-16T03:30:52.691765Z",
     "available": true
   },
   {
-    "ip": "197.245.28.30",
+    "ip": "197.245.28.125",
     "name": "dsl-197-245-28-57.voxdsl.co.za.",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -7690,7 +7690,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:15:53Z",
+    "checked_at": "2026-04-17T06:14:43Z",
     "created_at": "2023-03-16T03:36:10.704155Z",
     "available": true
   },
@@ -7705,7 +7705,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.989010989010989,
-    "checked_at": "2025-03-26T10:16:00Z",
+    "checked_at": "2026-04-17T06:14:45Z",
     "created_at": "2023-03-16T04:03:15.893786Z",
     "available": true
   },
@@ -7720,7 +7720,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8823529411764706,
-    "checked_at": "2025-03-26T10:16:05Z",
+    "checked_at": "2026-04-17T06:14:45Z",
     "created_at": "2023-03-16T04:23:05.644786Z",
     "available": false
   },
@@ -7735,7 +7735,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:16:12Z",
+    "checked_at": "2026-04-17T06:14:46Z",
     "created_at": "2023-03-16T06:37:02.435686Z",
     "available": true
   },
@@ -7750,7 +7750,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:16:20Z",
+    "checked_at": "2026-04-17T06:14:46Z",
     "created_at": "2023-03-16T06:56:59.831165Z",
     "available": true
   },
@@ -7765,7 +7765,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8268156424581006,
-    "checked_at": "2025-03-26T10:16:20Z",
+    "checked_at": "2026-04-17T06:14:47Z",
     "created_at": "2023-03-16T07:02:38.852942Z",
     "available": false
   },
@@ -7780,7 +7780,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7272727272727273,
-    "checked_at": "2025-03-26T10:16:27Z",
+    "checked_at": "2026-04-17T06:14:47Z",
     "created_at": "2023-03-16T07:59:18.089178Z",
     "available": false
   },
@@ -7795,12 +7795,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:16:35Z",
+    "checked_at": "2026-04-17T06:14:48Z",
     "created_at": "2023-03-16T09:18:04.64689Z",
     "available": true
   },
   {
-    "ip": "197.245.193.10",
+    "ip": "197.245.193.242",
     "name": "",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -7810,7 +7810,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:16:42Z",
+    "checked_at": "2026-04-17T06:14:48Z",
     "created_at": "2023-03-16T10:27:42.028635Z",
     "available": true
   },
@@ -7825,7 +7825,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.967741935483871,
-    "checked_at": "2025-03-26T10:16:50Z",
+    "checked_at": "2026-04-17T06:14:49Z",
     "created_at": "2023-03-16T11:01:03.083848Z",
     "available": true
   },
@@ -7840,7 +7840,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:16:57Z",
+    "checked_at": "2026-04-17T06:14:49Z",
     "created_at": "2023-03-16T11:30:05.675162Z",
     "available": true
   },
@@ -7855,12 +7855,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8289473684210527,
-    "checked_at": "2025-03-26T10:17:04Z",
+    "checked_at": "2026-04-17T06:14:50Z",
     "created_at": "2023-03-16T12:41:12.199817Z",
     "available": true
   },
   {
-    "ip": "41.185.95.243",
+    "ip": "41.185.95.248",
     "name": "siy201-win1.hostserv.co.za.",
     "as_number": 36943,
     "as_org": "ZA-1-Grid",
@@ -7870,12 +7870,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-26T10:17:05Z",
+    "checked_at": "2026-04-17T06:14:51Z",
     "created_at": "2023-03-16T12:53:58.505831Z",
     "available": true
   },
   {
-    "ip": "102.221.14.67",
+    "ip": "102.221.14.35",
     "name": "102-221-14-67.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -7885,12 +7885,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-26T10:17:05Z",
+    "checked_at": "2026-04-17T06:14:51Z",
     "created_at": "2023-03-16T13:38:11.168511Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "102.221.216.76",
+    "ip": "102.221.216.10",
     "name": "",
     "as_number": 328732,
     "as_org": "Krypton-Web",
@@ -7900,7 +7900,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:17:13Z",
+    "checked_at": "2026-04-17T06:14:51Z",
     "created_at": "2023-03-16T14:18:07.656528Z",
     "available": true
   },
@@ -7915,7 +7915,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:17:16Z",
+    "checked_at": "2026-04-17T06:14:51Z",
     "created_at": "2023-03-16T14:27:06.89448Z",
     "available": true
   },
@@ -7930,12 +7930,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-26T10:17:23Z",
+    "checked_at": "2026-04-17T06:14:51Z",
     "created_at": "2023-03-16T14:50:45.37737Z",
     "available": false
   },
   {
-    "ip": "197.245.244.49",
+    "ip": "197.245.244.39",
     "name": "dsl-197-245-244-49.voxdsl.co.za.",
     "as_number": 11845,
     "as_org": "Vox-Telecom",
@@ -7945,12 +7945,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.46153846153846156,
-    "checked_at": "2025-03-26T10:17:31Z",
+    "checked_at": "2026-04-17T06:14:51Z",
     "created_at": "2023-03-16T16:01:42.463893Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "41.76.103.1",
+    "ip": "41.76.103.2",
     "name": "",
     "as_number": 37334,
     "as_org": "ARC",
@@ -7960,7 +7960,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:17:38Z",
+    "checked_at": "2026-04-17T06:14:52Z",
     "created_at": "2023-03-16T16:51:38.265444Z",
     "available": true
   },
@@ -7975,9 +7975,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8421052631578947,
-    "checked_at": "2025-03-26T10:17:45Z",
+    "checked_at": "2026-04-17T06:14:53Z",
     "created_at": "2023-03-16T17:14:14.259758Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "154.73.218.1",
@@ -7990,9 +7990,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9565217391304348,
-    "checked_at": "2025-03-26T10:17:53Z",
+    "checked_at": "2026-04-17T06:14:55Z",
     "created_at": "2023-03-16T17:28:46.637135Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.222.120.106",
@@ -8005,12 +8005,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6521739130434783,
-    "checked_at": "2025-03-26T10:18:00Z",
+    "checked_at": "2026-04-17T06:14:55Z",
     "created_at": "2023-03-16T17:34:37.997508Z",
     "available": true
   },
   {
-    "ip": "160.119.121.111",
+    "ip": "160.119.121.185",
     "name": "",
     "as_number": 328024,
     "as_org": "JACQCO-MANAGEMENT",
@@ -8020,7 +8020,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6521739130434783,
-    "checked_at": "2025-03-26T10:18:01Z",
+    "checked_at": "2026-04-17T06:14:55Z",
     "created_at": "2023-03-16T17:39:23.655874Z",
     "available": true
   },
@@ -8035,7 +8035,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6521739130434783,
-    "checked_at": "2025-03-26T10:18:05Z",
+    "checked_at": "2026-04-17T06:14:55Z",
     "created_at": "2023-03-16T17:42:44.18508Z",
     "available": true
   },
@@ -8050,7 +8050,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.625,
-    "checked_at": "2025-03-26T10:18:13Z",
+    "checked_at": "2026-04-17T06:14:56Z",
     "created_at": "2023-03-16T17:54:10.281713Z",
     "available": true
   },
@@ -8065,7 +8065,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-26T10:18:20Z",
+    "checked_at": "2026-04-17T06:14:56Z",
     "created_at": "2023-03-16T17:55:41.91457Z",
     "available": true
   },
@@ -8080,12 +8080,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6923076923076923,
-    "checked_at": "2025-03-26T10:18:27Z",
+    "checked_at": "2026-04-17T06:14:56Z",
     "created_at": "2023-03-16T19:02:54.859317Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "196.250.21.164",
+    "ip": "196.250.21.161",
     "name": "",
     "as_number": 37515,
     "as_org": "iCONNECT",
@@ -8095,7 +8095,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6538461538461539,
-    "checked_at": "2025-03-26T10:18:32Z",
+    "checked_at": "2026-04-17T06:14:57Z",
     "created_at": "2023-03-16T19:05:24.383173Z",
     "available": true
   },
@@ -8110,7 +8110,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.975609756097561,
-    "checked_at": "2025-03-26T10:18:35Z",
+    "checked_at": "2026-04-17T06:14:57Z",
     "created_at": "2023-03-16T19:26:48.082367Z",
     "available": true
   },
@@ -8125,7 +8125,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6428571428571429,
-    "checked_at": "2025-03-26T10:18:40Z",
+    "checked_at": "2026-04-17T06:14:57Z",
     "created_at": "2023-03-16T19:44:48.557935Z",
     "available": true
   },
@@ -8140,7 +8140,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9642857142857143,
-    "checked_at": "2025-03-26T10:18:47Z",
+    "checked_at": "2026-04-17T06:14:57Z",
     "created_at": "2023-03-16T20:11:44.161081Z",
     "available": true
   },
@@ -8155,7 +8155,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5714285714285714,
-    "checked_at": "2025-03-26T10:18:54Z",
+    "checked_at": "2026-04-17T06:14:58Z",
     "created_at": "2023-03-16T20:24:48.123034Z",
     "available": true
   },
@@ -8170,12 +8170,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:19:02Z",
+    "checked_at": "2026-04-17T06:14:58Z",
     "created_at": "2023-03-16T21:35:59.338275Z",
     "available": true
   },
   {
-    "ip": "102.67.139.204",
+    "ip": "102.67.139.102",
     "name": "him.alphasally.com.",
     "as_number": 328170,
     "as_org": "DataKeepers",
@@ -8185,7 +8185,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:19:05Z",
+    "checked_at": "2026-04-17T06:14:58Z",
     "created_at": "2023-03-16T21:47:04.328328Z",
     "available": true
   },
@@ -8200,9 +8200,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-26T10:19:06Z",
+    "checked_at": "2026-04-17T06:15:00Z",
     "created_at": "2023-03-16T21:56:53.299623Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "102.222.29.1",
@@ -8215,12 +8215,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-26T10:19:09Z",
+    "checked_at": "2026-04-17T06:15:00Z",
     "created_at": "2023-03-16T22:23:34.935394Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "154.0.11.78",
+    "ip": "154.0.11.117",
     "name": "u2bt-cust.coolideas.co.za.",
     "as_number": 37680,
     "as_org": "COOL-IDEAS",
@@ -8230,12 +8230,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9032258064516129,
-    "checked_at": "2025-03-26T10:19:16Z",
+    "checked_at": "2026-04-17T06:15:01Z",
     "created_at": "2023-03-16T23:17:48.47306Z",
     "available": true
   },
   {
-    "ip": "197.221.101.10",
+    "ip": "197.221.101.13",
     "name": "",
     "as_number": 37334,
     "as_org": "ARC",
@@ -8245,12 +8245,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-26T10:19:21Z",
+    "checked_at": "2026-04-17T06:15:02Z",
     "created_at": "2023-03-16T23:18:48.906246Z",
     "available": true
   },
   {
-    "ip": "41.23.184.1",
+    "ip": "41.23.184.102",
     "name": "vc-41-23-184-55.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -8260,7 +8260,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6774193548387096,
-    "checked_at": "2025-03-26T10:19:21Z",
+    "checked_at": "2026-04-17T06:15:02Z",
     "created_at": "2023-03-17T00:40:28.091228Z",
     "available": true
   },
@@ -8275,12 +8275,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-26T10:19:29Z",
+    "checked_at": "2026-04-17T06:15:02Z",
     "created_at": "2023-03-17T00:48:52.325287Z",
     "available": true
   },
   {
-    "ip": "102.221.14.12",
+    "ip": "102.221.14.35",
     "name": "102-221-14-14.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -8290,9 +8290,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-26T10:19:29Z",
+    "checked_at": "2026-04-17T06:15:02Z",
     "created_at": "2023-03-17T00:50:03.804967Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "41.162.120.85",
@@ -8305,7 +8305,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-03-26T10:19:36Z",
+    "checked_at": "2026-04-17T06:15:03Z",
     "created_at": "2023-03-17T01:22:12.925819Z",
     "available": true
   },
@@ -8320,7 +8320,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.71875,
-    "checked_at": "2025-03-26T10:19:40Z",
+    "checked_at": "2026-04-17T06:15:04Z",
     "created_at": "2023-03-17T01:38:59.365601Z",
     "available": false
   },
@@ -8335,7 +8335,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.71875,
-    "checked_at": "2025-03-26T10:19:47Z",
+    "checked_at": "2026-04-17T06:15:05Z",
     "created_at": "2023-03-17T02:05:20.769832Z",
     "available": false
   },
@@ -8350,7 +8350,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4375,
-    "checked_at": "2025-03-26T10:19:54Z",
+    "checked_at": "2026-04-17T06:15:05Z",
     "created_at": "2023-03-17T03:14:34.362009Z",
     "available": true
   },
@@ -8365,7 +8365,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.625,
-    "checked_at": "2025-03-26T10:19:58Z",
+    "checked_at": "2026-04-17T06:15:05Z",
     "created_at": "2023-03-17T03:32:31.179034Z",
     "available": true
   },
@@ -8380,12 +8380,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.5238095238095238,
-    "checked_at": "2025-03-26T10:20:05Z",
+    "checked_at": "2026-04-17T06:15:06Z",
     "created_at": "2023-03-17T04:13:04.050187Z",
     "available": true
   },
   {
-    "ip": "102.223.124.129",
+    "ip": "102.223.124.128",
     "name": "",
     "as_number": 206283,
     "as_org": "Star Satellite Communications Company - PJSC",
@@ -8395,12 +8395,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7380952380952381,
-    "checked_at": "2025-03-26T10:20:12Z",
+    "checked_at": "2026-04-17T06:15:06Z",
     "created_at": "2023-03-17T04:17:32.216187Z",
     "available": true
   },
   {
-    "ip": "102.221.14.20",
+    "ip": "102.221.14.35",
     "name": "102-221-14-20.techwoodtrading.co.za.",
     "as_number": 328810,
     "as_org": "Techwood-as",
@@ -8410,9 +8410,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7619047619047619,
-    "checked_at": "2025-03-26T10:20:20Z",
+    "checked_at": "2026-04-17T06:15:06Z",
     "created_at": "2023-03-17T04:18:32.169834Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "41.23.240.216",
@@ -8425,7 +8425,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9302325581395349,
-    "checked_at": "2025-03-26T10:20:27Z",
+    "checked_at": "2026-04-17T06:15:07Z",
     "created_at": "2023-03-17T05:06:20.825259Z",
     "available": true
   },
@@ -8440,7 +8440,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7954545454545454,
-    "checked_at": "2025-03-26T10:20:30Z",
+    "checked_at": "2026-04-17T06:15:07Z",
     "created_at": "2023-03-17T05:27:23.984882Z",
     "available": true
   },
@@ -8455,7 +8455,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9772727272727273,
-    "checked_at": "2025-03-26T10:20:31Z",
+    "checked_at": "2026-04-17T06:15:07Z",
     "created_at": "2023-03-17T05:38:29.255189Z",
     "available": true
   },
@@ -8470,12 +8470,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7272727272727273,
-    "checked_at": "2025-03-26T10:20:31Z",
+    "checked_at": "2026-04-17T06:15:07Z",
     "created_at": "2023-03-17T06:01:14.259931Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "156.38.239.106",
+    "ip": "156.38.239.114",
     "name": "181.239.38.156.reverse.xneelo.net.",
     "as_number": 37153,
     "as_org": "xneelo",
@@ -8485,7 +8485,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8863636363636364,
-    "checked_at": "2025-03-26T10:20:39Z",
+    "checked_at": "2026-04-17T06:15:07Z",
     "created_at": "2023-03-17T06:06:48.121548Z",
     "available": true
   },
@@ -8500,7 +8500,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9545454545454546,
-    "checked_at": "2025-03-26T10:20:46Z",
+    "checked_at": "2026-04-17T06:15:08Z",
     "created_at": "2023-03-17T06:25:23.189998Z",
     "available": false
   },
@@ -8515,7 +8515,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7272727272727273,
-    "checked_at": "2025-03-26T10:20:51Z",
+    "checked_at": "2026-04-17T06:15:09Z",
     "created_at": "2023-03-17T06:32:27.455136Z",
     "available": true
   },
@@ -8530,9 +8530,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7272727272727273,
-    "checked_at": "2025-03-26T10:20:58Z",
+    "checked_at": "2026-04-17T06:15:09Z",
     "created_at": "2023-03-17T06:48:58.842665Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "41.165.19.186",
@@ -8545,7 +8545,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-26T10:21:05Z",
+    "checked_at": "2026-04-17T06:15:09Z",
     "created_at": "2023-03-17T06:50:52.539382Z",
     "available": true
   },
@@ -8560,12 +8560,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:21:13Z",
+    "checked_at": "2026-04-17T06:15:10Z",
     "created_at": "2023-03-17T07:04:25.06626Z",
     "available": true
   },
   {
-    "ip": "156.38.232.10",
+    "ip": "156.38.232.228",
     "name": "",
     "as_number": 37153,
     "as_org": "xneelo",
@@ -8575,7 +8575,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2025-03-26T10:21:13Z",
+    "checked_at": "2026-04-17T06:15:10Z",
     "created_at": "2023-03-17T07:14:42.455088Z",
     "available": true
   },
@@ -8590,7 +8590,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8636363636363636,
-    "checked_at": "2025-03-26T10:21:21Z",
+    "checked_at": "2026-04-17T06:15:11Z",
     "created_at": "2023-03-17T07:46:33.666986Z",
     "available": true
   },
@@ -8605,7 +8605,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7727272727272727,
-    "checked_at": "2025-03-26T10:21:25Z",
+    "checked_at": "2026-04-17T06:15:11Z",
     "created_at": "2023-03-17T07:50:29.411548Z",
     "available": true
   },
@@ -8620,7 +8620,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7608695652173914,
-    "checked_at": "2025-03-26T10:21:26Z",
+    "checked_at": "2026-04-17T06:15:12Z",
     "created_at": "2023-03-17T08:09:57.454639Z",
     "available": false
   },
@@ -8635,12 +8635,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7391304347826086,
-    "checked_at": "2025-03-26T10:21:33Z",
+    "checked_at": "2026-04-17T06:15:12Z",
     "created_at": "2023-03-17T08:15:20.484337Z",
     "available": true
   },
   {
-    "ip": "41.23.99.173",
+    "ip": "41.23.99.102",
     "name": "vc-41-23-99-173.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -8650,12 +8650,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-26T10:21:36Z",
+    "checked_at": "2026-04-17T06:15:12Z",
     "created_at": "2023-03-17T08:57:34.031967Z",
     "available": true
   },
   {
-    "ip": "102.22.81.43",
+    "ip": "102.22.81.11",
     "name": "",
     "as_number": 328170,
     "as_org": "DataKeepers",
@@ -8665,12 +8665,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-26T10:21:37Z",
+    "checked_at": "2026-04-17T06:15:12Z",
     "created_at": "2023-03-17T09:18:33.20082Z",
     "available": true
   },
   {
-    "ip": "41.23.113.150",
+    "ip": "41.23.113.1",
     "name": "vc-41-23-113-150.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -8680,7 +8680,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6833333333333333,
-    "checked_at": "2025-03-26T10:21:38Z",
+    "checked_at": "2026-04-17T06:15:15Z",
     "created_at": "2023-03-17T09:23:03.624792Z",
     "available": true
   },
@@ -8695,7 +8695,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6984126984126984,
-    "checked_at": "2025-03-26T10:21:38Z",
+    "checked_at": "2026-04-17T06:15:15Z",
     "created_at": "2023-03-17T09:42:58.274479Z",
     "available": true
   },
@@ -8710,9 +8710,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-26T10:21:39Z",
+    "checked_at": "2026-04-17T06:15:15Z",
     "created_at": "2023-03-17T10:10:16.355203Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "160.119.194.222",
@@ -8725,12 +8725,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6111111111111112,
-    "checked_at": "2025-03-26T10:21:39Z",
+    "checked_at": "2026-04-17T06:15:15Z",
     "created_at": "2023-03-17T10:35:01.701831Z",
     "available": true
   },
   {
-    "ip": "41.23.184.54",
+    "ip": "41.23.184.102",
     "name": "vc-41-23-184-54.umts.vodacom.co.za.",
     "as_number": 36994,
     "as_org": "Vodacom-VB",
@@ -8740,12 +8740,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7222222222222222,
-    "checked_at": "2025-03-26T10:21:47Z",
+    "checked_at": "2026-04-17T06:15:15Z",
     "created_at": "2023-03-17T12:12:44.073219Z",
     "available": true
   },
   {
-    "ip": "154.117.151.146",
+    "ip": "154.117.151.154",
     "name": "154-151-117-154.bitcointernet.co.za.",
     "as_number": 37358,
     "as_org": "BITCO",
@@ -8755,7 +8755,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9615384615384616,
-    "checked_at": "2025-03-26T10:21:47Z",
+    "checked_at": "2026-04-17T06:15:15Z",
     "created_at": "2023-03-17T15:50:52.313185Z",
     "available": true
   },
@@ -8770,7 +8770,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:21:55Z",
+    "checked_at": "2026-04-17T06:15:16Z",
     "created_at": "2023-03-17T16:15:13.235679Z",
     "available": true
   },
@@ -8785,12 +8785,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8518518518518519,
-    "checked_at": "2025-03-26T10:21:59Z",
+    "checked_at": "2026-04-17T06:15:17Z",
     "created_at": "2023-03-17T18:32:31.571565Z",
     "available": true
   },
   {
-    "ip": "41.76.103.1",
+    "ip": "41.76.103.2",
     "name": "",
     "as_number": 37334,
     "as_org": "ARC",
@@ -8800,7 +8800,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9245283018867925,
-    "checked_at": "2025-03-26T10:22:03Z",
+    "checked_at": "2026-04-17T06:15:17Z",
     "created_at": "2023-03-17T19:46:52.202412Z",
     "available": true
   },
@@ -8815,7 +8815,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:22:11Z",
+    "checked_at": "2026-04-17T06:15:19Z",
     "created_at": "2023-03-17T22:23:15.684789Z",
     "available": false
   },
@@ -8830,7 +8830,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:22:18Z",
+    "checked_at": "2026-04-17T06:15:19Z",
     "created_at": "2023-03-18T01:05:12.896165Z",
     "available": true
   },
@@ -8845,9 +8845,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:22:25Z",
+    "checked_at": "2026-04-17T06:15:19Z",
     "created_at": "2023-03-18T13:42:49.292144Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "196.213.221.198",
@@ -8860,12 +8860,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:22:33Z",
+    "checked_at": "2026-04-17T06:15:19Z",
     "created_at": "2023-03-18T18:02:05.480996Z",
     "available": false
   },
   {
-    "ip": "197.221.183.130",
+    "ip": "197.221.183.10",
     "name": "197-221-183-183.sainet.co.za.",
     "as_number": 37356,
     "as_org": "Huge-Networks",
@@ -8875,7 +8875,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9363057324840764,
-    "checked_at": "2025-03-26T10:22:40Z",
+    "checked_at": "2026-04-17T06:15:19Z",
     "created_at": "2023-03-18T18:10:31.982089Z",
     "available": true
   },
@@ -8890,12 +8890,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9230769230769231,
-    "checked_at": "2025-03-26T10:22:48Z",
+    "checked_at": "2026-04-17T06:15:20Z",
     "created_at": "2023-03-19T03:52:32.853705Z",
     "available": true
   },
   {
-    "ip": "102.141.126.196",
+    "ip": "102.141.126.34",
     "name": "",
     "as_number": 328323,
     "as_org": "Brilliant-Telco-AS",
@@ -8905,9 +8905,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.35714285714285715,
-    "checked_at": "2025-03-26T10:22:55Z",
+    "checked_at": "2026-04-17T06:15:20Z",
     "created_at": "2023-03-19T08:04:59.308654Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "102.216.223.7",
@@ -8920,7 +8920,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:23:02Z",
+    "checked_at": "2026-04-17T06:15:20Z",
     "created_at": "2023-03-19T08:12:22.196171Z",
     "available": true
   },
@@ -8935,7 +8935,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:23:05Z",
+    "checked_at": "2026-04-17T06:15:21Z",
     "created_at": "2023-03-19T12:38:36.81289Z",
     "available": true
   },
@@ -8950,9 +8950,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-26T10:23:13Z",
+    "checked_at": "2026-04-17T06:15:21Z",
     "created_at": "2023-03-19T22:25:38.034688Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "105.243.178.102",
@@ -8965,7 +8965,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-26T10:23:20Z",
+    "checked_at": "2026-04-17T06:15:22Z",
     "created_at": "2023-05-01T20:53:57.947044Z",
     "available": true
   },
@@ -8980,7 +8980,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8823529411764706,
-    "checked_at": "2025-03-26T10:23:28Z",
+    "checked_at": "2026-04-17T06:15:23Z",
     "created_at": "2023-05-07T05:25:05.49729Z",
     "available": true
   },
@@ -8995,7 +8995,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9673202614379085,
-    "checked_at": "2025-03-26T10:23:31Z",
+    "checked_at": "2026-04-17T06:15:23Z",
     "created_at": "2023-05-07T13:57:55.028241Z",
     "available": true
   },
@@ -9010,7 +9010,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8431372549019608,
-    "checked_at": "2025-03-26T10:23:34Z",
+    "checked_at": "2026-04-17T06:15:23Z",
     "created_at": "2015-01-12T01:47:25Z",
     "available": false
   }
