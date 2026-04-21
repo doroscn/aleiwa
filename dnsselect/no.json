@@ -2533,5 +2533,20 @@
     "checked_at": "2026-04-14T07:47:43Z",
     "created_at": "2026-04-14T07:47:43.503610Z",
     "available": true
+  },
+  {
+    "ip": "185.222.86.22",
+    "name": "",
+    "as_number": 29695,
+    "as_org": "Lyse Tele AS",
+    "country_id": "NO",
+    "city": "Stavanger",
+    "version": "",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-04-21T04:44:13Z",
+    "created_at": "2026-04-21T04:44:13.622949Z",
+    "available": true
   }
 ]
