@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T09:22:45Z",
+    "checked_at": "2026-04-22T10:21:37Z",
     "created_at": "2021-09-26T02:42:19.857944Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8253968253968254,
-    "checked_at": "2025-03-30T09:22:53Z",
+    "checked_at": "2026-04-22T10:21:37Z",
     "created_at": "2021-10-01T22:57:58.943615Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T09:23:00Z",
+    "checked_at": "2026-04-22T10:21:37Z",
     "created_at": "2021-10-01T23:01:32.288326Z",
     "available": true
   },
@@ -55,12 +55,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T09:23:07Z",
+    "checked_at": "2026-04-22T10:21:37Z",
     "created_at": "2021-10-01T23:41:26.27329Z",
     "available": true
   },
   {
-    "ip": "154.72.199.202",
+    "ip": "154.72.199.30",
     "name": "hca.gou.go.ug.",
     "as_number": 327724,
     "as_org": "NITA",
@@ -70,9 +70,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T09:23:15Z",
+    "checked_at": "2026-04-22T10:21:37Z",
     "created_at": "2021-10-18T14:47:09.372062Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "41.173.6.98",
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7317073170731707,
-    "checked_at": "2025-03-30T09:23:22Z",
+    "checked_at": "2026-04-22T10:21:37Z",
     "created_at": "2022-10-31T11:11:16.777463Z",
     "available": true
   },
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8228155339805825,
-    "checked_at": "2025-03-30T09:23:29Z",
+    "checked_at": "2026-04-22T10:21:37Z",
     "created_at": "2022-11-15T15:19:19.042851Z",
     "available": true
   },
   {
-    "ip": "41.190.150.122",
+    "ip": "41.190.150.133",
     "name": "",
     "as_number": 30844,
     "as_org": "Liquid Telecommunications Ltd",
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T09:23:37Z",
+    "checked_at": "2026-04-22T10:21:37Z",
     "created_at": "2023-03-14T07:38:07.758518Z",
     "available": true
   },
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T09:23:44Z",
+    "checked_at": "2026-04-22T10:21:37Z",
     "created_at": "2023-03-14T08:22:27.073349Z",
     "available": true
   },
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8545454545454545,
-    "checked_at": "2025-03-30T09:23:45Z",
+    "checked_at": "2026-04-22T10:21:37Z",
     "created_at": "2023-03-17T20:10:29.906883Z",
     "available": false
   }
