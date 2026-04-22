@@ -778,5 +778,50 @@
     "checked_at": "2026-04-14T08:53:01Z",
     "created_at": "2026-04-14T08:53:01.892220Z",
     "available": true
+  },
+  {
+    "ip": "37.8.0.34",
+    "name": "",
+    "as_number": 12975,
+    "as_org": "PALTEL Autonomous System",
+    "country_id": "PS",
+    "city": "Gaza",
+    "version": "dnsmasq-2.76",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-04-22T09:26:49Z",
+    "created_at": "2026-04-22T09:26:49.876028Z",
+    "available": true
+  },
+  {
+    "ip": "59.152.93.100",
+    "name": "",
+    "as_number": 12975,
+    "as_org": "PALTEL Autonomous System",
+    "country_id": "PS",
+    "city": "Nablus",
+    "version": "dnsmasq-2.76",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-04-22T09:29:23Z",
+    "created_at": "2026-04-22T09:29:23.196109Z",
+    "available": true
+  },
+  {
+    "ip": "82.205.0.52",
+    "name": "",
+    "as_number": 12975,
+    "as_org": "PALTEL Autonomous System",
+    "country_id": "PS",
+    "city": "Gaza",
+    "version": "dnsmasq-2.76",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-04-22T09:30:17Z",
+    "created_at": "2026-04-22T09:30:17.239078Z",
+    "available": true
   }
 ]
