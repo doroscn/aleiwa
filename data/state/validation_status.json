@@ -30,12 +30,6 @@
     "index": 201
   },
   {
-    "country_id": "ua",
-    "checked_at": "2025-03-30T12:44:59Z",
-    "ip_availability_ratio%": 67.56,
-    "index": 205
-  },
-  {
     "country_id": "ae",
     "checked_at": "2025-03-30T15:23:32Z",
     "ip_availability_ratio%": 67.50,
@@ -1312,5 +1306,11 @@
     "checked_at": "2026-04-22T10:21:37Z",
     "ip_availability_ratio%": 90.00,
     "index": 204
+  },
+  {
+    "country_id": "ua",
+    "checked_at": "2026-04-22T16:52:25Z",
+    "ip_availability_ratio%": 64.57,
+    "index": 205
   }
 ]
