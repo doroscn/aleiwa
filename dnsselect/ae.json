@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.803030303030303,
-    "checked_at": "2025-03-30T15:23:32Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2021-09-27T10:47:40.457707Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:23:35Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2021-10-01T22:54:00.711671Z",
     "available": false
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:23:43Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2021-10-01T23:32:51.002801Z",
     "available": false
   },
@@ -55,12 +55,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:23:50Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2021-10-01T23:49:18.211801Z",
     "available": false
   },
   {
-    "ip": "5.30.176.77",
+    "ip": "5.30.176.95",
     "name": "",
     "as_number": 15802,
     "as_org": "Emirates Integrated Telecommunications Company PJSC",
@@ -70,9 +70,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:23:57Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2021-10-02T16:13:06.354551Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "217.164.255.37",
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8933002481389578,
-    "checked_at": "2025-03-30T15:24:05Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2021-10-14T11:01:59.405263Z",
     "available": true
   },
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9285714285714286,
-    "checked_at": "2025-03-30T15:24:05Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-08-28T06:00:28.706925Z",
     "available": false
   },
   {
-    "ip": "2.50.3.6",
+    "ip": "2.50.3.182",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -115,12 +115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:24:12Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-08-28T06:11:30.892388Z",
     "available": true
   },
   {
-    "ip": "2.50.21.137",
+    "ip": "2.50.21.180",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -130,12 +130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:24:20Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-08-28T06:12:03.929926Z",
     "available": true
   },
   {
-    "ip": "2.50.26.7",
+    "ip": "2.50.26.92",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -145,12 +145,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.543026706231454,
-    "checked_at": "2025-03-30T15:24:27Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-08-28T06:12:16.773059Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "2.50.132.80",
+    "ip": "2.50.132.164",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -160,12 +160,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:24:34Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-08-28T06:15:39.020043Z",
     "available": true
   },
   {
-    "ip": "2.50.136.79",
+    "ip": "2.50.136.124",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -175,12 +175,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9333333333333333,
-    "checked_at": "2025-03-30T15:24:42Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-08-28T06:15:45.101552Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "2.50.153.14",
+    "ip": "2.50.153.223",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.971830985915493,
-    "checked_at": "2025-03-30T15:24:46Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-08-28T06:16:15.345246Z",
     "available": true
   },
@@ -205,12 +205,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6886792452830188,
-    "checked_at": "2025-03-30T15:24:54Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-08-28T06:16:42.805868Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "2.50.177.253",
+    "ip": "2.50.177.197",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -220,12 +220,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6886792452830188,
-    "checked_at": "2025-03-30T15:25:01Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-08-28T06:17:01.288114Z",
     "available": true
   },
   {
-    "ip": "2.50.191.108",
+    "ip": "2.50.191.119",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8981481481481481,
-    "checked_at": "2025-03-30T15:25:08Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-08-28T06:17:25.634131Z",
     "available": true
   },
@@ -250,12 +250,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:25:16Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-09-02T21:42:05.949896Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "2.50.135.198",
+    "ip": "2.50.135.126",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -265,12 +265,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8986784140969163,
-    "checked_at": "2025-03-30T15:25:23Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-09-02T21:44:56.99355Z",
     "available": true
   },
   {
-    "ip": "2.50.134.118",
+    "ip": "2.50.134.110",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -280,12 +280,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:25:30Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-09-02T21:44:58.024384Z",
     "available": true
   },
   {
-    "ip": "2.50.134.118",
+    "ip": "2.50.134.110",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -295,12 +295,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:25:38Z",
+    "checked_at": "2026-04-23T02:56:53Z",
     "created_at": "2022-09-02T21:44:58.230109Z",
     "available": true
   },
   {
-    "ip": "2.50.135.198",
+    "ip": "2.50.135.126",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -310,12 +310,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:25:45Z",
+    "checked_at": "2026-04-23T02:56:54Z",
     "created_at": "2022-09-02T21:44:58.742152Z",
     "available": true
   },
   {
-    "ip": "2.50.148.190",
+    "ip": "2.50.148.153",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -325,12 +325,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:25:52Z",
+    "checked_at": "2026-04-23T02:56:54Z",
     "created_at": "2022-09-02T21:45:21.522747Z",
     "available": true
   },
   {
-    "ip": "2.50.155.248",
+    "ip": "2.50.155.88",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -340,12 +340,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:26:00Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-02T21:45:38.037861Z",
     "available": true
   },
   {
-    "ip": "2.50.157.87",
+    "ip": "2.50.157.102",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -355,12 +355,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:26:07Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-02T21:45:40.751428Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "2.50.157.50",
+    "ip": "2.50.157.102",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -370,12 +370,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:26:15Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-02T21:45:42.004236Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "2.50.165.107",
+    "ip": "2.50.165.219",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -385,12 +385,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:26:22Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-02T21:45:58.312442Z",
     "available": true
   },
   {
-    "ip": "2.50.155.248",
+    "ip": "2.50.155.88",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -400,12 +400,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:26:29Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-02T21:46:10.224298Z",
     "available": true
   },
   {
-    "ip": "2.50.180.212",
+    "ip": "2.50.180.68",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -415,12 +415,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9282296650717703,
-    "checked_at": "2025-03-30T15:26:37Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-02T21:46:26.426761Z",
     "available": true
   },
   {
-    "ip": "2.50.184.124",
+    "ip": "2.50.184.139",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -430,12 +430,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:26:44Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-02T21:46:37.902992Z",
     "available": true
   },
   {
-    "ip": "5.32.123.117",
+    "ip": "5.32.123.90",
     "name": "",
     "as_number": 15802,
     "as_org": "Emirates Integrated Telecommunications Company PJSC",
@@ -445,12 +445,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:26:51Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-08T05:53:46.893317Z",
     "available": true
   },
   {
-    "ip": "5.192.21.168",
+    "ip": "5.192.21.104",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -460,9 +460,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:26:59Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-09T00:52:45.068276Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "5.193.23.153",
@@ -475,7 +475,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:27:06Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-09T01:00:04.47531Z",
     "available": false
   },
@@ -490,7 +490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:27:13Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-09T01:00:15.266203Z",
     "available": false
   },
@@ -505,7 +505,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:27:21Z",
+    "checked_at": "2026-04-23T02:57:13Z",
     "created_at": "2022-09-09T01:00:26.306122Z",
     "available": false
   },
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:27:28Z",
+    "checked_at": "2026-04-23T02:57:14Z",
     "created_at": "2022-09-09T01:01:56.277436Z",
     "available": false
   },
@@ -535,7 +535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:27:35Z",
+    "checked_at": "2026-04-23T02:57:14Z",
     "created_at": "2022-09-09T01:02:18.638939Z",
     "available": false
   },
@@ -550,7 +550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:27:43Z",
+    "checked_at": "2026-04-23T02:57:14Z",
     "created_at": "2022-09-09T01:02:20.268956Z",
     "available": false
   },
@@ -565,12 +565,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:27:50Z",
+    "checked_at": "2026-04-23T02:57:14Z",
     "created_at": "2022-09-09T01:02:25.073385Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "5.193.131.98",
+    "ip": "5.193.131.246",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -580,12 +580,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:27:57Z",
+    "checked_at": "2026-04-23T02:57:14Z",
     "created_at": "2022-09-09T01:03:04.63098Z",
     "available": true
   },
   {
-    "ip": "5.193.139.149",
+    "ip": "5.193.139.118",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -595,12 +595,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:28:05Z",
+    "checked_at": "2026-04-23T02:57:14Z",
     "created_at": "2022-09-09T01:03:22.988068Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "5.193.161.18",
+    "ip": "5.193.161.227",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -610,7 +610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:28:12Z",
+    "checked_at": "2026-04-23T02:57:15Z",
     "created_at": "2022-09-09T01:04:06.198699Z",
     "available": true
   },
@@ -625,7 +625,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:28:19Z",
+    "checked_at": "2026-04-23T02:57:15Z",
     "created_at": "2022-09-09T01:05:26.655792Z",
     "available": false
   },
@@ -640,12 +640,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:28:27Z",
+    "checked_at": "2026-04-23T02:57:31Z",
     "created_at": "2022-09-09T01:06:06.716179Z",
     "available": false
   },
   {
-    "ip": "5.193.242.108",
+    "ip": "5.193.242.167",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -655,12 +655,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:28:34Z",
+    "checked_at": "2026-04-23T02:57:31Z",
     "created_at": "2022-09-09T01:06:14.973353Z",
     "available": true
   },
   {
-    "ip": "5.194.77.154",
+    "ip": "5.194.77.147",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -670,9 +670,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:28:41Z",
+    "checked_at": "2026-04-23T02:57:31Z",
     "created_at": "2022-09-09T01:08:50.679618Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "5.194.87.220",
@@ -685,12 +685,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:28:49Z",
+    "checked_at": "2026-04-23T02:57:32Z",
     "created_at": "2022-09-09T01:09:08.02072Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "5.194.95.132",
+    "ip": "5.194.95.115",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -700,7 +700,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:28:56Z",
+    "checked_at": "2026-04-23T02:57:32Z",
     "created_at": "2022-09-09T01:09:21.901469Z",
     "available": true
   },
@@ -715,7 +715,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7857142857142857,
-    "checked_at": "2025-03-30T15:29:03Z",
+    "checked_at": "2026-04-23T02:57:32Z",
     "created_at": "2022-09-09T01:14:07.573652Z",
     "available": false
   },
@@ -730,7 +730,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.94,
-    "checked_at": "2025-03-30T15:29:08Z",
+    "checked_at": "2026-04-23T02:57:32Z",
     "created_at": "2022-09-09T01:15:32.312981Z",
     "available": true
   },
@@ -745,7 +745,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:29:15Z",
+    "checked_at": "2026-04-23T02:57:32Z",
     "created_at": "2022-09-09T01:19:29.498222Z",
     "available": false
   },
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:29:23Z",
+    "checked_at": "2026-04-23T02:57:32Z",
     "created_at": "2022-09-09T01:20:47.403316Z",
     "available": false
   },
@@ -775,9 +775,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:29:30Z",
+    "checked_at": "2026-04-23T02:57:32Z",
     "created_at": "2022-09-10T07:59:18.932321Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "5.30.133.131",
@@ -790,9 +790,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:29:37Z",
+    "checked_at": "2026-04-23T02:57:32Z",
     "created_at": "2022-09-10T08:02:46.64524Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "5.32.36.54",
@@ -805,7 +805,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:29:45Z",
+    "checked_at": "2026-04-23T02:57:32Z",
     "created_at": "2022-09-10T08:14:26.569961Z",
     "available": false
   },
@@ -820,7 +820,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:29:49Z",
+    "checked_at": "2026-04-23T02:57:33Z",
     "created_at": "2022-09-10T08:15:14.136302Z",
     "available": false
   },
@@ -835,7 +835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:29:57Z",
+    "checked_at": "2026-04-23T02:57:34Z",
     "created_at": "2022-09-10T08:17:06.585627Z",
     "available": false
   },
@@ -850,7 +850,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:30:04Z",
+    "checked_at": "2026-04-23T02:57:34Z",
     "created_at": "2022-09-11T05:01:34.039824Z",
     "available": false
   },
@@ -865,7 +865,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:30:11Z",
+    "checked_at": "2026-04-23T02:57:34Z",
     "created_at": "2022-09-11T05:01:49.312177Z",
     "available": false
   },
@@ -880,7 +880,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:30:19Z",
+    "checked_at": "2026-04-23T02:57:34Z",
     "created_at": "2022-09-11T05:01:55.47525Z",
     "available": false
   },
@@ -895,12 +895,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:30:26Z",
+    "checked_at": "2026-04-23T02:57:34Z",
     "created_at": "2022-09-11T05:04:36.676442Z",
     "available": false
   },
   {
-    "ip": "5.193.108.208",
+    "ip": "5.193.108.11",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -910,12 +910,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:30:33Z",
+    "checked_at": "2026-04-23T02:57:34Z",
     "created_at": "2022-09-11T05:07:31.79408Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "5.193.122.211",
+    "ip": "5.193.122.254",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -925,7 +925,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:30:41Z",
+    "checked_at": "2026-04-23T02:57:34Z",
     "created_at": "2022-09-11T05:08:03.864799Z",
     "available": true
   },
@@ -940,12 +940,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:30:48Z",
+    "checked_at": "2026-04-23T02:57:35Z",
     "created_at": "2022-09-11T05:08:26.539532Z",
     "available": false
   },
   {
-    "ip": "5.193.146.47",
+    "ip": "5.193.146.185",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -955,12 +955,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:30:55Z",
+    "checked_at": "2026-04-23T02:57:46Z",
     "created_at": "2022-09-11T05:08:47.299007Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "5.193.156.205",
+    "ip": "5.193.156.144",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -970,12 +970,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:31:03Z",
+    "checked_at": "2026-04-23T02:57:49Z",
     "created_at": "2022-09-11T05:09:05.958584Z",
     "available": true
   },
   {
-    "ip": "5.193.175.11",
+    "ip": "5.193.175.171",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -985,9 +985,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:31:10Z",
+    "checked_at": "2026-04-23T02:57:50Z",
     "created_at": "2022-09-11T05:09:38.699819Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "5.193.173.250",
@@ -1000,12 +1000,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:31:17Z",
+    "checked_at": "2026-04-23T02:57:50Z",
     "created_at": "2022-09-11T05:09:40.720714Z",
     "available": false
   },
   {
-    "ip": "5.193.178.229",
+    "ip": "5.193.178.138",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1015,12 +1015,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:31:25Z",
+    "checked_at": "2026-04-23T02:57:50Z",
     "created_at": "2022-09-11T05:09:50.581189Z",
     "available": true
   },
   {
-    "ip": "5.193.182.116",
+    "ip": "5.193.182.224",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1030,9 +1030,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:31:32Z",
+    "checked_at": "2026-04-23T02:57:50Z",
     "created_at": "2022-09-11T05:09:53.181084Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "5.193.183.118",
@@ -1045,12 +1045,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:31:39Z",
+    "checked_at": "2026-04-23T02:57:50Z",
     "created_at": "2022-09-11T05:09:58.991648Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "5.193.188.233",
+    "ip": "5.193.188.184",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1060,7 +1060,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:31:47Z",
+    "checked_at": "2026-04-23T02:57:50Z",
     "created_at": "2022-09-11T05:10:06.222401Z",
     "available": true
   },
@@ -1075,12 +1075,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:31:54Z",
+    "checked_at": "2026-04-23T02:57:50Z",
     "created_at": "2022-09-11T05:10:28.495805Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "5.193.209.61",
+    "ip": "5.193.209.65",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1090,9 +1090,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:32:02Z",
+    "checked_at": "2026-04-23T02:57:51Z",
     "created_at": "2022-09-11T05:10:45.853148Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "5.193.217.214",
@@ -1105,7 +1105,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:32:09Z",
+    "checked_at": "2026-04-23T02:57:51Z",
     "created_at": "2022-09-11T05:11:03.474853Z",
     "available": false
   },
@@ -1120,9 +1120,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:32:16Z",
+    "checked_at": "2026-04-23T02:57:52Z",
     "created_at": "2022-09-11T05:11:29.478667Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "5.193.244.143",
@@ -1135,12 +1135,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:32:24Z",
+    "checked_at": "2026-04-23T02:57:52Z",
     "created_at": "2022-09-11T05:11:50.632169Z",
     "available": false
   },
   {
-    "ip": "5.193.249.177",
+    "ip": "5.193.249.175",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1150,12 +1150,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:32:31Z",
+    "checked_at": "2026-04-23T02:57:52Z",
     "created_at": "2022-09-11T05:12:01.057561Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "5.193.253.126",
+    "ip": "5.193.253.231",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1165,12 +1165,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:32:38Z",
+    "checked_at": "2026-04-23T02:57:52Z",
     "created_at": "2022-09-11T05:12:10.49004Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "5.194.72.173",
+    "ip": "5.194.72.69",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1180,12 +1180,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:32:46Z",
+    "checked_at": "2026-04-23T02:57:52Z",
     "created_at": "2022-09-11T05:14:28.573185Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "5.194.79.70",
+    "ip": "5.194.79.135",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1195,7 +1195,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:32:53Z",
+    "checked_at": "2026-04-23T02:57:53Z",
     "created_at": "2022-09-11T05:14:43.22933Z",
     "available": true
   },
@@ -1210,7 +1210,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.736,
-    "checked_at": "2025-03-30T15:33:00Z",
+    "checked_at": "2026-04-23T02:57:53Z",
     "created_at": "2022-09-11T05:21:56.666068Z",
     "available": true
   },
@@ -1225,7 +1225,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7692307692307693,
-    "checked_at": "2025-03-30T15:33:08Z",
+    "checked_at": "2026-04-23T02:57:53Z",
     "created_at": "2022-09-11T05:21:56.668966Z",
     "available": true
   },
@@ -1240,7 +1240,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:33:15Z",
+    "checked_at": "2026-04-23T02:57:54Z",
     "created_at": "2022-09-11T05:24:39.575081Z",
     "available": false
   },
@@ -1255,12 +1255,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:33:22Z",
+    "checked_at": "2026-04-23T02:57:56Z",
     "created_at": "2022-09-29T19:50:18.217298Z",
     "available": false
   },
   {
-    "ip": "217.165.156.14",
+    "ip": "217.165.156.87",
     "name": "bba146064.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1270,9 +1270,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:33:26Z",
+    "checked_at": "2026-04-23T02:57:57Z",
     "created_at": "2022-10-02T10:43:56.601165Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "83.110.209.168",
@@ -1285,7 +1285,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:33:33Z",
+    "checked_at": "2026-04-23T02:58:05Z",
     "created_at": "2022-10-15T08:45:19.906815Z",
     "available": false
   },
@@ -1300,12 +1300,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:33:41Z",
+    "checked_at": "2026-04-23T02:58:07Z",
     "created_at": "2022-10-15T16:30:54.744376Z",
     "available": false
   },
   {
-    "ip": "86.98.64.125",
+    "ip": "86.98.64.131",
     "name": "bba594895.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1315,7 +1315,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:33:48Z",
+    "checked_at": "2026-04-23T02:58:08Z",
     "created_at": "2022-10-23T16:49:04.224205Z",
     "available": true
   },
@@ -1330,12 +1330,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:33:55Z",
+    "checked_at": "2026-04-23T02:58:08Z",
     "created_at": "2022-10-25T00:32:28.196039Z",
     "available": true
   },
   {
-    "ip": "2.50.183.125",
+    "ip": "2.50.183.8",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1345,7 +1345,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:34:03Z",
+    "checked_at": "2026-04-23T02:58:08Z",
     "created_at": "2022-10-28T05:38:27.394155Z",
     "available": true
   },
@@ -1360,12 +1360,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8088578088578089,
-    "checked_at": "2025-03-30T15:34:10Z",
+    "checked_at": "2026-04-23T02:58:08Z",
     "created_at": "2022-10-28T17:28:43.428657Z",
     "available": false
   },
   {
-    "ip": "5.193.194.127",
+    "ip": "5.193.194.114",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1375,7 +1375,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:34:18Z",
+    "checked_at": "2026-04-23T02:58:09Z",
     "created_at": "2022-10-29T10:19:42.871857Z",
     "available": true
   },
@@ -1390,12 +1390,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9289617486338798,
-    "checked_at": "2025-03-30T15:34:25Z",
+    "checked_at": "2026-04-23T02:58:09Z",
     "created_at": "2022-11-03T09:03:54.088144Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "86.98.74.191",
+    "ip": "86.98.74.139",
     "name": "bba597861.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1405,7 +1405,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7083333333333334,
-    "checked_at": "2025-03-30T15:34:26Z",
+    "checked_at": "2026-04-23T02:58:09Z",
     "created_at": "2022-11-12T01:58:17.718898Z",
     "available": true
   },
@@ -1420,12 +1420,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:34:33Z",
+    "checked_at": "2026-04-23T02:58:09Z",
     "created_at": "2022-11-23T09:02:00.530365Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "217.165.52.146",
+    "ip": "217.165.52.49",
     "name": "bba181276.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1435,12 +1435,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:34:40Z",
+    "checked_at": "2026-04-23T02:58:09Z",
     "created_at": "2022-11-26T22:43:31.480359Z",
     "available": true
   },
   {
-    "ip": "83.110.0.197",
+    "ip": "83.110.0.29",
     "name": "bba389460.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1450,7 +1450,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:34:48Z",
+    "checked_at": "2026-04-23T02:58:10Z",
     "created_at": "2022-11-30T02:01:48.171727Z",
     "available": true
   },
@@ -1465,7 +1465,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.92,
-    "checked_at": "2025-03-30T15:34:55Z",
+    "checked_at": "2026-04-23T02:58:10Z",
     "created_at": "2022-12-22T13:49:29.182688Z",
     "available": true
   },
@@ -1480,7 +1480,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:35:02Z",
+    "checked_at": "2026-04-23T02:58:10Z",
     "created_at": "2023-02-22T11:07:27.021511Z",
     "available": true
   },
@@ -1495,12 +1495,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:35:03Z",
+    "checked_at": "2026-04-23T02:58:10Z",
     "created_at": "2023-02-28T03:23:22.146254Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "45.9.250.164",
+    "ip": "45.9.250.10",
     "name": "",
     "as_number": 9009,
     "as_org": "M247 Europe SRL",
@@ -1510,7 +1510,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:35:10Z",
+    "checked_at": "2026-04-23T02:58:10Z",
     "created_at": "2023-02-28T18:18:30.578182Z",
     "available": true
   },
@@ -1525,12 +1525,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:35:11Z",
+    "checked_at": "2026-04-23T02:58:10Z",
     "created_at": "2023-02-28T19:57:32.973354Z",
     "available": false
   },
   {
-    "ip": "5.192.47.116",
+    "ip": "5.192.47.102",
     "name": "",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1540,12 +1540,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:35:18Z",
+    "checked_at": "2026-04-23T02:58:11Z",
     "created_at": "2023-03-01T18:53:01.1584Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "86.98.152.19",
+    "ip": "86.98.152.167",
     "name": "bba-86-98-152-91.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1555,12 +1555,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:35:25Z",
+    "checked_at": "2026-04-23T02:58:12Z",
     "created_at": "2023-03-04T14:20:37.806203Z",
     "available": true
   },
   {
-    "ip": "86.98.88.125",
+    "ip": "86.98.88.15",
     "name": "bba-86-98-88-155.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1570,12 +1570,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7931034482758621,
-    "checked_at": "2025-03-30T15:35:33Z",
+    "checked_at": "2026-04-23T02:58:13Z",
     "created_at": "2023-03-05T09:13:46.278294Z",
     "available": true
   },
   {
-    "ip": "83.110.110.218",
+    "ip": "83.110.110.63",
     "name": "bba-83-110-110-247.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1585,12 +1585,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:35:40Z",
+    "checked_at": "2026-04-23T02:58:13Z",
     "created_at": "2023-03-13T00:54:00.975063Z",
     "available": true
   },
   {
-    "ip": "86.98.72.164",
+    "ip": "86.98.72.30",
     "name": "bba-86-98-72-226.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1600,12 +1600,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:35:47Z",
+    "checked_at": "2026-04-23T02:58:13Z",
     "created_at": "2023-03-13T01:00:43.767134Z",
     "available": true
   },
   {
-    "ip": "86.98.66.123",
+    "ip": "86.98.66.146",
     "name": "bba-86-98-66-200.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1615,7 +1615,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:35:55Z",
+    "checked_at": "2026-04-23T02:58:14Z",
     "created_at": "2023-03-13T01:43:08.882947Z",
     "available": true
   },
@@ -1630,12 +1630,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:36:02Z",
+    "checked_at": "2026-04-23T02:58:22Z",
     "created_at": "2023-03-13T02:03:14.574841Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "83.110.149.217",
+    "ip": "83.110.149.120",
     "name": "bba-83-110-149-129.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1645,7 +1645,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:36:09Z",
+    "checked_at": "2026-04-23T02:58:25Z",
     "created_at": "2023-03-13T02:26:22.048498Z",
     "available": true
   },
@@ -1660,7 +1660,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:36:17Z",
+    "checked_at": "2026-04-23T02:58:25Z",
     "created_at": "2023-03-13T02:42:10.325207Z",
     "available": true
   },
@@ -1675,12 +1675,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:36:20Z",
+    "checked_at": "2026-04-23T02:58:26Z",
     "created_at": "2023-03-13T02:47:21.613599Z",
     "available": false
   },
   {
-    "ip": "217.165.65.195",
+    "ip": "217.165.65.16",
     "name": "bba-217-165-65-181.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1690,7 +1690,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:36:27Z",
+    "checked_at": "2026-04-23T02:58:26Z",
     "created_at": "2023-03-13T03:05:41.02507Z",
     "available": true
   },
@@ -1705,7 +1705,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:36:35Z",
+    "checked_at": "2026-04-23T02:58:26Z",
     "created_at": "2023-03-13T03:31:11.16795Z",
     "available": false
   },
@@ -1720,12 +1720,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:36:42Z",
+    "checked_at": "2026-04-23T02:58:26Z",
     "created_at": "2023-03-13T05:04:47.440435Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "83.110.119.166",
+    "ip": "83.110.119.202",
     "name": "bba-83-110-119-128.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1735,12 +1735,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:36:49Z",
+    "checked_at": "2026-04-23T02:58:27Z",
     "created_at": "2023-03-13T05:10:01.944436Z",
     "available": true
   },
   {
-    "ip": "86.98.91.126",
+    "ip": "86.98.91.61",
     "name": "bba-86-98-91-126.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1750,12 +1750,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9385964912280702,
-    "checked_at": "2025-03-30T15:36:57Z",
+    "checked_at": "2026-04-23T02:58:27Z",
     "created_at": "2023-03-13T05:42:25.712979Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "86.98.64.125",
+    "ip": "86.98.64.131",
     "name": "bba-86-98-64-30.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1765,7 +1765,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:37:04Z",
+    "checked_at": "2026-04-23T02:58:27Z",
     "created_at": "2023-03-13T05:56:02.213622Z",
     "available": true
   },
@@ -1780,7 +1780,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:37:11Z",
+    "checked_at": "2026-04-23T02:58:27Z",
     "created_at": "2023-03-13T07:03:30.893578Z",
     "available": false
   },
@@ -1795,9 +1795,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:37:19Z",
+    "checked_at": "2026-04-23T02:58:27Z",
     "created_at": "2023-03-13T09:54:30.898479Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.200.81.142",
@@ -1810,12 +1810,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:37:26Z",
+    "checked_at": "2026-04-23T02:58:27Z",
     "created_at": "2023-03-13T10:41:05.661531Z",
     "available": true
   },
   {
-    "ip": "83.110.90.43",
+    "ip": "83.110.90.166",
     "name": "bba-83-110-90-89.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1825,7 +1825,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:37:27Z",
+    "checked_at": "2026-04-23T02:58:28Z",
     "created_at": "2023-03-13T11:27:04.778077Z",
     "available": true
   },
@@ -1840,7 +1840,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:37:34Z",
+    "checked_at": "2026-04-23T02:58:28Z",
     "created_at": "2023-03-13T11:37:32.4982Z",
     "available": true
   },
@@ -1855,12 +1855,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:37:34Z",
+    "checked_at": "2026-04-23T02:58:28Z",
     "created_at": "2023-03-13T11:44:54.022882Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "83.110.207.10",
+    "ip": "83.110.207.195",
     "name": "bba-83-110-207-228.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1870,7 +1870,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:37:42Z",
+    "checked_at": "2026-04-23T02:58:29Z",
     "created_at": "2023-03-13T12:14:24.797275Z",
     "available": true
   },
@@ -1885,7 +1885,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:37:49Z",
+    "checked_at": "2026-04-23T02:58:29Z",
     "created_at": "2023-03-13T13:02:49.99552Z",
     "available": true
   },
@@ -1900,12 +1900,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:37:56Z",
+    "checked_at": "2026-04-23T02:58:30Z",
     "created_at": "2023-03-13T13:14:18.291568Z",
     "available": true
   },
   {
-    "ip": "83.110.10.234",
+    "ip": "83.110.10.169",
     "name": "bba-83-110-10-220.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1915,7 +1915,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:38:04Z",
+    "checked_at": "2026-04-23T02:58:30Z",
     "created_at": "2023-03-13T13:54:42.585295Z",
     "available": true
   },
@@ -1930,7 +1930,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:38:11Z",
+    "checked_at": "2026-04-23T02:58:31Z",
     "created_at": "2023-03-13T14:12:11.31671Z",
     "available": false
   },
@@ -1945,9 +1945,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:38:18Z",
+    "checked_at": "2026-04-23T02:58:31Z",
     "created_at": "2023-03-13T14:59:04.114666Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.201.9.216",
@@ -1960,12 +1960,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:38:26Z",
+    "checked_at": "2026-04-23T02:58:31Z",
     "created_at": "2023-03-13T15:19:07.082014Z",
     "available": false
   },
   {
-    "ip": "83.110.116.190",
+    "ip": "83.110.116.180",
     "name": "bba-83-110-116-59.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -1975,7 +1975,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:38:33Z",
+    "checked_at": "2026-04-23T02:58:31Z",
     "created_at": "2023-03-13T16:03:47.497902Z",
     "available": true
   },
@@ -1990,12 +1990,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:38:41Z",
+    "checked_at": "2026-04-23T02:58:32Z",
     "created_at": "2023-03-13T18:35:59.173195Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "83.110.75.128",
+    "ip": "83.110.75.175",
     "name": "bba-83-110-75-119.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2005,12 +2005,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:38:48Z",
+    "checked_at": "2026-04-23T02:58:38Z",
     "created_at": "2023-03-13T19:12:29.140296Z",
     "available": true
   },
   {
-    "ip": "83.110.148.165",
+    "ip": "83.110.148.118",
     "name": "bba-83-110-148-131.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2020,7 +2020,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:38:55Z",
+    "checked_at": "2026-04-23T02:58:43Z",
     "created_at": "2023-03-13T19:17:00.843135Z",
     "available": true
   },
@@ -2035,12 +2035,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:39:03Z",
+    "checked_at": "2026-04-23T02:58:43Z",
     "created_at": "2023-03-13T19:37:43.115309Z",
     "available": true
   },
   {
-    "ip": "2.50.153.14",
+    "ip": "2.50.153.223",
     "name": "bba-2-50-153-194.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2050,7 +2050,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:39:10Z",
+    "checked_at": "2026-04-23T02:58:43Z",
     "created_at": "2023-03-13T20:35:45.028414Z",
     "available": true
   },
@@ -2065,9 +2065,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:39:17Z",
+    "checked_at": "2026-04-23T02:58:43Z",
     "created_at": "2023-03-13T21:06:33.987925Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "91.74.86.20",
@@ -2080,7 +2080,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:39:25Z",
+    "checked_at": "2026-04-23T02:58:44Z",
     "created_at": "2023-03-13T22:05:15.015608Z",
     "available": false
   },
@@ -2095,12 +2095,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:39:32Z",
+    "checked_at": "2026-04-23T02:58:44Z",
     "created_at": "2023-03-13T22:06:05.108168Z",
     "available": true
   },
   {
-    "ip": "94.203.245.96",
+    "ip": "94.203.245.196",
     "name": "",
     "as_number": 15802,
     "as_org": "Emirates Integrated Telecommunications Company PJSC",
@@ -2110,9 +2110,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:39:35Z",
+    "checked_at": "2026-04-23T02:58:44Z",
     "created_at": "2023-03-13T23:02:28.17179Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "80.227.67.106",
@@ -2125,12 +2125,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:39:43Z",
+    "checked_at": "2026-04-23T02:58:44Z",
     "created_at": "2023-03-14T00:06:11.659969Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "91.73.230.1",
+    "ip": "91.73.230.76",
     "name": "",
     "as_number": 15802,
     "as_org": "Emirates Integrated Telecommunications Company PJSC",
@@ -2140,12 +2140,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:39:46Z",
+    "checked_at": "2026-04-23T02:58:44Z",
     "created_at": "2023-03-14T00:20:45.467367Z",
     "available": true
   },
   {
-    "ip": "217.165.251.13",
+    "ip": "217.165.251.147",
     "name": "bba-217-165-251-99.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2155,7 +2155,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:39:53Z",
+    "checked_at": "2026-04-23T02:58:44Z",
     "created_at": "2023-03-14T00:40:04.62441Z",
     "available": true
   },
@@ -2170,9 +2170,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:40:00Z",
+    "checked_at": "2026-04-23T02:58:44Z",
     "created_at": "2023-03-14T02:14:24.048911Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "86.98.70.154",
@@ -2185,12 +2185,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:40:08Z",
+    "checked_at": "2026-04-23T02:58:44Z",
     "created_at": "2023-03-14T03:12:28.237554Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "83.110.116.190",
+    "ip": "83.110.116.180",
     "name": "bba-83-110-116-102.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2200,12 +2200,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:40:15Z",
+    "checked_at": "2026-04-23T02:58:45Z",
     "created_at": "2023-03-14T03:17:57.268364Z",
     "available": true
   },
   {
-    "ip": "83.110.218.10",
+    "ip": "83.110.218.126",
     "name": "bba-83-110-218-168.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2215,12 +2215,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:40:23Z",
+    "checked_at": "2026-04-23T02:58:45Z",
     "created_at": "2023-03-14T03:19:37.2864Z",
     "available": true
   },
   {
-    "ip": "86.98.67.100",
+    "ip": "86.98.67.143",
     "name": "bba-86-98-67-128.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2230,7 +2230,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:40:30Z",
+    "checked_at": "2026-04-23T02:58:46Z",
     "created_at": "2023-03-14T03:44:24.158388Z",
     "available": true
   },
@@ -2245,12 +2245,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:40:37Z",
+    "checked_at": "2026-04-23T02:58:47Z",
     "created_at": "2023-03-14T03:46:40.854998Z",
     "available": false
   },
   {
-    "ip": "86.98.22.111",
+    "ip": "86.98.22.237",
     "name": "bba-86-98-22-66.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2260,12 +2260,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:40:45Z",
+    "checked_at": "2026-04-23T02:58:47Z",
     "created_at": "2023-03-14T03:55:48.582404Z",
     "available": true
   },
   {
-    "ip": "83.110.107.27",
+    "ip": "83.110.107.134",
     "name": "bba-83-110-107-240.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2275,12 +2275,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:40:52Z",
+    "checked_at": "2026-04-23T02:58:48Z",
     "created_at": "2023-03-14T04:46:57.762413Z",
     "available": true
   },
   {
-    "ip": "217.165.89.106",
+    "ip": "217.165.89.118",
     "name": "bba-217-165-89-165.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2290,7 +2290,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:40:59Z",
+    "checked_at": "2026-04-23T02:58:48Z",
     "created_at": "2023-03-14T04:47:03.920606Z",
     "available": true
   },
@@ -2305,12 +2305,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:41:07Z",
+    "checked_at": "2026-04-23T02:58:49Z",
     "created_at": "2023-03-14T05:28:35.437494Z",
     "available": true
   },
   {
-    "ip": "87.201.133.14",
+    "ip": "87.201.133.70",
     "name": "",
     "as_number": 15802,
     "as_org": "Emirates Integrated Telecommunications Company PJSC",
@@ -2320,7 +2320,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:41:07Z",
+    "checked_at": "2026-04-23T02:58:49Z",
     "created_at": "2023-03-14T05:28:56.506028Z",
     "available": true
   },
@@ -2335,7 +2335,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:41:07Z",
+    "checked_at": "2026-04-23T02:58:49Z",
     "created_at": "2023-03-14T05:30:35.979726Z",
     "available": true
   },
@@ -2350,12 +2350,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:41:12Z",
+    "checked_at": "2026-04-23T02:58:50Z",
     "created_at": "2023-03-14T07:24:54.818518Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "86.98.64.125",
+    "ip": "86.98.64.131",
     "name": "bba-86-98-64-193.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2365,7 +2365,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:41:19Z",
+    "checked_at": "2026-04-23T02:58:53Z",
     "created_at": "2023-03-14T08:13:05.115499Z",
     "available": true
   },
@@ -2380,12 +2380,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:41:27Z",
+    "checked_at": "2026-04-23T02:59:00Z",
     "created_at": "2023-03-14T09:11:10.625039Z",
     "available": false
   },
   {
-    "ip": "94.200.30.58",
+    "ip": "94.200.30.156",
     "name": "",
     "as_number": 15802,
     "as_org": "Emirates Integrated Telecommunications Company PJSC",
@@ -2395,9 +2395,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:41:34Z",
+    "checked_at": "2026-04-23T02:59:00Z",
     "created_at": "2023-03-14T09:44:16.572436Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "94.200.73.114",
@@ -2410,12 +2410,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8888888888888888,
-    "checked_at": "2025-03-30T15:41:41Z",
+    "checked_at": "2026-04-23T02:59:00Z",
     "created_at": "2023-03-14T10:41:06.492238Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "83.110.166.42",
+    "ip": "83.110.166.137",
     "name": "bba-83-110-166-212.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2425,7 +2425,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:41:49Z",
+    "checked_at": "2026-04-23T02:59:01Z",
     "created_at": "2023-03-14T10:45:08.755032Z",
     "available": true
   },
@@ -2440,12 +2440,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:41:56Z",
+    "checked_at": "2026-04-23T02:59:01Z",
     "created_at": "2023-03-14T11:05:26.313284Z",
     "available": true
   },
   {
-    "ip": "83.110.141.159",
+    "ip": "83.110.141.102",
     "name": "bba-83-110-141-141.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2455,7 +2455,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:41:57Z",
+    "checked_at": "2026-04-23T02:59:01Z",
     "created_at": "2023-03-14T11:10:45.384903Z",
     "available": true
   },
@@ -2470,7 +2470,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:42:04Z",
+    "checked_at": "2026-04-23T02:59:01Z",
     "created_at": "2023-03-14T11:16:16.997731Z",
     "available": true
   },
@@ -2485,12 +2485,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:42:11Z",
+    "checked_at": "2026-04-23T02:59:01Z",
     "created_at": "2023-03-14T11:27:11.948133Z",
     "available": false
   },
   {
-    "ip": "86.98.20.179",
+    "ip": "86.98.20.157",
     "name": "bba-86-98-20-213.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2500,7 +2500,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:42:19Z",
+    "checked_at": "2026-04-23T02:59:01Z",
     "created_at": "2023-03-14T12:28:04.043833Z",
     "available": true
   },
@@ -2515,12 +2515,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:42:26Z",
+    "checked_at": "2026-04-23T02:59:01Z",
     "created_at": "2023-03-14T13:04:15.361668Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "94.203.21.170",
+    "ip": "94.203.21.141",
     "name": "",
     "as_number": 15802,
     "as_org": "Emirates Integrated Telecommunications Company PJSC",
@@ -2530,9 +2530,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:42:33Z",
+    "checked_at": "2026-04-23T02:59:02Z",
     "created_at": "2023-03-14T13:19:29.267745Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "83.110.192.217",
@@ -2545,9 +2545,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:42:41Z",
+    "checked_at": "2026-04-23T02:59:02Z",
     "created_at": "2023-03-14T13:23:35.517119Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "91.74.88.86",
@@ -2560,9 +2560,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:42:48Z",
+    "checked_at": "2026-04-23T02:59:02Z",
     "created_at": "2023-03-14T13:35:23.478216Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.200.113.238",
@@ -2575,9 +2575,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:42:48Z",
+    "checked_at": "2026-04-23T02:59:02Z",
     "created_at": "2023-03-14T15:35:24.666473Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.56.1.147",
@@ -2590,7 +2590,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:42:52Z",
+    "checked_at": "2026-04-23T02:59:04Z",
     "created_at": "2023-03-14T16:03:16.773724Z",
     "available": false
   },
@@ -2605,12 +2605,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:42:59Z",
+    "checked_at": "2026-04-23T02:59:04Z",
     "created_at": "2023-03-14T16:26:11.65366Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "83.110.139.109",
+    "ip": "83.110.139.128",
     "name": "bba-83-110-139-58.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2620,7 +2620,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:43:06Z",
+    "checked_at": "2026-04-23T02:59:04Z",
     "created_at": "2023-03-14T16:38:12.705727Z",
     "available": true
   },
@@ -2635,12 +2635,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:43:14Z",
+    "checked_at": "2026-04-23T02:59:04Z",
     "created_at": "2023-03-14T16:58:46.765313Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "83.110.205.33",
+    "ip": "83.110.205.207",
     "name": "bba-83-110-205-216.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2650,7 +2650,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:43:21Z",
+    "checked_at": "2026-04-23T02:59:04Z",
     "created_at": "2023-03-14T17:22:28.533254Z",
     "available": true
   },
@@ -2665,7 +2665,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:43:28Z",
+    "checked_at": "2026-04-23T02:59:06Z",
     "created_at": "2023-03-14T17:27:39.075365Z",
     "available": false
   },
@@ -2680,9 +2680,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:43:36Z",
+    "checked_at": "2026-04-23T02:59:06Z",
     "created_at": "2023-03-14T18:10:51.288573Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.56.252.144",
@@ -2695,7 +2695,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:43:43Z",
+    "checked_at": "2026-04-23T02:59:08Z",
     "created_at": "2023-03-14T19:23:00.871849Z",
     "available": true
   },
@@ -2710,12 +2710,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:43:48Z",
+    "checked_at": "2026-04-23T02:59:09Z",
     "created_at": "2023-03-14T19:49:08.072764Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "83.110.159.53",
+    "ip": "83.110.159.116",
     "name": "bba-83-110-159-20.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2725,12 +2725,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:43:55Z",
+    "checked_at": "2026-04-23T02:59:17Z",
     "created_at": "2023-03-14T20:03:51.427579Z",
     "available": true
   },
   {
-    "ip": "86.98.64.125",
+    "ip": "86.98.64.131",
     "name": "bba-86-98-64-57.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2740,7 +2740,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:44:02Z",
+    "checked_at": "2026-04-23T02:59:18Z",
     "created_at": "2023-03-14T20:06:08.721891Z",
     "available": true
   },
@@ -2755,12 +2755,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:44:10Z",
+    "checked_at": "2026-04-23T02:59:18Z",
     "created_at": "2023-03-14T20:25:17.033502Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "86.98.152.19",
+    "ip": "86.98.152.167",
     "name": "bba-86-98-152-215.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2770,7 +2770,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:44:17Z",
+    "checked_at": "2026-04-23T02:59:18Z",
     "created_at": "2023-03-14T20:33:36.268849Z",
     "available": true
   },
@@ -2785,12 +2785,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:44:24Z",
+    "checked_at": "2026-04-23T02:59:18Z",
     "created_at": "2023-03-14T21:02:10.435481Z",
     "available": false
   },
   {
-    "ip": "2.50.136.168",
+    "ip": "2.50.136.124",
     "name": "bba-2-50-136-168.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2800,12 +2800,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:44:32Z",
+    "checked_at": "2026-04-23T02:59:18Z",
     "created_at": "2023-03-14T21:04:09.844289Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "86.98.72.164",
+    "ip": "86.98.72.30",
     "name": "bba-86-98-72-233.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2815,7 +2815,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:44:39Z",
+    "checked_at": "2026-04-23T02:59:18Z",
     "created_at": "2023-03-14T21:38:15.952204Z",
     "available": true
   },
@@ -2830,12 +2830,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:44:46Z",
+    "checked_at": "2026-04-23T02:59:18Z",
     "created_at": "2023-03-14T21:55:20.249001Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "83.110.72.163",
+    "ip": "83.110.72.101",
     "name": "bba-83-110-72-147.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2845,12 +2845,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:44:47Z",
+    "checked_at": "2026-04-23T02:59:18Z",
     "created_at": "2023-03-14T22:45:25.274354Z",
     "available": true
   },
   {
-    "ip": "86.98.63.104",
+    "ip": "86.98.63.149",
     "name": "bba-86-98-63-110.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2860,12 +2860,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:44:54Z",
+    "checked_at": "2026-04-23T02:59:19Z",
     "created_at": "2023-03-14T22:47:11.133525Z",
     "available": true
   },
   {
-    "ip": "2.50.55.84",
+    "ip": "2.50.55.109",
     "name": "bba-2-50-55-235.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2875,12 +2875,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:45:01Z",
+    "checked_at": "2026-04-23T02:59:19Z",
     "created_at": "2023-03-15T00:15:21.248054Z",
     "available": true
   },
   {
-    "ip": "91.72.184.234",
+    "ip": "91.72.184.10",
     "name": "",
     "as_number": 15802,
     "as_org": "Emirates Integrated Telecommunications Company PJSC",
@@ -2890,7 +2890,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:45:09Z",
+    "checked_at": "2026-04-23T02:59:19Z",
     "created_at": "2023-03-15T01:14:45.96724Z",
     "available": true
   },
@@ -2905,12 +2905,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:45:12Z",
+    "checked_at": "2026-04-23T02:59:21Z",
     "created_at": "2023-03-15T01:42:05.126997Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "94.203.252.29",
+    "ip": "94.203.252.96",
     "name": "",
     "as_number": 15802,
     "as_org": "Emirates Integrated Telecommunications Company PJSC",
@@ -2920,12 +2920,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:45:19Z",
+    "checked_at": "2026-04-23T02:59:21Z",
     "created_at": "2023-03-15T04:20:26.739354Z",
     "available": true
   },
   {
-    "ip": "86.98.95.91",
+    "ip": "86.98.95.117",
     "name": "bba-86-98-95-91.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2935,7 +2935,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:45:27Z",
+    "checked_at": "2026-04-23T02:59:21Z",
     "created_at": "2023-03-15T05:08:55.286644Z",
     "available": true
   },
@@ -2950,12 +2950,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:45:30Z",
+    "checked_at": "2026-04-23T02:59:22Z",
     "created_at": "2023-03-15T05:21:46.07546Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "217.165.61.94",
+    "ip": "217.165.61.222",
     "name": "bba-217-165-61-82.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2965,12 +2965,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:45:37Z",
+    "checked_at": "2026-04-23T02:59:22Z",
     "created_at": "2023-03-15T07:52:41.999869Z",
     "available": true
   },
   {
-    "ip": "83.110.130.129",
+    "ip": "83.110.130.138",
     "name": "bba-83-110-130-198.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2980,12 +2980,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:45:45Z",
+    "checked_at": "2026-04-23T02:59:22Z",
     "created_at": "2023-03-15T08:01:39.138593Z",
     "available": true
   },
   {
-    "ip": "2.50.56.99",
+    "ip": "2.50.56.102",
     "name": "bba-2-50-56-162.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -2995,7 +2995,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:45:52Z",
+    "checked_at": "2026-04-23T02:59:24Z",
     "created_at": "2023-03-15T09:42:21.651869Z",
     "available": true
   },
@@ -3010,12 +3010,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9523809523809523,
-    "checked_at": "2025-03-30T15:45:59Z",
+    "checked_at": "2026-04-23T02:59:25Z",
     "created_at": "2023-03-15T10:10:11.060275Z",
     "available": false
   },
   {
-    "ip": "83.110.104.153",
+    "ip": "83.110.104.207",
     "name": "bba-83-110-104-2.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3025,12 +3025,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:46:07Z",
+    "checked_at": "2026-04-23T02:59:35Z",
     "created_at": "2023-03-15T10:37:04.69693Z",
     "available": true
   },
   {
-    "ip": "86.98.72.164",
+    "ip": "86.98.72.30",
     "name": "bba-86-98-72-70.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3040,7 +3040,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:46:14Z",
+    "checked_at": "2026-04-23T02:59:35Z",
     "created_at": "2023-03-15T12:48:21.823271Z",
     "available": true
   },
@@ -3055,7 +3055,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:46:21Z",
+    "checked_at": "2026-04-23T02:59:35Z",
     "created_at": "2023-03-15T12:55:11.305556Z",
     "available": true
   },
@@ -3070,7 +3070,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:46:25Z",
+    "checked_at": "2026-04-23T02:59:36Z",
     "created_at": "2023-03-15T13:05:23.622187Z",
     "available": true
   },
@@ -3085,7 +3085,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:46:32Z",
+    "checked_at": "2026-04-23T02:59:36Z",
     "created_at": "2023-03-15T13:10:04.372503Z",
     "available": false
   },
@@ -3100,7 +3100,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:46:39Z",
+    "checked_at": "2026-04-23T02:59:36Z",
     "created_at": "2023-03-15T13:21:07.077614Z",
     "available": true
   },
@@ -3115,12 +3115,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:46:44Z",
+    "checked_at": "2026-04-23T02:59:36Z",
     "created_at": "2023-03-15T14:30:54.56145Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "2.50.140.113",
+    "ip": "2.50.140.108",
     "name": "bba-2-50-140-179.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3130,12 +3130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:46:51Z",
+    "checked_at": "2026-04-23T02:59:36Z",
     "created_at": "2023-03-15T15:03:34.677172Z",
     "available": true
   },
   {
-    "ip": "83.110.18.60",
+    "ip": "83.110.18.113",
     "name": "bba-83-110-18-60.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3145,12 +3145,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:46:59Z",
+    "checked_at": "2026-04-23T02:59:36Z",
     "created_at": "2023-03-15T15:08:02.04248Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "83.110.103.141",
+    "ip": "83.110.103.133",
     "name": "bba-83-110-103-47.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3160,7 +3160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:47:06Z",
+    "checked_at": "2026-04-23T02:59:37Z",
     "created_at": "2023-03-15T15:58:49.537529Z",
     "available": true
   },
@@ -3175,7 +3175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8064516129032258,
-    "checked_at": "2025-03-30T15:47:13Z",
+    "checked_at": "2026-04-23T02:59:37Z",
     "created_at": "2023-03-15T16:37:22.293112Z",
     "available": true
   },
@@ -3190,9 +3190,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:47:15Z",
+    "checked_at": "2026-04-23T02:59:37Z",
     "created_at": "2023-03-15T17:19:35.238522Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "91.73.236.195",
@@ -3205,12 +3205,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:47:22Z",
+    "checked_at": "2026-04-23T02:59:37Z",
     "created_at": "2023-03-15T21:11:46.791207Z",
     "available": false
   },
   {
-    "ip": "217.165.186.103",
+    "ip": "217.165.186.66",
     "name": "bba-217-165-186-107.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3220,12 +3220,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:47:27Z",
+    "checked_at": "2026-04-23T02:59:37Z",
     "created_at": "2023-03-15T23:13:07.688112Z",
     "available": true
   },
   {
-    "ip": "86.98.81.242",
+    "ip": "86.98.81.103",
     "name": "bba-86-98-81-52.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3235,12 +3235,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8300653594771242,
-    "checked_at": "2025-03-30T15:47:34Z",
+    "checked_at": "2026-04-23T02:59:37Z",
     "created_at": "2023-03-16T01:21:00.602464Z",
     "available": true
   },
   {
-    "ip": "94.200.183.194",
+    "ip": "94.200.183.198",
     "name": "",
     "as_number": 15802,
     "as_org": "Emirates Integrated Telecommunications Company PJSC",
@@ -3250,12 +3250,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9302325581395349,
-    "checked_at": "2025-03-30T15:47:41Z",
+    "checked_at": "2026-04-23T02:59:38Z",
     "created_at": "2023-03-16T02:27:45.854182Z",
     "available": true
   },
   {
-    "ip": "86.98.3.198",
+    "ip": "86.98.3.44",
     "name": "bba-86-98-3-249.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3265,7 +3265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:47:44Z",
+    "checked_at": "2026-04-23T02:59:38Z",
     "created_at": "2023-03-16T10:45:17.817972Z",
     "available": true
   },
@@ -3280,7 +3280,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2025-03-30T15:47:52Z",
+    "checked_at": "2026-04-23T02:59:39Z",
     "created_at": "2023-03-16T12:48:57.045711Z",
     "available": true
   },
@@ -3295,9 +3295,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9607843137254902,
-    "checked_at": "2025-03-30T15:47:52Z",
+    "checked_at": "2026-04-23T02:59:39Z",
     "created_at": "2023-03-16T16:26:59.650305Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.205.51.210",
@@ -3310,7 +3310,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2025-03-30T15:48:00Z",
+    "checked_at": "2026-04-23T02:59:39Z",
     "created_at": "2023-03-16T17:54:46.530647Z",
     "available": true
   },
@@ -3325,9 +3325,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6785714285714286,
-    "checked_at": "2025-03-30T15:48:03Z",
+    "checked_at": "2026-04-23T02:59:40Z",
     "created_at": "2023-03-16T21:13:28.061808Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.205.212.140",
@@ -3340,9 +3340,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-30T15:48:10Z",
+    "checked_at": "2026-04-23T02:59:40Z",
     "created_at": "2023-03-16T21:33:04.227588Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "151.253.53.86",
@@ -3355,12 +3355,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6896551724137931,
-    "checked_at": "2025-03-30T15:48:13Z",
+    "checked_at": "2026-04-23T02:59:40Z",
     "created_at": "2023-03-16T21:54:29.302154Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "5.32.81.30",
+    "ip": "5.32.81.129",
     "name": "",
     "as_number": 15802,
     "as_org": "Emirates Integrated Telecommunications Company PJSC",
@@ -3370,12 +3370,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6551724137931034,
-    "checked_at": "2025-03-30T15:48:21Z",
+    "checked_at": "2026-04-23T02:59:40Z",
     "created_at": "2023-03-16T22:10:37.42355Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "2.50.178.141",
+    "ip": "2.50.178.102",
     "name": "bba-2-50-178-97.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3385,7 +3385,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:48:28Z",
+    "checked_at": "2026-04-23T02:59:41Z",
     "created_at": "2023-03-16T23:32:31.564077Z",
     "available": true
   },
@@ -3400,7 +3400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.65625,
-    "checked_at": "2025-03-30T15:48:35Z",
+    "checked_at": "2026-04-23T02:59:42Z",
     "created_at": "2023-03-17T02:39:31.888786Z",
     "available": false
   },
@@ -3415,7 +3415,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7352941176470589,
-    "checked_at": "2025-03-30T15:48:43Z",
+    "checked_at": "2026-04-23T02:59:44Z",
     "created_at": "2023-03-17T03:26:24.175763Z",
     "available": false
   },
@@ -3430,7 +3430,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7560975609756098,
-    "checked_at": "2025-03-30T15:48:50Z",
+    "checked_at": "2026-04-23T02:59:53Z",
     "created_at": "2023-03-17T03:54:00.816889Z",
     "available": false
   },
@@ -3445,12 +3445,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.9772727272727273,
-    "checked_at": "2025-03-30T15:48:57Z",
+    "checked_at": "2026-04-23T02:59:53Z",
     "created_at": "2023-03-17T06:23:09.303566Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "86.98.214.36",
+    "ip": "86.98.214.240",
     "name": "bba-86-98-214-36.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3460,12 +3460,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7727272727272727,
-    "checked_at": "2025-03-30T15:49:05Z",
+    "checked_at": "2026-04-23T02:59:54Z",
     "created_at": "2023-03-17T06:43:25.481089Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "86.98.212.102",
+    "ip": "86.98.212.193",
     "name": "bba-86-98-212-224.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3475,7 +3475,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8333333333333334,
-    "checked_at": "2025-03-30T15:49:12Z",
+    "checked_at": "2026-04-23T02:59:54Z",
     "created_at": "2023-03-17T08:39:43.729449Z",
     "available": true
   },
@@ -3490,7 +3490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.984375,
-    "checked_at": "2025-03-30T15:49:20Z",
+    "checked_at": "2026-04-23T02:59:54Z",
     "created_at": "2023-03-17T09:52:33.950301Z",
     "available": true
   },
@@ -3505,12 +3505,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.3888888888888889,
-    "checked_at": "2025-03-30T15:49:23Z",
+    "checked_at": "2026-04-23T02:59:54Z",
     "created_at": "2023-03-17T10:22:11.794295Z",
     "available": true
   },
   {
-    "ip": "83.110.81.134",
+    "ip": "83.110.81.34",
     "name": "bba-83-110-81-2.alshamil.net.ae.",
     "as_number": 5384,
     "as_org": "Emirates Telecommunications Corporation",
@@ -3520,7 +3520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9965986394557823,
-    "checked_at": "2025-03-30T15:49:30Z",
+    "checked_at": "2026-04-23T02:59:54Z",
     "created_at": "2023-03-17T16:25:37.053507Z",
     "available": true
   },
@@ -3535,7 +3535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9732142857142857,
-    "checked_at": "2025-03-30T15:49:37Z",
+    "checked_at": "2026-04-23T02:59:54Z",
     "created_at": "2023-03-17T20:06:49.543939Z",
     "available": true
   },
@@ -3550,7 +3550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.935064935064935,
-    "checked_at": "2025-03-30T15:49:41Z",
+    "checked_at": "2026-04-23T02:59:54Z",
     "created_at": "2023-03-17T20:44:44.784452Z",
     "available": true
   },
@@ -3565,9 +3565,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8095238095238095,
-    "checked_at": "2025-03-30T15:49:48Z",
+    "checked_at": "2026-04-23T02:59:54Z",
     "created_at": "2023-03-17T20:48:37.54544Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.206.47.14",
@@ -3580,7 +3580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2025-03-30T15:49:51Z",
+    "checked_at": "2026-04-23T02:59:54Z",
     "created_at": "2023-03-18T23:34:10.233199Z",
     "available": false
   },
@@ -3595,7 +3595,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-03-30T15:49:59Z",
+    "checked_at": "2026-04-23T02:59:55Z",
     "created_at": "2023-03-19T12:30:10.711272Z",
     "available": true
   }
