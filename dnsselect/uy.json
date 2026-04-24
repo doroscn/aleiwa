@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:08:59Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2021-09-27T23:43:23.147818Z",
     "available": false
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9269662921348315,
-    "checked_at": "2025-04-01T02:09:04Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2022-08-20T17:46:54.514953Z",
     "available": false
   },
@@ -40,9 +40,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9230769230769231,
-    "checked_at": "2025-04-01T02:09:11Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2022-10-03T15:02:10.417323Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "167.57.52.193",
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:09:12Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2022-10-04T04:17:47.529577Z",
     "available": false
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9789029535864979,
-    "checked_at": "2025-04-01T02:09:19Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2022-10-13T10:47:35.804002Z",
     "available": true
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:09:26Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2022-10-13T14:51:37.074289Z",
     "available": false
   },
@@ -100,9 +100,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:09:34Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2022-10-14T20:31:38.793948Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.135.195.236",
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:09:41Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2022-10-25T23:25:19.158681Z",
     "available": false
   },
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:09:46Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2022-11-11T00:35:19.970073Z",
     "available": false
   },
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8260869565217391,
-    "checked_at": "2025-04-01T02:09:53Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2022-11-13T12:55:30.436999Z",
     "available": false
   },
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.18032786885245902,
-    "checked_at": "2025-04-01T02:10:00Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2022-11-23T10:24:17.066797Z",
     "available": true
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8913043478260869,
-    "checked_at": "2025-04-01T02:10:08Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2022-12-23T22:35:31.197327Z",
     "available": false
   },
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:10:15Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-02-28T01:17:29.913431Z",
     "available": true
   },
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:10:22Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-02-28T19:18:52.606698Z",
     "available": true
   },
@@ -220,12 +220,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:10:30Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-03T19:28:05.854515Z",
     "available": true
   },
   {
-    "ip": "200.125.37.90",
+    "ip": "200.125.37.2",
     "name": "r200-125-37-90.ae-static.anteldata.net.uy.",
     "as_number": 6057,
     "as_org": "Administracion Nacional de Telecomunicaciones",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:10:37Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-13T02:08:50.750559Z",
     "available": true
   },
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:10:37Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-13T05:38:31.653242Z",
     "available": true
   },
@@ -265,9 +265,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:10:45Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-13T05:58:40.46716Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "190.64.131.236",
@@ -280,12 +280,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:10:52Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-13T14:51:36.796304Z",
     "available": true
   },
   {
-    "ip": "190.64.67.26",
+    "ip": "190.64.67.52",
     "name": "",
     "as_number": 6057,
     "as_org": "Administracion Nacional de Telecomunicaciones",
@@ -295,7 +295,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:10:59Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-13T18:41:19.915767Z",
     "available": true
   },
@@ -310,7 +310,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:11:00Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-13T22:58:25.994431Z",
     "available": true
   },
@@ -325,7 +325,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:11:07Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-14T00:47:22.727241Z",
     "available": true
   },
@@ -340,7 +340,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:11:14Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-14T14:57:08.492287Z",
     "available": false
   },
@@ -355,7 +355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:11:19Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-14T16:40:48.733694Z",
     "available": true
   },
@@ -370,7 +370,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:11:19Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-14T19:36:39.946376Z",
     "available": true
   },
@@ -385,9 +385,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.96875,
-    "checked_at": "2025-04-01T02:11:23Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-15T12:05:30.717798Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "179.27.64.34",
@@ -400,7 +400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2025-04-01T02:11:23Z",
+    "checked_at": "2026-04-24T02:57:53Z",
     "created_at": "2023-03-16T23:47:52.038659Z",
     "available": true
   },
@@ -415,7 +415,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2025-04-01T02:11:26Z",
+    "checked_at": "2026-04-24T02:57:54Z",
     "created_at": "2023-03-17T11:53:21.221169Z",
     "available": true
   },
@@ -430,12 +430,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2025-04-01T02:11:33Z",
+    "checked_at": "2026-04-24T02:57:54Z",
     "created_at": "2023-03-18T16:57:22.20759Z",
     "available": true
   },
   {
-    "ip": "179.27.215.218",
+    "ip": "179.27.215.122",
     "name": "r179-27-215-218.ir.static.adinet.com.uy.",
     "as_number": 6057,
     "as_org": "Administracion Nacional de Telecomunicaciones",
@@ -445,8 +445,8 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6923076923076923,
-    "checked_at": "2025-04-01T02:11:34Z",
+    "checked_at": "2026-04-24T02:57:54Z",
     "created_at": "2023-03-19T05:25:54.524457Z",
-    "available": false
+    "available": true
   }
 ]
