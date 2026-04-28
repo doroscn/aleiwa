@@ -36,12 +36,6 @@
     "index": 211
   },
   {
-    "country_id": "vi",
-    "checked_at": "2025-04-01T18:33:35Z",
-    "ip_availability_ratio%": 66.67,
-    "index": 215
-  },
-  {
     "country_id": "wf",
     "checked_at": "2025-04-01T21:22:47Z",
     "ip_availability_ratio%": 100.00,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-04-28T03:48:02Z",
     "ip_availability_ratio%": 100,
     "index": 214
+  },
+  {
+    "country_id": "vi",
+    "checked_at": "2026-04-28T10:10:15Z",
+    "ip_availability_ratio%": 41.67,
+    "index": 215
   }
 ]
