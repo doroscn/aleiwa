@@ -1,18 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":52233,"Description":"Columbus Communications Curacao NV","CC":"CW","Users":50660,"Percent of CC Pop":56.13,"Percent of Internet":0.0012,"Samples":214521},
-{"rank":2,"AS":11081,"Description":"United Telecommunication Services UTS","CC":"CW","Users":29289,"Percent of CC Pop":32.45,"Percent of Internet":0.0007,"Samples":121031},
-{"rank":3,"AS":27660,"Description":"Curacao Telecom","CC":"CW","Users":27472,"Percent of CC Pop":30.44,"Percent of Internet":0.0007,"Samples":116124},
-{"rank":4,"AS":274122,"Description":"Aquatel N.V.","CC":"CW","Users":553,"Percent of CC Pop":0.61,"Percent of Internet":0.0000,"Samples":40},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CW","Users":179,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":72},
-{"rank":6,"AS":272996,"Description":"SINCERE NETWORKS B.V.","CC":"CW","Users":135,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":42},
-{"rank":7,"AS":264645,"Description":"NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"CW","Users":98,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":136},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CW","Users":54,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":88},
-{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"CW","Users":43,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":48},
-{"rank":10,"AS":52391,"Description":"Curacao Technology Exchange N.V CTEX","CC":"CW","Users":40,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":12}
+{"rank":1,"AS":52233,"Description":"Columbus Communications Curacao NV","CC":"CW","Users":50579,"Percent of CC Pop":56.04,"Percent of Internet":0.0012,"Samples":206957},
+{"rank":2,"AS":11081,"Description":"United Telecommunication Services UTS","CC":"CW","Users":30149,"Percent of CC Pop":33.41,"Percent of Internet":0.0007,"Samples":120587},
+{"rank":3,"AS":27660,"Description":"Curacao Telecom","CC":"CW","Users":26640,"Percent of CC Pop":29.52,"Percent of Internet":0.0006,"Samples":108893},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CW","Users":345,"Percent of CC Pop":0.38,"Percent of Internet":0.0000,"Samples":493},
+{"rank":5,"AS":274122,"Description":"Aquatel N.V.","CC":"CW","Users":227,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":48},
+{"rank":6,"AS":264645,"Description":"NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"CW","Users":85,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":103},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CW","Users":47,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":67},
+{"rank":8,"AS":52391,"Description":"Curacao Technology Exchange N.V CTEX","CC":"CW","Users":41,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":13},
+{"rank":9,"AS":61473,"Description":"SFT Bank N.V.","CC":"CW","Users":35,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":10},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"CW","Users":33,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":30}
   ]
 }

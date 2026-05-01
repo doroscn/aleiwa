@@ -1,20 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":7642,"Description":"DHIRAAGU-MV-AP DHIVEHI RAAJJEYGE GULHUN PLC","CC":"MV","Users":211982,"Percent of CC Pop":55.18,"Percent of Internet":0.0051,"Samples":532936},
-{"rank":2,"AS":55944,"Description":"OOREDOO-MV Ooredoo Maldives Plc","CC":"MV","Users":131063,"Percent of CC Pop":34.12,"Percent of Internet":0.0031,"Samples":329574},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MV","Users":13207,"Percent of CC Pop":3.44,"Percent of Internet":0.0003,"Samples":25894},
-{"rank":4,"AS":136238,"Description":"SATLINKPVTLTD-AS-AP SatLink Pvt Ltd","CC":"MV","Users":5997,"Percent of CC Pop":1.56,"Percent of Internet":0.0001,"Samples":15051},
-{"rank":5,"AS":24016,"Description":"RAAJJEONLINE-AS Focus Infocom Private Limited","CC":"MV","Users":3235,"Percent of CC Pop":0.84,"Percent of Internet":0.0001,"Samples":8255},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MV","Users":1642,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":4122},
-{"rank":7,"AS":139082,"Description":"SEPCL-AS-AP Singha Estate Public Company Limited","CC":"MV","Users":532,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":1322},
-{"rank":8,"AS":137477,"Description":"VILLA-STC-AS-AP Villa Shipping and Trading Company Pvt. Ltd.","CC":"MV","Users":137,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":129},
-{"rank":9,"AS":22363,"Description":"PHMGMT-AS1 - Powerhouse Management, Inc.","CC":"MV","Users":109,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":23},
-{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MV","Users":104,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":158},
-{"rank":11,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"MV","Users":85,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":59},
-{"rank":12,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"MV","Users":63,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":18}
+{"rank":1,"AS":7642,"Description":"DHIRAAGU-MV-AP DHIVEHI RAAJJEYGE GULHUN PLC","CC":"MV","Users":212781,"Percent of CC Pop":55.39,"Percent of Internet":0.0051,"Samples":496405},
+{"rank":2,"AS":55944,"Description":"OOREDOO-MV Ooredoo Maldives Plc","CC":"MV","Users":128459,"Percent of CC Pop":33.44,"Percent of Internet":0.0031,"Samples":300281},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MV","Users":12838,"Percent of CC Pop":3.34,"Percent of Internet":0.0003,"Samples":23031},
+{"rank":4,"AS":136238,"Description":"SATLINKPVTLTD-AS-AP SatLink Pvt Ltd","CC":"MV","Users":5270,"Percent of CC Pop":1.37,"Percent of Internet":0.0001,"Samples":12559},
+{"rank":5,"AS":24016,"Description":"RAAJJEONLINE-AS Focus Infocom Private Limited","CC":"MV","Users":3201,"Percent of CC Pop":0.83,"Percent of Internet":0.0001,"Samples":7682},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MV","Users":1210,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":2848},
+{"rank":7,"AS":139082,"Description":"SEPCL-AS-AP Singha Estate Public Company Limited","CC":"MV","Users":526,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":1122},
+{"rank":8,"AS":137477,"Description":"VILLA-STC-AS-AP Villa Shipping and Trading Company Pvt. Ltd.","CC":"MV","Users":152,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":86},
+{"rank":9,"AS":22363,"Description":"PHMGMT-AS1 - Powerhouse Management, Inc.","CC":"MV","Users":132,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":17},
+{"rank":10,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"MV","Users":104,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":59},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MV","Users":91,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":113},
+{"rank":12,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"MV","Users":66,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":20}
   ]
 }

@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30985,"Description":"IKATELNET","CC":"ML","Users":2301122,"Percent of CC Pop":74.96,"Percent of Internet":0.0551,"Samples":2522772},
-{"rank":2,"AS":21271,"Description":"SOTELMABGP","CC":"ML","Users":1241523,"Percent of CC Pop":40.44,"Percent of Internet":0.0298,"Samples":1369642},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ML","Users":236654,"Percent of CC Pop":7.71,"Percent of Internet":0.0057,"Samples":170879},
-{"rank":4,"AS":328253,"Description":"MALI-ATEL","CC":"ML","Users":80362,"Percent of CC Pop":2.62,"Percent of Internet":0.0019,"Samples":86562},
-{"rank":5,"AS":36864,"Description":"AFRIBONEMALI-AS","CC":"ML","Users":27852,"Percent of CC Pop":0.91,"Percent of Internet":0.0007,"Samples":29736},
-{"rank":6,"AS":328284,"Description":"SMDT1-AS","CC":"ML","Users":1718,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":1813},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"ML","Users":620,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":530}
+{"rank":1,"AS":30985,"Description":"IKATELNET","CC":"ML","Users":2262152,"Percent of CC Pop":73.69,"Percent of Internet":0.0542,"Samples":2423607},
+{"rank":2,"AS":21271,"Description":"SOTELMABGP","CC":"ML","Users":1155292,"Percent of CC Pop":37.63,"Percent of Internet":0.0277,"Samples":1256560},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ML","Users":265459,"Percent of CC Pop":8.65,"Percent of Internet":0.0064,"Samples":252742},
+{"rank":4,"AS":328253,"Description":"MALI-ATEL","CC":"ML","Users":75555,"Percent of CC Pop":2.46,"Percent of Internet":0.0018,"Samples":79740},
+{"rank":5,"AS":36864,"Description":"AFRIBONEMALI-AS","CC":"ML","Users":28315,"Percent of CC Pop":0.92,"Percent of Internet":0.0007,"Samples":29485},
+{"rank":6,"AS":328284,"Description":"SMDT1-AS","CC":"ML","Users":1952,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":1998},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"ML","Users":600,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":387}
   ]
 }

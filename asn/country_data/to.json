@@ -1,14 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":38201,"Description":"KALIANET-PUBLIC-AS-AP Tonga Communications Internet Network","CC":"TO","Users":23200,"Percent of CC Pop":50.49,"Percent of Internet":0.0006,"Samples":37281},
-{"rank":2,"AS":38198,"Description":"DIGICELNET-TO Digicel Tonga Ltd","CC":"TO","Users":15957,"Percent of CC Pop":34.73,"Percent of Internet":0.0004,"Samples":25755},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TO","Users":6722,"Percent of CC Pop":14.63,"Percent of Internet":0.0002,"Samples":10918},
-{"rank":4,"AS":132831,"Description":"TOKOWIRELESSLTD-AS-AP TokoWireless Limited","CC":"TO","Users":1934,"Percent of CC Pop":4.21,"Percent of Internet":0.0000,"Samples":3688},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TO","Users":268,"Percent of CC Pop":0.58,"Percent of Internet":0.0000,"Samples":39},
-{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TO","Users":151,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":17}
+{"rank":1,"AS":38201,"Description":"KALIANET-PUBLIC-AS-AP Tonga Communications Internet Network","CC":"TO","Users":22128,"Percent of CC Pop":48.16,"Percent of Internet":0.0005,"Samples":33447},
+{"rank":2,"AS":38198,"Description":"DIGICELNET-TO Digicel Tonga Ltd","CC":"TO","Users":15532,"Percent of CC Pop":33.80,"Percent of Internet":0.0004,"Samples":23982},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TO","Users":7978,"Percent of CC Pop":17.36,"Percent of Internet":0.0002,"Samples":12473},
+{"rank":4,"AS":132831,"Description":"TOKOWIRELESSLTD-AS-AP TokoWireless Limited","CC":"TO","Users":2027,"Percent of CC Pop":4.41,"Percent of Internet":0.0000,"Samples":3681},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TO","Users":165,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":11},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TO","Users":151,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":17},
+{"rank":7,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"TO","Users":127,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

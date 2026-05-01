@@ -1,23 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":36549,"Description":"LOGIC-36549 - WestTel Ltd.","CC":"KY","Users":26613,"Percent of CC Pop":47.69,"Percent of Internet":0.0006,"Samples":68734},
-{"rank":2,"AS":6639,"Description":"CWCAYMAN - Cable & Wireless Cayman Islands Ltd.","CC":"KY","Users":23324,"Percent of CC Pop":41.80,"Percent of Internet":0.0006,"Samples":59751},
-{"rank":3,"AS":13771,"Description":"DIGICEL-CAYMAN - Digicel Cayman Limited","CC":"KY","Users":5951,"Percent of CC Pop":10.66,"Percent of Internet":0.0001,"Samples":15353},
-{"rank":4,"AS":16437,"Description":"INFINITY-BROADBAND-LTD - Infinity Broadband Ltd","CC":"KY","Users":3424,"Percent of CC Pop":6.14,"Percent of Internet":0.0001,"Samples":9422},
-{"rank":5,"AS":30689,"Description":"FLOW-NET - FLOW","CC":"KY","Users":448,"Percent of CC Pop":0.80,"Percent of Internet":0.0000,"Samples":280},
-{"rank":6,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"KY","Users":381,"Percent of CC Pop":0.68,"Percent of Internet":0.0000,"Samples":335},
-{"rank":7,"AS":212238,"Description":"CDNEXT","CC":"KY","Users":311,"Percent of CC Pop":0.56,"Percent of Internet":0.0000,"Samples":529},
-{"rank":8,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KY","Users":226,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":267},
-{"rank":9,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"KY","Users":105,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":56},
-{"rank":10,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KY","Users":102,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":35},
-{"rank":11,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"KY","Users":101,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":98},
-{"rank":12,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"KY","Users":94,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":13},
-{"rank":13,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"KY","Users":70,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":85},
-{"rank":14,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"KY","Users":64,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":32},
-{"rank":15,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"KY","Users":60,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":10}
+{"rank":1,"AS":36549,"Description":"LOGIC-36549 - WestTel Ltd.","CC":"KY","Users":28005,"Percent of CC Pop":50.18,"Percent of Internet":0.0007,"Samples":75179},
+{"rank":2,"AS":6639,"Description":"CWCAYMAN - Cable & Wireless Cayman Islands Ltd.","CC":"KY","Users":21899,"Percent of CC Pop":39.24,"Percent of Internet":0.0005,"Samples":59388},
+{"rank":3,"AS":13771,"Description":"DIGICEL-CAYMAN - Digicel Cayman Limited","CC":"KY","Users":5674,"Percent of CC Pop":10.17,"Percent of Internet":0.0001,"Samples":15266},
+{"rank":4,"AS":16437,"Description":"INFINITY-BROADBAND-LTD - Infinity Broadband Ltd","CC":"KY","Users":3527,"Percent of CC Pop":6.32,"Percent of Internet":0.0001,"Samples":9991},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KY","Users":381,"Percent of CC Pop":0.68,"Percent of Internet":0.0000,"Samples":637},
+{"rank":6,"AS":212238,"Description":"CDNEXT","CC":"KY","Users":277,"Percent of CC Pop":0.50,"Percent of Internet":0.0000,"Samples":497},
+{"rank":7,"AS":137409,"Description":"GSLNETWORKS-AS-AP GSL Networks Pty LTD","CC":"KY","Users":271,"Percent of CC Pop":0.49,"Percent of Internet":0.0000,"Samples":270},
+{"rank":8,"AS":30689,"Description":"FLOW-NET - FLOW","CC":"KY","Users":198,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":94},
+{"rank":9,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"KY","Users":158,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":173},
+{"rank":10,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"KY","Users":90,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":66},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"KY","Users":88,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":110},
+{"rank":12,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KY","Users":83,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":28},
+{"rank":13,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"KY","Users":67,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":37},
+{"rank":14,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"KY","Users":63,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

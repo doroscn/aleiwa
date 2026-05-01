@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":133606,"Description":"VIETTELTIMORLESTE-AS-AP Viettel Timor Leste","CC":"TL","Users":199176,"Percent of CC Pop":47.69,"Percent of Internet":0.0048,"Samples":168367},
-{"rank":2,"AS":58731,"Description":"TELINTLSA-AS Telekomunikasi Indonesia International T.L. S.A.","CC":"TL","Users":137102,"Percent of CC Pop":32.82,"Percent of Internet":0.0033,"Samples":115618},
-{"rank":3,"AS":38077,"Description":"TIMOR-TELECOM-AS-AP Timor Telecom, SA","CC":"TL","Users":80516,"Percent of CC Pop":19.28,"Percent of Internet":0.0019,"Samples":68553},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TL","Users":27484,"Percent of CC Pop":6.58,"Percent of Internet":0.0007,"Samples":23291},
-{"rank":5,"AS":135065,"Description":"NIDOM-AS-AP National Directorate of Information and Technology","CC":"TL","Users":1223,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":40},
-{"rank":6,"AS":151605,"Description":"SACOMTELLDA-AS-AP Sacomtel Lda.","CC":"TL","Users":1184,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":361},
-{"rank":7,"AS":136920,"Description":"GARDAMORLDA-AS-AP Gardamor, Lda","CC":"TL","Users":1119,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":524},
-{"rank":8,"AS":140223,"Description":"METROLINK-AS-AP METROLINK,LDA.","CC":"TL","Users":586,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":107},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TL","Users":507,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":81},
-{"rank":10,"AS":139688,"Description":"TICTIMORIP-AS TIC TIMOR I.P.","CC":"TL","Users":408,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":135},
-{"rank":11,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"TL","Users":283,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":98}
+{"rank":1,"AS":133606,"Description":"VIETTELTIMORLESTE-AS-AP Viettel Timor Leste","CC":"TL","Users":195473,"Percent of CC Pop":46.80,"Percent of Internet":0.0047,"Samples":156590},
+{"rank":2,"AS":58731,"Description":"TELINTLSA-AS Telekomunikasi Indonesia International T.L. S.A.","CC":"TL","Users":136892,"Percent of CC Pop":32.77,"Percent of Internet":0.0033,"Samples":109843},
+{"rank":3,"AS":38077,"Description":"TIMOR-TELECOM-AS-AP Timor Telecom, SA","CC":"TL","Users":77305,"Percent of CC Pop":18.51,"Percent of Internet":0.0019,"Samples":62880},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TL","Users":30188,"Percent of CC Pop":7.23,"Percent of Internet":0.0007,"Samples":23866},
+{"rank":5,"AS":135065,"Description":"NIDOM-AS-AP National Directorate of Information and Technology","CC":"TL","Users":1485,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":128},
+{"rank":6,"AS":136920,"Description":"GARDAMORLDA-AS-AP Gardamor, Lda","CC":"TL","Users":965,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":403},
+{"rank":7,"AS":151605,"Description":"SACOMTELLDA-AS-AP Sacomtel Lda.","CC":"TL","Users":954,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":392},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TL","Users":549,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":79},
+{"rank":9,"AS":139688,"Description":"TICTIMORIP-AS TIC TIMOR I.P.","CC":"TL","Users":493,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":132},
+{"rank":10,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"TL","Users":355,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":116},
+{"rank":11,"AS":140223,"Description":"METROLINK-AS-AP METROLINK,LDA.","CC":"TL","Users":342,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":49}
   ]
 }

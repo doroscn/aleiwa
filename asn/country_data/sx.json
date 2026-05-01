@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27781,"Description":"SMITCOMS N.V.","CC":"SX","Users":12495,"Percent of CC Pop":52.99,"Percent of Internet":0.0003,"Samples":55652},
-{"rank":2,"AS":27734,"Description":"New Technologies Group N.V.","CC":"SX","Users":7315,"Percent of CC Pop":31.02,"Percent of Internet":0.0002,"Samples":32748},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SX","Users":2890,"Percent of CC Pop":12.26,"Percent of Internet":0.0001,"Samples":12927},
-{"rank":4,"AS":262181,"Description":"Coral Telecom N.V.","CC":"SX","Users":1742,"Percent of CC Pop":7.39,"Percent of Internet":0.0000,"Samples":7924},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SX","Users":40,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":29},
-{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SX","Users":28,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":15}
+{"rank":1,"AS":27781,"Description":"SMITCOMS N.V.","CC":"SX","Users":12584,"Percent of CC Pop":53.36,"Percent of Internet":0.0003,"Samples":55817},
+{"rank":2,"AS":27734,"Description":"New Technologies Group N.V.","CC":"SX","Users":7409,"Percent of CC Pop":31.42,"Percent of Internet":0.0002,"Samples":32894},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SX","Users":2785,"Percent of CC Pop":11.81,"Percent of Internet":0.0001,"Samples":12190},
+{"rank":4,"AS":262181,"Description":"Coral Telecom N.V.","CC":"SX","Users":1669,"Percent of CC Pop":7.08,"Percent of Internet":0.0000,"Samples":7486},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SX","Users":35,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":32},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SX","Users":28,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

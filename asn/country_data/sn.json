@@ -1,22 +1,23 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8346,"Description":"SONATEL SONATEL-AS Autonomous System","CC":"SN","Users":5430215,"Percent of CC Pop":88.00,"Percent of Internet":0.1301,"Samples":9450040},
-{"rank":2,"AS":37649,"Description":"Tigo","CC":"SN","Users":771823,"Percent of CC Pop":12.51,"Percent of Internet":0.0185,"Samples":1351608},
-{"rank":3,"AS":37559,"Description":"ORANGE-BISSAU","CC":"SN","Users":425585,"Percent of CC Pop":6.90,"Percent of Internet":0.0102,"Samples":728117},
-{"rank":4,"AS":37196,"Description":"SUDATEL-SENEGAL","CC":"SN","Users":204341,"Percent of CC Pop":3.31,"Percent of Internet":0.0049,"Samples":357203},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SN","Users":162314,"Percent of CC Pop":2.63,"Percent of Internet":0.0039,"Samples":217864},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SN","Users":19890,"Percent of CC Pop":0.32,"Percent of Internet":0.0005,"Samples":35293},
-{"rank":7,"AS":328148,"Description":"ADIE-AS","CC":"SN","Users":3081,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":5074},
-{"rank":8,"AS":327809,"Description":"ARC-Informatique","CC":"SN","Users":2603,"Percent of CC Pop":0.04,"Percent of Internet":0.0001,"Samples":4489},
-{"rank":9,"AS":328259,"Description":"WAW-SAS","CC":"SN","Users":1491,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":2488},
-{"rank":10,"AS":13150,"Description":"CATON","CC":"SN","Users":525,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":51},
-{"rank":11,"AS":212238,"Description":"CDNEXT","CC":"SN","Users":505,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":740},
-{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SN","Users":137,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":152},
-{"rank":13,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"SN","Users":98,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":18},
-{"rank":14,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"SN","Users":93,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":17}
+{"rank":1,"AS":8346,"Description":"SONATEL SONATEL-AS Autonomous System","CC":"SN","Users":5345355,"Percent of CC Pop":86.62,"Percent of Internet":0.1281,"Samples":9399476},
+{"rank":2,"AS":37649,"Description":"Tigo","CC":"SN","Users":749317,"Percent of CC Pop":12.14,"Percent of Internet":0.0180,"Samples":1326507},
+{"rank":3,"AS":37559,"Description":"ORANGE-BISSAU","CC":"SN","Users":372198,"Percent of CC Pop":6.03,"Percent of Internet":0.0089,"Samples":658888},
+{"rank":4,"AS":37196,"Description":"SUDATEL-SENEGAL","CC":"SN","Users":208043,"Percent of CC Pop":3.37,"Percent of Internet":0.0050,"Samples":365593},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SN","Users":185730,"Percent of CC Pop":3.01,"Percent of Internet":0.0045,"Samples":315077},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SN","Users":13455,"Percent of CC Pop":0.22,"Percent of Internet":0.0003,"Samples":26037},
+{"rank":7,"AS":328148,"Description":"ADIE-AS","CC":"SN","Users":2717,"Percent of CC Pop":0.04,"Percent of Internet":0.0001,"Samples":4689},
+{"rank":8,"AS":327809,"Description":"ARC-Informatique","CC":"SN","Users":2707,"Percent of CC Pop":0.04,"Percent of Internet":0.0001,"Samples":4663},
+{"rank":9,"AS":328259,"Description":"WAW-SAS","CC":"SN","Users":1332,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":2273},
+{"rank":10,"AS":212238,"Description":"CDNEXT","CC":"SN","Users":521,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":772},
+{"rank":11,"AS":13150,"Description":"CATON","CC":"SN","Users":168,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":15},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SN","Users":139,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":167},
+{"rank":13,"AS":204596,"Description":"LCGP","CC":"SN","Users":108,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":21},
+{"rank":14,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"SN","Users":107,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":25},
+{"rank":15,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"SN","Users":86,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":18}
   ]
 }

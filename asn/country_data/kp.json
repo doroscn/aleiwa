@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":131279,"Description":"STAR-KP Ryugyong-dong","CC":"KP","Users":50270,"Percent of CC Pop":97.50,"Percent of Internet":0.0012,"Samples":129},
-{"rank":2,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KP","Users":30751,"Percent of CC Pop":59.64,"Percent of Internet":0.0007,"Samples":11}
+{"rank":1,"AS":131279,"Description":"STAR-KP Ryugyong-dong","CC":"KP","Users":49426,"Percent of CC Pop":95.87,"Percent of Internet":0.0012,"Samples":60},
+{"rank":2,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KP","Users":31631,"Percent of CC Pop":61.35,"Percent of Internet":0.0008,"Samples":10}
   ]
 }

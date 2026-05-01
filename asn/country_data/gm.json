@@ -1,23 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37524,"Description":"AFRICELL-","CC":"GM","Users":189307,"Percent of CC Pop":34.62,"Percent of Internet":0.0045,"Samples":398915},
-{"rank":2,"AS":37552,"Description":"Gamtel","CC":"GM","Users":172972,"Percent of CC Pop":31.63,"Percent of Internet":0.0041,"Samples":367901},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GM","Users":146551,"Percent of CC Pop":26.80,"Percent of Internet":0.0035,"Samples":111426},
-{"rank":4,"AS":37309,"Description":"QCell","CC":"GM","Users":139047,"Percent of CC Pop":25.43,"Percent of Internet":0.0033,"Samples":294658},
-{"rank":5,"AS":25250,"Description":"GAMTEL-AS","CC":"GM","Users":69322,"Percent of CC Pop":12.68,"Percent of Internet":0.0017,"Samples":143630},
-{"rank":6,"AS":37323,"Description":"NETPAGE","CC":"GM","Users":19761,"Percent of CC Pop":3.61,"Percent of Internet":0.0005,"Samples":40852},
-{"rank":7,"AS":328488,"Description":"DK-Telecom","CC":"GM","Users":14799,"Percent of CC Pop":2.71,"Percent of Internet":0.0004,"Samples":30507},
-{"rank":8,"AS":328140,"Description":"INSIST-NET-AS","CC":"GM","Users":12363,"Percent of CC Pop":2.26,"Percent of Internet":0.0003,"Samples":25635},
-{"rank":9,"AS":37503,"Description":"Unique-Solutions","CC":"GM","Users":1158,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":2411},
-{"rank":10,"AS":329179,"Description":"Sky-Telecom-AS","CC":"GM","Users":935,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":1937},
-{"rank":11,"AS":15169,"Description":"GOOGLE - Google LLC","CC":"GM","Users":177,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":10},
-{"rank":12,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GM","Users":158,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":174},
-{"rank":13,"AS":29286,"Description":"SKYLOGIC-AS","CC":"GM","Users":132,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":56},
-{"rank":14,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GM","Users":66,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":21},
-{"rank":15,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GM","Users":66,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":14}
+{"rank":1,"AS":37524,"Description":"AFRICELL-","CC":"GM","Users":176404,"Percent of CC Pop":32.26,"Percent of Internet":0.0042,"Samples":380990},
+{"rank":2,"AS":37552,"Description":"Gamtel","CC":"GM","Users":161405,"Percent of CC Pop":29.52,"Percent of Internet":0.0039,"Samples":350637},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GM","Users":146007,"Percent of CC Pop":26.70,"Percent of Internet":0.0035,"Samples":192117},
+{"rank":4,"AS":37309,"Description":"QCell","CC":"GM","Users":128520,"Percent of CC Pop":23.50,"Percent of Internet":0.0031,"Samples":279506},
+{"rank":5,"AS":25250,"Description":"GAMTEL-AS","CC":"GM","Users":66475,"Percent of CC Pop":12.16,"Percent of Internet":0.0016,"Samples":141742},
+{"rank":6,"AS":37323,"Description":"NETPAGE","CC":"GM","Users":17578,"Percent of CC Pop":3.21,"Percent of Internet":0.0004,"Samples":37519},
+{"rank":7,"AS":328488,"Description":"DK-Telecom","CC":"GM","Users":13054,"Percent of CC Pop":2.39,"Percent of Internet":0.0003,"Samples":27843},
+{"rank":8,"AS":328140,"Description":"INSIST-NET-AS","CC":"GM","Users":10640,"Percent of CC Pop":1.95,"Percent of Internet":0.0003,"Samples":22839},
+{"rank":9,"AS":37503,"Description":"Unique-Solutions","CC":"GM","Users":1129,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":2401},
+{"rank":10,"AS":329179,"Description":"Sky-Telecom-AS","CC":"GM","Users":1100,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":2337},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GM","Users":167,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":164},
+{"rank":12,"AS":29286,"Description":"SKYLOGIC-AS","CC":"GM","Users":102,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":33},
+{"rank":13,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"GM","Users":69,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":12},
+{"rank":14,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GM","Users":59,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":17}
   ]
 }

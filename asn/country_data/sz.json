@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":328169,"Description":"SWAZI-MOBILE","CC":"SZ","Users":191704,"Percent of CC Pop":48.27,"Percent of Internet":0.0046,"Samples":317334},
-{"rank":2,"AS":327765,"Description":"SwaziMTN-Ltd","CC":"SZ","Users":158103,"Percent of CC Pop":39.81,"Percent of Internet":0.0038,"Samples":260453},
-{"rank":3,"AS":19711,"Description":"SWAZINET","CC":"SZ","Users":42005,"Percent of CC Pop":10.58,"Percent of Internet":0.0010,"Samples":68491},
-{"rank":4,"AS":327750,"Description":"JENNY-INTERNET","CC":"SZ","Users":17140,"Percent of CC Pop":4.32,"Percent of Internet":0.0004,"Samples":27738},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SZ","Users":10792,"Percent of CC Pop":2.72,"Percent of Internet":0.0003,"Samples":17677},
-{"rank":6,"AS":32398,"Description":"REALNET-ASN-1","CC":"SZ","Users":2132,"Percent of CC Pop":0.54,"Percent of Internet":0.0001,"Samples":3507},
-{"rank":7,"AS":328628,"Description":"Wanderport","CC":"SZ","Users":1861,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":3005},
-{"rank":8,"AS":329095,"Description":"AFRIMETRO-AS","CC":"SZ","Users":667,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":926},
-{"rank":9,"AS":329223,"Description":"Chakaza-Holdings","CC":"SZ","Users":446,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":387},
-{"rank":10,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"SZ","Users":143,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":13},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SZ","Users":128,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":67}
+{"rank":1,"AS":328169,"Description":"SWAZI-MOBILE","CC":"SZ","Users":180100,"Percent of CC Pop":45.35,"Percent of Internet":0.0043,"Samples":282468},
+{"rank":2,"AS":327765,"Description":"SwaziMTN-Ltd","CC":"SZ","Users":165748,"Percent of CC Pop":41.73,"Percent of Internet":0.0040,"Samples":256520},
+{"rank":3,"AS":19711,"Description":"SWAZINET","CC":"SZ","Users":40525,"Percent of CC Pop":10.20,"Percent of Internet":0.0010,"Samples":62570},
+{"rank":4,"AS":327750,"Description":"JENNY-INTERNET","CC":"SZ","Users":18621,"Percent of CC Pop":4.69,"Percent of Internet":0.0004,"Samples":28235},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SZ","Users":11742,"Percent of CC Pop":2.96,"Percent of Internet":0.0003,"Samples":18008},
+{"rank":6,"AS":32398,"Description":"REALNET-ASN-1","CC":"SZ","Users":1700,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":2730},
+{"rank":7,"AS":328628,"Description":"Wanderport","CC":"SZ","Users":1693,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":2590},
+{"rank":8,"AS":329095,"Description":"AFRIMETRO-AS","CC":"SZ","Users":724,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":963},
+{"rank":9,"AS":329223,"Description":"Chakaza-Holdings","CC":"SZ","Users":448,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":299},
+{"rank":10,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"SZ","Users":154,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":12},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SZ","Users":98,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":30}
   ]
 }

@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15389,"Description":"FAROESE-TELECOM-AS","CC":"FO","Users":41231,"Percent of CC Pop":83.36,"Percent of Internet":0.0010,"Samples":115530},
-{"rank":2,"AS":20963,"Description":"NEMA","CC":"FO","Users":12994,"Percent of CC Pop":26.27,"Percent of Internet":0.0003,"Samples":36789},
-{"rank":3,"AS":209175,"Description":"KRINGVARP_FOROYA","CC":"FO","Users":190,"Percent of CC Pop":0.38,"Percent of Internet":0.0000,"Samples":37},
-{"rank":4,"AS":206928,"Description":"PF-ELEKTRON","CC":"FO","Users":165,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":244},
-{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"FO","Users":58,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":11},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FO","Users":57,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":52},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"FO","Users":56,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":30}
+{"rank":1,"AS":15389,"Description":"FAROESE-TELECOM-AS","CC":"FO","Users":40906,"Percent of CC Pop":82.70,"Percent of Internet":0.0010,"Samples":113225},
+{"rank":2,"AS":20963,"Description":"NEMA","CC":"FO","Users":13196,"Percent of CC Pop":26.68,"Percent of Internet":0.0003,"Samples":36778},
+{"rank":3,"AS":206928,"Description":"PF-ELEKTRON","CC":"FO","Users":154,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":223},
+{"rank":4,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"FO","Users":60,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":10},
+{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"FO","Users":58,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":27},
+{"rank":6,"AS":209175,"Description":"KRINGVARP_FOROYA","CC":"FO","Users":51,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":11},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FO","Users":51,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":36}
   ]
 }

@@ -1,17 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27775,"Description":"Telecommunicationcompany Suriname - TeleSur","CC":"SR","Users":288458,"Percent of CC Pop":89.73,"Percent of Internet":0.0069,"Samples":968575},
-{"rank":2,"AS":52398,"Description":"Digicel Suriname NV","CC":"SR","Users":51661,"Percent of CC Pop":16.07,"Percent of Internet":0.0012,"Samples":173191},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SR","Users":4303,"Percent of CC Pop":1.34,"Percent of Internet":0.0001,"Samples":14291},
-{"rank":4,"AS":265822,"Description":"PARBONET N.V.","CC":"SR","Users":3537,"Percent of CC Pop":1.10,"Percent of Internet":0.0001,"Samples":11939},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SR","Users":797,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":2124},
-{"rank":6,"AS":212238,"Description":"CDNEXT","CC":"SR","Users":110,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":26},
-{"rank":7,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"SR","Users":104,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":41},
-{"rank":8,"AS":263799,"Description":"CARIBBEAN COMMUNICATION SERVICES","CC":"SR","Users":60,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":46},
-{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SR","Users":52,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":37}
+{"rank":1,"AS":27775,"Description":"Telecommunicationcompany Suriname - TeleSur","CC":"SR","Users":285997,"Percent of CC Pop":88.96,"Percent of Internet":0.0069,"Samples":921906},
+{"rank":2,"AS":52398,"Description":"Digicel Suriname NV","CC":"SR","Users":51047,"Percent of CC Pop":15.88,"Percent of Internet":0.0012,"Samples":164761},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SR","Users":4826,"Percent of CC Pop":1.50,"Percent of Internet":0.0001,"Samples":15470},
+{"rank":4,"AS":265822,"Description":"PARBONET N.V.","CC":"SR","Users":3577,"Percent of CC Pop":1.11,"Percent of Internet":0.0001,"Samples":11568},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SR","Users":425,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":933},
+{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"SR","Users":85,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":30},
+{"rank":7,"AS":212238,"Description":"CDNEXT","CC":"SR","Users":78,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":32},
+{"rank":8,"AS":263799,"Description":"CARIBBEAN COMMUNICATION SERVICES","CC":"SR","Users":63,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":35},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SR","Users":62,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":45}
   ]
 }

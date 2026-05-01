@@ -1,18 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15706,"Description":"Sudatel","CC":"SD","Users":7992183,"Percent of CC Pop":51.59,"Percent of Internet":0.1915,"Samples":1947001},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SD","Users":4134711,"Percent of CC Pop":26.69,"Percent of Internet":0.0991,"Samples":989581},
-{"rank":3,"AS":36998,"Description":"SDN-MOBITEL","CC":"SD","Users":3685846,"Percent of CC Pop":23.79,"Percent of Internet":0.0883,"Samples":892648},
-{"rank":4,"AS":36972,"Description":"MTN","CC":"SD","Users":2346786,"Percent of CC Pop":15.15,"Percent of Internet":0.0562,"Samples":570609},
-{"rank":5,"AS":33788,"Description":"KANARTEL","CC":"SD","Users":20035,"Percent of CC Pop":0.13,"Percent of Internet":0.0005,"Samples":4979},
-{"rank":6,"AS":37211,"Description":"MAX-NET-FOR-INTERNET-SERVICES","CC":"SD","Users":19467,"Percent of CC Pop":0.13,"Percent of Internet":0.0005,"Samples":4858},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SD","Users":15857,"Percent of CC Pop":0.10,"Percent of Internet":0.0004,"Samples":4040},
-{"rank":8,"AS":329344,"Description":"right-advanced-business-co-ltd","CC":"SD","Users":2093,"Percent of CC Pop":0.01,"Percent of Internet":0.0001,"Samples":188},
-{"rank":9,"AS":328824,"Description":"Lulu-AS","CC":"SD","Users":2005,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":362},
-{"rank":10,"AS":328586,"Description":"HORIZON-IT-SOLUTIONS-LTD","CC":"SD","Users":1270,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":77}
+{"rank":1,"AS":15706,"Description":"Sudatel","CC":"SD","Users":7832328,"Percent of CC Pop":50.56,"Percent of Internet":0.1877,"Samples":1895431},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SD","Users":4242765,"Percent of CC Pop":27.39,"Percent of Internet":0.1017,"Samples":1005689},
+{"rank":3,"AS":36998,"Description":"SDN-MOBITEL","CC":"SD","Users":3701611,"Percent of CC Pop":23.90,"Percent of Internet":0.0887,"Samples":888656},
+{"rank":4,"AS":36972,"Description":"MTN","CC":"SD","Users":2237488,"Percent of CC Pop":14.44,"Percent of Internet":0.0536,"Samples":541805},
+{"rank":5,"AS":33788,"Description":"KANARTEL","CC":"SD","Users":20626,"Percent of CC Pop":0.13,"Percent of Internet":0.0005,"Samples":5054},
+{"rank":6,"AS":37211,"Description":"MAX-NET-FOR-INTERNET-SERVICES","CC":"SD","Users":18418,"Percent of CC Pop":0.12,"Percent of Internet":0.0004,"Samples":4611},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SD","Users":12459,"Percent of CC Pop":0.08,"Percent of Internet":0.0003,"Samples":3212},
+{"rank":8,"AS":329344,"Description":"right-advanced-business-co-ltd","CC":"SD","Users":2148,"Percent of CC Pop":0.01,"Percent of Internet":0.0001,"Samples":188},
+{"rank":9,"AS":328824,"Description":"Lulu-AS","CC":"SD","Users":1503,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":255},
+{"rank":10,"AS":328586,"Description":"HORIZON-IT-SOLUTIONS-LTD","CC":"SD","Users":1257,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":81},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SD","Users":792,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

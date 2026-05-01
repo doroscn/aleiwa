@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3238,"Description":"ALCOM","CC":"AX","Users":14968,"Percent of CC Pop":93.80,"Percent of Internet":0.0004,"Samples":44096},
-{"rank":2,"AS":200134,"Description":"IPCONNECT","CC":"AX","Users":945,"Percent of CC Pop":5.92,"Percent of Internet":0.0000,"Samples":2971},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AX","Users":138,"Percent of CC Pop":0.86,"Percent of Internet":0.0000,"Samples":69},
-{"rank":4,"AS":41878,"Description":"CROSSKEY-AS","CC":"AX","Users":84,"Percent of CC Pop":0.53,"Percent of Internet":0.0000,"Samples":49}
+{"rank":1,"AS":3238,"Description":"ALCOM","CC":"AX","Users":15124,"Percent of CC Pop":94.78,"Percent of Internet":0.0004,"Samples":49662},
+{"rank":2,"AS":200134,"Description":"IPCONNECT","CC":"AX","Users":792,"Percent of CC Pop":4.96,"Percent of Internet":0.0000,"Samples":2565},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AX","Users":140,"Percent of CC Pop":0.88,"Percent of Internet":0.0000,"Samples":68},
+{"rank":4,"AS":41878,"Description":"CROSSKEY-AS","CC":"AX","Users":76,"Percent of CC Pop":0.48,"Percent of Internet":0.0000,"Samples":46}
   ]
 }

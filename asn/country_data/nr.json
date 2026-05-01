@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NR","Users":4238,"Percent of CC Pop":71.19,"Percent of Internet":0.0001,"Samples":11662},
-{"rank":2,"AS":140504,"Description":"DIGICELNAURU-AS-AP Digicel Nauru Corporation","CC":"NR","Users":2795,"Percent of CC Pop":46.95,"Percent of Internet":0.0001,"Samples":7371},
-{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NR","Users":296,"Percent of CC Pop":4.97,"Percent of Internet":0.0000,"Samples":213},
-{"rank":4,"AS":55722,"Description":"CENPAC-AS-AP Cenpac Net Inc","CC":"NR","Users":114,"Percent of CC Pop":1.92,"Percent of Internet":0.0000,"Samples":59},
-{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"NR","Users":107,"Percent of CC Pop":1.80,"Percent of Internet":0.0000,"Samples":21},
-{"rank":6,"AS":141368,"Description":"ICT-NR-AS-AP ICT","CC":"NR","Users":98,"Percent of CC Pop":1.65,"Percent of Internet":0.0000,"Samples":33}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NR","Users":4200,"Percent of CC Pop":70.55,"Percent of Internet":0.0001,"Samples":10944},
+{"rank":2,"AS":140504,"Description":"DIGICELNAURU-AS-AP Digicel Nauru Corporation","CC":"NR","Users":2906,"Percent of CC Pop":48.82,"Percent of Internet":0.0001,"Samples":7361},
+{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NR","Users":128,"Percent of CC Pop":2.15,"Percent of Internet":0.0000,"Samples":26},
+{"rank":4,"AS":55722,"Description":"CENPAC-AS-AP Cenpac Net Inc","CC":"NR","Users":125,"Percent of CC Pop":2.10,"Percent of Internet":0.0000,"Samples":57},
+{"rank":5,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"NR","Users":106,"Percent of CC Pop":1.78,"Percent of Internet":0.0000,"Samples":14},
+{"rank":6,"AS":141368,"Description":"ICT-NR-AS-AP ICT","CC":"NR","Users":98,"Percent of CC Pop":1.65,"Percent of Internet":0.0000,"Samples":40}
   ]
 }

@@ -1,19 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/03/2026",
+  "Date": "28/04/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14434,"Description":"VIPNAS1 - VI POWERNET, LLC","CC":"VI","Users":46927,"Percent of CC Pop":61.35,"Percent of Internet":0.0011,"Samples":118382},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VI","Users":10514,"Percent of CC Pop":13.75,"Percent of Internet":0.0003,"Samples":26165},
-{"rank":3,"AS":22581,"Description":"ACE-STX - Broadband VI, LLC","CC":"VI","Users":8666,"Percent of CC Pop":11.33,"Percent of Internet":0.0002,"Samples":22195},
-{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK - Virgin Islands Next Generation Network","CC":"VI","Users":3375,"Percent of CC Pop":4.41,"Percent of Internet":0.0001,"Samples":8876},
-{"rank":5,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"VI","Users":564,"Percent of CC Pop":0.74,"Percent of Internet":0.0000,"Samples":1162},
-{"rank":6,"AS":400741,"Description":"ADM-TECH-01 - ADM Technologies, Inc.","CC":"VI","Users":515,"Percent of CC Pop":0.67,"Percent of Internet":0.0000,"Samples":1204},
-{"rank":7,"AS":20243,"Description":"UVI - University of the Virgin Islands","CC":"VI","Users":412,"Percent of CC Pop":0.54,"Percent of Internet":0.0000,"Samples":689},
-{"rank":8,"AS":400099,"Description":"SMART-NET-01 - Alliance Data Services LLC","CC":"VI","Users":205,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":217},
-{"rank":9,"AS":3356,"Description":"LEVEL3 - Level 3 Parent, LLC","CC":"VI","Users":195,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":154},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"VI","Users":119,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":143},
-{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"VI","Users":81,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":62}
+{"rank":1,"AS":14434,"Description":"VIPNAS1 - VI POWERNET, LLC","CC":"VI","Users":46792,"Percent of CC Pop":61.17,"Percent of Internet":0.0011,"Samples":117737},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VI","Users":9855,"Percent of CC Pop":12.88,"Percent of Internet":0.0002,"Samples":24159},
+{"rank":3,"AS":22581,"Description":"ACE-STX - Broadband VI, LLC","CC":"VI","Users":8307,"Percent of CC Pop":10.86,"Percent of Internet":0.0002,"Samples":21292},
+{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK - Virgin Islands Next Generation Network","CC":"VI","Users":3373,"Percent of CC Pop":4.41,"Percent of Internet":0.0001,"Samples":8688},
+{"rank":5,"AS":215730,"Description":"H2NEXUS-AS H2NEXUS LTD","CC":"VI","Users":1206,"Percent of CC Pop":1.58,"Percent of Internet":0.0000,"Samples":636},
+{"rank":6,"AS":400741,"Description":"ADM-TECH-01 - ADM Technologies, Inc.","CC":"VI","Users":672,"Percent of CC Pop":0.88,"Percent of Internet":0.0000,"Samples":1569},
+{"rank":7,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"VI","Users":600,"Percent of CC Pop":0.78,"Percent of Internet":0.0000,"Samples":1060},
+{"rank":8,"AS":20243,"Description":"UVI - University of the Virgin Islands","CC":"VI","Users":417,"Percent of CC Pop":0.55,"Percent of Internet":0.0000,"Samples":772},
+{"rank":9,"AS":400099,"Description":"SMART-NET-01 - Alliance Data Services LLC","CC":"VI","Users":277,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":281},
+{"rank":10,"AS":3356,"Description":"LEVEL3 - Level 3 Parent, LLC","CC":"VI","Users":151,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":80},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"VI","Users":119,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":135},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"VI","Users":65,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":47}
   ]
 }
