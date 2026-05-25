@@ -45,18 +45,18 @@
     "available": false
   },
   {
-    "ip": "103.202.148.251",
-    "name": "nta-ip-103.202.148.251.dynamic.nta.mh.",
+    "ip": "117.103.93.109",
+    "name": "nta-ip-117.103.93.109.dynamic.nta.mh",
     "as_number": 24439,
     "as_org": "MARSHALL ISLANDS NTA ISP AS",
     "country_id": "MH",
-    "city": "Ebaye",
+    "city": "Majuro",
     "version": "",
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-31T08:54:00Z",
-    "created_at": "2021-09-24T04:40:09.351096Z",
-    "available": false
+    "checked_at": "2026-05-31T08:54:00Z",
+    "created_at": "2026-05-24T04:40:09.351096Z",
+    "available": true
   }
 ]
