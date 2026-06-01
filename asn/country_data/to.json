@@ -1,15 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":38201,"Description":"KALIANET-PUBLIC-AS-AP Tonga Communications Internet Network","CC":"TO","Users":22128,"Percent of CC Pop":48.16,"Percent of Internet":0.0005,"Samples":33447},
-{"rank":2,"AS":38198,"Description":"DIGICELNET-TO Digicel Tonga Ltd","CC":"TO","Users":15532,"Percent of CC Pop":33.80,"Percent of Internet":0.0004,"Samples":23982},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TO","Users":7978,"Percent of CC Pop":17.36,"Percent of Internet":0.0002,"Samples":12473},
-{"rank":4,"AS":132831,"Description":"TOKOWIRELESSLTD-AS-AP TokoWireless Limited","CC":"TO","Users":2027,"Percent of CC Pop":4.41,"Percent of Internet":0.0000,"Samples":3681},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TO","Users":165,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":11},
-{"rank":6,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TO","Users":151,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":17},
-{"rank":7,"AS":135409,"Description":"KBSPL-AS-AP Kacific Broadband Satellites Pte Ltd","CC":"TO","Users":127,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":10}
+{"rank":1,"AS":38201,"Description":"KALIANET-PUBLIC-AS-AP - Tonga Communications Internet Network","CC":"TO","Users":22783,"Percent of CC Pop":49.58,"Percent of Internet":0.0005,"Samples":32158},
+{"rank":2,"AS":38198,"Description":"DIGICELNET-TO - Digicel Tonga Ltd","CC":"TO","Users":15308,"Percent of CC Pop":33.31,"Percent of Internet":0.0004,"Samples":22124},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TO","Users":7831,"Percent of CC Pop":17.04,"Percent of Internet":0.0002,"Samples":11788},
+{"rank":4,"AS":132831,"Description":"TOKOWIRELESSLTD-AS-AP - TokoWireless Limited","CC":"TO","Users":2052,"Percent of CC Pop":4.47,"Percent of Internet":0.0000,"Samples":3493},
+{"rank":5,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"TO","Users":148,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

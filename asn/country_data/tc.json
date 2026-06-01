@@ -1,14 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":22933,"Description":"TCIGATEWAY - Cable and Wireless, Turks and Caicos","CC":"TC","Users":13042,"Percent of CC Pop":61.25,"Percent of Internet":0.0003,"Samples":50309},
-{"rank":2,"AS":394311,"Description":"DIGTCI - Digicel Turks and Caicos Ltd","CC":"TC","Users":12709,"Percent of CC Pop":59.68,"Percent of Internet":0.0003,"Samples":48667},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TC","Users":543,"Percent of CC Pop":2.55,"Percent of Internet":0.0000,"Samples":740},
-{"rank":4,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"TC","Users":68,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":18},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TC","Users":40,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":40},
-{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"TC","Users":40,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":21}
+{"rank":1,"AS":22933,"Description":"TCIGATEWAY - Cable and Wireless, Turks and Caicos","CC":"TC","Users":12979,"Percent of CC Pop":60.95,"Percent of Internet":0.0003,"Samples":49086},
+{"rank":2,"AS":394311,"Description":"DIGTCI - Digicel Turks and Caicos Ltd","CC":"TC","Users":12598,"Percent of CC Pop":59.16,"Percent of Internet":0.0003,"Samples":47484},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TC","Users":640,"Percent of CC Pop":3.01,"Percent of Internet":0.0000,"Samples":1372},
+{"rank":4,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"TC","Users":44,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":18},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TC","Users":40,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":35}
   ]
 }

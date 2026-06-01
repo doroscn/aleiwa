@@ -1,18 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"KN","Users":18069,"Percent of CC Pop":39.42,"Percent of Internet":0.0004,"Samples":67310},
-{"rank":2,"AS":36290,"Description":"THECABLE-STKITTS-01 - The Cable of St. Kitts","CC":"KN","Users":14517,"Percent of CC Pop":31.67,"Percent of Internet":0.0003,"Samples":54552},
-{"rank":3,"AS":398228,"Description":"STKITS - Antigua Wireless ventures Ltd","CC":"KN","Users":4628,"Percent of CC Pop":10.10,"Percent of Internet":0.0001,"Samples":17368},
-{"rank":4,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications Barbados Limited","CC":"KN","Users":4286,"Percent of CC Pop":9.35,"Percent of Internet":0.0001,"Samples":15068},
-{"rank":5,"AS":174,"Description":"COGENT-174 - Cogent Communications, LLC","CC":"KN","Users":233,"Percent of CC Pop":0.51,"Percent of Internet":0.0000,"Samples":22},
-{"rank":6,"AS":397382,"Description":"ECCB-CENTRALBANK - Eastern Caribbean Central Bank","CC":"KN","Users":197,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":320},
-{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KN","Users":139,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":76},
-{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"KN","Users":50,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":18},
-{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"KN","Users":41,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":16},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"KN","Users":38,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":18}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"KN","Users":18426,"Percent of CC Pop":40.19,"Percent of Internet":0.0004,"Samples":66052},
+{"rank":2,"AS":36290,"Description":"THECABLE-STKITTS-01 - The Cable of St. Kitts","CC":"KN","Users":14698,"Percent of CC Pop":32.06,"Percent of Internet":0.0004,"Samples":52620},
+{"rank":3,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications (Barbados) Limited","CC":"KN","Users":4619,"Percent of CC Pop":10.08,"Percent of Internet":0.0001,"Samples":15953},
+{"rank":4,"AS":398228,"Description":"STKITS - Antigua Wireless ventures Ltd","CC":"KN","Users":3759,"Percent of CC Pop":8.20,"Percent of Internet":0.0001,"Samples":14087},
+{"rank":5,"AS":397382,"Description":"ECCB-CENTRALBANK - Eastern Caribbean Central Bank","CC":"KN","Users":245,"Percent of CC Pop":0.53,"Percent of Internet":0.0000,"Samples":384},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KN","Users":116,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":86},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"KN","Users":46,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":20},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"KN","Users":39,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":15}
   ]
 }

@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":139759,"Description":"FMTELECOM-AS-AP FSM Telecommunications Corporation","CC":"FM","Users":24368,"Percent of CC Pop":11.44,"Percent of Internet":0.0006,"Samples":56328},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"FM","Users":7877,"Percent of CC Pop":3.70,"Percent of Internet":0.0002,"Samples":17809},
-{"rank":3,"AS":45193,"Description":"AS45193 FSM Telecommunications Corporation","CC":"FM","Users":6170,"Percent of CC Pop":2.90,"Percent of Internet":0.0001,"Samples":14160},
-{"rank":4,"AS":38875,"Description":"AS38875 FSM Telecommunications Corporation","CC":"FM","Users":4695,"Percent of CC Pop":2.20,"Percent of Internet":0.0001,"Samples":10657},
-{"rank":5,"AS":58524,"Description":"AS58524 FSM Telecom","CC":"FM","Users":1945,"Percent of CC Pop":0.91,"Percent of Internet":0.0000,"Samples":4404},
-{"rank":6,"AS":142139,"Description":"BOOMINC-AS-AP Boom! Inc.","CC":"FM","Users":636,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":1108},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FM","Users":60,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":11}
+{"rank":1,"AS":139759,"Description":"FMTELECOM-AS-AP - FSM Telecommunications Corporation","CC":"FM","Users":25838,"Percent of CC Pop":12.13,"Percent of Internet":0.0006,"Samples":59461},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"FM","Users":6650,"Percent of CC Pop":3.12,"Percent of Internet":0.0002,"Samples":15422},
+{"rank":3,"AS":45193,"Description":"AS45193 - FSM Telecommunications Corporation","CC":"FM","Users":5357,"Percent of CC Pop":2.52,"Percent of Internet":0.0001,"Samples":12756},
+{"rank":4,"AS":38875,"Description":"AS38875 - FSM Telecommunications Corporation","CC":"FM","Users":5040,"Percent of CC Pop":2.37,"Percent of Internet":0.0001,"Samples":11334},
+{"rank":5,"AS":58524,"Description":"AS58524 - FSM Telecom","CC":"FM","Users":2352,"Percent of CC Pop":1.10,"Percent of Internet":0.0001,"Samples":5163},
+{"rank":6,"AS":142139,"Description":"BOOMINC-AS-AP - Boom! Inc.","CC":"FM","Users":556,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":989},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FM","Users":62,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

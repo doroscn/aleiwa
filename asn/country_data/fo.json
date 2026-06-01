@@ -1,15 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15389,"Description":"FAROESE-TELECOM-AS","CC":"FO","Users":40906,"Percent of CC Pop":82.70,"Percent of Internet":0.0010,"Samples":113225},
-{"rank":2,"AS":20963,"Description":"NEMA","CC":"FO","Users":13196,"Percent of CC Pop":26.68,"Percent of Internet":0.0003,"Samples":36778},
-{"rank":3,"AS":206928,"Description":"PF-ELEKTRON","CC":"FO","Users":154,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":223},
-{"rank":4,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"FO","Users":60,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":10},
-{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"FO","Users":58,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":27},
-{"rank":6,"AS":209175,"Description":"KRINGVARP_FOROYA","CC":"FO","Users":51,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":11},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FO","Users":51,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":36}
+{"rank":1,"AS":15389,"Description":"Faroese-Telecom-AS - P/F Telefonverkid","CC":"FO","Users":40416,"Percent of CC Pop":81.71,"Percent of Internet":0.0010,"Samples":106470},
+{"rank":2,"AS":20963,"Description":"NEMA - P/F 20.11.19","CC":"FO","Users":13832,"Percent of CC Pop":27.96,"Percent of Internet":0.0003,"Samples":36633},
+{"rank":3,"AS":206928,"Description":"pf-elektron - P/F Elektron","CC":"FO","Users":150,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":189},
+{"rank":4,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"FO","Users":57,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":17},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FO","Users":52,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":26}
   ]
 }

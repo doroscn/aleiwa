@@ -1,9 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":45879,"Description":"OWF-AS-AP Orange Wallis & Futuna","CC":"WF","Users":6247,"Percent of CC Pop":101.07,"Percent of Internet":0.0001,"Samples":10716}
+{"rank":1,"AS":45879,"Description":"OWF-AS-AP - Orange Wallis & Futuna","CC":"WF","Users":5624,"Percent of CC Pop":90.99,"Percent of Internet":0.0001,"Samples":11278},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"WF","Users":2642,"Percent of CC Pop":42.74,"Percent of Internet":0.0001,"Samples":2116}
   ]
 }

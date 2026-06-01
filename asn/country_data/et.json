@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":24757,"Description":"EthioNet-AS","CC":"ET","Users":25248188,"Percent of CC Pop":93.63,"Percent of Internet":0.6050,"Samples":7983740},
-{"rank":2,"AS":328988,"Description":"SAFARICOM-TEL","CC":"ET","Users":5748607,"Percent of CC Pop":21.32,"Percent of Internet":0.1378,"Samples":1845318},
-{"rank":3,"AS":329227,"Description":"WS-ASN","CC":"ET","Users":58396,"Percent of CC Pop":0.22,"Percent of Internet":0.0014,"Samples":17098},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"ET","Users":30701,"Percent of CC Pop":0.11,"Percent of Internet":0.0007,"Samples":10384},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ET","Users":7882,"Percent of CC Pop":0.03,"Percent of Internet":0.0002,"Samples":560},
-{"rank":6,"AS":212238,"Description":"CDNEXT","CC":"ET","Users":4762,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":22},
-{"rank":7,"AS":136787,"Description":"PACKETHUBSA-AS-AP PacketHub S.A.","CC":"ET","Users":1612,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":420},
-{"rank":8,"AS":329327,"Description":"Bank-of-Abyssinia-Share-Company","CC":"ET","Users":1129,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":129},
-{"rank":9,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"ET","Users":632,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":11},
-{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"ET","Users":542,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":36},
-{"rank":11,"AS":9009,"Description":"M247","CC":"ET","Users":517,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":26}
+{"rank":1,"AS":24757,"Description":"Ethio Telecom - Ethio Telecom","CC":"ET","Users":25279586,"Percent of CC Pop":93.74,"Percent of Internet":0.6058,"Samples":7828677},
+{"rank":2,"AS":328988,"Description":"SAFARICOM TELECOMMUNICATIONS ETHIOPIA PLC - SAFARICOM TELECOMMUNICATIONS ETHIOPIA PLC","CC":"ET","Users":5784991,"Percent of CC Pop":21.45,"Percent of Internet":0.1386,"Samples":1815297},
+{"rank":3,"AS":329227,"Description":"WebSprix IT Solution PLC - WebSprix IT Solution PLC","CC":"ET","Users":91057,"Percent of CC Pop":0.34,"Percent of Internet":0.0022,"Samples":25947},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"ET","Users":18673,"Percent of CC Pop":0.07,"Percent of Internet":0.0004,"Samples":6630},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ET","Users":7139,"Percent of CC Pop":0.03,"Percent of Internet":0.0002,"Samples":992},
+{"rank":6,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"ET","Users":3326,"Percent of CC Pop":0.01,"Percent of Internet":0.0001,"Samples":23},
+{"rank":7,"AS":136787,"Description":"PACKETHUBSA-AS-AP - PacketHub S.A.","CC":"ET","Users":1581,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":400},
+{"rank":8,"AS":329327,"Description":"Bank of Abyssinia Share Company - Bank of Abyssinia Share Company","CC":"ET","Users":1128,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":84},
+{"rank":9,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"ET","Users":656,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":11},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"ET","Users":625,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":42},
+{"rank":11,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"ET","Users":564,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":30}
   ]
 }

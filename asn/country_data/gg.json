@@ -1,13 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8680,"Description":"SURE-INTERNATIONAL-LIMITED","CC":"GG","Users":28090,"Percent of CC Pop":81.04,"Percent of Internet":0.0007,"Samples":127559},
-{"rank":2,"AS":8681,"Description":"JT","CC":"GG","Users":6868,"Percent of CC Pop":19.81,"Percent of Internet":0.0002,"Samples":30908},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GG","Users":331,"Percent of CC Pop":0.95,"Percent of Internet":0.0000,"Samples":1413},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GG","Users":51,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":80},
-{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GG","Users":32,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":18}
+{"rank":1,"AS":8680,"Description":"SURE-International-Limited - Sure (Guernsey) Limited","CC":"GG","Users":28199,"Percent of CC Pop":81.35,"Percent of Internet":0.0007,"Samples":130962},
+{"rank":2,"AS":8681,"Description":"JT - JT (Jersey) Limited","CC":"GG","Users":6828,"Percent of CC Pop":19.70,"Percent of Internet":0.0002,"Samples":31370},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GG","Users":278,"Percent of CC Pop":0.80,"Percent of Internet":0.0000,"Samples":1185},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GG","Users":49,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":63},
+{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GG","Users":36,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":31}
   ]
 }

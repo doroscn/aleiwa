@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30990,"Description":"ADJIB-AS","CC":"DJ","Users":1215179,"Percent of CC Pop":113.03,"Percent of Internet":0.0291,"Samples":354149},
-{"rank":2,"AS":329140,"Description":"AS5-AS","CC":"DJ","Users":5128,"Percent of CC Pop":0.48,"Percent of Internet":0.0001,"Samples":1335},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"DJ","Users":2728,"Percent of CC Pop":0.25,"Percent of Internet":0.0001,"Samples":156},
-{"rank":4,"AS":15169,"Description":"GOOGLE - Google LLC","CC":"DJ","Users":1717,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":16},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"DJ","Users":1104,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":172},
-{"rank":6,"AS":327831,"Description":"Djibouti-Data-Center","CC":"DJ","Users":814,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":27}
+{"rank":1,"AS":30990,"Description":"DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.","CC":"DJ","Users":1233380,"Percent of CC Pop":114.72,"Percent of Internet":0.0296,"Samples":332107},
+{"rank":2,"AS":329140,"Description":"Afrifiber SAS - Afrifiber SAS","CC":"DJ","Users":5171,"Percent of CC Pop":0.48,"Percent of Internet":0.0001,"Samples":1249},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"DJ","Users":3501,"Percent of CC Pop":0.33,"Percent of Internet":0.0001,"Samples":382},
+{"rank":4,"AS":15169,"Description":"GOOGLE - Google LLC","CC":"DJ","Users":1497,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":10},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"DJ","Users":1090,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":122},
+{"rank":6,"AS":327831,"Description":"Djibouti Data Center SARL - Djibouti Data Center SARL","CC":"DJ","Users":992,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":21}
   ]
 }

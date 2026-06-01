@@ -1,20 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37094,"Description":"OrangeLiberia","CC":"LR","Users":309839,"Percent of CC Pop":63.02,"Percent of Internet":0.0074,"Samples":1051711},
-{"rank":2,"AS":37410,"Description":"LONESTAR","CC":"LR","Users":197906,"Percent of CC Pop":40.25,"Percent of Internet":0.0047,"Samples":669987},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LR","Users":29337,"Percent of CC Pop":5.97,"Percent of Internet":0.0007,"Samples":95735},
-{"rank":4,"AS":328136,"Description":"Telecel-Liberia-AS","CC":"LR","Users":4451,"Percent of CC Pop":0.91,"Percent of Internet":0.0001,"Samples":14205},
-{"rank":5,"AS":328196,"Description":"POWERNET","CC":"LR","Users":2524,"Percent of CC Pop":0.51,"Percent of Internet":0.0001,"Samples":8257},
-{"rank":6,"AS":329082,"Description":"CSLL1-AS","CC":"LR","Users":1544,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":5211},
-{"rank":7,"AS":37203,"Description":"LIBTELCO","CC":"LR","Users":1316,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":4133},
-{"rank":8,"AS":37580,"Description":"ELECTROSHACK","CC":"LR","Users":811,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":2700},
-{"rank":9,"AS":329525,"Description":"Gonetwork","CC":"LR","Users":348,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":1103},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LR","Users":168,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":105},
-{"rank":11,"AS":329496,"Description":"GOWIFI","CC":"LR","Users":155,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":286},
-{"rank":12,"AS":37715,"Description":"Liberia-IXP-Peering","CC":"LR","Users":115,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":37}
+{"rank":1,"AS":37094,"Description":"Orange Liberia, INC - Orange Liberia, INC","CC":"LR","Users":308219,"Percent of CC Pop":62.69,"Percent of Internet":0.0074,"Samples":945531},
+{"rank":2,"AS":37410,"Description":"Lonestar Communications Corporation - Lonestar Communications Corporation","CC":"LR","Users":200144,"Percent of CC Pop":40.71,"Percent of Internet":0.0048,"Samples":610152},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LR","Users":32713,"Percent of CC Pop":6.65,"Percent of Internet":0.0008,"Samples":94625},
+{"rank":4,"AS":328136,"Description":"Telecel Liberia Limited - Telecel Liberia Limited","CC":"LR","Users":5176,"Percent of CC Pop":1.05,"Percent of Internet":0.0001,"Samples":14598},
+{"rank":5,"AS":328196,"Description":"POWERNET - POWERNET","CC":"LR","Users":2795,"Percent of CC Pop":0.57,"Percent of Internet":0.0001,"Samples":8058},
+{"rank":6,"AS":329082,"Description":"Connect Services Liberia, LLC - Connect Services Liberia, LLC","CC":"LR","Users":1485,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":4351},
+{"rank":7,"AS":37203,"Description":"Liberia Telecommunications Corporation (libtelco) - Liberia Telecommunications Corporation (libtelco)","CC":"LR","Users":1423,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":4024},
+{"rank":8,"AS":37580,"Description":"ELECTRO SHACK INC. - ELECTRO SHACK INC.","CC":"LR","Users":890,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":2465},
+{"rank":9,"AS":329525,"Description":"Gonetwork Inc - Gonetwork Inc","CC":"LR","Users":365,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":1057},
+{"rank":10,"AS":329496,"Description":"GOWIFI Liberia LLC - GOWIFI Liberia LLC","CC":"LR","Users":184,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":320},
+{"rank":11,"AS":37715,"Description":"Liberia Internet Exchange Point Association - Liberia Internet Exchange Point Association","CC":"LR","Users":139,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":22},
+{"rank":12,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LR","Users":66,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":23}
   ]
 }

@@ -1,14 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27781,"Description":"SMITCOMS N.V.","CC":"SX","Users":12584,"Percent of CC Pop":53.36,"Percent of Internet":0.0003,"Samples":55817},
-{"rank":2,"AS":27734,"Description":"New Technologies Group N.V.","CC":"SX","Users":7409,"Percent of CC Pop":31.42,"Percent of Internet":0.0002,"Samples":32894},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SX","Users":2785,"Percent of CC Pop":11.81,"Percent of Internet":0.0001,"Samples":12190},
-{"rank":4,"AS":262181,"Description":"Coral Telecom N.V.","CC":"SX","Users":1669,"Percent of CC Pop":7.08,"Percent of Internet":0.0000,"Samples":7486},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SX","Users":35,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":32},
-{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SX","Users":28,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":13}
+{"rank":1,"AS":27781,"Description":"AS27781 - SMITCOMS N.V.","CC":"SX","Users":12900,"Percent of CC Pop":54.71,"Percent of Internet":0.0003,"Samples":55087},
+{"rank":2,"AS":27734,"Description":"AS27734 - New Technologies Group N.V.","CC":"SX","Users":7251,"Percent of CC Pop":30.75,"Percent of Internet":0.0002,"Samples":30794},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SX","Users":2694,"Percent of CC Pop":11.42,"Percent of Internet":0.0001,"Samples":11348},
+{"rank":4,"AS":262181,"Description":"AS262181 - Coral Telecom N.V.","CC":"SX","Users":1607,"Percent of CC Pop":6.81,"Percent of Internet":0.0000,"Samples":6788},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SX","Users":38,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":32}
   ]
 }

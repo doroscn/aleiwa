@@ -1,13 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"AI","Users":7417,"Percent of CC Pop":58.14,"Percent of Internet":0.0002,"Samples":26877},
-{"rank":2,"AS":2740,"Description":"CARIBCABLE - Caribbean Cable Communications","CC":"AI","Users":3061,"Percent of CC Pop":23.99,"Percent of Internet":0.0001,"Samples":11284},
-{"rank":3,"AS":396304,"Description":"ANU-DIGI - Antigua Wireless ventures Ltd","CC":"AI","Users":3001,"Percent of CC Pop":23.52,"Percent of Internet":0.0001,"Samples":10463},
-{"rank":4,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"AI","Users":105,"Percent of CC Pop":0.82,"Percent of Internet":0.0000,"Samples":213},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AI","Users":64,"Percent of CC Pop":0.50,"Percent of Internet":0.0000,"Samples":28}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"AI","Users":7296,"Percent of CC Pop":57.19,"Percent of Internet":0.0002,"Samples":25180},
+{"rank":2,"AS":2740,"Description":"CARIBCABLE - Caribbean Cable Communications","CC":"AI","Users":3041,"Percent of CC Pop":23.84,"Percent of Internet":0.0001,"Samples":10874},
+{"rank":3,"AS":396304,"Description":"ANU-DIGI - Antigua Wireless ventures Ltd","CC":"AI","Users":3037,"Percent of CC Pop":23.80,"Percent of Internet":0.0001,"Samples":10171},
+{"rank":4,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications (Barbados) Limited","CC":"AI","Users":1894,"Percent of CC Pop":14.85,"Percent of Internet":0.0000,"Samples":227},
+{"rank":5,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"AI","Users":136,"Percent of CC Pop":1.07,"Percent of Internet":0.0000,"Samples":274},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AI","Users":64,"Percent of CC Pop":0.50,"Percent of Internet":0.0000,"Samples":36},
+{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AI","Users":47,"Percent of CC Pop":0.37,"Percent of Internet":0.0000,"Samples":12}
   ]
 }

@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37054,"Description":"Telecom-Malagasy","CC":"MG","Users":2383243,"Percent of CC Pop":52.55,"Percent of Internet":0.0571,"Samples":499278},
-{"rank":2,"AS":37037,"Description":"ORANGEMG-AS","CC":"MG","Users":1366788,"Percent of CC Pop":30.14,"Percent of Internet":0.0328,"Samples":269578},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MG","Users":748122,"Percent of CC Pop":16.50,"Percent of Internet":0.0179,"Samples":147019},
-{"rank":4,"AS":37303,"Description":"AIRTELMADA","CC":"MG","Users":446455,"Percent of CC Pop":9.84,"Percent of Internet":0.0107,"Samples":88217},
-{"rank":5,"AS":328411,"Description":"Gulfsat-Madagascar-AS","CC":"MG","Users":133330,"Percent of CC Pop":2.94,"Percent of Internet":0.0032,"Samples":26209},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MG","Users":3099,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":282},
-{"rank":7,"AS":37608,"Description":"iRENALA-AS","CC":"MG","Users":2808,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":347},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MG","Users":772,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":24}
+{"rank":1,"AS":37054,"Description":"Telecom Malagasy - Telecom Malagasy","CC":"MG","Users":2596189,"Percent of CC Pop":57.25,"Percent of Internet":0.0622,"Samples":489205},
+{"rank":2,"AS":37037,"Description":"Orange Madagascar - Orange Madagascar","CC":"MG","Users":1300502,"Percent of CC Pop":28.68,"Percent of Internet":0.0312,"Samples":240549},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MG","Users":741662,"Percent of CC Pop":16.35,"Percent of Internet":0.0178,"Samples":135283},
+{"rank":4,"AS":37303,"Description":"Airtel Madagascar - Airtel Madagascar","CC":"MG","Users":389254,"Percent of CC Pop":8.58,"Percent of Internet":0.0093,"Samples":72264},
+{"rank":5,"AS":328411,"Description":"Gulfsat Madagascar - Gulfsat Madagascar","CC":"MG","Users":120659,"Percent of CC Pop":2.66,"Percent of Internet":0.0029,"Samples":22020},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MG","Users":3803,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":281},
+{"rank":7,"AS":37608,"Description":"iRENALA - iRENALA","CC":"MG","Users":2646,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":318},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MG","Users":1021,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":28}
   ]
 }

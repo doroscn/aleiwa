@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15433,"Description":"TISM Telecom Italia San Marino.","CC":"SM","Users":17445,"Percent of CC Pop":93.48,"Percent of Internet":0.0004,"Samples":55335},
-{"rank":2,"AS":196874,"Description":"TELENET-RSM TeleneT San Marino","CC":"SM","Users":959,"Percent of CC Pop":5.14,"Percent of Internet":0.0000,"Samples":3059},
-{"rank":3,"AS":213557,"Description":"UNDERSCORE","CC":"SM","Users":86,"Percent of CC Pop":0.46,"Percent of Internet":0.0000,"Samples":18},
-{"rank":4,"AS":212841,"Description":"SM-AASS","CC":"SM","Users":79,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":98},
-{"rank":5,"AS":201852,"Description":"BLUINDACO-AS","CC":"SM","Users":66,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":25},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SM","Users":60,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":15}
+{"rank":1,"AS":15433,"Description":"Tism - Telecom Italia San Marino S.p.A","CC":"SM","Users":17475,"Percent of CC Pop":93.64,"Percent of Internet":0.0004,"Samples":55349},
+{"rank":2,"AS":196874,"Description":"TELENET-RSM - Telenet S.r.l.","CC":"SM","Users":926,"Percent of CC Pop":4.96,"Percent of Internet":0.0000,"Samples":2930},
+{"rank":3,"AS":213557,"Description":"Underscore - Underscore S.r.l.","CC":"SM","Users":86,"Percent of CC Pop":0.46,"Percent of Internet":0.0000,"Samples":18},
+{"rank":4,"AS":212841,"Description":"SM-AASS - AZIENDA AUTONOMA DI STATO PER I SERVIZI PUBBLICI","CC":"SM","Users":83,"Percent of CC Pop":0.44,"Percent of Internet":0.0000,"Samples":107},
+{"rank":5,"AS":201852,"Description":"BLUINDACO-AS - Bluindaco S.R.L.","CC":"SM","Users":68,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":24},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SM","Users":58,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":14}
   ]
 }

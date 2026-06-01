@@ -1,17 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11594,"Description":"APUA-AG - APUA","CC":"AG","Users":47222,"Percent of CC Pop":59.14,"Percent of Internet":0.0011,"Samples":146162},
-{"rank":2,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"AG","Users":15383,"Percent of CC Pop":19.27,"Percent of Internet":0.0004,"Samples":46018},
-{"rank":3,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications Barbados Limited","CC":"AG","Users":8687,"Percent of CC Pop":10.88,"Percent of Internet":0.0002,"Samples":25735},
-{"rank":4,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"AG","Users":2513,"Percent of CC Pop":3.15,"Percent of Internet":0.0001,"Samples":7480},
-{"rank":5,"AS":19246,"Description":"ACT2000 - Antigua Computer Technology Co. Ltd.","CC":"AG","Users":2503,"Percent of CC Pop":3.13,"Percent of Internet":0.0001,"Samples":7657},
-{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AG","Users":1400,"Percent of CC Pop":1.75,"Percent of Internet":0.0000,"Samples":4288},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AG","Users":93,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":125},
-{"rank":8,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"AG","Users":62,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":13},
-{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AG","Users":54,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":53}
+{"rank":1,"AS":11594,"Description":"APUA-AG - APUA","CC":"AG","Users":47977,"Percent of CC Pop":60.09,"Percent of Internet":0.0011,"Samples":146928},
+{"rank":2,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"AG","Users":15288,"Percent of CC Pop":19.15,"Percent of Internet":0.0004,"Samples":45896},
+{"rank":3,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications (Barbados) Limited","CC":"AG","Users":8074,"Percent of CC Pop":10.11,"Percent of Internet":0.0002,"Samples":24389},
+{"rank":4,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"AG","Users":2677,"Percent of CC Pop":3.35,"Percent of Internet":0.0001,"Samples":7930},
+{"rank":5,"AS":19246,"Description":"ACT2000 - Antigua Computer Technology Co. Ltd.","CC":"AG","Users":2491,"Percent of CC Pop":3.12,"Percent of Internet":0.0001,"Samples":7609},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AG","Users":1385,"Percent of CC Pop":1.73,"Percent of Internet":0.0000,"Samples":4198},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AG","Users":70,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":88},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AG","Users":56,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":49}
   ]
 }

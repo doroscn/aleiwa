@@ -1,18 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6758,"Description":"AS6758","CC":"MC","Users":33538,"Percent of CC Pop":85.01,"Percent of Internet":0.0008,"Samples":58598},
-{"rank":2,"AS":212238,"Description":"CDNEXT","CC":"MC","Users":1900,"Percent of CC Pop":4.82,"Percent of Internet":0.0000,"Samples":2985},
-{"rank":3,"AS":215730,"Description":"H2NEXUS-AS H2NEXUS LTD","CC":"MC","Users":598,"Percent of CC Pop":1.52,"Percent of Internet":0.0000,"Samples":236},
-{"rank":4,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"MC","Users":304,"Percent of CC Pop":0.77,"Percent of Internet":0.0000,"Samples":50},
-{"rank":5,"AS":9009,"Description":"M247","CC":"MC","Users":233,"Percent of CC Pop":0.59,"Percent of Internet":0.0000,"Samples":333},
-{"rank":6,"AS":12463,"Description":"ASN-SBM","CC":"MC","Users":217,"Percent of CC Pop":0.55,"Percent of Internet":0.0000,"Samples":142},
-{"rank":7,"AS":13213,"Description":"UK2NET-AS","CC":"MC","Users":153,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":58},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MC","Users":125,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":75},
-{"rank":9,"AS":203061,"Description":"ITPROXIMUS","CC":"MC","Users":110,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":10},
-{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MC","Users":89,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":22}
+{"rank":1,"AS":6758,"Description":"AS6758 - Monaco Telecom S.A.","CC":"MC","Users":33441,"Percent of CC Pop":84.76,"Percent of Internet":0.0008,"Samples":59743},
+{"rank":2,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"MC","Users":1989,"Percent of CC Pop":5.04,"Percent of Internet":0.0000,"Samples":3254},
+{"rank":3,"AS":215730,"Description":"H2NEXUS-AS - H2NEXUS LTD","CC":"MC","Users":460,"Percent of CC Pop":1.17,"Percent of Internet":0.0000,"Samples":306},
+{"rank":4,"AS":12463,"Description":"ASN-SBM - S.A. des Bains de Mer et du Cercle des Etrangers a Monaco","CC":"MC","Users":254,"Percent of CC Pop":0.64,"Percent of Internet":0.0000,"Samples":108},
+{"rank":5,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"MC","Users":249,"Percent of CC Pop":0.63,"Percent of Internet":0.0000,"Samples":379},
+{"rank":6,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"MC","Users":222,"Percent of CC Pop":0.56,"Percent of Internet":0.0000,"Samples":89},
+{"rank":7,"AS":13213,"Description":"UK2NET-AS - THG HOSTING LIMITED","CC":"MC","Users":209,"Percent of CC Pop":0.53,"Percent of Internet":0.0000,"Samples":93},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MC","Users":129,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":67},
+{"rank":9,"AS":203061,"Description":"itproximus - UAB code200","CC":"MC","Users":103,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":11},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MC","Users":80,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":29}
   ]
 }

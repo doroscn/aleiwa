@@ -1,11 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/04/2026",
+  "Date": "28/05/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":398821,"Description":"GOM-DITES-AS-01 - Government of Montserrat","CC":"MS","Users":2221,"Percent of CC Pop":80.91,"Percent of Internet":0.0001,"Samples":129},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MS","Users":2049,"Percent of CC Pop":74.64,"Percent of Internet":0.0000,"Samples":316},
-{"rank":3,"AS":198605,"Description":"AVAST-AS-DC Gen Digital dba as Avast","CC":"MS","Users":1973,"Percent of CC Pop":71.88,"Percent of Internet":0.0000,"Samples":13}
+{"rank":1,"AS":398821,"Description":"GOM-DITES-AS-01 - Government of Montserrat","CC":"MS","Users":2279,"Percent of CC Pop":83.02,"Percent of Internet":0.0001,"Samples":127},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MS","Users":2184,"Percent of CC Pop":79.56,"Percent of Internet":0.0001,"Samples":307}
   ]
 }
