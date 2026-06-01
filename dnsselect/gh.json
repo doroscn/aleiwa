@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6648351648351648,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2021-09-23T13:33:12.660328Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2022-10-22T03:08:10.13831Z",
     "available": false
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2022-10-23T19:10:08.36252Z",
     "available": true
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8130217028380634,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2022-12-04T16:46:42.668384Z",
     "available": true
   },
@@ -70,12 +70,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.967741935483871,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2022-12-19T01:19:29.511952Z",
     "available": true
   },
   {
-    "ip": "212.96.1.74",
+    "ip": "212.96.1.70",
     "name": "dnspro.gstelecom.net.",
     "as_number": 29674,
     "as_org": "GST Africa",
@@ -85,9 +85,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-02-28T19:35:40.831815Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "196.61.39.6",
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.95,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-03-12T19:04:38.208911Z",
     "available": true
   },
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-03-13T02:08:02.583195Z",
     "available": false
   },
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-03-13T07:45:15.353073Z",
     "available": false
   },
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-03-13T18:44:52.819624Z",
     "available": true
   },
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-03-14T09:15:45.95907Z",
     "available": true
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-03-14T10:41:56.646289Z",
     "available": true
   },
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-03-14T11:25:35.266187Z",
     "available": true
   },
@@ -205,12 +205,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-03-14T20:58:04.372128Z",
     "available": true
   },
   {
-    "ip": "102.220.223.186",
+    "ip": "102.220.223.187",
     "name": "",
     "as_number": 328842,
     "as_org": "Prodata-AS",
@@ -220,12 +220,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-03-15T04:35:34.001548Z",
     "available": true
   },
   {
-    "ip": "102.218.136.197",
+    "ip": "102.218.136.125",
     "name": "",
     "as_number": 328923,
     "as_org": "KTSU-AS",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-03-15T09:04:14.983013Z",
     "available": true
   },
@@ -250,8 +250,8 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2026-02-27T08:36:36Z",
+    "checked_at": "2026-06-01T20:12:37Z",
     "created_at": "2023-03-16T14:14:16.032293Z",
-    "available": true
+    "available": false
   }
 ]
