@@ -48,12 +48,6 @@
     "index": 86
   },
   {
-    "country_id": "cz",
-    "checked_at": "2026-03-12T02:30:12Z",
-    "ip_availability_ratio%": 68.87,
-    "index": 51
-  },
-  {
     "country_id": "ag",
     "checked_at": "2026-03-12T08:38:08Z",
     "ip_availability_ratio%": 60.00,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-06-11T18:42:16Z",
     "ip_availability_ratio%": 71.25,
     "index": 50
+  },
+  {
+    "country_id": "cz",
+    "checked_at": "2026-06-12T04:19:31Z",
+    "ip_availability_ratio%": 69.77,
+    "index": 51
   }
 ]
