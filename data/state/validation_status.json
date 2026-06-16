@@ -48,12 +48,6 @@
     "index": 87
   },
   {
-    "country_id": "cv",
-    "checked_at": "2026-03-16T08:52:21Z",
-    "ip_availability_ratio%": 75.00,
-    "index": 36
-  },
-  {
     "country_id": "hk",
     "checked_at": "2026-03-16T10:56:16Z",
     "ip_availability_ratio%": 51.92,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-06-16T04:45:50Z",
     "ip_availability_ratio%": 65.87,
     "index": 30
+  },
+  {
+    "country_id": "cv",
+    "checked_at": "2026-06-16T12:49:22Z",
+    "ip_availability_ratio%": 75.00,
+    "index": 36
   }
 ]
