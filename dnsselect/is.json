@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8393574297188755,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2021-04-13T07:54:20.059606Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2021-10-02T14:25:09.237193Z",
     "available": true
   },
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2021-10-02T14:25:16.336297Z",
     "available": true
   },
   {
-    "ip": "157.157.166.191",
+    "ip": "157.157.166.177",
     "name": "157-157-166-191.dsl.dynamic.simnet.is.",
     "as_number": 6677,
     "as_org": "Mila hf",
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-10T21:31:42.739186Z",
     "available": true
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-13T03:12:34.117252Z",
     "available": true
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-13T10:55:18.177257Z",
     "available": true
   },
@@ -100,9 +100,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-13T14:38:25.651117Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "82.148.67.67",
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-14T07:10:42.217421Z",
     "available": false
   },
@@ -130,12 +130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-14T07:29:12.940751Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "31.209.146.55",
+    "ip": "31.209.146.169",
     "name": "55-146-209-31.xdsl.hringdu.is.",
     "as_number": 51896,
     "as_org": "Hringdu ehf",
@@ -145,9 +145,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-14T11:15:01.033139Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "94.142.156.38",
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-14T11:43:02.396381Z",
     "available": false
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-14T15:25:42.898694Z",
     "available": true
   },
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-14T16:09:28.951029Z",
     "available": false
   },
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-14T20:16:41.790352Z",
     "available": true
   },
@@ -220,7 +220,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-15T10:17:28.436543Z",
     "available": false
   },
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.7096774193548387,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-17T00:19:30.371893Z",
     "available": true
   },
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-18T18:58:06.980173Z",
     "available": true
   },
@@ -265,7 +265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2026-03-16T11:18:40Z",
+    "checked_at": "2026-06-17T18:09:34Z",
     "created_at": "2023-03-18T23:44:43.888487Z",
     "available": true
   }
