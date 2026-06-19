@@ -54,12 +54,6 @@
     "index": 95
   },
   {
-    "country_id": "il",
-    "checked_at": "2026-03-18T02:35:40Z",
-    "ip_availability_ratio%": 58.33,
-    "index": 96
-  },
-  {
     "country_id": "it",
     "checked_at": "2026-03-18T08:42:54Z",
     "ip_availability_ratio%": 56.49,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-06-18T18:23:02Z",
     "ip_availability_ratio%": 80.32,
     "index": 92
+  },
+  {
+    "country_id": "il",
+    "checked_at": "2026-06-19T04:47:26Z",
+    "ip_availability_ratio%": 58.33,
+    "index": 96
   }
 ]
