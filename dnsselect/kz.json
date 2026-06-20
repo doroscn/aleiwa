@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-09-25T15:47:24.484117Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8930581613508443,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-09-26T00:19:23.583688Z",
     "available": true
   },
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-09-26T08:50:06.360299Z",
     "available": true
   },
   {
-    "ip": "89.218.58.117",
+    "ip": "89.218.58.74",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -55,9 +55,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-09-26T13:28:28.008096Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "89.218.81.106",
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-09-27T14:48:22.851775Z",
     "available": true
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-10-01T14:36:48.120773Z",
     "available": true
   },
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-10-01T23:11:51.499671Z",
     "available": true
   },
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-10-02T16:15:39.161666Z",
     "available": true
   },
@@ -130,7 +130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7281553398058253,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-10-03T16:26:52.191603Z",
     "available": true
   },
@@ -145,7 +145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7395833333333334,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-10-05T10:27:41.354765Z",
     "available": true
   },
@@ -160,7 +160,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-10-16T11:47:47.458911Z",
     "available": true
   },
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8103448275862069,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-10-20T06:17:20.816295Z",
     "available": true
   },
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-10-26T09:17:58.887685Z",
     "available": true
   },
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6614583333333334,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-10-27T02:41:24.344513Z",
     "available": true
   },
@@ -220,7 +220,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5646437994722955,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-10-28T07:45:08.136754Z",
     "available": true
   },
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2021-11-01T11:57:31.071144Z",
     "available": true
   },
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2022-08-28T09:32:01.897011Z",
     "available": true
   },
@@ -265,7 +265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2022-08-28T10:00:10.009015Z",
     "available": true
   },
@@ -280,12 +280,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2022-08-28T17:25:33.433157Z",
     "available": false
   },
   {
-    "ip": "2.133.101.166",
+    "ip": "2.133.101.111",
     "name": "2.133.101.255.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -295,12 +295,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2022-08-28T17:36:06.121351Z",
     "available": true
   },
   {
-    "ip": "2.133.109.105",
+    "ip": "2.133.109.100",
     "name": "2.133.109.189.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -310,7 +310,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2022-08-28T17:36:21.700693Z",
     "available": true
   },
@@ -325,12 +325,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2022-08-28T17:37:41.682669Z",
     "available": false
   },
   {
-    "ip": "2.133.199.10",
+    "ip": "2.133.199.102",
     "name": "2.133.199.226.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -340,12 +340,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:09Z",
     "created_at": "2022-08-28T17:39:15.702535Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "2.133.252.20",
+    "ip": "2.133.252.187",
     "name": "2.133.252.69.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -355,7 +355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:10Z",
     "created_at": "2022-08-28T17:40:57.534139Z",
     "available": true
   },
@@ -370,12 +370,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:25Z",
+    "checked_at": "2026-06-20T17:18:10Z",
     "created_at": "2022-08-28T17:41:20.89188Z",
     "available": false
   },
   {
-    "ip": "2.134.17.139",
+    "ip": "2.134.17.125",
     "name": "2.134.17.157.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -385,12 +385,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9393939393939394,
-    "checked_at": "2026-03-19T17:03:28Z",
+    "checked_at": "2026-06-20T17:18:10Z",
     "created_at": "2022-08-28T17:41:46.239248Z",
     "available": true
   },
   {
-    "ip": "2.134.22.106",
+    "ip": "2.134.22.114",
     "name": "2.134.22.14.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -400,12 +400,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:28Z",
+    "checked_at": "2026-06-20T17:18:10Z",
     "created_at": "2022-08-28T17:41:50.456907Z",
     "available": true
   },
   {
-    "ip": "2.134.24.106",
+    "ip": "2.134.24.103",
     "name": "2.134.24.13.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -415,12 +415,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:28Z",
+    "checked_at": "2026-06-20T17:18:10Z",
     "created_at": "2022-08-28T17:41:52.478697Z",
     "available": true
   },
   {
-    "ip": "2.134.29.110",
+    "ip": "2.134.29.131",
     "name": "2.134.29.119.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -430,12 +430,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:28Z",
+    "checked_at": "2026-06-20T17:18:10Z",
     "created_at": "2022-08-28T17:42:02.514975Z",
     "available": true
   },
   {
-    "ip": "2.134.30.110",
+    "ip": "2.134.30.152",
     "name": "2.134.30.236.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -445,7 +445,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:28Z",
+    "checked_at": "2026-06-20T17:18:12Z",
     "created_at": "2022-08-28T17:42:05.446603Z",
     "available": true
   },
@@ -460,9 +460,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:29Z",
+    "checked_at": "2026-06-20T17:18:12Z",
     "created_at": "2022-08-28T17:42:55.2099Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "2.134.84.232",
@@ -475,12 +475,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:43Z",
+    "checked_at": "2026-06-20T17:18:12Z",
     "created_at": "2022-08-28T17:43:30.731995Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "2.134.117.110",
+    "ip": "2.134.117.10",
     "name": "2.134.117.1.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -490,12 +490,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:44Z",
+    "checked_at": "2026-06-20T17:18:12Z",
     "created_at": "2022-08-28T17:44:56.260482Z",
     "available": true
   },
   {
-    "ip": "2.134.129.1",
+    "ip": "2.134.129.125",
     "name": "2.134.129.81.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -505,12 +505,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:44Z",
+    "checked_at": "2026-06-20T17:18:12Z",
     "created_at": "2022-08-28T17:45:22.652893Z",
     "available": true
   },
   {
-    "ip": "2.134.130.121",
+    "ip": "2.134.130.147",
     "name": "2.134.130.182.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:45Z",
+    "checked_at": "2026-06-20T17:18:12Z",
     "created_at": "2022-08-28T17:45:22.797675Z",
     "available": true
   },
@@ -535,7 +535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:45Z",
+    "checked_at": "2026-06-20T17:18:12Z",
     "created_at": "2022-08-28T17:47:29.480193Z",
     "available": false
   },
@@ -550,9 +550,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:45Z",
+    "checked_at": "2026-06-20T17:18:12Z",
     "created_at": "2022-08-28T17:47:33.066786Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "2.134.204.46",
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:45Z",
+    "checked_at": "2026-06-20T17:18:27Z",
     "created_at": "2022-08-28T17:47:46.191051Z",
     "available": false
   },
@@ -580,7 +580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:45Z",
+    "checked_at": "2026-06-20T17:18:27Z",
     "created_at": "2022-08-28T17:47:49.526979Z",
     "available": false
   },
@@ -595,7 +595,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:45Z",
+    "checked_at": "2026-06-20T17:18:27Z",
     "created_at": "2022-08-28T17:48:02.10515Z",
     "available": false
   },
@@ -610,7 +610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:45Z",
+    "checked_at": "2026-06-20T17:18:28Z",
     "created_at": "2022-08-28T17:50:48.450842Z",
     "available": true
   },
@@ -625,7 +625,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:46Z",
+    "checked_at": "2026-06-20T17:18:28Z",
     "created_at": "2022-08-28T17:51:29.60353Z",
     "available": false
   },
@@ -640,7 +640,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:46Z",
+    "checked_at": "2026-06-20T17:18:28Z",
     "created_at": "2022-08-28T17:54:33.329107Z",
     "available": false
   },
@@ -655,7 +655,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:46Z",
+    "checked_at": "2026-06-20T17:18:28Z",
     "created_at": "2022-08-28T17:54:38.396114Z",
     "available": false
   },
@@ -670,7 +670,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:46Z",
+    "checked_at": "2026-06-20T17:18:28Z",
     "created_at": "2022-08-28T17:54:50.675438Z",
     "available": false
   },
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:47Z",
+    "checked_at": "2026-06-20T17:18:28Z",
     "created_at": "2022-08-28T17:57:08.381079Z",
     "available": false
   },
@@ -700,7 +700,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:47Z",
+    "checked_at": "2026-06-20T17:18:28Z",
     "created_at": "2022-08-28T17:57:30.262084Z",
     "available": true
   },
@@ -715,7 +715,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:47Z",
+    "checked_at": "2026-06-20T17:18:28Z",
     "created_at": "2022-09-03T01:13:46.629267Z",
     "available": true
   },
@@ -730,12 +730,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:48Z",
+    "checked_at": "2026-06-20T17:18:28Z",
     "created_at": "2022-09-03T01:13:51.03867Z",
     "available": true
   },
   {
-    "ip": "2.78.57.194",
+    "ip": "2.78.57.130",
     "name": "2-78-57-194.kcell.kz.",
     "as_number": 29355,
     "as_org": "Kcell JSC",
@@ -745,12 +745,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:49Z",
+    "checked_at": "2026-06-20T17:18:30Z",
     "created_at": "2022-09-03T01:44:12.942474Z",
     "available": true
   },
   {
-    "ip": "2.132.110.105",
+    "ip": "2.132.110.103",
     "name": "2.132.110.103.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -760,12 +760,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:49Z",
+    "checked_at": "2026-06-20T17:18:30Z",
     "created_at": "2022-09-03T09:42:46.117203Z",
     "available": true
   },
   {
-    "ip": "2.132.146.122",
+    "ip": "2.132.146.137",
     "name": "2.132.146.101.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -775,12 +775,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:03:50Z",
+    "checked_at": "2026-06-20T17:18:30Z",
     "created_at": "2022-09-03T09:44:00.312646Z",
     "available": true
   },
   {
-    "ip": "2.132.189.103",
+    "ip": "2.132.189.12",
     "name": "2.132.189.12.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -790,12 +790,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7929515418502202,
-    "checked_at": "2026-03-19T17:03:52Z",
+    "checked_at": "2026-06-20T17:18:31Z",
     "created_at": "2022-09-03T09:45:27.784692Z",
     "available": true
   },
   {
-    "ip": "2.133.44.104",
+    "ip": "2.133.44.102",
     "name": "2.133.44.254.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -805,12 +805,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:01Z",
+    "checked_at": "2026-06-20T17:18:31Z",
     "created_at": "2022-09-03T09:49:32.025663Z",
     "available": true
   },
   {
-    "ip": "2.133.119.175",
+    "ip": "2.133.119.100",
     "name": "2.133.119.169.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -820,7 +820,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:04Z",
+    "checked_at": "2026-06-20T17:18:31Z",
     "created_at": "2022-09-03T09:52:04.536604Z",
     "available": true
   },
@@ -835,12 +835,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:04Z",
+    "checked_at": "2026-06-20T17:18:31Z",
     "created_at": "2022-09-03T09:53:00.648043Z",
     "available": false
   },
   {
-    "ip": "2.133.175.108",
+    "ip": "2.133.175.131",
     "name": "2.133.175.239.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -850,7 +850,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:04Z",
+    "checked_at": "2026-06-20T17:18:31Z",
     "created_at": "2022-09-03T09:53:58.366009Z",
     "available": true
   },
@@ -865,12 +865,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:04Z",
+    "checked_at": "2026-06-20T17:18:32Z",
     "created_at": "2022-09-03T09:54:29.619611Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "2.133.225.149",
+    "ip": "2.133.225.92",
     "name": "2.133.225.242.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -880,7 +880,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:04Z",
+    "checked_at": "2026-06-20T17:18:32Z",
     "created_at": "2022-09-03T09:55:43.828158Z",
     "available": true
   },
@@ -895,12 +895,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:04Z",
+    "checked_at": "2026-06-20T17:18:32Z",
     "created_at": "2022-09-03T09:57:15.881783Z",
     "available": true
   },
   {
-    "ip": "2.134.86.174",
+    "ip": "2.134.86.133",
     "name": "2.134.86.240.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -910,12 +910,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:04Z",
+    "checked_at": "2026-06-20T17:18:33Z",
     "created_at": "2022-09-03T09:59:58.290595Z",
     "available": true
   },
   {
-    "ip": "2.134.121.221",
+    "ip": "2.134.121.101",
     "name": "2.134.121.221.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -925,12 +925,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:04Z",
+    "checked_at": "2026-06-20T17:18:33Z",
     "created_at": "2022-09-03T10:01:05.900619Z",
     "available": true
   },
   {
-    "ip": "2.135.211.30",
+    "ip": "2.135.211.127",
     "name": "2.135.211.98.megaline.telecom.kz.",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -940,9 +940,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:05Z",
+    "checked_at": "2026-06-20T17:18:45Z",
     "created_at": "2022-09-03T10:13:18.733827Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "2.135.222.106",
@@ -955,7 +955,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2026-03-19T17:04:05Z",
+    "checked_at": "2026-06-20T17:18:46Z",
     "created_at": "2022-09-03T10:13:42.986022Z",
     "available": true
   },
@@ -970,7 +970,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:05Z",
+    "checked_at": "2026-06-20T17:18:46Z",
     "created_at": "2022-09-03T10:14:20.276938Z",
     "available": true
   },
@@ -985,7 +985,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:05Z",
+    "checked_at": "2026-06-20T17:18:46Z",
     "created_at": "2022-09-08T09:27:37.358011Z",
     "available": true
   },
@@ -1000,12 +1000,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:05Z",
+    "checked_at": "2026-06-20T17:18:47Z",
     "created_at": "2022-09-08T10:57:19.332674Z",
     "available": false
   },
   {
-    "ip": "5.104.232.193",
+    "ip": "5.104.232.26",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1015,9 +1015,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:05Z",
+    "checked_at": "2026-06-20T17:18:47Z",
     "created_at": "2022-09-08T14:22:38.190471Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "5.188.65.196",
@@ -1030,7 +1030,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:05Z",
+    "checked_at": "2026-06-20T17:18:47Z",
     "created_at": "2022-09-09T00:24:45.059916Z",
     "available": true
   },
@@ -1045,7 +1045,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:05Z",
+    "checked_at": "2026-06-20T17:18:47Z",
     "created_at": "2022-09-09T00:24:46.97872Z",
     "available": true
   },
@@ -1060,12 +1060,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:06Z",
+    "checked_at": "2026-06-20T17:18:47Z",
     "created_at": "2022-09-09T00:24:47.250179Z",
     "available": true
   },
   {
-    "ip": "5.250.150.153",
+    "ip": "5.250.150.159",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1075,12 +1075,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:06Z",
+    "checked_at": "2026-06-20T17:18:47Z",
     "created_at": "2022-09-09T08:10:03.733139Z",
     "available": true
   },
   {
-    "ip": "5.251.160.160",
+    "ip": "5.251.160.124",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1090,12 +1090,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:06Z",
+    "checked_at": "2026-06-20T17:18:47Z",
     "created_at": "2022-09-09T08:17:56.551083Z",
     "available": true
   },
   {
-    "ip": "5.251.161.119",
+    "ip": "5.251.161.140",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1105,12 +1105,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:07Z",
+    "checked_at": "2026-06-20T17:18:47Z",
     "created_at": "2022-09-09T08:17:58.533518Z",
     "available": true
   },
   {
-    "ip": "5.251.238.143",
+    "ip": "5.251.238.104",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1120,7 +1120,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:08Z",
+    "checked_at": "2026-06-20T17:18:47Z",
     "created_at": "2022-09-09T08:20:11.140397Z",
     "available": true
   },
@@ -1135,7 +1135,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:08Z",
+    "checked_at": "2026-06-20T17:18:48Z",
     "created_at": "2022-09-10T08:28:24.504643Z",
     "available": true
   },
@@ -1150,7 +1150,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:08Z",
+    "checked_at": "2026-06-20T17:18:48Z",
     "created_at": "2022-09-10T08:30:31.785591Z",
     "available": true
   },
@@ -1165,12 +1165,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:08Z",
+    "checked_at": "2026-06-20T17:18:48Z",
     "created_at": "2022-09-10T12:08:00.003316Z",
     "available": true
   },
   {
-    "ip": "5.63.94.102",
+    "ip": "5.63.94.100",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1180,12 +1180,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:09Z",
+    "checked_at": "2026-06-20T17:18:48Z",
     "created_at": "2022-09-10T12:08:54.729256Z",
     "available": true
   },
   {
-    "ip": "5.76.227.100",
+    "ip": "5.76.227.1",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1195,12 +1195,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:09Z",
+    "checked_at": "2026-06-20T17:18:48Z",
     "created_at": "2022-09-10T13:51:31.278035Z",
     "available": true
   },
   {
-    "ip": "5.76.248.115",
+    "ip": "5.76.248.170",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1210,12 +1210,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:10Z",
+    "checked_at": "2026-06-20T17:18:48Z",
     "created_at": "2022-09-10T13:52:07.753368Z",
     "available": true
   },
   {
-    "ip": "5.76.249.155",
+    "ip": "5.76.249.156",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1225,7 +1225,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:12Z",
+    "checked_at": "2026-06-20T17:18:48Z",
     "created_at": "2022-09-10T13:52:11.46157Z",
     "available": true
   },
@@ -1240,7 +1240,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:17Z",
+    "checked_at": "2026-06-20T17:18:49Z",
     "created_at": "2022-09-11T04:25:54.258682Z",
     "available": true
   },
@@ -1255,7 +1255,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:20Z",
+    "checked_at": "2026-06-20T17:18:49Z",
     "created_at": "2022-09-11T04:25:54.709207Z",
     "available": true
   },
@@ -1270,7 +1270,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:21Z",
+    "checked_at": "2026-06-20T17:18:49Z",
     "created_at": "2022-09-11T04:26:18.454074Z",
     "available": true
   },
@@ -1285,7 +1285,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:22Z",
+    "checked_at": "2026-06-20T17:18:49Z",
     "created_at": "2022-09-11T04:28:42.729258Z",
     "available": true
   },
@@ -1300,7 +1300,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8787878787878788,
-    "checked_at": "2026-03-19T17:04:22Z",
+    "checked_at": "2026-06-20T17:18:50Z",
     "created_at": "2022-09-11T04:28:44.59113Z",
     "available": true
   },
@@ -1315,12 +1315,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9778911564625851,
-    "checked_at": "2026-03-19T17:04:23Z",
+    "checked_at": "2026-06-20T17:18:50Z",
     "created_at": "2022-09-11T04:31:25.787568Z",
     "available": true
   },
   {
-    "ip": "5.251.128.102",
+    "ip": "5.251.128.118",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1330,7 +1330,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9605263157894737,
-    "checked_at": "2026-03-19T17:04:23Z",
+    "checked_at": "2026-06-20T17:18:50Z",
     "created_at": "2022-09-11T13:01:24.143941Z",
     "available": true
   },
@@ -1345,7 +1345,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:23Z",
+    "checked_at": "2026-06-20T17:18:50Z",
     "created_at": "2022-10-02T20:08:02.890064Z",
     "available": false
   },
@@ -1360,7 +1360,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:23Z",
+    "checked_at": "2026-06-20T17:18:50Z",
     "created_at": "2022-10-13T09:44:11.153608Z",
     "available": true
   },
@@ -1375,7 +1375,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:23Z",
+    "checked_at": "2026-06-20T17:18:50Z",
     "created_at": "2022-10-15T04:40:17.02468Z",
     "available": true
   },
@@ -1390,9 +1390,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:23Z",
+    "checked_at": "2026-06-20T17:18:51Z",
     "created_at": "2022-10-16T18:43:57.004406Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "92.47.181.38",
@@ -1405,7 +1405,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:24Z",
+    "checked_at": "2026-06-20T17:18:51Z",
     "created_at": "2022-10-18T21:32:01.771923Z",
     "available": true
   },
@@ -1420,7 +1420,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:24Z",
+    "checked_at": "2026-06-20T17:18:52Z",
     "created_at": "2022-10-19T01:55:11.205924Z",
     "available": true
   },
@@ -1435,7 +1435,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6810551558752997,
-    "checked_at": "2026-03-19T17:04:24Z",
+    "checked_at": "2026-06-20T17:18:52Z",
     "created_at": "2022-10-20T11:53:06.130558Z",
     "available": false
   },
@@ -1450,7 +1450,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9545454545454546,
-    "checked_at": "2026-03-19T17:04:24Z",
+    "checked_at": "2026-06-20T17:18:52Z",
     "created_at": "2022-10-21T18:52:55.775042Z",
     "available": true
   },
@@ -1465,7 +1465,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:24Z",
+    "checked_at": "2026-06-20T17:18:53Z",
     "created_at": "2022-10-21T19:47:01.376489Z",
     "available": true
   },
@@ -1480,7 +1480,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9811320754716981,
-    "checked_at": "2026-03-19T17:04:24Z",
+    "checked_at": "2026-06-20T17:18:53Z",
     "created_at": "2022-10-22T23:47:11.305447Z",
     "available": true
   },
@@ -1495,7 +1495,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:25Z",
+    "checked_at": "2026-06-20T17:18:53Z",
     "created_at": "2022-10-23T04:02:46.194154Z",
     "available": false
   },
@@ -1510,12 +1510,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:25Z",
+    "checked_at": "2026-06-20T17:18:54Z",
     "created_at": "2022-10-23T12:12:52.548222Z",
     "available": true
   },
   {
-    "ip": "178.88.112.14",
+    "ip": "178.88.112.24",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1525,7 +1525,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:25Z",
+    "checked_at": "2026-06-20T17:18:54Z",
     "created_at": "2022-10-25T09:53:37.664106Z",
     "available": true
   },
@@ -1540,7 +1540,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:25Z",
+    "checked_at": "2026-06-20T17:18:55Z",
     "created_at": "2022-10-26T01:55:18.204059Z",
     "available": true
   },
@@ -1555,7 +1555,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:25Z",
+    "checked_at": "2026-06-20T17:18:55Z",
     "created_at": "2022-10-27T08:54:10.468261Z",
     "available": true
   },
@@ -1570,7 +1570,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2026-03-19T17:04:26Z",
+    "checked_at": "2026-06-20T17:18:56Z",
     "created_at": "2022-10-30T00:33:10.881672Z",
     "available": false
   },
@@ -1585,7 +1585,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2026-03-19T17:04:26Z",
+    "checked_at": "2026-06-20T17:18:57Z",
     "created_at": "2022-10-30T09:59:32.164853Z",
     "available": true
   },
@@ -1600,7 +1600,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9861431870669746,
-    "checked_at": "2026-03-19T17:04:26Z",
+    "checked_at": "2026-06-20T17:18:56Z",
     "created_at": "2022-11-04T09:39:54.00678Z",
     "available": true
   },
@@ -1615,7 +1615,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:26Z",
+    "checked_at": "2026-06-20T17:18:59Z",
     "created_at": "2022-11-06T05:27:50.213144Z",
     "available": false
   },
@@ -1630,12 +1630,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:27Z",
+    "checked_at": "2026-06-20T17:19:01Z",
     "created_at": "2022-11-06T18:09:49.336226Z",
     "available": true
   },
   {
-    "ip": "147.30.75.52",
+    "ip": "147.30.75.164",
     "name": "",
     "as_number": 9198,
     "as_org": "JSC Kazakhtelecom",
@@ -1645,7 +1645,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:27Z",
+    "checked_at": "2026-06-20T17:19:02Z",
     "created_at": "2022-11-10T22:47:18.937545Z",
     "available": true
   },
@@ -1660,7 +1660,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:27Z",
+    "checked_at": "2026-06-20T17:19:02Z",
     "created_at": "2022-11-13T02:03:03.906767Z",
     "available": false
   },
@@ -1675,7 +1675,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:27Z",
+    "checked_at": "2026-06-20T17:19:02Z",
     "created_at": "2022-11-18T04:53:39.200739Z",
     "available": true
   },
@@ -1690,7 +1690,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9047619047619048,
-    "checked_at": "2026-03-19T17:04:27Z",
+    "checked_at": "2026-06-20T17:19:02Z",
     "created_at": "2022-11-25T23:28:03.652896Z",
     "available": true
   },
@@ -1705,7 +1705,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:28Z",
+    "checked_at": "2026-06-20T17:19:03Z",
     "created_at": "2022-12-06T09:02:17.704552Z",
     "available": true
   },
@@ -1720,7 +1720,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.1893939393939394,
-    "checked_at": "2026-03-19T17:04:28Z",
+    "checked_at": "2026-06-20T17:19:03Z",
     "created_at": "2022-12-12T02:59:33.169328Z",
     "available": true
   },
@@ -1735,7 +1735,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2026-03-19T17:04:28Z",
+    "checked_at": "2026-06-20T17:19:03Z",
     "created_at": "2022-12-16T20:36:19.298661Z",
     "available": false
   },
@@ -1750,7 +1750,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8695652173913043,
-    "checked_at": "2026-03-19T17:04:31Z",
+    "checked_at": "2026-06-20T17:19:03Z",
     "created_at": "2022-12-17T03:37:20.690059Z",
     "available": true
   },
@@ -1765,7 +1765,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.92,
-    "checked_at": "2026-03-19T17:04:32Z",
+    "checked_at": "2026-06-20T17:19:03Z",
     "created_at": "2022-12-17T13:29:05.485227Z",
     "available": true
   },
@@ -1780,7 +1780,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4838709677419355,
-    "checked_at": "2026-03-19T17:04:34Z",
+    "checked_at": "2026-06-20T17:19:03Z",
     "created_at": "2022-12-19T04:55:06.124663Z",
     "available": true
   },
@@ -1795,7 +1795,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7974683544303798,
-    "checked_at": "2026-03-19T17:04:41Z",
+    "checked_at": "2026-06-20T17:19:03Z",
     "created_at": "2022-12-23T03:50:13.085706Z",
     "available": true
   },
@@ -1810,7 +1810,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8185993111366245,
-    "checked_at": "2026-03-19T17:04:42Z",
+    "checked_at": "2026-06-20T17:19:04Z",
     "created_at": "2022-12-24T20:19:46.402521Z",
     "available": true
   },
@@ -1825,12 +1825,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6016949152542372,
-    "checked_at": "2026-03-19T17:04:43Z",
+    "checked_at": "2026-06-20T17:19:04Z",
     "created_at": "2022-12-25T02:16:55.538944Z",
     "available": true
   },
   {
-    "ip": "185.78.232.172",
+    "ip": "185.78.232.10",
     "name": "",
     "as_number": 211028,
     "as_org": "Spetsavtomatikaservice LLP",
@@ -1840,7 +1840,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5327868852459017,
-    "checked_at": "2026-03-19T17:04:43Z",
+    "checked_at": "2026-06-20T17:19:04Z",
     "created_at": "2022-12-26T13:52:15.410768Z",
     "available": true
   },
@@ -1855,7 +1855,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:43Z",
+    "checked_at": "2026-06-20T17:19:04Z",
     "created_at": "2022-12-27T00:53:02.333169Z",
     "available": true
   },
@@ -1870,7 +1870,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9615384615384616,
-    "checked_at": "2026-03-19T17:04:43Z",
+    "checked_at": "2026-06-20T17:19:04Z",
     "created_at": "2022-12-29T01:22:33.346228Z",
     "available": true
   },
@@ -1885,7 +1885,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9178082191780822,
-    "checked_at": "2026-03-19T17:04:43Z",
+    "checked_at": "2026-06-20T17:19:05Z",
     "created_at": "2023-01-02T11:28:13.330867Z",
     "available": false
   },
@@ -1900,7 +1900,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8902439024390244,
-    "checked_at": "2026-03-19T17:04:44Z",
+    "checked_at": "2026-06-20T17:19:05Z",
     "created_at": "2023-02-22T02:06:53.891654Z",
     "available": false
   },
@@ -1915,7 +1915,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9696969696969697,
-    "checked_at": "2026-03-19T17:04:44Z",
+    "checked_at": "2026-06-20T17:19:05Z",
     "created_at": "2023-02-23T05:21:31.550036Z",
     "available": true
   },
@@ -1930,7 +1930,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.872,
-    "checked_at": "2026-03-19T17:04:44Z",
+    "checked_at": "2026-06-20T17:19:05Z",
     "created_at": "2023-02-26T18:22:03.740894Z",
     "available": true
   },
@@ -1945,7 +1945,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6181818181818182,
-    "checked_at": "2026-03-19T17:04:44Z",
+    "checked_at": "2026-06-20T17:19:05Z",
     "created_at": "2023-03-02T16:49:30.441813Z",
     "available": true
   },
@@ -1960,12 +1960,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9659090909090909,
-    "checked_at": "2026-03-19T17:04:44Z",
+    "checked_at": "2026-06-20T17:19:06Z",
     "created_at": "2023-03-05T11:20:32.834301Z",
     "available": true
   },
   {
-    "ip": "185.19.193.210",
+    "ip": "185.19.193.242",
     "name": "",
     "as_number": 41007,
     "as_org": "Ctc Astana Ltd",
@@ -1975,12 +1975,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:45Z",
+    "checked_at": "2026-06-20T17:19:06Z",
     "created_at": "2023-03-08T13:49:26.077378Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "195.68.146.154",
+    "ip": "195.68.146.226",
     "name": "",
     "as_number": 3216,
     "as_org": "PVimpelCom",
@@ -1990,7 +1990,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:45Z",
+    "checked_at": "2026-06-20T17:19:07Z",
     "created_at": "2023-03-08T14:52:16.604467Z",
     "available": true
   },
@@ -2005,7 +2005,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:45Z",
+    "checked_at": "2026-06-20T17:19:07Z",
     "created_at": "2023-03-09T15:47:29.559276Z",
     "available": true
   },
@@ -2020,7 +2020,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9523809523809523,
-    "checked_at": "2026-03-19T17:04:45Z",
+    "checked_at": "2026-06-20T17:19:07Z",
     "created_at": "2023-03-12T08:32:59.202438Z",
     "available": true
   },
@@ -2035,7 +2035,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:45Z",
+    "checked_at": "2026-06-20T17:19:07Z",
     "created_at": "2023-03-13T04:42:31.64633Z",
     "available": true
   },
@@ -2050,7 +2050,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:45Z",
+    "checked_at": "2026-06-20T17:19:07Z",
     "created_at": "2023-03-13T07:38:58.785217Z",
     "available": true
   },
@@ -2065,7 +2065,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:45Z",
+    "checked_at": "2026-06-20T17:19:07Z",
     "created_at": "2023-03-13T10:50:36.904227Z",
     "available": true
   },
@@ -2080,7 +2080,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2026-03-19T17:04:46Z",
+    "checked_at": "2026-06-20T17:19:07Z",
     "created_at": "2023-03-13T10:58:24.609603Z",
     "available": true
   },
@@ -2095,7 +2095,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:46Z",
+    "checked_at": "2026-06-20T17:19:07Z",
     "created_at": "2023-03-13T11:01:50.173223Z",
     "available": true
   },
@@ -2110,7 +2110,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:46Z",
+    "checked_at": "2026-06-20T17:19:07Z",
     "created_at": "2023-03-13T12:03:10.76208Z",
     "available": true
   },
@@ -2125,12 +2125,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:46Z",
+    "checked_at": "2026-06-20T17:19:07Z",
     "created_at": "2023-03-13T18:56:51.504492Z",
     "available": true
   },
   {
-    "ip": "46.8.252.136",
+    "ip": "46.8.252.118",
     "name": "",
     "as_number": 203481,
     "as_org": "AstanaMegatel Ltd.",
@@ -2140,7 +2140,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:46Z",
+    "checked_at": "2026-06-20T17:19:07Z",
     "created_at": "2023-03-13T20:26:02.06159Z",
     "available": true
   },
@@ -2155,7 +2155,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:46Z",
+    "checked_at": "2026-06-20T17:19:08Z",
     "created_at": "2023-03-14T01:53:18.379672Z",
     "available": true
   },
@@ -2170,7 +2170,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:47Z",
+    "checked_at": "2026-06-20T17:19:08Z",
     "created_at": "2023-03-14T02:58:22.010555Z",
     "available": false
   },
@@ -2185,7 +2185,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.976401179941003,
-    "checked_at": "2026-03-19T17:04:47Z",
+    "checked_at": "2026-06-20T17:19:08Z",
     "created_at": "2023-03-14T06:58:43.966206Z",
     "available": true
   },
@@ -2200,7 +2200,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:47Z",
+    "checked_at": "2026-06-20T17:19:08Z",
     "created_at": "2023-03-14T16:32:05.365342Z",
     "available": true
   },
@@ -2215,7 +2215,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:47Z",
+    "checked_at": "2026-06-20T17:19:08Z",
     "created_at": "2023-03-14T19:46:19.242099Z",
     "available": true
   },
@@ -2230,12 +2230,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:47Z",
+    "checked_at": "2026-06-20T17:19:08Z",
     "created_at": "2023-03-15T00:06:25.972246Z",
     "available": true
   },
   {
-    "ip": "145.249.246.154",
+    "ip": "145.249.246.151",
     "name": "",
     "as_number": 21299,
     "as_org": "Kar-Tel LLC",
@@ -2245,7 +2245,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:48Z",
+    "checked_at": "2026-06-20T17:19:09Z",
     "created_at": "2023-03-15T00:15:35.044442Z",
     "available": true
   },
@@ -2260,7 +2260,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9696969696969697,
-    "checked_at": "2026-03-19T17:04:48Z",
+    "checked_at": "2026-06-20T17:19:09Z",
     "created_at": "2023-03-15T14:08:02.62732Z",
     "available": true
   },
@@ -2275,7 +2275,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:48Z",
+    "checked_at": "2026-06-20T17:19:09Z",
     "created_at": "2023-03-15T15:09:23.614712Z",
     "available": false
   },
@@ -2290,7 +2290,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:48Z",
+    "checked_at": "2026-06-20T17:19:09Z",
     "created_at": "2023-03-16T09:44:30.837801Z",
     "available": true
   },
@@ -2305,7 +2305,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.967741935483871,
-    "checked_at": "2026-03-19T17:04:49Z",
+    "checked_at": "2026-06-20T17:19:10Z",
     "created_at": "2023-03-16T11:19:54.224054Z",
     "available": true
   },
@@ -2320,7 +2320,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2026-03-19T17:04:49Z",
+    "checked_at": "2026-06-20T17:19:10Z",
     "created_at": "2023-03-16T14:31:58.000877Z",
     "available": false
   },
@@ -2335,7 +2335,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6875,
-    "checked_at": "2026-03-19T17:04:49Z",
+    "checked_at": "2026-06-20T17:19:11Z",
     "created_at": "2023-03-17T01:41:02.199742Z",
     "available": true
   },
@@ -2350,7 +2350,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6875,
-    "checked_at": "2026-03-19T17:04:49Z",
+    "checked_at": "2026-06-20T17:19:11Z",
     "created_at": "2023-03-17T02:34:03.160814Z",
     "available": true
   },
@@ -2365,7 +2365,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9047619047619048,
-    "checked_at": "2026-03-19T17:04:49Z",
+    "checked_at": "2026-06-20T17:19:11Z",
     "created_at": "2023-03-17T14:10:35.52231Z",
     "available": true
   },
@@ -2380,7 +2380,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8333333333333334,
-    "checked_at": "2026-03-19T17:04:50Z",
+    "checked_at": "2026-06-20T17:19:11Z",
     "created_at": "2023-03-19T01:24:21.228355Z",
     "available": true
   },
@@ -2395,7 +2395,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-03-19T17:04:50Z",
+    "checked_at": "2026-06-20T17:19:11Z",
     "created_at": "2023-04-08T23:54:28.403741Z",
     "available": true
   },
@@ -2410,7 +2410,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.755700325732899,
-    "checked_at": "2026-03-19T17:04:50Z",
+    "checked_at": "2026-06-20T17:19:12Z",
     "created_at": "2023-05-07T00:49:16.873648Z",
     "available": true
   }
