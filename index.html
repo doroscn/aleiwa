@@ -12,7 +12,11 @@
     <meta property="og:description" content="Discover top ISPs, fastest DNS servers, and real-time global network data.">
     <meta property="og:url" content="https://www.aleiwa.com/">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="images/apple-touch-icon.png">
+    <meta property="og:image" content="https://www.aleiwa.com/images/apple-touch-icon.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Aleiwa: Best Public DNS & ISP Rankings">
+    <meta name="twitter:description" content="Discover top ISPs, fastest DNS servers, and real-time global network data.">
+    <link rel="canonical" href="https://www.aleiwa.com/">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
     <link rel="icon" href="images/favicon-96x96.png" type="image/png">
     <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
@@ -38,6 +42,10 @@
     </nav>
 
     <main class="container">
+        <section class="page-summary" id="page-summary">
+            <p><strong>Summary:</strong> Aleiwa is a global network analytics platform providing per-country public DNS (LDNS) server listings, ISP/ASN market share rankings, and real-time network incident reports. Network engineers use Aleiwa to compare DNS resolvers by country, analyze autonomous system data, and track global internet outages.</p>
+        </section>
+
         <div class="search-box">
             <input type="text" id="countryCode" placeholder="country code (e.g. US)" maxlength="2">
             <button onclick="loadData()">Search</button>
@@ -94,33 +102,71 @@
         });
     </script>
     <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Aleiwa Network Tools",
+      "url": "https://www.aleiwa.com/",
+      "description": "Global network analytics: public DNS servers, ISP/ASN rankings, and network incident reports.",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.aleiwa.com/?country={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
         {
-          "@context": "https://schema.org",
-          "@type": "ItemList",
-          "name": "Aleiwa Network Tools Collection",
-          "url": "https://www.aleiwa.com/",
-          "description": "A curated list of professional network analysis tools including ISP rankings, DNS servers, and route diagnostics.",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "item": {
-                "@type": "WebApplication",
-                "name": "Top ISPs Ranking",
-                "url": "https://www.aleiwa.com/topisps.html"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "item": {
-                "@type": "WebApplication",
-                "name": "Public DNS Server Analyzer",
-                "url": "https://www.aleiwa.com/dns.html"
-              }
-            }
-          ]
+          "@type": "Question",
+          "name": "What is Aleiwa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aleiwa is a network analytics platform that provides per-country public DNS server listings, ISP/ASN rankings, and global network incident blog posts for network engineers and infrastructure planners."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I find public DNS servers for my country?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit aleiwa.com/dns.html for a full country list, or search by ISO country code on the homepage. Each country page lists DNS IP addresses, ASN information, and availability status."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is LDNS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "LDNS (Local DNS) refers to DNS resolvers operated by ISPs or geolocated within a specific country. Aleiwa collects and monitors LDNS IP addresses worldwide to help users compare resolver options."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often is DNS data updated?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Aleiwa performs regular availability checks on listed DNS servers. Each country page shows a last-updated date, and DNS server entries include individual last-checked timestamps."
+          }
         }
+      ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "Aleiwa Network Tools Collection",
+      "url": "https://www.aleiwa.com/",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "item": {"@type": "WebApplication", "name": "Top ISPs Ranking", "url": "https://www.aleiwa.com/topisps.html"}},
+        {"@type": "ListItem", "position": 2, "item": {"@type": "WebApplication", "name": "Public DNS Server Analyzer", "url": "https://www.aleiwa.com/dns.html"}},
+        {"@type": "ListItem", "position": 3, "item": {"@type": "WebApplication", "name": "Network Incident Blog", "url": "https://www.aleiwa.com/blog/bloglist.html"}}
+      ]
+    }
     </script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZGPJPS5L54"></script>
