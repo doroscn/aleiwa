@@ -1,12 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":328061,"Description":"TELECOM COMORES S.A (TELCO S.A) - TELECOM COMORES S.A (TELCO S.A)","CC":"KM","Users":43557,"Percent of CC Pop":52.82,"Percent of Internet":0.0010,"Samples":87829},
-{"rank":2,"AS":36939,"Description":"Comores Telecom - Comores Telecom","CC":"KM","Users":40426,"Percent of CC Pop":49.02,"Percent of Internet":0.0010,"Samples":81479},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KM","Users":386,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":344},
-{"rank":4,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"KM","Users":172,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":132}
+{"rank":1,"AS":328061,"Description":"TELECOM COMORES S.A (TELCO S.A) - TELECOM COMORES S.A (TELCO S.A)","CC":"KM","Users":43393,"Percent of CC Pop":52.62,"Percent of Internet":0.0010,"Samples":79679},
+{"rank":2,"AS":36939,"Description":"Comores Telecom - Comores Telecom","CC":"KM","Users":40906,"Percent of CC Pop":49.60,"Percent of Internet":0.0010,"Samples":74879},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KM","Users":358,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":438},
+{"rank":4,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"KM","Users":196,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":131},
+{"rank":5,"AS":329646,"Description":"Comores Cables - Comores Cables","CC":"KM","Users":90,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":27}
   ]
 }

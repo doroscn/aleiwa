@@ -1,21 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37524,"Description":"Africell Gambia - Africell Gambia","CC":"GM","Users":167471,"Percent of CC Pop":30.63,"Percent of Internet":0.0040,"Samples":362571},
-{"rank":2,"AS":37552,"Description":"Comium Gambia Ltd. - Comium Gambia Ltd.","CC":"GM","Users":148874,"Percent of CC Pop":27.22,"Percent of Internet":0.0036,"Samples":324942},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GM","Users":147274,"Percent of CC Pop":26.93,"Percent of Internet":0.0035,"Samples":261324},
-{"rank":4,"AS":37309,"Description":"QCell Limited - QCell Limited","CC":"GM","Users":123616,"Percent of CC Pop":22.61,"Percent of Internet":0.0030,"Samples":269055},
-{"rank":5,"AS":25250,"Description":"Gamtel Co. - Gamtel Co.","CC":"GM","Users":63408,"Percent of CC Pop":11.60,"Percent of Internet":0.0015,"Samples":135271},
-{"rank":6,"AS":37323,"Description":"Netpage Company Limited - Netpage Company Limited","CC":"GM","Users":16506,"Percent of CC Pop":3.02,"Percent of Internet":0.0004,"Samples":35445},
-{"rank":7,"AS":328488,"Description":"DK Telecom Ltd - DK Telecom Ltd","CC":"GM","Users":12224,"Percent of CC Pop":2.24,"Percent of Internet":0.0003,"Samples":26064},
-{"rank":8,"AS":328140,"Description":"INSIST NET Limited - INSIST NET Limited","CC":"GM","Users":9110,"Percent of CC Pop":1.67,"Percent of Internet":0.0002,"Samples":19638},
-{"rank":9,"AS":329179,"Description":"Sky Telecom Company Limited - Sky Telecom Company Limited","CC":"GM","Users":1135,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":2410},
-{"rank":10,"AS":37503,"Description":"Unique Solutions Company Limited - Unique Solutions Company Limited","CC":"GM","Users":1087,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":2310},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GM","Users":93,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":67},
-{"rank":12,"AS":29286,"Description":"SKYLOGIC-AS - SKYLOGIC S.P.A.","CC":"GM","Users":65,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":13},
-{"rank":13,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GM","Users":64,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":16}
+{"rank":1,"AS":37524,"Description":"Africell Gambia - Africell Gambia","CC":"GM","Users":164700,"Percent of CC Pop":30.12,"Percent of Internet":0.0039,"Samples":311324},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GM","Users":147122,"Percent of CC Pop":26.90,"Percent of Internet":0.0035,"Samples":279953},
+{"rank":3,"AS":37552,"Description":"Comium Gambia Ltd. - Comium Gambia Ltd.","CC":"GM","Users":133282,"Percent of CC Pop":24.37,"Percent of Internet":0.0032,"Samples":258440},
+{"rank":4,"AS":37309,"Description":"QCell Limited - QCell Limited","CC":"GM","Users":125338,"Percent of CC Pop":22.92,"Percent of Internet":0.0030,"Samples":237641},
+{"rank":5,"AS":25250,"Description":"Gamtel Co. - Gamtel Co.","CC":"GM","Users":60276,"Percent of CC Pop":11.02,"Percent of Internet":0.0014,"Samples":114813},
+{"rank":6,"AS":37323,"Description":"Netpage Company Limited - Netpage Company Limited","CC":"GM","Users":15579,"Percent of CC Pop":2.85,"Percent of Internet":0.0004,"Samples":29839},
+{"rank":7,"AS":328488,"Description":"DK Telecom Ltd - DK Telecom Ltd","CC":"GM","Users":12041,"Percent of CC Pop":2.20,"Percent of Internet":0.0003,"Samples":22689},
+{"rank":8,"AS":328140,"Description":"INSIST NET Limited - INSIST NET Limited","CC":"GM","Users":8250,"Percent of CC Pop":1.51,"Percent of Internet":0.0002,"Samples":15907},
+{"rank":9,"AS":37503,"Description":"Unique Solutions Company Limited - Unique Solutions Company Limited","CC":"GM","Users":1131,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":2084},
+{"rank":10,"AS":329179,"Description":"Sky Telecom Company Limited - Sky Telecom Company Limited","CC":"GM","Users":1086,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":2026},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GM","Users":80,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":33},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GM","Users":74,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":14},
+{"rank":13,"AS":29286,"Description":"SKYLOGIC-AS - SKYLOGIC S.P.A.","CC":"GM","Users":67,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

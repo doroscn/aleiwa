@@ -1,12 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ER","Users":49979,"Percent of CC Pop":94.94,"Percent of Internet":0.0012,"Samples":1513},
-{"rank":2,"AS":201004,"Description":"GlobalTT-AS - Global Telephone & Telecommunication S.A. (GT&T)","CC":"ER","Users":39437,"Percent of CC Pop":74.91,"Percent of Internet":0.0009,"Samples":19},
-{"rank":3,"AS":30987,"Description":"Eritrea Telecommunication Service corporation (EriTel) - Eritrea Telecommunication Service corporation (EriTel)","CC":"ER","Users":37492,"Percent of CC Pop":71.22,"Percent of Internet":0.0009,"Samples":187},
-{"rank":4,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"ER","Users":13751,"Percent of CC Pop":26.12,"Percent of Internet":0.0003,"Samples":10}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ER","Users":48652,"Percent of CC Pop":92.42,"Percent of Internet":0.0012,"Samples":1791},
+{"rank":2,"AS":30987,"Description":"Eritrea Telecommunication Service corporation (EriTel) - Eritrea Telecommunication Service corporation (EriTel)","CC":"ER","Users":29459,"Percent of CC Pop":55.96,"Percent of Internet":0.0007,"Samples":154}
   ]
 }

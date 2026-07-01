@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":36924,"Description":"GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS","CC":"CG","Users":188989,"Percent of CC Pop":35.14,"Percent of Internet":0.0045,"Samples":388382},
-{"rank":2,"AS":37451,"Description":"CONGO TELECOM - CONGO TELECOM","CC":"CG","Users":163235,"Percent of CC Pop":30.36,"Percent of Internet":0.0039,"Samples":328303},
-{"rank":3,"AS":37463,"Description":"MTN CONGO - MTN CONGO","CC":"CG","Users":156917,"Percent of CC Pop":29.18,"Percent of Internet":0.0038,"Samples":324936},
-{"rank":4,"AS":37550,"Description":"Airtel Congo S.A - Airtel Congo S.A","CC":"CG","Users":116010,"Percent of CC Pop":21.57,"Percent of Internet":0.0028,"Samples":238023},
-{"rank":5,"AS":328857,"Description":"SILICONE CONNECT - SILICONE CONNECT","CC":"CG","Users":1776,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":3285},
-{"rank":6,"AS":327829,"Description":"SKYTIC TELECOM - SKYTIC TELECOM","CC":"CG","Users":1651,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":2953},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CG","Users":630,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":505},
-{"rank":8,"AS":328500,"Description":"A.M.C Telecom - A.M.C Telecom","CC":"CG","Users":387,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":624},
-{"rank":9,"AS":29286,"Description":"SKYLOGIC-AS - SKYLOGIC S.P.A.","CC":"CG","Users":245,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":181},
-{"rank":10,"AS":37548,"Description":"ARPCE - ARPCE","CC":"CG","Users":177,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":125},
-{"rank":11,"AS":329632,"Description":"TELECOMMUNICATION DU CONGO - TELECOMMUNICATION DU CONGO","CC":"CG","Users":131,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":39}
+{"rank":1,"AS":36924,"Description":"GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS","CC":"CG","Users":189212,"Percent of CC Pop":35.19,"Percent of Internet":0.0045,"Samples":344420},
+{"rank":2,"AS":37451,"Description":"CONGO TELECOM - CONGO TELECOM","CC":"CG","Users":163508,"Percent of CC Pop":30.41,"Percent of Internet":0.0039,"Samples":290914},
+{"rank":3,"AS":37463,"Description":"MTN CONGO - MTN CONGO","CC":"CG","Users":161781,"Percent of CC Pop":30.09,"Percent of Internet":0.0039,"Samples":297819},
+{"rank":4,"AS":37550,"Description":"Airtel Congo S.A - Airtel Congo S.A","CC":"CG","Users":114220,"Percent of CC Pop":21.24,"Percent of Internet":0.0027,"Samples":207742},
+{"rank":5,"AS":328857,"Description":"SILICONE CONNECT - SILICONE CONNECT","CC":"CG","Users":1703,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":2769},
+{"rank":6,"AS":327829,"Description":"SKYTIC TELECOM - SKYTIC TELECOM","CC":"CG","Users":1554,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":2457},
+{"rank":7,"AS":328500,"Description":"A.M.C Telecom - A.M.C Telecom","CC":"CG","Users":378,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":469},
+{"rank":8,"AS":37548,"Description":"ARPCE - ARPCE","CC":"CG","Users":263,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":163},
+{"rank":9,"AS":29286,"Description":"SKYLOGIC-AS - SKYLOGIC S.P.A.","CC":"CG","Users":242,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":156},
+{"rank":10,"AS":329632,"Description":"TELECOMMUNICATION DU CONGO - TELECOMMUNICATION DU CONGO","CC":"CG","Users":221,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":105},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CG","Users":99,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":23}
   ]
 }

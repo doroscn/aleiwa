@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30985,"Description":"Orange Mali SA - Orange Mali SA","CC":"ML","Users":2291509,"Percent of CC Pop":74.65,"Percent of Internet":0.0549,"Samples":2234258},
-{"rank":2,"AS":21271,"Description":"Society of Mali's Telecommunications (SOTELMA) - Society of Mali's Telecommunications (SOTELMA)","CC":"ML","Users":1095914,"Percent of CC Pop":35.70,"Percent of Internet":0.0263,"Samples":1082145},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ML","Users":307855,"Percent of CC Pop":10.03,"Percent of Internet":0.0074,"Samples":290837},
-{"rank":4,"AS":328253,"Description":"ALPHA TELECOMMUNICATION MALI-ATEL-S.A - ALPHA TELECOMMUNICATION MALI-ATEL-S.A","CC":"ML","Users":74841,"Percent of CC Pop":2.44,"Percent of Internet":0.0018,"Samples":71870},
-{"rank":5,"AS":36864,"Description":"AFRIBONE MALI SA - AFRIBONE MALI SA","CC":"ML","Users":29060,"Percent of CC Pop":0.95,"Percent of Internet":0.0007,"Samples":27560},
-{"rank":6,"AS":328284,"Description":"SociA(c)tA(c) Malienne de Transmission et de Diffusion - SociA(c)tA(c) Malienne de Transmission et de Diffusion","CC":"ML","Users":2166,"Percent of CC Pop":0.07,"Percent of Internet":0.0001,"Samples":2015},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"ML","Users":484,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":195}
+{"rank":1,"AS":30985,"Description":"Orange Mali SA - Orange Mali SA","CC":"ML","Users":2303663,"Percent of CC Pop":75.04,"Percent of Internet":0.0552,"Samples":1932559},
+{"rank":2,"AS":21271,"Description":"Society of Mali's Telecommunications (SOTELMA) - Society of Mali's Telecommunications (SOTELMA)","CC":"ML","Users":1084576,"Percent of CC Pop":35.33,"Percent of Internet":0.0260,"Samples":911064},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ML","Users":336631,"Percent of CC Pop":10.97,"Percent of Internet":0.0081,"Samples":279467},
+{"rank":4,"AS":328253,"Description":"ALPHA TELECOMMUNICATION MALI-ATEL-S.A - ALPHA TELECOMMUNICATION MALI-ATEL-S.A","CC":"ML","Users":75925,"Percent of CC Pop":2.47,"Percent of Internet":0.0018,"Samples":63179},
+{"rank":5,"AS":36864,"Description":"AFRIBONE MALI SA - AFRIBONE MALI SA","CC":"ML","Users":30575,"Percent of CC Pop":1.00,"Percent of Internet":0.0007,"Samples":25047},
+{"rank":6,"AS":328284,"Description":"SociA(c)tA(c) Malienne de Transmission et de Diffusion - SociA(c)tA(c) Malienne de Transmission et de Diffusion","CC":"ML","Users":2343,"Percent of CC Pop":0.08,"Percent of Internet":0.0001,"Samples":1888},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"ML","Users":216,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":35}
   ]
 }

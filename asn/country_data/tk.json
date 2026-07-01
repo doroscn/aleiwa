@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":55523,"Description":"TELETOK-AS-AP - Telecommunications Tokelau Corporation - Teletok","CC":"TK","Users":819,"Percent of CC Pop":109.79,"Percent of Internet":0.0000,"Samples":1058},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TK","Users":711,"Percent of CC Pop":95.31,"Percent of Internet":0.0000,"Samples":596}
+{"rank":1,"AS":55523,"Description":"TELETOK-AS-AP - Telecommunications Tokelau Corporation - Teletok","CC":"TK","Users":776,"Percent of CC Pop":104.02,"Percent of Internet":0.0000,"Samples":1079},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TK","Users":663,"Percent of CC Pop":88.87,"Percent of Internet":0.0000,"Samples":637}
   ]
 }

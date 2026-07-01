@@ -1,17 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":202087,"Description":"AJSEGIB-AS - GIBFIBRE LTD","CC":"GI","Users":13443,"Percent of CC Pop":35.48,"Percent of Internet":0.0003,"Samples":41531},
-{"rank":2,"AS":8301,"Description":"GIBTELECOMNET - Gibtelecom Ltd.","CC":"GI","Users":12587,"Percent of CC Pop":33.22,"Percent of Internet":0.0003,"Samples":38432},
-{"rank":3,"AS":34803,"Description":"BGL - Broadband Gibraltar Limited","CC":"GI","Users":9990,"Percent of CC Pop":26.36,"Percent of Internet":0.0002,"Samples":30710},
-{"rank":4,"AS":205248,"Description":"TRIAR - Netassist International s.r.o.","CC":"GI","Users":493,"Percent of CC Pop":1.30,"Percent of Internet":0.0000,"Samples":531},
-{"rank":5,"AS":8772,"Description":"NLineLLC - NetAssist LLC","CC":"GI","Users":245,"Percent of CC Pop":0.65,"Percent of Internet":0.0000,"Samples":329},
-{"rank":6,"AS":397044,"Description":"MY-TEC-SA - My Tec Sa","CC":"GI","Users":98,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":23},
-{"rank":7,"AS":196775,"Description":"BAY-MANAGEMENT - Entain Corporate Services Limited","CC":"GI","Users":89,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":58},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GI","Users":60,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":34},
-{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GI","Users":48,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":15}
+{"rank":1,"AS":202087,"Description":"AJSEGIB-AS - GIBFIBRE LTD","CC":"GI","Users":13471,"Percent of CC Pop":35.55,"Percent of Internet":0.0003,"Samples":39167},
+{"rank":2,"AS":8301,"Description":"GIBTELECOMNET - Gibtelecom Ltd.","CC":"GI","Users":12247,"Percent of CC Pop":32.32,"Percent of Internet":0.0003,"Samples":35602},
+{"rank":3,"AS":34803,"Description":"BGL - Broadband Gibraltar Limited","CC":"GI","Users":10291,"Percent of CC Pop":27.16,"Percent of Internet":0.0002,"Samples":29829},
+{"rank":4,"AS":205248,"Description":"TRIAR - Netassist International s.r.o.","CC":"GI","Users":580,"Percent of CC Pop":1.53,"Percent of Internet":0.0000,"Samples":918},
+{"rank":5,"AS":8772,"Description":"NLineLLC - NetAssist LLC","CC":"GI","Users":288,"Percent of CC Pop":0.76,"Percent of Internet":0.0000,"Samples":188},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GI","Users":157,"Percent of CC Pop":0.41,"Percent of Internet":0.0000,"Samples":19},
+{"rank":7,"AS":397044,"Description":"MY-TEC-SA - My Tec Sa","CC":"GI","Users":98,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":23},
+{"rank":8,"AS":196775,"Description":"BAY-MANAGEMENT - Entain Corporate Services Limited","CC":"GI","Users":92,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":57},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GI","Users":62,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":26}
   ]
 }

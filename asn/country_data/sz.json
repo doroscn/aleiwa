@@ -1,18 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":328169,"Description":"Swazi Mobile Limited - Swazi Mobile Limited","CC":"SZ","Users":175639,"Percent of CC Pop":44.22,"Percent of Internet":0.0042,"Samples":258414},
-{"rank":2,"AS":327765,"Description":"Swazi MTN Ltd - Swazi MTN Ltd","CC":"SZ","Users":169649,"Percent of CC Pop":42.71,"Percent of Internet":0.0041,"Samples":246930},
-{"rank":3,"AS":19711,"Description":"SWAZILAND PTC - SWAZILAND PTC","CC":"SZ","Users":40673,"Percent of CC Pop":10.24,"Percent of Internet":0.0010,"Samples":58112},
-{"rank":4,"AS":327750,"Description":"JENNY INTERNET (PTY) LTD - JENNY INTERNET (PTY) LTD","CC":"SZ","Users":20072,"Percent of CC Pop":5.05,"Percent of Internet":0.0005,"Samples":28134},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SZ","Users":13167,"Percent of CC Pop":3.32,"Percent of Internet":0.0003,"Samples":18767},
-{"rank":6,"AS":328628,"Description":"Wanderport Swaziland - Wanderport Swaziland","CC":"SZ","Users":1691,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":2393},
-{"rank":7,"AS":32398,"Description":"Real Image Internet - Real Image Internet","CC":"SZ","Users":1381,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":2067},
-{"rank":8,"AS":329095,"Description":"AFRIMETRO INVESTMENTS (PROPRIETARY) LIMITED - AFRIMETRO INVESTMENTS (PROPRIETARY) LIMITED","CC":"SZ","Users":802,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":982},
-{"rank":9,"AS":329223,"Description":"Chakaza Holdings (PTY) Ltd - Chakaza Holdings (PTY) Ltd","CC":"SZ","Users":421,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":164},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SZ","Users":95,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":18}
+{"rank":1,"AS":328169,"Description":"Swazi Mobile Limited - Swazi Mobile Limited","CC":"SZ","Users":171093,"Percent of CC Pop":43.08,"Percent of Internet":0.0041,"Samples":216942},
+{"rank":2,"AS":327765,"Description":"Swazi MTN Ltd - Swazi MTN Ltd","CC":"SZ","Users":168462,"Percent of CC Pop":42.42,"Percent of Internet":0.0040,"Samples":213127},
+{"rank":3,"AS":19711,"Description":"SWAZILAND PTC - SWAZILAND PTC","CC":"SZ","Users":45379,"Percent of CC Pop":11.43,"Percent of Internet":0.0011,"Samples":55037},
+{"rank":4,"AS":327750,"Description":"JENNY INTERNET (PTY) LTD - JENNY INTERNET (PTY) LTD","CC":"SZ","Users":22414,"Percent of CC Pop":5.64,"Percent of Internet":0.0005,"Samples":27340},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SZ","Users":14072,"Percent of CC Pop":3.54,"Percent of Internet":0.0003,"Samples":17145},
+{"rank":6,"AS":328628,"Description":"Wanderport Swaziland - Wanderport Swaziland","CC":"SZ","Users":2059,"Percent of CC Pop":0.52,"Percent of Internet":0.0000,"Samples":2482},
+{"rank":7,"AS":32398,"Description":"Real Image Internet - Real Image Internet","CC":"SZ","Users":1030,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":1237},
+{"rank":8,"AS":329095,"Description":"AFRIMETRO INVESTMENTS (PROPRIETARY) LIMITED - AFRIMETRO INVESTMENTS (PROPRIETARY) LIMITED","CC":"SZ","Users":762,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":772},
+{"rank":9,"AS":329223,"Description":"Chakaza Holdings (PTY) Ltd - Chakaza Holdings (PTY) Ltd","CC":"SZ","Users":342,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":17},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SZ","Users":113,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

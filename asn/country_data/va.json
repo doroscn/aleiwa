@@ -1,10 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8978,"Description":"ASN-HOLYSEE - Holy See - Vatican City State","CC":"VA","Users":289,"Percent of CC Pop":65.68,"Percent of Internet":0.0000,"Samples":817},
-{"rank":2,"AS":61160,"Description":"ASN-VATLIB - Biblioteca Apostolica Vaticana","CC":"VA","Users":70,"Percent of CC Pop":15.91,"Percent of Internet":0.0000,"Samples":10}
+{"rank":1,"AS":8978,"Description":"ASN-HOLYSEE - Holy See - Vatican City State","CC":"VA","Users":288,"Percent of CC Pop":65.45,"Percent of Internet":0.0000,"Samples":826}
   ]
 }

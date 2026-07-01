@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15433,"Description":"Tism - Telecom Italia San Marino S.p.A","CC":"SM","Users":17475,"Percent of CC Pop":93.64,"Percent of Internet":0.0004,"Samples":55349},
-{"rank":2,"AS":196874,"Description":"TELENET-RSM - Telenet S.r.l.","CC":"SM","Users":926,"Percent of CC Pop":4.96,"Percent of Internet":0.0000,"Samples":2930},
+{"rank":1,"AS":15433,"Description":"Tism - Telecom Italia San Marino S.p.A","CC":"SM","Users":17283,"Percent of CC Pop":92.61,"Percent of Internet":0.0004,"Samples":54198},
+{"rank":2,"AS":196874,"Description":"TELENET-RSM - Telenet S.r.l.","CC":"SM","Users":1120,"Percent of CC Pop":6.00,"Percent of Internet":0.0000,"Samples":3367},
 {"rank":3,"AS":213557,"Description":"Underscore - Underscore S.r.l.","CC":"SM","Users":86,"Percent of CC Pop":0.46,"Percent of Internet":0.0000,"Samples":18},
-{"rank":4,"AS":212841,"Description":"SM-AASS - AZIENDA AUTONOMA DI STATO PER I SERVIZI PUBBLICI","CC":"SM","Users":83,"Percent of CC Pop":0.44,"Percent of Internet":0.0000,"Samples":107},
-{"rank":5,"AS":201852,"Description":"BLUINDACO-AS - Bluindaco S.R.L.","CC":"SM","Users":68,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":24},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SM","Users":58,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":14}
+{"rank":4,"AS":212841,"Description":"SM-AASS - AZIENDA AUTONOMA DI STATO PER I SERVIZI PUBBLICI","CC":"SM","Users":81,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":98},
+{"rank":5,"AS":201852,"Description":"BLUINDACO-AS - Bluindaco S.R.L.","CC":"SM","Users":66,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":18},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SM","Users":54,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":15}
   ]
 }

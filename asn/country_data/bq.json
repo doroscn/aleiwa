@@ -1,16 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27745,"Description":"AS27745 - Telefonia Bonairiano N.V.","CC":"BQ","Users":6960,"Percent of CC Pop":48.26,"Percent of Internet":0.0002,"Samples":29768},
-{"rank":2,"AS":27694,"Description":"AS27694 - Flamingo TV Bonaire N.V.","CC":"BQ","Users":4655,"Percent of CC Pop":32.28,"Percent of Internet":0.0001,"Samples":19483},
-{"rank":3,"AS":28104,"Description":"AS28104 - Eutel N.V.","CC":"BQ","Users":2246,"Percent of CC Pop":15.57,"Percent of Internet":0.0001,"Samples":9393},
-{"rank":4,"AS":262188,"Description":"AS262188 - Satel NV","CC":"BQ","Users":992,"Percent of CC Pop":6.88,"Percent of Internet":0.0000,"Samples":4036},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BQ","Users":350,"Percent of CC Pop":2.43,"Percent of Internet":0.0000,"Samples":1449},
-{"rank":6,"AS":52389,"Description":"AS52389 - SSCS BV","CC":"BQ","Users":52,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":59},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BQ","Users":39,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":22},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"BQ","Users":30,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":15}
+{"rank":1,"AS":27745,"Description":"AS27745 - Telefonia Bonairiano N.V.","CC":"BQ","Users":7045,"Percent of CC Pop":48.85,"Percent of Internet":0.0002,"Samples":29087},
+{"rank":2,"AS":27694,"Description":"AS27694 - Flamingo TV Bonaire N.V.","CC":"BQ","Users":4681,"Percent of CC Pop":32.46,"Percent of Internet":0.0001,"Samples":18723},
+{"rank":3,"AS":28104,"Description":"AS28104 - Eutel N.V.","CC":"BQ","Users":2311,"Percent of CC Pop":16.02,"Percent of Internet":0.0001,"Samples":9500},
+{"rank":4,"AS":262188,"Description":"AS262188 - Satel NV","CC":"BQ","Users":797,"Percent of CC Pop":5.53,"Percent of Internet":0.0000,"Samples":3091},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BQ","Users":369,"Percent of CC Pop":2.56,"Percent of Internet":0.0000,"Samples":1600},
+{"rank":6,"AS":52389,"Description":"AS52389 - SSCS BV","CC":"BQ","Users":54,"Percent of CC Pop":0.37,"Percent of Internet":0.0000,"Samples":42},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BQ","Users":41,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":14}
   ]
 }

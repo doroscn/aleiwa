@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27775,"Description":"AS27775 - Telecommunicationcompany Suriname - TeleSur","CC":"SR","Users":287772,"Percent of CC Pop":89.51,"Percent of Internet":0.0069,"Samples":919861},
-{"rank":2,"AS":52398,"Description":"AS52398 - Digicel Suriname NV","CC":"SR","Users":50344,"Percent of CC Pop":15.66,"Percent of Internet":0.0012,"Samples":160938},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SR","Users":5365,"Percent of CC Pop":1.67,"Percent of Internet":0.0001,"Samples":17182},
-{"rank":4,"AS":265822,"Description":"AS265822 - PARBONET N.V.","CC":"SR","Users":3666,"Percent of CC Pop":1.14,"Percent of Internet":0.0001,"Samples":11784},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SR","Users":86,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":146},
-{"rank":6,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"SR","Users":74,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":36},
-{"rank":7,"AS":263799,"Description":"AS263799 - CARIBBEAN COMMUNICATION SERVICES","CC":"SR","Users":73,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":28},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SR","Users":72,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":55}
+{"rank":1,"AS":27775,"Description":"AS27775 - Telecommunicationcompany Suriname - TeleSur","CC":"SR","Users":289562,"Percent of CC Pop":90.07,"Percent of Internet":0.0069,"Samples":907291},
+{"rank":2,"AS":52398,"Description":"AS52398 - Digicel Suriname NV","CC":"SR","Users":49965,"Percent of CC Pop":15.54,"Percent of Internet":0.0012,"Samples":154831},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SR","Users":5881,"Percent of CC Pop":1.83,"Percent of Internet":0.0001,"Samples":18374},
+{"rank":4,"AS":265822,"Description":"AS265822 - PARBONET N.V.","CC":"SR","Users":3320,"Percent of CC Pop":1.03,"Percent of Internet":0.0001,"Samples":10371},
+{"rank":5,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"SR","Users":85,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":34},
+{"rank":6,"AS":263799,"Description":"AS263799 - CARIBBEAN COMMUNICATION SERVICES","CC":"SR","Users":80,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":20},
+{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SR","Users":79,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":49},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SR","Users":71,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":92}
   ]
 }

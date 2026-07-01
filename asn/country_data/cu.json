@@ -1,13 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27725,"Description":"AS27725 - Empresa de Telecomunicaciones de Cuba, S.A.","CC":"CU","Users":6601737,"Percent of CC Pop":96.97,"Percent of Internet":0.1582,"Samples":1826820},
-{"rank":2,"AS":10569,"Description":"AS10569 - Red CENIAInternet","CC":"CU","Users":1745,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":385},
-{"rank":3,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"CU","Users":776,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":52},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CU","Users":747,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":44},
-{"rank":5,"AS":198605,"Description":"AVAST-AS-DC - AVAST Software s.r.o.","CC":"CU","Users":496,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":10}
+{"rank":1,"AS":27725,"Description":"AS27725 - Empresa de Telecomunicaciones de Cuba, S.A.","CC":"CU","Users":6629842,"Percent of CC Pop":97.39,"Percent of Internet":0.1589,"Samples":1541552},
+{"rank":2,"AS":10569,"Description":"AS10569 - Red CENIAInternet","CC":"CU","Users":1554,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":253},
+{"rank":3,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"CU","Users":852,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":53},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CU","Users":727,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":20}
   ]
 }

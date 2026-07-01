@@ -1,17 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":6855637,"Percent of CC Pop":101.96,"Percent of Internet":0.1643,"Samples":5089522},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SY","Users":1368674,"Percent of CC Pop":20.36,"Percent of Internet":0.0328,"Samples":979647},
-{"rank":3,"AS":48065,"Description":"Syriatel-AS - Syriatel Mobile Telecom","CC":"SY","Users":1304927,"Percent of CC Pop":19.41,"Percent of Internet":0.0313,"Samples":953779},
-{"rank":4,"AS":214707,"Description":"Rcell - RCell LLC","CC":"SY","Users":349347,"Percent of CC Pop":5.20,"Percent of Internet":0.0084,"Samples":227858},
-{"rank":5,"AS":216472,"Description":"HS-SYR - High Speed For Internet Services L.L.C","CC":"SY","Users":205882,"Percent of CC Pop":3.06,"Percent of Internet":0.0049,"Samples":107525},
-{"rank":6,"AS":210557,"Description":"FalakNET - Houeiss and AI-Othman Internet Services LLC","CC":"SY","Users":10992,"Percent of CC Pop":0.16,"Percent of Internet":0.0003,"Samples":619},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SY","Users":4336,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":3795},
-{"rank":8,"AS":213999,"Description":"THE-CLIENTS - WorkTitans B.V.","CC":"SY","Users":218,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":10},
-{"rank":9,"AS":16276,"Description":"OVH - OVH SAS","CC":"SY","Users":159,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":19}
+{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":6694371,"Percent of CC Pop":99.57,"Percent of Internet":0.1604,"Samples":4384738},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SY","Users":1402327,"Percent of CC Pop":20.86,"Percent of Internet":0.0336,"Samples":883720},
+{"rank":3,"AS":48065,"Description":"Syriatel-AS - Syriatel Mobile Telecom","CC":"SY","Users":1367694,"Percent of CC Pop":20.34,"Percent of Internet":0.0328,"Samples":898787},
+{"rank":4,"AS":201550,"Description":"EXT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":395320,"Percent of CC Pop":5.88,"Percent of Internet":0.0095,"Samples":63033},
+{"rank":5,"AS":216472,"Description":"HS-SYR - High Speed For Internet Services L.L.C","CC":"SY","Users":301118,"Percent of CC Pop":4.48,"Percent of Internet":0.0072,"Samples":189033},
+{"rank":6,"AS":214707,"Description":"Rcell - RCell LLC","CC":"SY","Users":253639,"Percent of CC Pop":3.77,"Percent of Internet":0.0061,"Samples":140206},
+{"rank":7,"AS":210557,"Description":"FalakNET - Houeiss and AI-Othman Internet Services LLC","CC":"SY","Users":10992,"Percent of CC Pop":0.16,"Percent of Internet":0.0003,"Samples":619},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SY","Users":2054,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":1342},
+{"rank":9,"AS":213999,"Description":"THE-CLIENTS - WorkTitans B.V.","CC":"SY","Users":218,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":10},
+{"rank":10,"AS":16276,"Description":"OVH - OVH SAS","CC":"SY","Users":167,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":14}
   ]
 }

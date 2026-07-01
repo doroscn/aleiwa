@@ -1,9 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":45168,"Description":"NINET-AS-NF-AP - Norfolk Telecom, GBE","CC":"NF","Users":1211,"Percent of CC Pop":99.67,"Percent of Internet":0.0000,"Samples":1211}
+{"rank":1,"AS":45168,"Description":"NINET-AS-NF-AP - Norfolk Telecom, GBE","CC":"NF","Users":1215,"Percent of CC Pop":100.00,"Percent of Internet":0.0000,"Samples":965}
   ]
 }

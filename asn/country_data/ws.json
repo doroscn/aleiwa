@@ -1,17 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":38800,"Description":"DIGICELSAMOA-WS-AS-AP - Digicel Samoa Ltd","CC":"WS","Users":53710,"Percent of CC Pop":65.67,"Percent of Internet":0.0013,"Samples":75505},
-{"rank":2,"AS":17993,"Description":"VODAFONESAMOA-AS-AP - Vodafone Samoa Limited","CC":"WS","Users":36581,"Percent of CC Pop":44.72,"Percent of Internet":0.0009,"Samples":51306},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"WS","Users":4766,"Percent of CC Pop":5.83,"Percent of Internet":0.0001,"Samples":6616},
-{"rank":4,"AS":150321,"Description":"SOTPREP-AS-AP - Secretariat of the Pacific Regional Environment Programme","CC":"WS","Users":1620,"Percent of CC Pop":1.98,"Percent of Internet":0.0000,"Samples":47},
-{"rank":5,"AS":38227,"Description":"CSLSAMOA-WS-AS-AP - Computer Services Limited (CSL)","CC":"WS","Users":806,"Percent of CC Pop":0.99,"Percent of Internet":0.0000,"Samples":598},
-{"rank":6,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"WS","Users":200,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":63},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"WS","Users":135,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":15},
-{"rank":8,"AS":153053,"Description":"LTSCL-AS-AP - Lesamoa.net","CC":"WS","Users":111,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":28},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"WS","Users":102,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":11}
+{"rank":1,"AS":38800,"Description":"DIGICELSAMOA-WS-AS-AP - Digicel Samoa Ltd","CC":"WS","Users":53721,"Percent of CC Pop":65.68,"Percent of Internet":0.0013,"Samples":74823},
+{"rank":2,"AS":17993,"Description":"VODAFONESAMOA-AS-AP - Vodafone Samoa Limited","CC":"WS","Users":35650,"Percent of CC Pop":43.59,"Percent of Internet":0.0009,"Samples":49042},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"WS","Users":6683,"Percent of CC Pop":8.17,"Percent of Internet":0.0002,"Samples":9774},
+{"rank":4,"AS":38227,"Description":"CSLSAMOA-WS-AS-AP - Computer Services Limited (CSL)","CC":"WS","Users":435,"Percent of CC Pop":0.53,"Percent of Internet":0.0000,"Samples":223},
+{"rank":5,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"WS","Users":149,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":26},
+{"rank":6,"AS":153053,"Description":"LTSCL-AS-AP - Lesamoa.net","CC":"WS","Users":118,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":29}
   ]
 }

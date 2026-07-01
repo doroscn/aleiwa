@@ -1,19 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":133606,"Description":"VIETTELTIMORLESTE-AS-AP - Viettel Timor Leste","CC":"TL","Users":193581,"Percent of CC Pop":46.35,"Percent of Internet":0.0046,"Samples":149669},
-{"rank":2,"AS":58731,"Description":"TELINTLSA-AS - Telekomunikasi Indonesia International (T.L.) S.A.","CC":"TL","Users":135181,"Percent of CC Pop":32.36,"Percent of Internet":0.0032,"Samples":104702},
-{"rank":3,"AS":38077,"Description":"TIMOR-TELECOM-AS-AP - Timor Telecom, SA","CC":"TL","Users":75940,"Percent of CC Pop":18.18,"Percent of Internet":0.0018,"Samples":59604},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TL","Users":34557,"Percent of CC Pop":8.27,"Percent of Internet":0.0008,"Samples":26630},
-{"rank":5,"AS":135065,"Description":"NIDOM-AS-AP - National Directorate of Information and Technology","CC":"TL","Users":1485,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":128},
-{"rank":6,"AS":136920,"Description":"GARDAMORLDA-AS-AP - Gardamor, Lda","CC":"TL","Users":1008,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":427},
-{"rank":7,"AS":151605,"Description":"SACOMTELLDA-AS-AP - Sacomtel Lda.","CC":"TL","Users":905,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":463},
-{"rank":8,"AS":140223,"Description":"METROLINK-AS-AP - METROLINK,LDA.","CC":"TL","Users":662,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":60},
-{"rank":9,"AS":139688,"Description":"TICTIMORIP-AS - TIC TIMOR I.P.","CC":"TL","Users":473,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":105},
-{"rank":10,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"TL","Users":365,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":119},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TL","Users":199,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":15}
+{"rank":1,"AS":133606,"Description":"VIETTELTIMORLESTE-AS-AP - Viettel Timor Leste","CC":"TL","Users":193691,"Percent of CC Pop":46.37,"Percent of Internet":0.0046,"Samples":146381},
+{"rank":2,"AS":58731,"Description":"TELINTLSA-AS - Telekomunikasi Indonesia International (T.L.) S.A.","CC":"TL","Users":131950,"Percent of CC Pop":31.59,"Percent of Internet":0.0032,"Samples":99591},
+{"rank":3,"AS":38077,"Description":"TIMOR-TELECOM-AS-AP - Timor Telecom, SA","CC":"TL","Users":73025,"Percent of CC Pop":17.48,"Percent of Internet":0.0017,"Samples":55849},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TL","Users":39088,"Percent of CC Pop":9.36,"Percent of Internet":0.0009,"Samples":30197},
+{"rank":5,"AS":151605,"Description":"SACOMTELLDA-AS-AP - Sacomtel Lda.","CC":"TL","Users":1658,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":1288},
+{"rank":6,"AS":135065,"Description":"NIDOM-AS-AP - National Directorate of Information and Technology","CC":"TL","Users":1485,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":128},
+{"rank":7,"AS":136920,"Description":"GARDAMORLDA-AS-AP - Gardamor, Lda","CC":"TL","Users":1114,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":470},
+{"rank":8,"AS":140223,"Description":"METROLINK-AS-AP - METROLINK,LDA.","CC":"TL","Users":600,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":62},
+{"rank":9,"AS":139688,"Description":"TICTIMORIP-AS - TIC TIMOR I.P.","CC":"TL","Users":566,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":125},
+{"rank":10,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"TL","Users":415,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":98}
   ]
 }

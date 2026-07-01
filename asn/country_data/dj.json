@@ -1,14 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30990,"Description":"DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.","CC":"DJ","Users":1233380,"Percent of CC Pop":114.72,"Percent of Internet":0.0296,"Samples":332107},
-{"rank":2,"AS":329140,"Description":"Afrifiber SAS - Afrifiber SAS","CC":"DJ","Users":5171,"Percent of CC Pop":0.48,"Percent of Internet":0.0001,"Samples":1249},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"DJ","Users":3501,"Percent of CC Pop":0.33,"Percent of Internet":0.0001,"Samples":382},
-{"rank":4,"AS":15169,"Description":"GOOGLE - Google LLC","CC":"DJ","Users":1497,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":10},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"DJ","Users":1090,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":122},
-{"rank":6,"AS":327831,"Description":"Djibouti Data Center SARL - Djibouti Data Center SARL","CC":"DJ","Users":992,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":21}
+{"rank":1,"AS":30990,"Description":"DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.","CC":"DJ","Users":1249668,"Percent of CC Pop":116.24,"Percent of Internet":0.0299,"Samples":292881},
+{"rank":2,"AS":329140,"Description":"Afrifiber SAS - Afrifiber SAS","CC":"DJ","Users":6092,"Percent of CC Pop":0.57,"Percent of Internet":0.0001,"Samples":1341},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"DJ","Users":4594,"Percent of CC Pop":0.43,"Percent of Internet":0.0001,"Samples":775},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"DJ","Users":890,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":38}
   ]
 }

@@ -1,15 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":49902,"Description":"SRR-AS - SOCIETE REUNIONNAISE DU RADIOTELEPHONE SCS","CC":"YT","Users":76048,"Percent of CC Pop":50.68,"Percent of Internet":0.0018,"Samples":48850},
-{"rank":2,"AS":3215,"Description":"AS3215 - Orange S.A.","CC":"YT","Users":45934,"Percent of CC Pop":30.61,"Percent of Internet":0.0011,"Samples":24027},
-{"rank":3,"AS":202023,"Description":"OSP-AS - Scaleway SAS","CC":"YT","Users":45808,"Percent of CC Pop":30.53,"Percent of Internet":0.0011,"Samples":28680},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"YT","Users":20004,"Percent of CC Pop":13.33,"Percent of Internet":0.0005,"Samples":11931},
-{"rank":5,"AS":37614,"Description":"STOI Internet - STOI Internet","CC":"YT","Users":16776,"Percent of CC Pop":11.18,"Percent of Internet":0.0004,"Samples":10373},
-{"rank":6,"AS":51110,"Description":"idomtechnologies-as - Idom Technologies SAS","CC":"YT","Users":2767,"Percent of CC Pop":1.84,"Percent of Internet":0.0001,"Samples":1586},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"YT","Users":235,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":10}
+{"rank":1,"AS":49902,"Description":"SRR-AS - SOCIETE REUNIONNAISE DU RADIOTELEPHONE SCS","CC":"YT","Users":68506,"Percent of CC Pop":45.66,"Percent of Internet":0.0016,"Samples":41949},
+{"rank":2,"AS":3215,"Description":"AS3215 - Orange S.A.","CC":"YT","Users":48985,"Percent of CC Pop":32.65,"Percent of Internet":0.0012,"Samples":26690},
+{"rank":3,"AS":202023,"Description":"OSP-AS - Scaleway SAS","CC":"YT","Users":46681,"Percent of CC Pop":31.11,"Percent of Internet":0.0011,"Samples":26991},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"YT","Users":21698,"Percent of CC Pop":14.46,"Percent of Internet":0.0005,"Samples":12154},
+{"rank":5,"AS":37614,"Description":"STOI Internet - STOI Internet","CC":"YT","Users":16478,"Percent of CC Pop":10.98,"Percent of Internet":0.0004,"Samples":9416},
+{"rank":6,"AS":51110,"Description":"idomtechnologies-as - Idom Technologies SAS","CC":"YT","Users":3408,"Percent of CC Pop":2.27,"Percent of Internet":0.0001,"Samples":1753}
   ]
 }

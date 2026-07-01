@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8818,"Description":"UNSPECIFIED - Tusass A/S","CC":"GL","Users":40419,"Percent of CC Pop":99.88,"Percent of Internet":0.0010,"Samples":210067},
-{"rank":2,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"GL","Users":116,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":442},
-{"rank":3,"AS":209854,"Description":"Cyberzonehub - Cyberzone S.A.","CC":"GL","Users":114,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":296},
-{"rank":4,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"GL","Users":45,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":23},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GL","Users":35,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":30},
-{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GL","Users":34,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":16}
+{"rank":1,"AS":8818,"Description":"UNSPECIFIED - Tusass A/S","CC":"GL","Users":40467,"Percent of CC Pop":100.00,"Percent of Internet":0.0010,"Samples":213309},
+{"rank":2,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"GL","Users":136,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":470},
+{"rank":3,"AS":209854,"Description":"Cyberzonehub - Cyberzone S.A.","CC":"GL","Users":118,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":269},
+{"rank":4,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"GL","Users":70,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":104},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GL","Users":35,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":28},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GL","Users":34,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":12}
   ]
 }

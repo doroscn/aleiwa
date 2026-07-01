@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11816,"Description":"AS11816 - SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.","CC":"AW","Users":103432,"Percent of CC Pop":92.53,"Percent of Internet":0.0025,"Samples":201895},
-{"rank":2,"AS":264645,"Description":"AS264645 - NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"AW","Users":5967,"Percent of CC Pop":5.34,"Percent of Internet":0.0001,"Samples":11532},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AW","Users":2316,"Percent of CC Pop":2.07,"Percent of Internet":0.0001,"Samples":1632},
-{"rank":4,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"AW","Users":200,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":78},
-{"rank":5,"AS":132372,"Description":"GBNETWORK-AS-AP - GB Network Solutions Sdn. Bhd.","CC":"AW","Users":118,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":30},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AW","Users":98,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":75},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AW","Users":86,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":34}
+{"rank":1,"AS":11816,"Description":"AS11816 - SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.","CC":"AW","Users":103073,"Percent of CC Pop":92.21,"Percent of Internet":0.0025,"Samples":189393},
+{"rank":2,"AS":264645,"Description":"AS264645 - NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"AW","Users":6441,"Percent of CC Pop":5.76,"Percent of Internet":0.0002,"Samples":11743},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AW","Users":1924,"Percent of CC Pop":1.72,"Percent of Internet":0.0000,"Samples":1868},
+{"rank":4,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"AW","Users":186,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":67},
+{"rank":5,"AS":132372,"Description":"GBNETWORK-AS-AP - GB Network Solutions Sdn. Bhd.","CC":"AW","Users":122,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":29},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AW","Users":101,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":33},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AW","Users":94,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":55}
   ]
 }

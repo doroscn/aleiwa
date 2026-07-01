@@ -1,17 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15344,"Description":"ASN15344-SLU - Karib Cable","CC":"LC","Users":66954,"Percent of CC Pop":62.41,"Percent of Internet":0.0016,"Samples":271368},
-{"rank":2,"AS":33582,"Description":"DIGICEL-OECS - Digicel St.Lucia Ltd","CC":"LC","Users":21085,"Percent of CC Pop":19.65,"Percent of Internet":0.0005,"Samples":84517},
-{"rank":3,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications (Barbados) Limited","CC":"LC","Users":9410,"Percent of CC Pop":8.77,"Percent of Internet":0.0002,"Samples":34047},
-{"rank":4,"AS":395561,"Description":"DIGICEL-GRENADA - Digicel St.Lucia Ltd","CC":"LC","Users":8990,"Percent of CC Pop":8.38,"Percent of Internet":0.0002,"Samples":35086},
-{"rank":5,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"LC","Users":1026,"Percent of CC Pop":0.96,"Percent of Internet":0.0000,"Samples":328},
-{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LC","Users":228,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":605},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"LC","Users":97,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":64},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LC","Users":70,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":76},
-{"rank":9,"AS":397961,"Description":"GOVERNMENT-OF-SAINT-LUCIA - Government Information Technology Services Limited","CC":"LC","Users":68,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":19}
+{"rank":1,"AS":15344,"Description":"ASN15344-SLU - Karib Cable","CC":"LC","Users":67274,"Percent of CC Pop":62.71,"Percent of Internet":0.0016,"Samples":248284},
+{"rank":2,"AS":33582,"Description":"DIGICEL-OECS - Digicel St.Lucia Ltd","CC":"LC","Users":23892,"Percent of CC Pop":22.27,"Percent of Internet":0.0006,"Samples":86437},
+{"rank":3,"AS":23520,"Description":"LIBERTY-NETWORKS - Columbus Networks USA, Inc.","CC":"LC","Users":12247,"Percent of CC Pop":11.42,"Percent of Internet":0.0003,"Samples":120},
+{"rank":4,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications (Barbados) Limited","CC":"LC","Users":9174,"Percent of CC Pop":8.55,"Percent of Internet":0.0002,"Samples":30490},
+{"rank":5,"AS":395561,"Description":"DIGICEL-GRENADA - Digicel St.Lucia Ltd","CC":"LC","Users":7488,"Percent of CC Pop":6.98,"Percent of Internet":0.0002,"Samples":25738},
+{"rank":6,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"LC","Users":277,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":25},
+{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LC","Users":219,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":493},
+{"rank":8,"AS":397961,"Description":"GOVERNMENT-OF-SAINT-LUCIA - Government Information Technology Services Limited","CC":"LC","Users":75,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":25},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LC","Users":52,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":49},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"LC","Users":48,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":20}
   ]
 }

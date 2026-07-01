@@ -1,13 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15389,"Description":"Faroese-Telecom-AS - P/F Telefonverkid","CC":"FO","Users":40416,"Percent of CC Pop":81.71,"Percent of Internet":0.0010,"Samples":106470},
-{"rank":2,"AS":20963,"Description":"NEMA - P/F 20.11.19","CC":"FO","Users":13832,"Percent of CC Pop":27.96,"Percent of Internet":0.0003,"Samples":36633},
-{"rank":3,"AS":206928,"Description":"pf-elektron - P/F Elektron","CC":"FO","Users":150,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":189},
-{"rank":4,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"FO","Users":57,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":17},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FO","Users":52,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":26}
+{"rank":1,"AS":15389,"Description":"Faroese-Telecom-AS - P/F Telefonverkid","CC":"FO","Users":39577,"Percent of CC Pop":80.01,"Percent of Internet":0.0009,"Samples":99366},
+{"rank":2,"AS":20963,"Description":"NEMA - P/F 20.11.19","CC":"FO","Users":14829,"Percent of CC Pop":29.98,"Percent of Internet":0.0004,"Samples":37292},
+{"rank":3,"AS":206928,"Description":"pf-elektron - P/F Elektron","CC":"FO","Users":122,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":124},
+{"rank":4,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"FO","Users":66,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":14},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FO","Users":55,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":21}
   ]
 }

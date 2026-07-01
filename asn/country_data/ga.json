@@ -1,20 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":16058,"Description":"Gabon Telecom / Office of Posts and Telecommunications of Gabon - Gabon Telecom / Office of Posts and Telecommunications of Gabon","CC":"GA","Users":757688,"Percent of CC Pop":62.56,"Percent of Internet":0.0182,"Samples":699850},
-{"rank":2,"AS":36924,"Description":"GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS","CC":"GA","Users":482217,"Percent of CC Pop":39.81,"Percent of Internet":0.0116,"Samples":424797},
-{"rank":3,"AS":37616,"Description":"Airtel Gabon S.A - Airtel Gabon S.A","CC":"GA","Users":161242,"Percent of CC Pop":13.31,"Percent of Internet":0.0039,"Samples":96227},
-{"rank":4,"AS":327708,"Description":"Airtel Rwanda Ltd - Airtel Rwanda Ltd","CC":"GA","Users":103486,"Percent of CC Pop":8.54,"Percent of Internet":0.0025,"Samples":35667},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GA","Users":15207,"Percent of CC Pop":1.26,"Percent of Internet":0.0004,"Samples":5301},
-{"rank":6,"AS":37582,"Description":"Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF)","CC":"GA","Users":3832,"Percent of CC Pop":0.32,"Percent of Internet":0.0001,"Samples":2911},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GA","Users":1840,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":2033},
-{"rank":8,"AS":329118,"Description":"AXIONE Gabon SA - AXIONE Gabon SA","CC":"GA","Users":1489,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":12},
-{"rank":9,"AS":328304,"Description":"Waka - Waka","CC":"GA","Users":1174,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":743},
-{"rank":10,"AS":328429,"Description":"GENERAL BUSINESS MACHINES SA - GENERAL BUSINESS MACHINES SA","CC":"GA","Users":601,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":159},
-{"rank":11,"AS":328124,"Description":"DIGICOM - DIGICOM","CC":"GA","Users":506,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":22},
-{"rank":12,"AS":327876,"Description":"Societe TLDC - Societe TLDC","CC":"GA","Users":309,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":127}
+{"rank":1,"AS":16058,"Description":"Gabon Telecom / Office of Posts and Telecommunications of Gabon - Gabon Telecom / Office of Posts and Telecommunications of Gabon","CC":"GA","Users":750362,"Percent of CC Pop":61.95,"Percent of Internet":0.0180,"Samples":461583},
+{"rank":2,"AS":36924,"Description":"GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS","CC":"GA","Users":514060,"Percent of CC Pop":42.44,"Percent of Internet":0.0123,"Samples":309383},
+{"rank":3,"AS":327708,"Description":"Airtel Rwanda Ltd - Airtel Rwanda Ltd","CC":"GA","Users":87076,"Percent of CC Pop":7.19,"Percent of Internet":0.0021,"Samples":40518},
+{"rank":4,"AS":37616,"Description":"Airtel Gabon S.A - Airtel Gabon S.A","CC":"GA","Users":69662,"Percent of CC Pop":5.75,"Percent of Internet":0.0017,"Samples":20536},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GA","Users":14932,"Percent of CC Pop":1.23,"Percent of Internet":0.0004,"Samples":7165},
+{"rank":6,"AS":37582,"Description":"Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF)","CC":"GA","Users":3826,"Percent of CC Pop":0.32,"Percent of Internet":0.0001,"Samples":2080},
+{"rank":7,"AS":328304,"Description":"Waka - Waka","CC":"GA","Users":1591,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":741},
+{"rank":8,"AS":329118,"Description":"AXIONE Gabon SA - AXIONE Gabon SA","CC":"GA","Users":991,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":70},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GA","Users":933,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":469},
+{"rank":10,"AS":328429,"Description":"GENERAL BUSINESS MACHINES SA - GENERAL BUSINESS MACHINES SA","CC":"GA","Users":909,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":165},
+{"rank":11,"AS":327876,"Description":"Societe TLDC - Societe TLDC","CC":"GA","Users":386,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":48},
+{"rank":12,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"GA","Users":298,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

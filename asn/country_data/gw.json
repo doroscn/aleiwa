@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
 {"rank":1,"AS":37559,"Description":"Orange Bissau - Orange Bissau","CC":"GW","Users":82718,"Percent of CC Pop":99.90,"Percent of Internet":0.0020,"Samples":7818},
-{"rank":2,"AS":327769,"Description":"Spacetel - Guine-Bissau - Spacetel - Guine-Bissau","CC":"GW","Users":57950,"Percent of CC Pop":69.99,"Percent of Internet":0.0014,"Samples":62474},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GW","Users":35953,"Percent of CC Pop":43.42,"Percent of Internet":0.0009,"Samples":35336},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GW","Users":673,"Percent of CC Pop":0.81,"Percent of Internet":0.0000,"Samples":244}
+{"rank":2,"AS":327769,"Description":"Spacetel - Guine-Bissau - Spacetel - Guine-Bissau","CC":"GW","Users":52920,"Percent of CC Pop":63.91,"Percent of Internet":0.0013,"Samples":44705},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GW","Users":41413,"Percent of CC Pop":50.02,"Percent of Internet":0.0010,"Samples":33010},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GW","Users":1123,"Percent of CC Pop":1.36,"Percent of Internet":0.0000,"Samples":72}
   ]
 }

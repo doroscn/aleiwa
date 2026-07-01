@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15706,"Description":"Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd)","CC":"SD","Users":7876132,"Percent of CC Pop":50.85,"Percent of Internet":0.1887,"Samples":1847708},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SD","Users":4159097,"Percent of CC Pop":26.85,"Percent of Internet":0.0997,"Samples":980910},
-{"rank":3,"AS":36998,"Description":"Sudanese Mobile Telephone (ZAIN) Co Ltd - Sudanese Mobile Telephone (ZAIN) Co Ltd","CC":"SD","Users":3803197,"Percent of CC Pop":24.55,"Percent of Internet":0.0911,"Samples":883281},
-{"rank":4,"AS":36972,"Description":"MTN SUDAN - MTN SUDAN","CC":"SD","Users":2176867,"Percent of CC Pop":14.05,"Percent of Internet":0.0522,"Samples":511882},
-{"rank":5,"AS":33788,"Description":"Kanar Telecommunication (Canar Telecom Co.Ltd) - Kanar Telecommunication (Canar Telecom Co.Ltd)","CC":"SD","Users":20685,"Percent of CC Pop":0.13,"Percent of Internet":0.0005,"Samples":4939},
-{"rank":6,"AS":37211,"Description":"MAX NET FOR INTERNET SERVICES - MAX NET FOR INTERNET SERVICES","CC":"SD","Users":17133,"Percent of CC Pop":0.11,"Percent of Internet":0.0004,"Samples":4173},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SD","Users":7516,"Percent of CC Pop":0.05,"Percent of Internet":0.0002,"Samples":2012},
-{"rank":8,"AS":329344,"Description":"right advanced business co ltd - right advanced business co ltd","CC":"SD","Users":2335,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":159},
-{"rank":9,"AS":328824,"Description":"Lulu Tech Advanced Technology - Lulu Tech Advanced Technology","CC":"SD","Users":1342,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":208},
-{"rank":10,"AS":328586,"Description":"HORIZON IT SOLUTIONS LTD - HORIZON IT SOLUTIONS LTD","CC":"SD","Users":1245,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":65},
-{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SD","Users":856,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":15}
+{"rank":1,"AS":15706,"Description":"Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd)","CC":"SD","Users":7895896,"Percent of CC Pop":50.97,"Percent of Internet":0.1892,"Samples":1692715},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SD","Users":4147888,"Percent of CC Pop":26.78,"Percent of Internet":0.0994,"Samples":893992},
+{"rank":3,"AS":36998,"Description":"Sudanese Mobile Telephone (ZAIN) Co Ltd - Sudanese Mobile Telephone (ZAIN) Co Ltd","CC":"SD","Users":3943663,"Percent of CC Pop":25.46,"Percent of Internet":0.0945,"Samples":844270},
+{"rank":4,"AS":36972,"Description":"MTN SUDAN - MTN SUDAN","CC":"SD","Users":2139423,"Percent of CC Pop":13.81,"Percent of Internet":0.0513,"Samples":457239},
+{"rank":5,"AS":33788,"Description":"Kanar Telecommunication (Canar Telecom Co.Ltd) - Kanar Telecommunication (Canar Telecom Co.Ltd)","CC":"SD","Users":20605,"Percent of CC Pop":0.13,"Percent of Internet":0.0005,"Samples":4491},
+{"rank":6,"AS":37211,"Description":"MAX NET FOR INTERNET SERVICES - MAX NET FOR INTERNET SERVICES","CC":"SD","Users":16967,"Percent of CC Pop":0.11,"Percent of Internet":0.0004,"Samples":3753},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SD","Users":2639,"Percent of CC Pop":0.02,"Percent of Internet":0.0001,"Samples":520},
+{"rank":8,"AS":329344,"Description":"right advanced business co ltd - right advanced business co ltd","CC":"SD","Users":1629,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":51},
+{"rank":9,"AS":328824,"Description":"Lulu Tech Advanced Technology - Lulu Tech Advanced Technology","CC":"SD","Users":1531,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":186},
+{"rank":10,"AS":328586,"Description":"HORIZON IT SOLUTIONS LTD - HORIZON IT SOLUTIONS LTD","CC":"SD","Users":1237,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":26},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SD","Users":887,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":17}
   ]
 }

@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":7131,"Description":"PTIPACIFICAINC-AS-AP - PTI Pacifica Inc.","CC":"MP","Users":15831,"Percent of CC Pop":50.01,"Percent of Internet":0.0004,"Samples":45963},
-{"rank":2,"AS":3605,"Description":"ERX-KUENTOS-AS - Guam Cablevision, LLC.","CC":"MP","Users":8552,"Percent of CC Pop":27.01,"Percent of Internet":0.0002,"Samples":17853},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MP","Users":4012,"Percent of CC Pop":12.67,"Percent of Internet":0.0001,"Samples":5380},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MP","Users":367,"Percent of CC Pop":1.16,"Percent of Internet":0.0000,"Samples":15}
+{"rank":1,"AS":7131,"Description":"PTIPACIFICAINC-AS-AP - PTI Pacifica Inc.","CC":"MP","Users":16128,"Percent of CC Pop":50.95,"Percent of Internet":0.0004,"Samples":40816},
+{"rank":2,"AS":3605,"Description":"ERX-KUENTOS-AS - Guam Cablevision, LLC.","CC":"MP","Users":7168,"Percent of CC Pop":22.64,"Percent of Internet":0.0002,"Samples":10850},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MP","Users":5094,"Percent of CC Pop":16.09,"Percent of Internet":0.0001,"Samples":4385},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MP","Users":501,"Percent of CC Pop":1.58,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

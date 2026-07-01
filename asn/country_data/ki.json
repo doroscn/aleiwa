@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/05/2026",
+  "Date": "27/06/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KI","Users":18544,"Percent of CC Pop":96.21,"Percent of Internet":0.0004,"Samples":70522},
-{"rank":2,"AS":134783,"Description":"ATHKL-AS-AP - Amalgamated Telecom Holdings Kiribati Ltd","CC":"KI","Users":3727,"Percent of CC Pop":19.34,"Percent of Internet":0.0001,"Samples":14105},
-{"rank":3,"AS":132486,"Description":"OCEANLINKLTD-AS-AP - OCEAN LINK LTD","CC":"KI","Users":147,"Percent of CC Pop":0.76,"Percent of Internet":0.0000,"Samples":374},
-{"rank":4,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"KI","Users":60,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":66}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KI","Users":18664,"Percent of CC Pop":96.83,"Percent of Internet":0.0004,"Samples":68328},
+{"rank":2,"AS":134783,"Description":"ATHKL-AS-AP - Amalgamated Telecom Holdings Kiribati Ltd","CC":"KI","Users":3749,"Percent of CC Pop":19.45,"Percent of Internet":0.0001,"Samples":13575},
+{"rank":3,"AS":132486,"Description":"OCEANLINKLTD-AS-AP - OCEAN LINK LTD","CC":"KI","Users":151,"Percent of CC Pop":0.78,"Percent of Internet":0.0000,"Samples":339},
+{"rank":4,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"KI","Users":61,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":37}
   ]
 }
