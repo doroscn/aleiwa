@@ -60,12 +60,6 @@
     "index": 128
   },
   {
-    "country_id": "mx",
-    "checked_at": "2026-04-02T02:40:09Z",
-    "ip_availability_ratio%": 58.50,
-    "index": 130
-  },
-  {
     "country_id": "fm",
     "checked_at": "2026-04-02T08:52:23Z",
     "ip_availability_ratio%": 100.00,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-07-03T03:35:42Z",
     "ip_availability_ratio%": 100.00,
     "index": 129
+  },
+  {
+    "country_id": "mx",
+    "checked_at": "2026-07-03T10:31:24Z",
+    "ip_availability_ratio%": 56.67,
+    "index": 130
   }
 ]
