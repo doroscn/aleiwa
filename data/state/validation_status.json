@@ -60,12 +60,6 @@
     "index": 135
   },
   {
-    "country_id": "nc",
-    "checked_at": "2026-04-08T08:57:05Z",
-    "ip_availability_ratio%": 41.67,
-    "index": 143
-  },
-  {
     "country_id": "nz",
     "checked_at": "2026-04-08T17:11:38Z",
     "ip_availability_ratio%": 44.23,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-07-08T10:12:11Z",
     "ip_availability_ratio%": 60.65,
     "index": 142
+  },
+  {
+    "country_id": "nc",
+    "checked_at": "2026-07-08T17:22:06Z",
+    "ip_availability_ratio%": 33.33,
+    "index": 143
   }
 ]
