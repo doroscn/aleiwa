@@ -60,12 +60,6 @@
     "index": 135
   },
   {
-    "country_id": "nz",
-    "checked_at": "2026-04-08T17:11:38Z",
-    "ip_availability_ratio%": 44.23,
-    "index": 144
-  },
-  {
     "country_id": "ni",
     "checked_at": "2026-04-09T02:41:07Z",
     "ip_availability_ratio%": 80.56,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-07-08T17:22:06Z",
     "ip_availability_ratio%": 33.33,
     "index": 143
+  },
+  {
+    "country_id": "nz",
+    "checked_at": "2026-07-09T03:37:02Z",
+    "ip_availability_ratio%": 46.15,
+    "index": 144
   }
 ]
