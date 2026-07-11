@@ -78,12 +78,6 @@
     "index": 153
   },
   {
-    "country_id": "pa",
-    "checked_at": "2026-04-11T08:38:32Z",
-    "ip_availability_ratio%": 40.48,
-    "index": 154
-  },
-  {
     "country_id": "pg",
     "checked_at": "2026-04-11T16:29:20Z",
     "ip_availability_ratio%": 50.00,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-07-11T09:23:57Z",
     "ip_availability_ratio%": 42.86,
     "index": 152
+  },
+  {
+    "country_id": "pa",
+    "checked_at": "2026-07-11T16:46:23Z",
+    "ip_availability_ratio%": 42.86,
+    "index": 154
   }
 ]
