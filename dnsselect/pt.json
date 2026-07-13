@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:39Z",
     "created_at": "2020-11-22T11:37:45.487881Z",
     "available": true
   },
@@ -25,12 +25,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:39Z",
     "created_at": "2021-09-29T11:45:42.678372Z",
     "available": false
   },
   {
-    "ip": "185.51.92.18",
+    "ip": "185.51.92.94",
     "name": "",
     "as_number": 202170,
     "as_org": "BLU, S.A.",
@@ -40,12 +40,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:39Z",
     "created_at": "2021-10-01T16:13:25.4265Z",
     "available": true
   },
   {
-    "ip": "188.250.112.188",
+    "ip": "188.250.112.38",
     "name": "bl24-112-188.dsl.telepac.pt.",
     "as_number": 3243,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -55,9 +55,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:39Z",
     "created_at": "2021-10-01T23:04:11.589222Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "149.90.187.111",
@@ -70,12 +70,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:39Z",
     "created_at": "2021-10-01T23:14:33.681786Z",
     "available": false
   },
   {
-    "ip": "85.245.51.114",
+    "ip": "85.245.51.45",
     "name": "bl12-51-190.dsl.telepac.pt.",
     "as_number": 3243,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:39Z",
     "created_at": "2021-10-01T23:36:30.439158Z",
     "available": true
   },
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:39Z",
     "created_at": "2021-10-02T00:11:11.246321Z",
     "available": false
   },
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:39Z",
     "created_at": "2021-10-02T00:29:42.142562Z",
     "available": false
   },
@@ -130,12 +130,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:39Z",
     "created_at": "2021-10-02T16:42:58.290962Z",
     "available": false
   },
   {
-    "ip": "85.241.19.107",
+    "ip": "85.241.19.129",
     "name": "bl8-19-107.dsl.telepac.pt.",
     "as_number": 3243,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -145,9 +145,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:39Z",
     "created_at": "2021-10-02T16:51:50.078805Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "188.251.218.144",
@@ -160,12 +160,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2021-10-03T05:13:12.322501Z",
     "available": false
   },
   {
-    "ip": "185.51.92.18",
+    "ip": "185.51.92.94",
     "name": "",
     "as_number": 202170,
     "as_org": "BLU, S.A.",
@@ -175,12 +175,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2021-10-03T07:13:16.371412Z",
     "available": true
   },
   {
-    "ip": "185.51.92.18",
+    "ip": "185.51.92.94",
     "name": "",
     "as_number": 202170,
     "as_org": "BLU, S.A.",
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2021-10-18T11:52:47.150263Z",
     "available": true
   },
@@ -205,12 +205,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7338709677419355,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2022-04-03T01:11:25.816435Z",
     "available": false
   },
   {
-    "ip": "91.205.230.1",
+    "ip": "91.205.230.10",
     "name": "",
     "as_number": 203020,
     "as_org": "HostRoyale Technologies Pvt Ltd",
@@ -220,7 +220,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2022-08-18T02:52:21.459532Z",
     "available": true
   },
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2022-08-28T10:24:59.500492Z",
     "available": false
   },
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2022-08-28T10:27:53.67541Z",
     "available": false
   },
@@ -265,7 +265,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2022-08-28T10:47:26.394674Z",
     "available": true
   },
@@ -280,12 +280,12 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2022-09-03T02:33:17.498776Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "2.83.244.46",
+    "ip": "2.83.244.83",
     "name": "bl22-244-68.dsl.telepac.pt.",
     "as_number": 3243,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -295,7 +295,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2022-09-03T02:33:45.333397Z",
     "available": true
   },
@@ -310,7 +310,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2022-09-09T02:41:38.413104Z",
     "available": false
   },
@@ -325,7 +325,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:16Z",
+    "checked_at": "2026-07-13T17:49:40Z",
     "created_at": "2022-09-09T07:58:52.214393Z",
     "available": false
   },
@@ -340,7 +340,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:19Z",
+    "checked_at": "2026-07-13T17:49:55Z",
     "created_at": "2022-09-09T08:00:58.936056Z",
     "available": true
   },
@@ -355,7 +355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:19Z",
+    "checked_at": "2026-07-13T17:49:55Z",
     "created_at": "2022-09-10T09:48:52.294551Z",
     "available": false
   },
@@ -370,7 +370,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6956521739130435,
-    "checked_at": "2026-04-13T08:11:19Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-09-11T12:42:19.14029Z",
     "available": false
   },
@@ -385,7 +385,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:33Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-09-11T12:43:48.280077Z",
     "available": true
   },
@@ -400,9 +400,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:34Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-09-11T12:43:50.205783Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "5.249.101.101",
@@ -415,7 +415,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9398907103825137,
-    "checked_at": "2026-04-13T08:11:34Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-09-11T12:43:50.975175Z",
     "available": false
   },
@@ -430,7 +430,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:34Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-09-11T12:44:14.252636Z",
     "available": true
   },
@@ -445,9 +445,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-09-11T12:44:18.350197Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "195.23.211.12",
@@ -460,7 +460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-09-29T12:13:32.617568Z",
     "available": false
   },
@@ -475,9 +475,9 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-10-01T13:45:02.635708Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.133.108.192",
@@ -490,7 +490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.23076923076923078,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-10-02T13:18:32.01468Z",
     "available": false
   },
@@ -505,7 +505,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-10-03T01:59:24.387186Z",
     "available": true
   },
@@ -520,7 +520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-10-03T02:39:28.795153Z",
     "available": true
   },
@@ -535,12 +535,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-10-03T23:14:34.248013Z",
     "available": true
   },
   {
-    "ip": "88.214.189.101",
+    "ip": "88.214.189.126",
     "name": "",
     "as_number": 42863,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -550,7 +550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:56Z",
     "created_at": "2022-10-04T07:05:33.915166Z",
     "available": true
   },
@@ -565,7 +565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:57Z",
     "created_at": "2022-10-11T22:00:41.287622Z",
     "available": false
   },
@@ -580,7 +580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:57Z",
     "created_at": "2022-10-12T23:26:46.225448Z",
     "available": false
   },
@@ -595,7 +595,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:57Z",
     "created_at": "2022-10-13T18:05:14.341757Z",
     "available": false
   },
@@ -610,7 +610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:57Z",
     "created_at": "2022-10-16T10:37:27.418837Z",
     "available": false
   },
@@ -625,7 +625,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:35Z",
+    "checked_at": "2026-07-13T17:49:57Z",
     "created_at": "2022-10-20T07:17:40.252648Z",
     "available": false
   },
@@ -640,12 +640,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:36Z",
+    "checked_at": "2026-07-13T17:49:57Z",
     "created_at": "2022-10-23T00:03:42.633148Z",
     "available": true
   },
   {
-    "ip": "62.28.102.188",
+    "ip": "62.28.102.208",
     "name": "",
     "as_number": 15525,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -655,7 +655,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.5,
-    "checked_at": "2026-04-13T08:11:36Z",
+    "checked_at": "2026-07-13T17:49:57Z",
     "created_at": "2022-10-27T23:52:21.270181Z",
     "available": true
   },
@@ -670,7 +670,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:37Z",
+    "checked_at": "2026-07-13T17:49:57Z",
     "created_at": "2022-10-28T17:13:59.130753Z",
     "available": true
   },
@@ -685,7 +685,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:37Z",
+    "checked_at": "2026-07-13T17:49:57Z",
     "created_at": "2022-10-29T13:59:12.437298Z",
     "available": false
   },
@@ -700,9 +700,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9963636363636363,
-    "checked_at": "2026-04-13T08:11:37Z",
+    "checked_at": "2026-07-13T17:49:58Z",
     "created_at": "2022-11-16T04:41:25.359693Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "62.28.209.38",
@@ -715,9 +715,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:38Z",
+    "checked_at": "2026-07-13T17:49:59Z",
     "created_at": "2022-12-03T14:54:56.133834Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "62.28.205.170",
@@ -730,7 +730,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6521739130434783,
-    "checked_at": "2026-04-13T08:11:38Z",
+    "checked_at": "2026-07-13T17:49:59Z",
     "created_at": "2022-12-19T13:52:07.20659Z",
     "available": true
   },
@@ -745,7 +745,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.4342105263157895,
-    "checked_at": "2026-04-13T08:11:38Z",
+    "checked_at": "2026-07-13T17:50:00Z",
     "created_at": "2022-12-22T17:04:42.895644Z",
     "available": true
   },
@@ -760,7 +760,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:39Z",
+    "checked_at": "2026-07-13T17:50:00Z",
     "created_at": "2022-12-24T15:54:55.920577Z",
     "available": false
   },
@@ -775,7 +775,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:39Z",
+    "checked_at": "2026-07-13T17:50:00Z",
     "created_at": "2022-12-27T04:49:56.054829Z",
     "available": false
   },
@@ -790,7 +790,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6791044776119403,
-    "checked_at": "2026-04-13T08:11:39Z",
+    "checked_at": "2026-07-13T17:50:09Z",
     "created_at": "2022-12-27T08:23:16.087017Z",
     "available": true
   },
@@ -805,7 +805,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8881118881118881,
-    "checked_at": "2026-04-13T08:11:42Z",
+    "checked_at": "2026-07-13T17:50:11Z",
     "created_at": "2023-01-01T11:24:50.800346Z",
     "available": true
   },
@@ -820,7 +820,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:50Z",
+    "checked_at": "2026-07-13T17:50:11Z",
     "created_at": "2023-03-01T06:04:19.416946Z",
     "available": true
   },
@@ -835,7 +835,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.225,
-    "checked_at": "2026-04-13T08:11:51Z",
+    "checked_at": "2026-07-13T17:50:11Z",
     "created_at": "2023-03-01T10:25:42.821706Z",
     "available": false
   },
@@ -850,12 +850,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:52Z",
+    "checked_at": "2026-07-13T17:50:12Z",
     "created_at": "2023-03-02T17:38:49.190291Z",
     "available": false
   },
   {
-    "ip": "89.181.32.232",
+    "ip": "89.181.32.133",
     "name": "89-181-32-114.net.novis.pt.",
     "as_number": 2860,
     "as_org": "Nos Comunicacoes, S.A.",
@@ -865,7 +865,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:52Z",
+    "checked_at": "2026-07-13T17:50:12Z",
     "created_at": "2023-03-03T15:18:50.848768Z",
     "available": true
   },
@@ -880,7 +880,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:53Z",
+    "checked_at": "2026-07-13T17:50:12Z",
     "created_at": "2023-03-03T21:44:16.291539Z",
     "available": true
   },
@@ -895,7 +895,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.5967741935483871,
-    "checked_at": "2026-04-13T08:11:53Z",
+    "checked_at": "2026-07-13T17:50:12Z",
     "created_at": "2023-03-05T17:15:59.854138Z",
     "available": false
   },
@@ -910,7 +910,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9130434782608695,
-    "checked_at": "2026-04-13T08:11:53Z",
+    "checked_at": "2026-07-13T17:50:12Z",
     "created_at": "2023-03-09T12:19:35.307252Z",
     "available": true
   },
@@ -925,7 +925,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7,
-    "checked_at": "2026-04-13T08:11:53Z",
+    "checked_at": "2026-07-13T17:50:12Z",
     "created_at": "2023-03-11T16:07:24.83405Z",
     "available": false
   },
@@ -940,7 +940,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:53Z",
+    "checked_at": "2026-07-13T17:50:12Z",
     "created_at": "2023-03-13T00:46:16.412735Z",
     "available": true
   },
@@ -955,7 +955,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:53Z",
+    "checked_at": "2026-07-13T17:50:12Z",
     "created_at": "2023-03-13T01:11:45.508234Z",
     "available": true
   },
@@ -970,9 +970,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:53Z",
+    "checked_at": "2026-07-13T17:50:12Z",
     "created_at": "2023-03-13T01:59:48.46134Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "88.214.176.181",
@@ -985,7 +985,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8695652173913043,
-    "checked_at": "2026-04-13T08:11:53Z",
+    "checked_at": "2026-07-13T17:50:13Z",
     "created_at": "2023-03-13T02:01:07.473536Z",
     "available": true
   },
@@ -1000,7 +1000,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:53Z",
+    "checked_at": "2026-07-13T17:50:13Z",
     "created_at": "2023-03-13T03:06:33.998935Z",
     "available": true
   },
@@ -1015,7 +1015,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:53Z",
+    "checked_at": "2026-07-13T17:50:13Z",
     "created_at": "2023-03-13T03:17:02.371387Z",
     "available": false
   },
@@ -1030,7 +1030,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:54Z",
+    "checked_at": "2026-07-13T17:50:13Z",
     "created_at": "2023-03-13T03:17:06.29915Z",
     "available": true
   },
@@ -1045,7 +1045,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:54Z",
+    "checked_at": "2026-07-13T17:50:13Z",
     "created_at": "2023-03-13T03:19:23.693695Z",
     "available": false
   },
@@ -1060,7 +1060,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:54Z",
+    "checked_at": "2026-07-13T17:50:13Z",
     "created_at": "2023-03-13T03:40:01.215191Z",
     "available": true
   },
@@ -1075,7 +1075,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:55Z",
+    "checked_at": "2026-07-13T17:50:13Z",
     "created_at": "2023-03-13T03:50:22.952108Z",
     "available": false
   },
@@ -1090,7 +1090,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:55Z",
+    "checked_at": "2026-07-13T17:50:13Z",
     "created_at": "2023-03-13T04:06:05.524509Z",
     "available": false
   },
@@ -1105,7 +1105,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:56Z",
+    "checked_at": "2026-07-13T17:50:13Z",
     "created_at": "2023-03-13T04:19:13.842678Z",
     "available": true
   },
@@ -1120,7 +1120,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:56Z",
+    "checked_at": "2026-07-13T17:50:14Z",
     "created_at": "2023-03-13T04:40:52.94751Z",
     "available": false
   },
@@ -1135,7 +1135,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.875,
-    "checked_at": "2026-04-13T08:11:57Z",
+    "checked_at": "2026-07-13T17:50:14Z",
     "created_at": "2023-03-13T05:05:01.249326Z",
     "available": true
   },
@@ -1150,7 +1150,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:58Z",
+    "checked_at": "2026-07-13T17:50:14Z",
     "created_at": "2023-03-13T05:07:44.967469Z",
     "available": false
   },
@@ -1165,12 +1165,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:11:59Z",
+    "checked_at": "2026-07-13T17:50:14Z",
     "created_at": "2023-03-13T05:53:24.690603Z",
     "available": false
   },
   {
-    "ip": "87.103.13.190",
+    "ip": "87.103.13.121",
     "name": "136.13.103.87.rev.vodafone.pt.",
     "as_number": 12353,
     "as_org": "Vodafone Portugal - Communicacoes Pessoais S.A.",
@@ -1180,7 +1180,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:06Z",
+    "checked_at": "2026-07-13T17:50:14Z",
     "created_at": "2023-03-13T06:59:34.542733Z",
     "available": true
   },
@@ -1195,7 +1195,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:06Z",
+    "checked_at": "2026-07-13T17:50:16Z",
     "created_at": "2023-03-13T07:02:27.737378Z",
     "available": true
   },
@@ -1210,7 +1210,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:08Z",
+    "checked_at": "2026-07-13T17:50:16Z",
     "created_at": "2023-03-13T07:57:18.840986Z",
     "available": false
   },
@@ -1225,7 +1225,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:09Z",
+    "checked_at": "2026-07-13T17:50:16Z",
     "created_at": "2023-03-13T07:59:07.950861Z",
     "available": true
   },
@@ -1240,12 +1240,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:10Z",
+    "checked_at": "2026-07-13T17:50:16Z",
     "created_at": "2023-03-13T07:59:12.31744Z",
     "available": true
   },
   {
-    "ip": "78.130.51.193",
+    "ip": "78.130.51.134",
     "name": "78.130.51.53.rev.optimus.pt.",
     "as_number": 2860,
     "as_org": "Nos Comunicacoes, S.A.",
@@ -1255,7 +1255,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:10Z",
+    "checked_at": "2026-07-13T17:50:16Z",
     "created_at": "2023-03-13T08:20:58.747228Z",
     "available": true
   },
@@ -1270,7 +1270,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:10Z",
+    "checked_at": "2026-07-13T17:50:17Z",
     "created_at": "2023-03-13T09:23:55.957989Z",
     "available": false
   },
@@ -1285,7 +1285,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8888888888888888,
-    "checked_at": "2026-04-13T08:12:10Z",
+    "checked_at": "2026-07-13T17:50:17Z",
     "created_at": "2023-03-13T09:26:22.441617Z",
     "available": true
   },
@@ -1300,7 +1300,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:10Z",
+    "checked_at": "2026-07-13T17:50:19Z",
     "created_at": "2023-03-13T10:44:22.298724Z",
     "available": false
   },
@@ -1315,7 +1315,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:11Z",
+    "checked_at": "2026-07-13T17:50:19Z",
     "created_at": "2023-03-13T12:01:25.971393Z",
     "available": false
   },
@@ -1330,7 +1330,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:11Z",
+    "checked_at": "2026-07-13T17:50:20Z",
     "created_at": "2023-03-13T12:02:53.089059Z",
     "available": true
   },
@@ -1345,7 +1345,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:11Z",
+    "checked_at": "2026-07-13T17:50:21Z",
     "created_at": "2023-03-13T12:15:21.975503Z",
     "available": true
   },
@@ -1360,7 +1360,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:11Z",
+    "checked_at": "2026-07-13T17:50:25Z",
     "created_at": "2023-03-13T12:35:06.772022Z",
     "available": true
   },
@@ -1375,7 +1375,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:11Z",
+    "checked_at": "2026-07-13T17:50:25Z",
     "created_at": "2023-03-13T13:58:22.781207Z",
     "available": false
   },
@@ -1390,7 +1390,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:11Z",
+    "checked_at": "2026-07-13T17:50:26Z",
     "created_at": "2023-03-13T14:16:54.455151Z",
     "available": true
   },
@@ -1405,7 +1405,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:12Z",
+    "checked_at": "2026-07-13T17:50:26Z",
     "created_at": "2023-03-13T14:54:53.230754Z",
     "available": false
   },
@@ -1420,7 +1420,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:12Z",
+    "checked_at": "2026-07-13T17:50:26Z",
     "created_at": "2023-03-13T15:21:24.194608Z",
     "available": true
   },
@@ -1435,9 +1435,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:12Z",
+    "checked_at": "2026-07-13T17:50:27Z",
     "created_at": "2023-03-13T15:23:09.402191Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "188.81.200.133",
@@ -1450,7 +1450,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:12Z",
+    "checked_at": "2026-07-13T17:50:27Z",
     "created_at": "2023-03-13T15:42:29.530916Z",
     "available": true
   },
@@ -1465,7 +1465,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:12Z",
+    "checked_at": "2026-07-13T17:50:27Z",
     "created_at": "2023-03-13T15:58:45.579387Z",
     "available": true
   },
@@ -1480,7 +1480,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:13Z",
+    "checked_at": "2026-07-13T17:50:27Z",
     "created_at": "2023-03-13T16:33:10.625121Z",
     "available": true
   },
@@ -1495,7 +1495,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:13Z",
+    "checked_at": "2026-07-13T17:50:28Z",
     "created_at": "2023-03-13T16:43:13.432393Z",
     "available": false
   },
@@ -1510,7 +1510,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:14Z",
+    "checked_at": "2026-07-13T17:50:28Z",
     "created_at": "2023-03-13T16:53:44.370576Z",
     "available": false
   },
@@ -1525,7 +1525,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:14Z",
+    "checked_at": "2026-07-13T17:50:28Z",
     "created_at": "2023-03-13T17:27:57.126691Z",
     "available": false
   },
@@ -1540,7 +1540,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:15Z",
+    "checked_at": "2026-07-13T17:50:28Z",
     "created_at": "2023-03-13T18:51:49.984161Z",
     "available": true
   },
@@ -1555,9 +1555,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:15Z",
+    "checked_at": "2026-07-13T17:50:28Z",
     "created_at": "2023-03-13T18:55:20.104546Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "95.94.238.151",
@@ -1570,7 +1570,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:16Z",
+    "checked_at": "2026-07-13T17:50:28Z",
     "created_at": "2023-03-13T19:28:18.643168Z",
     "available": false
   },
@@ -1585,7 +1585,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:16Z",
+    "checked_at": "2026-07-13T17:50:28Z",
     "created_at": "2023-03-13T20:25:44.022124Z",
     "available": true
   },
@@ -1600,12 +1600,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:16Z",
+    "checked_at": "2026-07-13T17:50:29Z",
     "created_at": "2023-03-13T20:33:47.634824Z",
     "available": false
   },
   {
-    "ip": "89.214.97.127",
+    "ip": "89.214.97.181",
     "name": "",
     "as_number": 42863,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -1615,12 +1615,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:16Z",
+    "checked_at": "2026-07-13T17:50:29Z",
     "created_at": "2023-03-13T21:19:08.826879Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "89.115.242.195",
+    "ip": "89.115.242.130",
     "name": "195.242.115.89.rev.vodafone.pt.",
     "as_number": 12353,
     "as_org": "Vodafone Portugal - Communicacoes Pessoais S.A.",
@@ -1630,7 +1630,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:16Z",
+    "checked_at": "2026-07-13T17:50:29Z",
     "created_at": "2023-03-13T21:46:35.785143Z",
     "available": true
   },
@@ -1645,9 +1645,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:18Z",
+    "checked_at": "2026-07-13T17:50:30Z",
     "created_at": "2023-03-13T23:45:16.775026Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.133.87.255",
@@ -1660,7 +1660,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:20Z",
+    "checked_at": "2026-07-13T17:50:30Z",
     "created_at": "2023-03-13T23:46:53.067173Z",
     "available": false
   },
@@ -1675,7 +1675,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:20Z",
+    "checked_at": "2026-07-13T17:50:30Z",
     "created_at": "2023-03-14T00:13:55.345839Z",
     "available": false
   },
@@ -1690,7 +1690,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:20Z",
+    "checked_at": "2026-07-13T17:50:30Z",
     "created_at": "2023-03-14T00:16:10.184254Z",
     "available": true
   },
@@ -1705,12 +1705,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:24Z",
+    "checked_at": "2026-07-13T17:50:30Z",
     "created_at": "2023-03-14T01:06:03.692955Z",
     "available": true
   },
   {
-    "ip": "62.28.250.118",
+    "ip": "62.28.250.156",
     "name": "",
     "as_number": 15525,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -1720,7 +1720,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:24Z",
+    "checked_at": "2026-07-13T17:50:30Z",
     "created_at": "2023-03-14T01:52:24.435403Z",
     "available": true
   },
@@ -1735,7 +1735,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.43137254901960786,
-    "checked_at": "2026-04-13T08:12:24Z",
+    "checked_at": "2026-07-13T17:50:30Z",
     "created_at": "2023-03-14T02:13:45.884105Z",
     "available": false
   },
@@ -1750,7 +1750,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:24Z",
+    "checked_at": "2026-07-13T17:50:32Z",
     "created_at": "2023-03-14T02:43:44.811856Z",
     "available": false
   },
@@ -1765,7 +1765,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:24Z",
+    "checked_at": "2026-07-13T17:50:32Z",
     "created_at": "2023-03-14T03:03:22.586994Z",
     "available": true
   },
@@ -1780,7 +1780,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:25Z",
+    "checked_at": "2026-07-13T17:50:33Z",
     "created_at": "2023-03-14T03:34:25.849271Z",
     "available": false
   },
@@ -1795,12 +1795,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:26Z",
+    "checked_at": "2026-07-13T17:50:33Z",
     "created_at": "2023-03-14T03:49:56.360004Z",
     "available": false
   },
   {
-    "ip": "85.242.208.143",
+    "ip": "85.242.208.109",
     "name": "bl9-208-15.dsl.telepac.pt.",
     "as_number": 3243,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -1810,7 +1810,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:26Z",
+    "checked_at": "2026-07-13T17:50:34Z",
     "created_at": "2023-03-14T03:50:37.155049Z",
     "available": true
   },
@@ -1825,12 +1825,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9154929577464789,
-    "checked_at": "2026-04-13T08:12:27Z",
+    "checked_at": "2026-07-13T17:50:38Z",
     "created_at": "2023-03-14T04:03:51.614192Z",
     "available": true
   },
   {
-    "ip": "62.28.190.34",
+    "ip": "62.28.190.242",
     "name": "static-wan-bl3-190-146.rev.webside.pt.",
     "as_number": 15525,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -1840,9 +1840,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:27Z",
+    "checked_at": "2026-07-13T17:50:39Z",
     "created_at": "2023-03-14T04:41:37.350129Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "148.71.221.203",
@@ -1855,7 +1855,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:27Z",
+    "checked_at": "2026-07-13T17:50:40Z",
     "created_at": "2023-03-14T04:53:54.925634Z",
     "available": false
   },
@@ -1870,7 +1870,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:27Z",
+    "checked_at": "2026-07-13T17:50:41Z",
     "created_at": "2023-03-14T05:02:39.682225Z",
     "available": true
   },
@@ -1885,7 +1885,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:28Z",
+    "checked_at": "2026-07-13T17:50:41Z",
     "created_at": "2023-03-14T05:39:37.969875Z",
     "available": false
   },
@@ -1900,7 +1900,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:28Z",
+    "checked_at": "2026-07-13T17:50:41Z",
     "created_at": "2023-03-14T06:32:53.813417Z",
     "available": false
   },
@@ -1915,7 +1915,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:29Z",
+    "checked_at": "2026-07-13T17:50:41Z",
     "created_at": "2023-03-14T07:10:19.35574Z",
     "available": true
   },
@@ -1930,7 +1930,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:29Z",
+    "checked_at": "2026-07-13T17:50:41Z",
     "created_at": "2023-03-14T07:59:52.381374Z",
     "available": false
   },
@@ -1945,12 +1945,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:29Z",
+    "checked_at": "2026-07-13T17:50:42Z",
     "created_at": "2023-03-14T08:12:19.792237Z",
     "available": true
   },
   {
-    "ip": "88.210.68.17",
+    "ip": "88.210.68.27",
     "name": "88.210.68.30.rev.optimus.pt.",
     "as_number": 2860,
     "as_org": "Nos Comunicacoes, S.A.",
@@ -1960,7 +1960,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:30Z",
+    "checked_at": "2026-07-13T17:50:42Z",
     "created_at": "2023-03-14T08:16:52.017749Z",
     "available": true
   },
@@ -1975,7 +1975,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2026-04-13T08:12:30Z",
+    "checked_at": "2026-07-13T17:50:43Z",
     "created_at": "2023-03-14T08:21:43.734778Z",
     "available": false
   },
@@ -1990,7 +1990,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:30Z",
+    "checked_at": "2026-07-13T17:50:43Z",
     "created_at": "2023-03-14T08:29:40.890412Z",
     "available": false
   },
@@ -2005,12 +2005,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2026-04-13T08:12:30Z",
+    "checked_at": "2026-07-13T17:50:43Z",
     "created_at": "2023-03-14T08:43:52.084006Z",
     "available": false
   },
   {
-    "ip": "88.210.125.204",
+    "ip": "88.210.125.130",
     "name": "88-210-125-204.net.static.novis.pt.",
     "as_number": 2860,
     "as_org": "Nos Comunicacoes, S.A.",
@@ -2020,7 +2020,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2026-04-13T08:12:31Z",
+    "checked_at": "2026-07-13T17:50:43Z",
     "created_at": "2023-03-14T09:08:49.756868Z",
     "available": true
   },
@@ -2035,7 +2035,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:32Z",
+    "checked_at": "2026-07-13T17:50:44Z",
     "created_at": "2023-03-14T09:51:28.257309Z",
     "available": true
   },
@@ -2050,7 +2050,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:33Z",
+    "checked_at": "2026-07-13T17:50:44Z",
     "created_at": "2023-03-14T09:59:20.182716Z",
     "available": true
   },
@@ -2065,7 +2065,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:34Z",
+    "checked_at": "2026-07-13T17:50:44Z",
     "created_at": "2023-03-14T10:43:47.771384Z",
     "available": true
   },
@@ -2080,7 +2080,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8571428571428571,
-    "checked_at": "2026-04-13T08:12:35Z",
+    "checked_at": "2026-07-13T17:50:44Z",
     "created_at": "2023-03-14T11:13:23.194325Z",
     "available": true
   },
@@ -2095,7 +2095,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:35Z",
+    "checked_at": "2026-07-13T17:50:45Z",
     "created_at": "2023-03-14T11:17:30.219517Z",
     "available": true
   },
@@ -2110,7 +2110,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:36Z",
+    "checked_at": "2026-07-13T17:50:45Z",
     "created_at": "2023-03-14T11:38:44.647844Z",
     "available": true
   },
@@ -2125,7 +2125,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:36Z",
+    "checked_at": "2026-07-13T17:50:45Z",
     "created_at": "2023-03-14T11:53:49.703074Z",
     "available": false
   },
@@ -2140,7 +2140,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:40Z",
+    "checked_at": "2026-07-13T17:50:45Z",
     "created_at": "2023-03-14T11:54:10.934733Z",
     "available": true
   },
@@ -2155,7 +2155,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:40Z",
+    "checked_at": "2026-07-13T17:50:45Z",
     "created_at": "2023-03-14T12:04:06.221774Z",
     "available": false
   },
@@ -2170,9 +2170,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:41Z",
+    "checked_at": "2026-07-13T17:50:46Z",
     "created_at": "2023-03-14T12:11:21.031768Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.133.11.24",
@@ -2185,7 +2185,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.4,
-    "checked_at": "2026-04-13T08:12:41Z",
+    "checked_at": "2026-07-13T17:50:47Z",
     "created_at": "2023-03-14T12:19:28.477156Z",
     "available": false
   },
@@ -2200,7 +2200,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:41Z",
+    "checked_at": "2026-07-13T17:50:47Z",
     "created_at": "2023-03-14T12:32:20.949985Z",
     "available": false
   },
@@ -2215,7 +2215,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:41Z",
+    "checked_at": "2026-07-13T17:50:47Z",
     "created_at": "2023-03-14T14:07:36.99777Z",
     "available": true
   },
@@ -2230,7 +2230,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6666666666666666,
-    "checked_at": "2026-04-13T08:12:41Z",
+    "checked_at": "2026-07-13T17:50:48Z",
     "created_at": "2023-03-14T15:10:02.279243Z",
     "available": false
   },
@@ -2245,7 +2245,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:42Z",
+    "checked_at": "2026-07-13T17:50:48Z",
     "created_at": "2023-03-14T15:19:06.270805Z",
     "available": true
   },
@@ -2260,7 +2260,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:42Z",
+    "checked_at": "2026-07-13T17:50:48Z",
     "created_at": "2023-03-14T15:43:05.692755Z",
     "available": false
   },
@@ -2275,7 +2275,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:42Z",
+    "checked_at": "2026-07-13T17:50:48Z",
     "created_at": "2023-03-14T15:52:20.261434Z",
     "available": false
   },
@@ -2290,7 +2290,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:42Z",
+    "checked_at": "2026-07-13T17:50:48Z",
     "created_at": "2023-03-14T15:54:46.025012Z",
     "available": false
   },
@@ -2305,7 +2305,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:43Z",
+    "checked_at": "2026-07-13T17:50:49Z",
     "created_at": "2023-03-14T16:03:47.339988Z",
     "available": true
   },
@@ -2320,7 +2320,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:44Z",
+    "checked_at": "2026-07-13T17:50:49Z",
     "created_at": "2023-03-14T16:11:53.72039Z",
     "available": false
   },
@@ -2335,7 +2335,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:44Z",
+    "checked_at": "2026-07-13T17:50:52Z",
     "created_at": "2023-03-14T16:11:59.95797Z",
     "available": true
   },
@@ -2350,7 +2350,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.8333333333333334,
-    "checked_at": "2026-04-13T08:12:44Z",
+    "checked_at": "2026-07-13T17:50:52Z",
     "created_at": "2023-03-14T17:38:57.143824Z",
     "available": false
   },
@@ -2365,7 +2365,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:44Z",
+    "checked_at": "2026-07-13T17:50:53Z",
     "created_at": "2023-03-14T18:02:01.352815Z",
     "available": false
   },
@@ -2380,7 +2380,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:45Z",
+    "checked_at": "2026-07-13T17:50:55Z",
     "created_at": "2023-03-14T18:44:33.586061Z",
     "available": true
   },
@@ -2395,7 +2395,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:45Z",
+    "checked_at": "2026-07-13T17:50:55Z",
     "created_at": "2023-03-14T19:38:58.662583Z",
     "available": true
   },
@@ -2410,7 +2410,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:46Z",
+    "checked_at": "2026-07-13T17:50:56Z",
     "created_at": "2023-03-14T19:43:31.032289Z",
     "available": true
   },
@@ -2425,7 +2425,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:47Z",
+    "checked_at": "2026-07-13T17:50:56Z",
     "created_at": "2023-03-14T19:53:11.419028Z",
     "available": false
   },
@@ -2440,7 +2440,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:47Z",
+    "checked_at": "2026-07-13T17:50:56Z",
     "created_at": "2023-03-14T21:34:55.990433Z",
     "available": false
   },
@@ -2455,7 +2455,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:47Z",
+    "checked_at": "2026-07-13T17:50:56Z",
     "created_at": "2023-03-14T21:45:41.81908Z",
     "available": false
   },
@@ -2470,12 +2470,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:48Z",
+    "checked_at": "2026-07-13T17:50:57Z",
     "created_at": "2023-03-14T22:00:21.268967Z",
     "available": true
   },
   {
-    "ip": "89.214.217.4",
+    "ip": "89.214.217.94",
     "name": "",
     "as_number": 42863,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -2485,7 +2485,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:48Z",
+    "checked_at": "2026-07-13T17:50:57Z",
     "created_at": "2023-03-14T22:07:11.197486Z",
     "available": true
   },
@@ -2500,7 +2500,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:48Z",
+    "checked_at": "2026-07-13T17:50:57Z",
     "created_at": "2023-03-14T23:03:18.493004Z",
     "available": true
   },
@@ -2515,7 +2515,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:51Z",
+    "checked_at": "2026-07-13T17:50:57Z",
     "created_at": "2023-03-14T23:13:03.55342Z",
     "available": true
   },
@@ -2530,12 +2530,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:52Z",
+    "checked_at": "2026-07-13T17:50:58Z",
     "created_at": "2023-03-14T23:21:08.735001Z",
     "available": true
   },
   {
-    "ip": "88.214.176.168",
+    "ip": "88.214.176.181",
     "name": "",
     "as_number": 42863,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -2545,7 +2545,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:56Z",
+    "checked_at": "2026-07-13T17:50:58Z",
     "created_at": "2023-03-14T23:49:32.882109Z",
     "available": true
   },
@@ -2560,7 +2560,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:57Z",
+    "checked_at": "2026-07-13T17:50:58Z",
     "created_at": "2023-03-15T00:13:22.475232Z",
     "available": false
   },
@@ -2575,9 +2575,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:57Z",
+    "checked_at": "2026-07-13T17:50:58Z",
     "created_at": "2023-03-15T00:19:05.744051Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "94.46.175.93",
@@ -2590,7 +2590,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:57Z",
+    "checked_at": "2026-07-13T17:50:59Z",
     "created_at": "2023-03-15T01:15:09.307225Z",
     "available": true
   },
@@ -2605,7 +2605,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:57Z",
+    "checked_at": "2026-07-13T17:50:59Z",
     "created_at": "2023-03-15T01:16:03.807009Z",
     "available": false
   },
@@ -2620,7 +2620,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:57Z",
+    "checked_at": "2026-07-13T17:50:59Z",
     "created_at": "2023-03-15T03:53:46.954071Z",
     "available": false
   },
@@ -2635,7 +2635,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:57Z",
+    "checked_at": "2026-07-13T17:51:00Z",
     "created_at": "2023-03-15T04:10:59.011995Z",
     "available": false
   },
@@ -2650,7 +2650,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:58Z",
+    "checked_at": "2026-07-13T17:51:00Z",
     "created_at": "2023-03-15T05:18:25.450703Z",
     "available": false
   },
@@ -2665,7 +2665,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:58Z",
+    "checked_at": "2026-07-13T17:51:01Z",
     "created_at": "2023-03-15T05:19:29.405254Z",
     "available": true
   },
@@ -2680,7 +2680,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:58Z",
+    "checked_at": "2026-07-13T17:51:01Z",
     "created_at": "2023-03-15T05:27:06.039635Z",
     "available": true
   },
@@ -2695,7 +2695,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8389830508474576,
-    "checked_at": "2026-04-13T08:12:58Z",
+    "checked_at": "2026-07-13T17:51:01Z",
     "created_at": "2023-03-15T06:12:51.063665Z",
     "available": false
   },
@@ -2710,7 +2710,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:58Z",
+    "checked_at": "2026-07-13T17:51:02Z",
     "created_at": "2023-03-15T07:19:12.467785Z",
     "available": true
   },
@@ -2725,7 +2725,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2026-04-13T08:12:59Z",
+    "checked_at": "2026-07-13T17:51:02Z",
     "created_at": "2023-03-15T07:29:12.68707Z",
     "available": true
   },
@@ -2740,9 +2740,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:12:59Z",
+    "checked_at": "2026-07-13T17:51:02Z",
     "created_at": "2023-03-15T08:10:33.598395Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "88.157.90.21",
@@ -2755,7 +2755,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:00Z",
+    "checked_at": "2026-07-13T17:51:02Z",
     "created_at": "2023-03-15T08:26:57.311289Z",
     "available": true
   },
@@ -2770,7 +2770,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9090909090909091,
-    "checked_at": "2026-04-13T08:13:00Z",
+    "checked_at": "2026-07-13T17:51:02Z",
     "created_at": "2023-03-15T08:49:04.6406Z",
     "available": false
   },
@@ -2785,7 +2785,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:00Z",
+    "checked_at": "2026-07-13T17:51:02Z",
     "created_at": "2023-03-15T08:54:14.848592Z",
     "available": true
   },
@@ -2800,12 +2800,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9838709677419355,
-    "checked_at": "2026-04-13T08:13:01Z",
+    "checked_at": "2026-07-13T17:51:02Z",
     "created_at": "2023-03-15T09:41:11.679065Z",
     "available": false
   },
   {
-    "ip": "62.28.181.50",
+    "ip": "62.28.181.242",
     "name": "static-wan-bl3-181-242.rev.webside.pt.",
     "as_number": 15525,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -2815,9 +2815,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:01Z",
+    "checked_at": "2026-07-13T17:51:03Z",
     "created_at": "2023-03-15T10:01:08.004013Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "88.157.188.43",
@@ -2830,7 +2830,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9838709677419355,
-    "checked_at": "2026-04-13T08:13:02Z",
+    "checked_at": "2026-07-13T17:51:04Z",
     "created_at": "2023-03-15T10:47:07.679664Z",
     "available": false
   },
@@ -2845,7 +2845,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:03Z",
+    "checked_at": "2026-07-13T17:51:05Z",
     "created_at": "2023-03-15T10:49:35.452354Z",
     "available": false
   },
@@ -2860,7 +2860,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:03Z",
+    "checked_at": "2026-07-13T17:51:05Z",
     "created_at": "2023-03-15T11:31:07.97799Z",
     "available": true
   },
@@ -2875,7 +2875,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9655172413793104,
-    "checked_at": "2026-04-13T08:13:03Z",
+    "checked_at": "2026-07-13T17:51:06Z",
     "created_at": "2023-03-15T13:24:44.85548Z",
     "available": false
   },
@@ -2890,12 +2890,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:03Z",
+    "checked_at": "2026-07-13T17:51:07Z",
     "created_at": "2023-03-15T13:37:32.548129Z",
     "available": true
   },
   {
-    "ip": "89.214.54.178",
+    "ip": "89.214.54.141",
     "name": "",
     "as_number": 42863,
     "as_org": "Servicos De Comunicacoes E Multimedia S.A.",
@@ -2905,9 +2905,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9130434782608695,
-    "checked_at": "2026-04-13T08:13:04Z",
+    "checked_at": "2026-07-13T17:51:08Z",
     "created_at": "2023-03-15T14:01:24.945991Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "89.109.123.91",
@@ -2920,7 +2920,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:04Z",
+    "checked_at": "2026-07-13T17:51:08Z",
     "created_at": "2023-03-15T14:16:40.098707Z",
     "available": false
   },
@@ -2935,7 +2935,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:04Z",
+    "checked_at": "2026-07-13T17:51:10Z",
     "created_at": "2023-03-15T17:53:14.162902Z",
     "available": false
   },
@@ -2950,7 +2950,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:05Z",
+    "checked_at": "2026-07-13T17:51:11Z",
     "created_at": "2023-03-15T19:20:53.571156Z",
     "available": false
   },
@@ -2965,7 +2965,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:06Z",
+    "checked_at": "2026-07-13T17:51:11Z",
     "created_at": "2023-03-15T22:11:52.860152Z",
     "available": false
   },
@@ -2980,7 +2980,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7204301075268817,
-    "checked_at": "2026-04-13T08:13:11Z",
+    "checked_at": "2026-07-13T17:51:11Z",
     "created_at": "2023-03-15T23:37:58.451065Z",
     "available": true
   },
@@ -2995,7 +2995,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9629629629629629,
-    "checked_at": "2026-04-13T08:13:12Z",
+    "checked_at": "2026-07-13T17:51:12Z",
     "created_at": "2023-03-16T00:43:59.554933Z",
     "available": false
   },
@@ -3010,7 +3010,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.75,
-    "checked_at": "2026-04-13T08:13:13Z",
+    "checked_at": "2026-07-13T17:51:12Z",
     "created_at": "2023-03-16T01:36:48.24223Z",
     "available": false
   },
@@ -3025,7 +3025,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9245283018867925,
-    "checked_at": "2026-04-13T08:13:13Z",
+    "checked_at": "2026-07-13T17:51:12Z",
     "created_at": "2023-03-16T04:36:10.48354Z",
     "available": true
   },
@@ -3040,7 +3040,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:13Z",
+    "checked_at": "2026-07-13T17:51:13Z",
     "created_at": "2023-03-16T09:30:47.232096Z",
     "available": false
   },
@@ -3055,7 +3055,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:15Z",
+    "checked_at": "2026-07-13T17:51:13Z",
     "created_at": "2023-03-16T09:46:51.007873Z",
     "available": false
   },
@@ -3070,7 +3070,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8,
-    "checked_at": "2026-04-13T08:13:15Z",
+    "checked_at": "2026-07-13T17:51:13Z",
     "created_at": "2023-03-16T13:04:15.436697Z",
     "available": false
   },
@@ -3085,7 +3085,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9741379310344828,
-    "checked_at": "2026-04-13T08:13:15Z",
+    "checked_at": "2026-07-13T17:51:14Z",
     "created_at": "2023-03-16T14:15:44.82159Z",
     "available": true
   },
@@ -3100,7 +3100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7142857142857143,
-    "checked_at": "2026-04-13T08:13:15Z",
+    "checked_at": "2026-07-13T17:51:15Z",
     "created_at": "2023-03-16T14:40:11.967641Z",
     "available": false
   },
@@ -3115,12 +3115,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6370370370370371,
-    "checked_at": "2026-04-13T08:13:16Z",
+    "checked_at": "2026-07-13T17:51:15Z",
     "created_at": "2023-03-16T16:06:09.259227Z",
     "available": false
   },
   {
-    "ip": "193.126.75.169",
+    "ip": "193.126.75.143",
     "name": "193-126-75-169.net.novis.pt.",
     "as_number": 2860,
     "as_org": "Nos Comunicacoes, S.A.",
@@ -3130,7 +3130,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.26666666666666666,
-    "checked_at": "2026-04-13T08:13:16Z",
+    "checked_at": "2026-07-13T17:51:15Z",
     "created_at": "2023-03-16T16:53:57.654403Z",
     "available": true
   },
@@ -3145,7 +3145,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6,
-    "checked_at": "2026-04-13T08:13:16Z",
+    "checked_at": "2026-07-13T17:51:16Z",
     "created_at": "2023-03-16T16:56:36.88424Z",
     "available": false
   },
@@ -3160,9 +3160,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.625,
-    "checked_at": "2026-04-13T08:13:16Z",
+    "checked_at": "2026-07-13T17:51:16Z",
     "created_at": "2023-03-16T18:18:01.804477Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "88.157.95.37",
@@ -3175,7 +3175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.881578947368421,
-    "checked_at": "2026-04-13T08:13:16Z",
+    "checked_at": "2026-07-13T17:51:17Z",
     "created_at": "2023-03-16T18:26:17.1324Z",
     "available": true
   },
@@ -3190,7 +3190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7037037037037037,
-    "checked_at": "2026-04-13T08:13:17Z",
+    "checked_at": "2026-07-13T17:51:17Z",
     "created_at": "2023-03-16T19:30:12.760131Z",
     "available": false
   },
@@ -3205,7 +3205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5,
-    "checked_at": "2026-04-13T08:13:17Z",
+    "checked_at": "2026-07-13T17:51:17Z",
     "created_at": "2023-03-16T19:45:43.376984Z",
     "available": true
   },
@@ -3220,7 +3220,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6785714285714286,
-    "checked_at": "2026-04-13T08:13:18Z",
+    "checked_at": "2026-07-13T17:51:18Z",
     "created_at": "2023-03-16T20:18:18.503563Z",
     "available": false
   },
@@ -3235,7 +3235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6428571428571429,
-    "checked_at": "2026-04-13T08:13:18Z",
+    "checked_at": "2026-07-13T17:51:19Z",
     "created_at": "2023-03-16T20:27:21.251281Z",
     "available": false
   },
@@ -3250,7 +3250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6785714285714286,
-    "checked_at": "2026-04-13T08:13:19Z",
+    "checked_at": "2026-07-13T17:51:19Z",
     "created_at": "2023-03-16T20:37:21.12367Z",
     "available": false
   },
@@ -3265,7 +3265,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5357142857142857,
-    "checked_at": "2026-04-13T08:13:19Z",
+    "checked_at": "2026-07-13T17:51:20Z",
     "created_at": "2023-03-16T20:46:10.204021Z",
     "available": true
   },
@@ -3280,7 +3280,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6071428571428571,
-    "checked_at": "2026-04-13T08:13:19Z",
+    "checked_at": "2026-07-13T17:51:21Z",
     "created_at": "2023-03-16T21:04:10.881468Z",
     "available": true
   },
@@ -3295,9 +3295,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6896551724137931,
-    "checked_at": "2026-04-13T08:13:20Z",
+    "checked_at": "2026-07-13T17:51:21Z",
     "created_at": "2023-03-16T21:55:34.661963Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "62.48.227.133",
@@ -3310,7 +3310,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8387096774193549,
-    "checked_at": "2026-04-13T08:13:21Z",
+    "checked_at": "2026-07-13T17:51:22Z",
     "created_at": "2023-03-16T23:23:14.165315Z",
     "available": true
   },
@@ -3325,7 +3325,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.2903225806451613,
-    "checked_at": "2026-04-13T08:13:21Z",
+    "checked_at": "2026-07-13T17:51:22Z",
     "created_at": "2023-03-16T23:37:18.385985Z",
     "available": true
   },
@@ -3340,7 +3340,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.6451612903225806,
-    "checked_at": "2026-04-13T08:13:22Z",
+    "checked_at": "2026-07-13T17:51:23Z",
     "created_at": "2023-03-17T00:09:03.045345Z",
     "available": false
   },
@@ -3355,7 +3355,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7096774193548387,
-    "checked_at": "2026-04-13T08:13:30Z",
+    "checked_at": "2026-07-13T17:51:23Z",
     "created_at": "2023-03-17T00:18:54.022683Z",
     "available": true
   },
@@ -3370,7 +3370,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6774193548387096,
-    "checked_at": "2026-04-13T08:13:30Z",
+    "checked_at": "2026-07-13T17:51:23Z",
     "created_at": "2023-03-17T01:17:32.541805Z",
     "available": true
   },
@@ -3385,7 +3385,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7560975609756098,
-    "checked_at": "2026-04-13T08:13:30Z",
+    "checked_at": "2026-07-13T17:51:24Z",
     "created_at": "2023-03-17T03:54:31.562659Z",
     "available": false
   },
@@ -3400,7 +3400,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8813559322033898,
-    "checked_at": "2026-04-13T08:13:31Z",
+    "checked_at": "2026-07-13T17:51:25Z",
     "created_at": "2023-03-17T04:34:30.538325Z",
     "available": true
   },
@@ -3415,7 +3415,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7441860465116279,
-    "checked_at": "2026-04-13T08:13:31Z",
+    "checked_at": "2026-07-13T17:51:26Z",
     "created_at": "2023-03-17T05:08:36.731406Z",
     "available": false
   },
@@ -3430,7 +3430,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 0.75,
-    "checked_at": "2026-04-13T08:13:31Z",
+    "checked_at": "2026-07-13T17:51:26Z",
     "created_at": "2023-03-17T05:53:40.24524Z",
     "available": false
   },
@@ -3445,12 +3445,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7727272727272727,
-    "checked_at": "2026-04-13T08:13:32Z",
+    "checked_at": "2026-07-13T17:51:26Z",
     "created_at": "2023-03-17T07:31:36.340021Z",
     "available": true
   },
   {
-    "ip": "213.63.184.195",
+    "ip": "213.63.184.172",
     "name": "plesk.tetraedro.pt.",
     "as_number": 12926,
     "as_org": "AR TELECOM - Acessos e Redes de Telecomunicacoes, S.A.",
@@ -3460,7 +3460,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7777777777777778,
-    "checked_at": "2026-04-13T08:13:32Z",
+    "checked_at": "2026-07-13T17:51:26Z",
     "created_at": "2023-03-17T07:56:48.369861Z",
     "available": true
   },
@@ -3475,9 +3475,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7142857142857143,
-    "checked_at": "2026-04-13T08:13:32Z",
+    "checked_at": "2026-07-13T17:51:27Z",
     "created_at": "2023-03-17T08:03:47.942621Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "89.155.5.4",
@@ -3490,7 +3490,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7450980392156863,
-    "checked_at": "2026-04-13T08:13:33Z",
+    "checked_at": "2026-07-13T17:51:27Z",
     "created_at": "2023-03-17T08:24:01.914177Z",
     "available": false
   },
@@ -3505,9 +3505,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6349206349206349,
-    "checked_at": "2026-04-13T08:13:33Z",
+    "checked_at": "2026-07-13T17:51:27Z",
     "created_at": "2023-03-17T09:36:33.064157Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "94.46.174.106",
@@ -3520,7 +3520,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.9806763285024155,
-    "checked_at": "2026-04-13T08:13:33Z",
+    "checked_at": "2026-07-13T17:51:28Z",
     "created_at": "2023-03-17T12:03:00.2827Z",
     "available": true
   },
@@ -3535,7 +3535,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:34Z",
+    "checked_at": "2026-07-13T17:51:28Z",
     "created_at": "2023-03-17T18:11:26.668712Z",
     "available": true
   },
@@ -3550,7 +3550,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8258064516129032,
-    "checked_at": "2026-04-13T08:13:34Z",
+    "checked_at": "2026-07-13T17:51:28Z",
     "created_at": "2023-03-18T04:16:30.037398Z",
     "available": false
   },
@@ -3565,7 +3565,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:34Z",
+    "checked_at": "2026-07-13T17:51:28Z",
     "created_at": "2023-03-18T10:54:56.325872Z",
     "available": false
   },
@@ -3580,7 +3580,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:35Z",
+    "checked_at": "2026-07-13T17:51:29Z",
     "created_at": "2023-03-18T18:46:16.395279Z",
     "available": true
   },
@@ -3595,7 +3595,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:35Z",
+    "checked_at": "2026-07-13T17:51:30Z",
     "created_at": "2023-03-19T00:10:51.956901Z",
     "available": true
   },
@@ -3610,7 +3610,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:35Z",
+    "checked_at": "2026-07-13T17:51:30Z",
     "created_at": "2023-03-19T14:17:54.769497Z",
     "available": false
   },
@@ -3625,7 +3625,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.6284153005464481,
-    "checked_at": "2026-04-13T08:13:35Z",
+    "checked_at": "2026-07-13T17:51:30Z",
     "created_at": "2023-03-19T15:20:24.336782Z",
     "available": true
   },
@@ -3640,7 +3640,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-13T08:13:35Z",
+    "checked_at": "2026-07-13T17:51:30Z",
     "created_at": "2023-03-19T15:25:36.349227Z",
     "available": true
   },
@@ -3655,7 +3655,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.8045112781954887,
-    "checked_at": "2026-04-13T08:13:36Z",
+    "checked_at": "2026-07-13T17:51:30Z",
     "created_at": "2023-05-04T20:07:34.163007Z",
     "available": false
   }
