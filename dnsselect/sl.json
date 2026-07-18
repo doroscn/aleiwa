@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-17T03:53:49Z",
+    "checked_at": "2026-07-18T09:19:37Z",
     "created_at": "2022-11-20T18:59:00.047765Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-17T03:53:49Z",
+    "checked_at": "2026-07-18T09:19:37Z",
     "created_at": "2025-08-07T18:59:00.047765Z",
     "available": false
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-17T03:53:49Z",
+    "checked_at": "2026-07-18T09:19:37Z",
     "created_at": "2025-08-07T18:59:00.047765Z",
     "available": false
   },
@@ -55,12 +55,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-17T03:53:49Z",
+    "checked_at": "2026-07-18T09:19:37Z",
     "created_at": "2025-08-07T18:59:00.047765Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "102.223.171.35",
+    "ip": "102.223.171.225",
     "name": "k3sierraleone.net.169.223.102.in-addr.arpa",
     "as_number": 328581,
     "as_org": "kFiber One (SL) LIMITED",
@@ -70,12 +70,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-17T03:53:49Z",
+    "checked_at": "2026-07-18T09:19:37Z",
     "created_at": "2025-08-07T18:59:00.047765Z",
-    "available": false
+    "available": true
   },
   {
-    "ip": "102.23.140.63",
+    "ip": "102.23.140.123",
     "name": "102-23-140-63.k3sierraleone.net",
     "as_number": 328581,
     "as_org": "kFiber One (SL) LIMITED",
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-17T03:53:49Z",
+    "checked_at": "2026-07-18T09:19:37Z",
     "created_at": "2025-08-07T18:59:00.047765Z",
     "available": true
   },
@@ -100,7 +100,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-17T03:53:49Z",
+    "checked_at": "2026-07-18T09:19:37Z",
     "created_at": "2025-08-07T18:59:00.047765Z",
     "available": true
   },
@@ -115,7 +115,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-04-17T03:53:49Z",
+    "checked_at": "2026-07-18T09:19:37Z",
     "created_at": "2025-08-07T18:59:00.047765Z",
     "available": false
   }
