@@ -1,14 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":38800,"Description":"DIGICELSAMOA-WS-AS-AP - Digicel Samoa Ltd","CC":"WS","Users":53721,"Percent of CC Pop":65.68,"Percent of Internet":0.0013,"Samples":74823},
-{"rank":2,"AS":17993,"Description":"VODAFONESAMOA-AS-AP - Vodafone Samoa Limited","CC":"WS","Users":35650,"Percent of CC Pop":43.59,"Percent of Internet":0.0009,"Samples":49042},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"WS","Users":6683,"Percent of CC Pop":8.17,"Percent of Internet":0.0002,"Samples":9774},
-{"rank":4,"AS":38227,"Description":"CSLSAMOA-WS-AS-AP - Computer Services Limited (CSL)","CC":"WS","Users":435,"Percent of CC Pop":0.53,"Percent of Internet":0.0000,"Samples":223},
-{"rank":5,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"WS","Users":149,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":26},
-{"rank":6,"AS":153053,"Description":"LTSCL-AS-AP - Lesamoa.net","CC":"WS","Users":118,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":29}
+{"rank":1,"AS":38800,"Description":"DIGICELSAMOA-WS-AS-AP - Digicel Samoa Ltd","CC":"WS","Users":54412,"Percent of CC Pop":66.52,"Percent of Internet":0.0013,"Samples":76248},
+{"rank":2,"AS":17993,"Description":"VODAFONESAMOA-AS-AP - Vodafone Samoa Limited","CC":"WS","Users":34984,"Percent of CC Pop":42.77,"Percent of Internet":0.0008,"Samples":48912},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"WS","Users":7648,"Percent of CC Pop":9.35,"Percent of Internet":0.0002,"Samples":11305},
+{"rank":4,"AS":139679,"Description":"OEC-AS-AP - Office of the Electoral Commission","CC":"WS","Users":677,"Percent of CC Pop":0.83,"Percent of Internet":0.0000,"Samples":59},
+{"rank":5,"AS":38227,"Description":"CSLSAMOA-WS-AS-AP - Computer Services Limited (CSL)","CC":"WS","Users":189,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":85},
+{"rank":6,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"WS","Users":157,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":24},
+{"rank":7,"AS":153053,"Description":"LTSCL-AS-AP - Lesamoa.net","CC":"WS","Users":127,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":38}
   ]
 }

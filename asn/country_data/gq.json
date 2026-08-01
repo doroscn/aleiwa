@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37173,"Description":"GETESA (Orange Equatorial Guinea) - GETESA (Orange Equatorial Guinea)","CC":"GQ","Users":237818,"Percent of CC Pop":55.24,"Percent of Internet":0.0057,"Samples":90257},
-{"rank":2,"AS":37337,"Description":"MUNI S.A - MUNI S.A","CC":"GQ","Users":166362,"Percent of CC Pop":38.64,"Percent of Internet":0.0040,"Samples":62810},
-{"rank":3,"AS":37529,"Description":"Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial - Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial","CC":"GQ","Users":81352,"Percent of CC Pop":18.90,"Percent of Internet":0.0019,"Samples":30733},
-{"rank":4,"AS":328311,"Description":"Conexxia Guinea Equatorial, S.L - Conexxia Guinea Equatorial, S.L","CC":"GQ","Users":24650,"Percent of CC Pop":5.73,"Percent of Internet":0.0006,"Samples":9308},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GQ","Users":19806,"Percent of CC Pop":4.60,"Percent of Internet":0.0005,"Samples":6428},
-{"rank":6,"AS":328207,"Description":"OFFICE TECH - OFFICE TECH","CC":"GQ","Users":19632,"Percent of CC Pop":4.56,"Percent of Internet":0.0005,"Samples":7393},
-{"rank":7,"AS":329219,"Description":"Fenix S.L. - Fenix S.L.","CC":"GQ","Users":9067,"Percent of CC Pop":2.11,"Percent of Internet":0.0002,"Samples":3532},
-{"rank":8,"AS":37487,"Description":"guineanet - guineanet","CC":"GQ","Users":2271,"Percent of CC Pop":0.53,"Percent of Internet":0.0001,"Samples":775}
+{"rank":1,"AS":37173,"Description":"GETESA (Orange Equatorial Guinea) - GETESA (Orange Equatorial Guinea)","CC":"GQ","Users":237324,"Percent of CC Pop":55.12,"Percent of Internet":0.0057,"Samples":90814},
+{"rank":2,"AS":37337,"Description":"MUNI S.A - MUNI S.A","CC":"GQ","Users":167666,"Percent of CC Pop":38.94,"Percent of Internet":0.0040,"Samples":64028},
+{"rank":3,"AS":37529,"Description":"Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial - Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial","CC":"GQ","Users":82207,"Percent of CC Pop":19.09,"Percent of Internet":0.0020,"Samples":31522},
+{"rank":4,"AS":328311,"Description":"Conexxia Guinea Equatorial, S.L - Conexxia Guinea Equatorial, S.L","CC":"GQ","Users":24665,"Percent of CC Pop":5.73,"Percent of Internet":0.0006,"Samples":9379},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GQ","Users":21281,"Percent of CC Pop":4.94,"Percent of Internet":0.0005,"Samples":8156},
+{"rank":6,"AS":328207,"Description":"OFFICE TECH - OFFICE TECH","CC":"GQ","Users":18563,"Percent of CC Pop":4.31,"Percent of Internet":0.0004,"Samples":7055},
+{"rank":7,"AS":329219,"Description":"Fenix S.L. - Fenix S.L.","CC":"GQ","Users":9343,"Percent of CC Pop":2.17,"Percent of Internet":0.0002,"Samples":3661},
+{"rank":8,"AS":37487,"Description":"guineanet - guineanet","CC":"GQ","Users":2052,"Percent of CC Pop":0.48,"Percent of Internet":0.0000,"Samples":710}
   ]
 }

@@ -1,16 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37517,"Description":"CABO VERDE TELECOM, S.A - CABO VERDE TELECOM, S.A","CC":"CV","Users":293069,"Percent of CC Pop":74.92,"Percent of Internet":0.0070,"Samples":236969},
-{"rank":2,"AS":37575,"Description":"UNITEL T+ Telecomunicacoes, Sociedade Unipessoal, S.A. - UNITEL T+ Telecomunicacoes, Sociedade Unipessoal, S.A.","CC":"CV","Users":81097,"Percent of CC Pop":20.73,"Percent of Internet":0.0019,"Samples":65189},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CV","Users":53046,"Percent of CC Pop":13.56,"Percent of Internet":0.0013,"Samples":47588},
-{"rank":4,"AS":327862,"Description":"NOSi EPE - NOSi EPE","CC":"CV","Users":2019,"Percent of CC Pop":0.52,"Percent of Internet":0.0000,"Samples":1546},
-{"rank":5,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"CV","Users":267,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":14},
-{"rank":6,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"CV","Users":265,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":10},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CV","Users":218,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":48},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"CV","Users":180,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":18}
+{"rank":1,"AS":37517,"Description":"CABO VERDE TELECOM, S.A - CABO VERDE TELECOM, S.A","CC":"CV","Users":288724,"Percent of CC Pop":73.81,"Percent of Internet":0.0069,"Samples":233605},
+{"rank":2,"AS":37575,"Description":"UNITEL T+ Telecomunicacoes, Sociedade Unipessoal, S.A. - UNITEL T+ Telecomunicacoes, Sociedade Unipessoal, S.A.","CC":"CV","Users":82635,"Percent of CC Pop":21.13,"Percent of Internet":0.0020,"Samples":66843},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CV","Users":59760,"Percent of CC Pop":15.28,"Percent of Internet":0.0014,"Samples":53691},
+{"rank":4,"AS":327862,"Description":"NOSi EPE - NOSi EPE","CC":"CV","Users":2107,"Percent of CC Pop":0.54,"Percent of Internet":0.0001,"Samples":1652},
+{"rank":5,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"CV","Users":376,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":34},
+{"rank":6,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"CV","Users":309,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":12},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CV","Users":225,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":42},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"CV","Users":204,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":20},
+{"rank":9,"AS":329138,"Description":"BCN - Banco Caboverdiano de NegA3cios, SA - BCN - Banco Caboverdiano de NegA3cios, SA","CC":"CV","Users":196,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

@@ -1,13 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":38201,"Description":"KALIANET-PUBLIC-AS-AP - Tonga Communications Internet Network","CC":"TO","Users":23432,"Percent of CC Pop":50.99,"Percent of Internet":0.0006,"Samples":31101},
-{"rank":2,"AS":38198,"Description":"DIGICELNET-TO - Digicel Tonga Ltd","CC":"TO","Users":15210,"Percent of CC Pop":33.10,"Percent of Internet":0.0004,"Samples":20773},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TO","Users":7784,"Percent of CC Pop":16.94,"Percent of Internet":0.0002,"Samples":10950},
-{"rank":4,"AS":132831,"Description":"TOKOWIRELESSLTD-AS-AP - TokoWireless Limited","CC":"TO","Users":1767,"Percent of CC Pop":3.85,"Percent of Internet":0.0000,"Samples":2835},
-{"rank":5,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"TO","Users":145,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":15}
+{"rank":1,"AS":38201,"Description":"KALIANET-PUBLIC-AS-AP - Tonga Communications Internet Network","CC":"TO","Users":24407,"Percent of CC Pop":53.12,"Percent of Internet":0.0006,"Samples":31611},
+{"rank":2,"AS":38198,"Description":"DIGICELNET-TO - Digicel Tonga Ltd","CC":"TO","Users":15317,"Percent of CC Pop":33.33,"Percent of Internet":0.0004,"Samples":20148},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TO","Users":7318,"Percent of CC Pop":15.93,"Percent of Internet":0.0002,"Samples":9942},
+{"rank":4,"AS":132831,"Description":"TOKOWIRELESSLTD-AS-AP - TokoWireless Limited","CC":"TO","Users":1256,"Percent of CC Pop":2.73,"Percent of Internet":0.0000,"Samples":1534},
+{"rank":5,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"TO","Users":164,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

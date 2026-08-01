@@ -1,20 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":36549,"Description":"LOGIC-36549 - WestTel Ltd.","CC":"KY","Users":29360,"Percent of CC Pop":52.61,"Percent of Internet":0.0007,"Samples":76412},
-{"rank":2,"AS":6639,"Description":"CWCAYMAN - Cable & Wireless (Cayman Islands) Ltd.","CC":"KY","Users":20292,"Percent of CC Pop":36.36,"Percent of Internet":0.0005,"Samples":53561},
-{"rank":3,"AS":13771,"Description":"DIGICEL-CAYMAN - Digicel Cayman Limited","CC":"KY","Users":5376,"Percent of CC Pop":9.63,"Percent of Internet":0.0001,"Samples":14013},
-{"rank":4,"AS":16437,"Description":"INFINITY-BROADBAND-LTD - Infinity Broadband Ltd","CC":"KY","Users":3985,"Percent of CC Pop":7.14,"Percent of Internet":0.0001,"Samples":10534},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KY","Users":857,"Percent of CC Pop":1.54,"Percent of Internet":0.0000,"Samples":1859},
-{"rank":6,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"KY","Users":315,"Percent of CC Pop":0.56,"Percent of Internet":0.0000,"Samples":510},
-{"rank":7,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"KY","Users":166,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":176},
-{"rank":8,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"KY","Users":134,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":96},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"KY","Users":100,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":80},
-{"rank":10,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"KY","Users":81,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":55},
-{"rank":11,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"KY","Users":64,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":11},
-{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"KY","Users":57,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":34}
+{"rank":1,"AS":36549,"Description":"LOGIC-36549 - WestTel Ltd.","CC":"KY","Users":27838,"Percent of CC Pop":49.88,"Percent of Internet":0.0007,"Samples":73455},
+{"rank":2,"AS":6639,"Description":"CWCAYMAN - Cable & Wireless (Cayman Islands) Ltd.","CC":"KY","Users":21975,"Percent of CC Pop":39.38,"Percent of Internet":0.0005,"Samples":58794},
+{"rank":3,"AS":13771,"Description":"DIGICEL-CAYMAN - Digicel Cayman Limited","CC":"KY","Users":5211,"Percent of CC Pop":9.34,"Percent of Internet":0.0001,"Samples":13692},
+{"rank":4,"AS":16437,"Description":"INFINITY-BROADBAND-LTD - Infinity Broadband Ltd","CC":"KY","Users":3886,"Percent of CC Pop":6.96,"Percent of Internet":0.0001,"Samples":10350},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KY","Users":1173,"Percent of CC Pop":2.10,"Percent of Internet":0.0000,"Samples":2670},
+{"rank":6,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"KY","Users":254,"Percent of CC Pop":0.46,"Percent of Internet":0.0000,"Samples":368},
+{"rank":7,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"KY","Users":168,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":203},
+{"rank":8,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"KY","Users":133,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":98},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"KY","Users":99,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":63},
+{"rank":10,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"KY","Users":85,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":65},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"KY","Users":54,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":29}
   ]
 }

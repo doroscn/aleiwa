@@ -1,21 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8681,"Description":"JT - JT (Jersey) Limited","CC":"JE","Users":35244,"Percent of CC Pop":36.86,"Percent of Internet":0.0008,"Samples":128840},
-{"rank":2,"AS":8680,"Description":"SURE-International-Limited - Sure (Guernsey) Limited","CC":"JE","Users":17213,"Percent of CC Pop":18.00,"Percent of Internet":0.0004,"Samples":62877},
-{"rank":3,"AS":13208,"Description":"NEWTELSOLUTIONS-AS - Newtel Limited","CC":"JE","Users":6879,"Percent of CC Pop":7.19,"Percent of Internet":0.0002,"Samples":24508},
-{"rank":4,"AS":61143,"Description":"JERSEY-AIRTEL - Jersey Airtel Limited","CC":"JE","Users":3122,"Percent of CC Pop":3.26,"Percent of Internet":0.0001,"Samples":10954},
-{"rank":5,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"JE","Users":543,"Percent of CC Pop":0.57,"Percent of Internet":0.0000,"Samples":1883},
-{"rank":6,"AS":211875,"Description":"GOJ - Government of Jersey","CC":"JE","Users":111,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":172},
-{"rank":7,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"JE","Users":89,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":54},
-{"rank":8,"AS":13213,"Description":"UK2NET-AS - THG HOSTING LIMITED","CC":"JE","Users":79,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":33},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"JE","Users":69,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":123},
-{"rank":10,"AS":44444,"Description":"Forcepoint-Cloud-AS - Forcepoint UK Limited","CC":"JE","Users":64,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":11},
-{"rank":11,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"JE","Users":63,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":12},
-{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"JE","Users":57,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":53},
-{"rank":13,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"JE","Users":42,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":17}
+{"rank":1,"AS":8681,"Description":"JT - JT (Jersey) Limited","CC":"JE","Users":34759,"Percent of CC Pop":36.35,"Percent of Internet":0.0008,"Samples":121959},
+{"rank":2,"AS":8680,"Description":"SURE-International-Limited - Sure (Guernsey) Limited","CC":"JE","Users":16913,"Percent of CC Pop":17.69,"Percent of Internet":0.0004,"Samples":59456},
+{"rank":3,"AS":13208,"Description":"NEWTELSOLUTIONS-AS - Newtel Limited","CC":"JE","Users":8017,"Percent of CC Pop":8.38,"Percent of Internet":0.0002,"Samples":28131},
+{"rank":4,"AS":61143,"Description":"JERSEY-AIRTEL - Jersey Airtel Limited","CC":"JE","Users":3274,"Percent of CC Pop":3.42,"Percent of Internet":0.0001,"Samples":10563},
+{"rank":5,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"JE","Users":327,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":989},
+{"rank":6,"AS":211875,"Description":"GOJ - Government of Jersey","CC":"JE","Users":93,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":120},
+{"rank":7,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"JE","Users":84,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":48},
+{"rank":8,"AS":62240,"Description":"Clouvider - Clouvider Limited","CC":"JE","Users":64,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":39},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"JE","Users":63,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":47},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"JE","Users":60,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":100},
+{"rank":11,"AS":44444,"Description":"Forcepoint-Cloud-AS - Forcepoint UK Limited","CC":"JE","Users":59,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":10},
+{"rank":12,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"JE","Users":47,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":18},
+{"rank":13,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"JE","Users":43,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":14}
   ]
 }

@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":24691,"Description":"TOGOTEL-AS - IDDQD-AS","CC":"TG","Users":789252,"Percent of CC Pop":58.36,"Percent of Internet":0.0189,"Samples":1006899},
-{"rank":2,"AS":36924,"Description":"GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS","CC":"TG","Users":571906,"Percent of CC Pop":42.29,"Percent of Internet":0.0137,"Samples":726094},
-{"rank":3,"AS":37229,"Description":"ATLANTIQUE TELECOM TOGO - ATLANTIQUE TELECOM TOGO","CC":"TG","Users":191843,"Percent of CC Pop":14.19,"Percent of Internet":0.0046,"Samples":243253},
-{"rank":4,"AS":30982,"Description":"CAFE Informatique et telecommunications - CAFE Informatique et telecommunications","CC":"TG","Users":2927,"Percent of CC Pop":0.22,"Percent of Internet":0.0001,"Samples":3679},
-{"rank":5,"AS":327727,"Description":"C-Squared Limited - C-Squared Limited","CC":"TG","Users":628,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":176},
-{"rank":6,"AS":328293,"Description":"RESEAU D'EDUCATION ET DE RECHERCHE DU TOGO - TogoRER - RESEAU D'EDUCATION ET DE RECHERCHE DU TOGO - TogoRER","CC":"TG","Users":585,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":489},
-{"rank":7,"AS":329010,"Description":"SociA(c)tA(c) d'Infrastructures NumA(c)riques (SIN) - SociA(c)tA(c) d'Infrastructures NumA(c)riques (SIN)","CC":"TG","Users":560,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":473},
-{"rank":8,"AS":328282,"Description":"TEOLIS SAU - TEOLIS SAU","CC":"TG","Users":524,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":501},
-{"rank":9,"AS":136787,"Description":"PACKETHUBSA-AS-AP - PacketHub S.A.","CC":"TG","Users":474,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":86},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TG","Users":335,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":200},
-{"rank":11,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TG","Users":256,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":192}
+{"rank":1,"AS":24691,"Description":"TOGOTEL-AS - IDDQD-AS","CC":"TG","Users":796415,"Percent of CC Pop":58.89,"Percent of Internet":0.0191,"Samples":1043025},
+{"rank":2,"AS":36924,"Description":"GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS","CC":"TG","Users":592256,"Percent of CC Pop":43.80,"Percent of Internet":0.0142,"Samples":770307},
+{"rank":3,"AS":37229,"Description":"ATLANTIQUE TELECOM TOGO - ATLANTIQUE TELECOM TOGO","CC":"TG","Users":184603,"Percent of CC Pop":13.65,"Percent of Internet":0.0044,"Samples":239638},
+{"rank":4,"AS":30982,"Description":"CAFE Informatique et telecommunications - CAFE Informatique et telecommunications","CC":"TG","Users":3051,"Percent of CC Pop":0.23,"Percent of Internet":0.0001,"Samples":3995},
+{"rank":5,"AS":327727,"Description":"C-Squared Limited - C-Squared Limited","CC":"TG","Users":621,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":378},
+{"rank":6,"AS":328293,"Description":"RESEAU D'EDUCATION ET DE RECHERCHE DU TOGO - TogoRER - RESEAU D'EDUCATION ET DE RECHERCHE DU TOGO - TogoRER","CC":"TG","Users":575,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":398},
+{"rank":7,"AS":328282,"Description":"TEOLIS SAU - TEOLIS SAU","CC":"TG","Users":575,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":614},
+{"rank":8,"AS":329010,"Description":"SociA(c)tA(c) d'Infrastructures NumA(c)riques (SIN) - SociA(c)tA(c) d'Infrastructures NumA(c)riques (SIN)","CC":"TG","Users":526,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":463},
+{"rank":9,"AS":136787,"Description":"PACKETHUBSA-AS-AP - PacketHub S.A.","CC":"TG","Users":419,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":89},
+{"rank":10,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TG","Users":276,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":232},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TG","Users":247,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":138}
   ]
 }

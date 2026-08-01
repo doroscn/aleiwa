@@ -1,23 +1,23 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications (Barbados) Limited","CC":"BB","Users":170197,"Percent of CC Pop":68.30,"Percent of Internet":0.0041,"Samples":598148},
-{"rank":2,"AS":35900,"Description":"DIGI-BDS-ASN - Digicel Barbados Ltd","CC":"BB","Users":70775,"Percent of CC Pop":28.40,"Percent of Internet":0.0017,"Samples":248019},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BB","Users":1804,"Percent of CC Pop":0.72,"Percent of Internet":0.0000,"Samples":6188},
-{"rank":4,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"BB","Users":1717,"Percent of CC Pop":0.69,"Percent of Internet":0.0000,"Samples":5754},
-{"rank":5,"AS":55033,"Description":"UWI-CH-ASN1 - University of the West Indies","CC":"BB","Users":375,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":782},
-{"rank":6,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"BB","Users":364,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":186},
-{"rank":7,"AS":13150,"Description":"CATON - CATO NETWORKS LTD","CC":"BB","Users":361,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":305},
-{"rank":8,"AS":46408,"Description":"COLUMBUS-COMMUNICATION-SVG - Columbus Communication St. Vincent and the Grenadines Ltd.","CC":"BB","Users":276,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":67},
-{"rank":9,"AS":33582,"Description":"DIGICEL-OECS - Digicel St.Lucia Ltd","CC":"BB","Users":190,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":518},
+{"rank":1,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications (Barbados) Limited","CC":"BB","Users":169293,"Percent of CC Pop":67.93,"Percent of Internet":0.0041,"Samples":590739},
+{"rank":2,"AS":35900,"Description":"DIGI-BDS-ASN - Digicel Barbados Ltd","CC":"BB","Users":72390,"Percent of CC Pop":29.05,"Percent of Internet":0.0017,"Samples":252527},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BB","Users":1918,"Percent of CC Pop":0.77,"Percent of Internet":0.0000,"Samples":6659},
+{"rank":4,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"BB","Users":1561,"Percent of CC Pop":0.63,"Percent of Internet":0.0000,"Samples":5373},
+{"rank":5,"AS":46408,"Description":"COLUMBUS-COMMUNICATION-SVG - Columbus Communication St. Vincent and the Grenadines Ltd.","CC":"BB","Users":341,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":64},
+{"rank":6,"AS":13150,"Description":"CATON - CATO NETWORKS LTD","CC":"BB","Users":335,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":267},
+{"rank":7,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"BB","Users":294,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":192},
+{"rank":8,"AS":55033,"Description":"UWI-CH-ASN1 - University of the West Indies","CC":"BB","Users":279,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":563},
+{"rank":9,"AS":33582,"Description":"DIGICEL-OECS - Digicel St.Lucia Ltd","CC":"BB","Users":230,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":659},
 {"rank":10,"AS":15344,"Description":"ASN15344-SLU - Karib Cable","CC":"BB","Users":178,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":10},
-{"rank":11,"AS":132372,"Description":"GBNETWORK-AS-AP - GB Network Solutions Sdn. Bhd.","CC":"BB","Users":99,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":16},
-{"rank":12,"AS":31794,"Description":"CARIBANK - Caribbean Development Bank","CC":"BB","Users":96,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":48},
-{"rank":13,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BB","Users":76,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":181},
-{"rank":14,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"BB","Users":55,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":90},
-{"rank":15,"AS":396304,"Description":"ANU-DIGI - Antigua Wireless ventures Ltd","CC":"BB","Users":49,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":39}
+{"rank":11,"AS":132372,"Description":"GBNETWORK-AS-AP - GB Network Solutions Sdn. Bhd.","CC":"BB","Users":104,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":14},
+{"rank":12,"AS":31794,"Description":"CARIBANK - Caribbean Development Bank","CC":"BB","Users":99,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":39},
+{"rank":13,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BB","Users":63,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":138},
+{"rank":14,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"BB","Users":58,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":92},
+{"rank":15,"AS":396304,"Description":"ANU-DIGI - Antigua Wireless ventures Ltd","CC":"BB","Users":49,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":31}
   ]
 }

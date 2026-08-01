@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9249,"Description":"VUTELECOM-AS01-VU-AP - Telecom Vanuatu Limited","CC":"VU","Users":41990,"Percent of CC Pop":47.51,"Percent of Internet":0.0010,"Samples":1248},
-{"rank":2,"AS":43357,"Description":"OWL - Owl Limited","CC":"VU","Users":32771,"Percent of CC Pop":37.08,"Percent of Internet":0.0008,"Samples":279},
-{"rank":3,"AS":132429,"Description":"DIGICELVANUATU-VU - Digicel Vanuatu LTD","CC":"VU","Users":31141,"Percent of CC Pop":35.24,"Percent of Internet":0.0007,"Samples":831},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VU","Users":25115,"Percent of CC Pop":28.42,"Percent of Internet":0.0006,"Samples":670},
-{"rank":5,"AS":45935,"Description":"WNL-AS-AP - Wantok Network Limited","CC":"VU","Users":7178,"Percent of CC Pop":8.12,"Percent of Internet":0.0002,"Samples":37},
-{"rank":6,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"VU","Users":6417,"Percent of CC Pop":7.26,"Percent of Internet":0.0002,"Samples":27},
-{"rank":7,"AS":132228,"Description":"VANGOV-AS-AP - Vanuatu Government","CC":"VU","Users":4193,"Percent of CC Pop":4.74,"Percent of Internet":0.0001,"Samples":11}
+{"rank":1,"AS":43357,"Description":"OWL - Owl Limited","CC":"VU","Users":38204,"Percent of CC Pop":43.23,"Percent of Internet":0.0009,"Samples":1141},
+{"rank":2,"AS":9249,"Description":"VUTELECOM-AS01-VU-AP - Telecom Vanuatu Limited","CC":"VU","Users":37276,"Percent of CC Pop":42.18,"Percent of Internet":0.0009,"Samples":1456},
+{"rank":3,"AS":132429,"Description":"DIGICELVANUATU-VU - Digicel Vanuatu LTD","CC":"VU","Users":28322,"Percent of CC Pop":32.05,"Percent of Internet":0.0007,"Samples":939},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VU","Users":21341,"Percent of CC Pop":24.15,"Percent of Internet":0.0005,"Samples":727},
+{"rank":5,"AS":45935,"Description":"WNL-AS-AP - Wantok Network Limited","CC":"VU","Users":7109,"Percent of CC Pop":8.04,"Percent of Internet":0.0002,"Samples":40},
+{"rank":6,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"VU","Users":6034,"Percent of CC Pop":6.83,"Percent of Internet":0.0001,"Samples":27},
+{"rank":7,"AS":132228,"Description":"VANGOV-AS-AP - Vanuatu Government","CC":"VU","Users":3896,"Percent of CC Pop":4.41,"Percent of Internet":0.0001,"Samples":18}
   ]
 }

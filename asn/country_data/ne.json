@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NE","Users":2267687,"Percent of CC Pop":50.47,"Percent of Internet":0.0543,"Samples":547979},
-{"rank":2,"AS":327708,"Description":"Airtel Rwanda Ltd - Airtel Rwanda Ltd","CC":"NE","Users":1096557,"Percent of CC Pop":24.41,"Percent of Internet":0.0263,"Samples":266152},
-{"rank":3,"AS":37531,"Description":"Airtel Niger - Airtel Niger","CC":"NE","Users":979084,"Percent of CC Pop":21.79,"Percent of Internet":0.0235,"Samples":237237},
-{"rank":4,"AS":37233,"Description":"Zamani Telecom Niger SA - Zamani Telecom Niger SA","CC":"NE","Users":577442,"Percent of CC Pop":12.85,"Percent of Internet":0.0138,"Samples":139334},
-{"rank":5,"AS":37205,"Description":"Atlantique Telecom Niger - Atlantique Telecom Niger","CC":"NE","Users":368979,"Percent of CC Pop":8.21,"Percent of Internet":0.0088,"Samples":89607},
-{"rank":6,"AS":37385,"Description":"Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Telecommunications (SONITEL)","CC":"NE","Users":190897,"Percent of CC Pop":4.25,"Percent of Internet":0.0046,"Samples":45675},
-{"rank":7,"AS":26130,"Description":"LIPTINFOR NIGER SA - LIPTINFOR NIGER SA","CC":"NE","Users":17630,"Percent of CC Pop":0.39,"Percent of Internet":0.0004,"Samples":4204},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NE","Users":1471,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":30},
-{"rank":9,"AS":329103,"Description":"NINETEC SARL - NINETEC SARL","CC":"NE","Users":1448,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":200},
-{"rank":10,"AS":329224,"Description":"Global Data Services - Global Data Services","CC":"NE","Users":1260,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":48},
-{"rank":11,"AS":60171,"Description":"AFRIX-AS - AFR-IX TELECOM S.A.","CC":"NE","Users":1091,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":68}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NE","Users":2347741,"Percent of CC Pop":52.25,"Percent of Internet":0.0563,"Samples":583948},
+{"rank":2,"AS":37531,"Description":"Airtel Niger - Airtel Niger","CC":"NE","Users":1197275,"Percent of CC Pop":26.65,"Percent of Internet":0.0287,"Samples":301991},
+{"rank":3,"AS":327708,"Description":"Airtel Rwanda Ltd - Airtel Rwanda Ltd","CC":"NE","Users":985416,"Percent of CC Pop":21.93,"Percent of Internet":0.0236,"Samples":237958},
+{"rank":4,"AS":37233,"Description":"Zamani Telecom Niger SA - Zamani Telecom Niger SA","CC":"NE","Users":571151,"Percent of CC Pop":12.71,"Percent of Internet":0.0137,"Samples":141821},
+{"rank":5,"AS":37205,"Description":"Atlantique Telecom Niger - Atlantique Telecom Niger","CC":"NE","Users":328213,"Percent of CC Pop":7.31,"Percent of Internet":0.0079,"Samples":82046},
+{"rank":6,"AS":37385,"Description":"Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Telecommunications (SONITEL)","CC":"NE","Users":194960,"Percent of CC Pop":4.34,"Percent of Internet":0.0047,"Samples":48006},
+{"rank":7,"AS":26130,"Description":"LIPTINFOR NIGER SA - LIPTINFOR NIGER SA","CC":"NE","Users":16579,"Percent of CC Pop":0.37,"Percent of Internet":0.0004,"Samples":4070},
+{"rank":8,"AS":329103,"Description":"NINETEC SARL - NINETEC SARL","CC":"NE","Users":1380,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":170},
+{"rank":9,"AS":60171,"Description":"AFRIX-AS - AFR-IX TELECOM S.A.","CC":"NE","Users":1292,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":96},
+{"rank":10,"AS":329224,"Description":"Global Data Services - Global Data Services","CC":"NE","Users":1207,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":41},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NE","Users":625,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":21}
   ]
 }

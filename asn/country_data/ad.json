@@ -1,20 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6752,"Description":"ANDORRA - ANDORRA TELECOM, S.A.U.","CC":"AD","Users":77427,"Percent of CC Pop":99.47,"Percent of Internet":0.0019,"Samples":188245},
-{"rank":2,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"AD","Users":1389,"Percent of CC Pop":1.78,"Percent of Internet":0.0000,"Samples":2955},
-{"rank":3,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"AD","Users":1157,"Percent of CC Pop":1.49,"Percent of Internet":0.0000,"Samples":2627},
-{"rank":4,"AS":209854,"Description":"Cyberzonehub - Cyberzone S.A.","CC":"AD","Users":1033,"Percent of CC Pop":1.33,"Percent of Internet":0.0000,"Samples":2150},
-{"rank":5,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"AD","Users":474,"Percent of CC Pop":0.61,"Percent of Internet":0.0000,"Samples":635},
-{"rank":6,"AS":132372,"Description":"GBNETWORK-AS-AP - GB Network Solutions Sdn. Bhd.","CC":"AD","Users":211,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":149},
-{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AD","Users":181,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":81},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AD","Users":76,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":79},
-{"rank":9,"AS":13213,"Description":"UK2NET-AS - THG HOSTING LIMITED","CC":"AD","Users":73,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":31},
-{"rank":10,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"AD","Users":72,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":14},
-{"rank":11,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"AD","Users":72,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":10},
-{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AD","Users":68,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":37}
+{"rank":1,"AS":6752,"Description":"ANDORRA - ANDORRA TELECOM, S.A.U.","CC":"AD","Users":76927,"Percent of CC Pop":98.83,"Percent of Internet":0.0018,"Samples":166846},
+{"rank":2,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"AD","Users":1855,"Percent of CC Pop":2.38,"Percent of Internet":0.0000,"Samples":3718},
+{"rank":3,"AS":209854,"Description":"Cyberzonehub - Cyberzone S.A.","CC":"AD","Users":1156,"Percent of CC Pop":1.49,"Percent of Internet":0.0000,"Samples":2116},
+{"rank":4,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"AD","Users":1106,"Percent of CC Pop":1.42,"Percent of Internet":0.0000,"Samples":2259},
+{"rank":5,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"AD","Users":499,"Percent of CC Pop":0.64,"Percent of Internet":0.0000,"Samples":758},
+{"rank":6,"AS":132372,"Description":"GBNETWORK-AS-AP - GB Network Solutions Sdn. Bhd.","CC":"AD","Users":250,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":174},
+{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AD","Users":187,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":80},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AD","Users":83,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":72},
+{"rank":9,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"AD","Users":76,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":29},
+{"rank":10,"AS":13213,"Description":"UK2NET-AS - THG HOSTING LIMITED","CC":"AD","Users":73,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":19},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AD","Users":65,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":32}
   ]
 }

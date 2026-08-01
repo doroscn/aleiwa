@@ -1,22 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":28885,"Description":"OMANTEL-NAP-AS - Oman Telecommunications Company (S.A.O.G)","CC":"OM","Users":2222197,"Percent of CC Pop":50.40,"Percent of Internet":0.0533,"Samples":2471108},
-{"rank":2,"AS":50010,"Description":"Nawras-AS - Omani Qatari Telecommunication Company SAOC","CC":"OM","Users":1077778,"Percent of CC Pop":24.44,"Percent of Internet":0.0258,"Samples":1207307},
-{"rank":3,"AS":204170,"Description":"awasr - Awaser Oman LLC","CC":"OM","Users":673886,"Percent of CC Pop":15.28,"Percent of Internet":0.0161,"Samples":755627},
-{"rank":4,"AS":212661,"Description":"Vodafone-Oman - Oman Future Telecommunications Company SAOC","CC":"OM","Users":176089,"Percent of CC Pop":3.99,"Percent of Internet":0.0042,"Samples":198529},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"OM","Users":15916,"Percent of CC Pop":0.36,"Percent of Internet":0.0004,"Samples":18592},
-{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"OM","Users":12888,"Percent of CC Pop":0.29,"Percent of Internet":0.0003,"Samples":14641},
-{"rank":7,"AS":19905,"Description":"SECURITYSERVICES - Vercara, LLC","CC":"OM","Users":2091,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":520},
-{"rank":8,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"OM","Users":1486,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":1529},
-{"rank":9,"AS":54253,"Description":"ORCL-CHICAGO-PP - Oracle Corporation","CC":"OM","Users":1221,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":77},
-{"rank":10,"AS":138915,"Description":"KAOPU-HK - Kaopu Cloud HK Limited","CC":"OM","Users":348,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":295},
-{"rank":11,"AS":154177,"Description":"LIGHT4-AS-AP - LIGHT NODE LIMITED","CC":"OM","Users":322,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":105},
-{"rank":12,"AS":138627,"Description":"CATONETWORKSINC-AS-AP - Cato Networks, Inc.","CC":"OM","Users":178,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":42},
-{"rank":13,"AS":44444,"Description":"Forcepoint-Cloud-AS - Forcepoint UK Limited","CC":"OM","Users":145,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":15},
-{"rank":14,"AS":205659,"Description":"CODE200-ISP2 - UAB code200","CC":"OM","Users":134,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":12}
+{"rank":1,"AS":28885,"Description":"OMANTEL-NAP-AS - Oman Telecommunications Company (S.A.O.G)","CC":"OM","Users":2198620,"Percent of CC Pop":49.86,"Percent of Internet":0.0527,"Samples":2574941},
+{"rank":2,"AS":50010,"Description":"Nawras-AS - Omani Qatari Telecommunication Company SAOC","CC":"OM","Users":1078314,"Percent of CC Pop":24.45,"Percent of Internet":0.0258,"Samples":1262374},
+{"rank":3,"AS":204170,"Description":"awasr - Awaser Oman LLC","CC":"OM","Users":668217,"Percent of CC Pop":15.15,"Percent of Internet":0.0160,"Samples":782262},
+{"rank":4,"AS":212661,"Description":"Vodafone-Oman - Oman Future Telecommunications Company SAOC","CC":"OM","Users":199090,"Percent of CC Pop":4.52,"Percent of Internet":0.0048,"Samples":236722},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"OM","Users":20224,"Percent of CC Pop":0.46,"Percent of Internet":0.0005,"Samples":25368},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"OM","Users":14787,"Percent of CC Pop":0.34,"Percent of Internet":0.0004,"Samples":17711},
+{"rank":7,"AS":19905,"Description":"SECURITYSERVICES - Vercara, LLC","CC":"OM","Users":6410,"Percent of CC Pop":0.15,"Percent of Internet":0.0002,"Samples":2390},
+{"rank":8,"AS":54253,"Description":"ORCL-CHICAGO-PP - Oracle Corporation","CC":"OM","Users":1440,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":76},
+{"rank":9,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"OM","Users":1215,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":1274},
+{"rank":10,"AS":154177,"Description":"LIGHT4-AS-AP - LIGHT NODE LIMITED","CC":"OM","Users":1088,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":670},
+{"rank":11,"AS":138915,"Description":"KAOPU-HK - Kaopu Cloud HK Limited","CC":"OM","Users":360,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":225},
+{"rank":12,"AS":138627,"Description":"CATONETWORKSINC-AS-AP - Cato Networks, Inc.","CC":"OM","Users":168,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":33},
+{"rank":13,"AS":44444,"Description":"Forcepoint-Cloud-AS - Forcepoint UK Limited","CC":"OM","Users":138,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

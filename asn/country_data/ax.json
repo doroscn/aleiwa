@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3238,"Description":"ALCOM - Alands Telekommunikation Ab","CC":"AX","Users":15430,"Percent of CC Pop":96.70,"Percent of Internet":0.0004,"Samples":67361},
-{"rank":2,"AS":200134,"Description":"IPCONNECT - IP-Connect AB","CC":"AX","Users":505,"Percent of CC Pop":3.16,"Percent of Internet":0.0000,"Samples":2018},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AX","Users":54,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":41},
-{"rank":4,"AS":41878,"Description":"CROSSKEY-AS - Crosskey Banking Solutions Ab Ltd","CC":"AX","Users":49,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":38}
+{"rank":1,"AS":3238,"Description":"ALCOM - Alands Telekommunikation Ab","CC":"AX","Users":15445,"Percent of CC Pop":96.79,"Percent of Internet":0.0004,"Samples":79821},
+{"rank":2,"AS":200134,"Description":"IPCONNECT - IP-Connect AB","CC":"AX","Users":494,"Percent of CC Pop":3.10,"Percent of Internet":0.0000,"Samples":2470},
+{"rank":3,"AS":41878,"Description":"CROSSKEY-AS - Crosskey Banking Solutions Ab Ltd","CC":"AX","Users":41,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":41},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AX","Users":40,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":36}
   ]
 }

@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "27/06/2026",
+  "Date": "28/07/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"AI","Users":7102,"Percent of CC Pop":55.67,"Percent of Internet":0.0002,"Samples":23209},
-{"rank":2,"AS":2740,"Description":"CARIBCABLE - Caribbean Cable Communications","CC":"AI","Users":2995,"Percent of CC Pop":23.48,"Percent of Internet":0.0001,"Samples":10181},
-{"rank":3,"AS":396304,"Description":"ANU-DIGI - Antigua Wireless ventures Ltd","CC":"AI","Users":2924,"Percent of CC Pop":22.92,"Percent of Internet":0.0001,"Samples":9178},
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"AI","Users":7031,"Percent of CC Pop":55.11,"Percent of Internet":0.0002,"Samples":22024},
+{"rank":2,"AS":2740,"Description":"CARIBCABLE - Caribbean Cable Communications","CC":"AI","Users":3056,"Percent of CC Pop":23.95,"Percent of Internet":0.0001,"Samples":9928},
+{"rank":3,"AS":396304,"Description":"ANU-DIGI - Antigua Wireless ventures Ltd","CC":"AI","Users":2852,"Percent of CC Pop":22.35,"Percent of Internet":0.0001,"Samples":8708},
 {"rank":4,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications (Barbados) Limited","CC":"AI","Users":1964,"Percent of CC Pop":15.39,"Percent of Internet":0.0000,"Samples":997},
 {"rank":5,"AS":50118,"Description":"CARITELE-AS - Caribbean Telecom S.A","CC":"AI","Users":837,"Percent of CC Pop":6.56,"Percent of Internet":0.0000,"Samples":222},
-{"rank":6,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"AI","Users":303,"Percent of CC Pop":2.37,"Percent of Internet":0.0000,"Samples":763},
-{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AI","Users":83,"Percent of CC Pop":0.65,"Percent of Internet":0.0000,"Samples":68},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AI","Users":45,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":10}
+{"rank":6,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"AI","Users":400,"Percent of CC Pop":3.14,"Percent of Internet":0.0000,"Samples":1037},
+{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AI","Users":121,"Percent of CC Pop":0.95,"Percent of Internet":0.0000,"Samples":105},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AI","Users":42,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":10}
   ]
 }
