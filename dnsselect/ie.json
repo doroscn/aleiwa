@@ -1228,5 +1228,35 @@
     "checked_at": "2026-05-25T09:20:41Z",
     "created_at": "2026-05-25T09:20:41.294113Z",
     "available": true
+  },
+  {
+    "ip": "93.107.1.200",
+    "name": "",
+    "as_number": 15502,
+    "as_org": "Vodafone Ireland Limited",
+    "country_id": "IE",
+    "city": "Dublin",
+    "version": "DNSServer",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-08-05T10:19:53Z",
+    "created_at": "2026-08-05T10:19:53.177405Z",
+    "available": true
+  },
+  {
+    "ip": "80.233.0.150",
+    "name": "",
+    "as_number": 13280,
+    "as_org": "Three Ireland (Hutchison) limited",
+    "country_id": "IE",
+    "city": "Dublin",
+    "version": "dnsmasq-2.90",
+    "error": "",
+    "dnssec": false,
+    "reliability": 1,
+    "checked_at": "2026-08-05T10:25:22Z",
+    "created_at": "2026-08-05T10:25:22.784884Z",
+    "available": true
   }
 ]
