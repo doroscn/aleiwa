@@ -1,9 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SH","Users":2824,"Percent of CC Pop":84.50,"Percent of Internet":0.0001,"Samples":1068}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SH","Users":2822,"Percent of CC Pop":84.44,"Percent of Internet":0.0001,"Samples":2179}
   ]
 }

@@ -1,16 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27745,"Description":"AS27745 - Telefonia Bonairiano N.V.","CC":"BQ","Users":7389,"Percent of CC Pop":51.23,"Percent of Internet":0.0002,"Samples":28659},
-{"rank":2,"AS":27694,"Description":"AS27694 - Flamingo TV Bonaire N.V.","CC":"BQ","Users":4452,"Percent of CC Pop":30.87,"Percent of Internet":0.0001,"Samples":17007},
-{"rank":3,"AS":28104,"Description":"AS28104 - Eutel N.V.","CC":"BQ","Users":2348,"Percent of CC Pop":16.28,"Percent of Internet":0.0001,"Samples":9301},
-{"rank":4,"AS":262188,"Description":"AS262188 - Satel NV","CC":"BQ","Users":619,"Percent of CC Pop":4.29,"Percent of Internet":0.0000,"Samples":2438},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BQ","Users":373,"Percent of CC Pop":2.59,"Percent of Internet":0.0000,"Samples":1363},
-{"rank":6,"AS":11081,"Description":"AS11081 - United Telecommunication Services (UTS)","CC":"BQ","Users":263,"Percent of CC Pop":1.82,"Percent of Internet":0.0000,"Samples":85},
-{"rank":7,"AS":52389,"Description":"AS52389 - SSCS BV","CC":"BQ","Users":55,"Percent of CC Pop":0.38,"Percent of Internet":0.0000,"Samples":41},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BQ","Users":39,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":11}
+{"rank":1,"AS":27745,"Description":"AS27745 - Telefonia Bonairiano N.V.","CC":"BQ","Users":6929,"Percent of CC Pop":48.04,"Percent of Internet":0.0002,"Samples":24074},
+{"rank":2,"AS":27694,"Description":"AS27694 - Flamingo TV Bonaire N.V.","CC":"BQ","Users":4580,"Percent of CC Pop":31.76,"Percent of Internet":0.0001,"Samples":15607},
+{"rank":3,"AS":28104,"Description":"AS28104 - Eutel N.V.","CC":"BQ","Users":2520,"Percent of CC Pop":17.47,"Percent of Internet":0.0001,"Samples":8997},
+{"rank":4,"AS":262188,"Description":"AS262188 - Satel NV","CC":"BQ","Users":556,"Percent of CC Pop":3.86,"Percent of Internet":0.0000,"Samples":1953},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BQ","Users":427,"Percent of CC Pop":2.96,"Percent of Internet":0.0000,"Samples":1306},
+{"rank":6,"AS":11081,"Description":"AS11081 - United Telecommunication Services (UTS)","CC":"BQ","Users":351,"Percent of CC Pop":2.43,"Percent of Internet":0.0000,"Samples":326},
+{"rank":7,"AS":52389,"Description":"AS52389 - SSCS BV","CC":"BQ","Users":58,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":30}
   ]
 }

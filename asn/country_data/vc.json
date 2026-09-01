@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":46408,"Description":"COLUMBUS-COMMUNICATION-SVG - Columbus Communication St. Vincent and the Grenadines Ltd.","CC":"VC","Users":60047,"Percent of CC Pop":67.46,"Percent of Internet":0.0014,"Samples":172401},
-{"rank":2,"AS":33582,"Description":"DIGICEL-OECS - Digicel St.Lucia Ltd","CC":"VC","Users":22555,"Percent of CC Pop":25.34,"Percent of Internet":0.0005,"Samples":65306},
+{"rank":1,"AS":46408,"Description":"COLUMBUS-COMMUNICATION-SVG - Columbus Communication St. Vincent and the Grenadines Ltd.","CC":"VC","Users":61434,"Percent of CC Pop":69.02,"Percent of Internet":0.0015,"Samples":166161},
+{"rank":2,"AS":33582,"Description":"DIGICEL-OECS - Digicel St.Lucia Ltd","CC":"VC","Users":21993,"Percent of CC Pop":24.71,"Percent of Internet":0.0005,"Samples":60238},
 {"rank":3,"AS":15344,"Description":"ASN15344-SLU - Karib Cable","CC":"VC","Users":6415,"Percent of CC Pop":7.21,"Percent of Internet":0.0002,"Samples":370},
-{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VC","Users":846,"Percent of CC Pop":0.95,"Percent of Internet":0.0000,"Samples":2511},
-{"rank":5,"AS":398901,"Description":"ITSD-VC-01 - Government of Saint Vincent and the Grenadines - Information Technology Services Division","CC":"VC","Users":302,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":632},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"VC","Users":134,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":111},
-{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"VC","Users":57,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":28}
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VC","Users":752,"Percent of CC Pop":0.84,"Percent of Internet":0.0000,"Samples":1904},
+{"rank":5,"AS":398901,"Description":"ITSD-VC-01 - Government of Saint Vincent and the Grenadines - Information Technology Services Division","CC":"VC","Users":311,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":630},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"VC","Users":130,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":84},
+{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"VC","Users":53,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":21}
   ]
 }

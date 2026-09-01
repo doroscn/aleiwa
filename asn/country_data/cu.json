@@ -1,12 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":27725,"Description":"AS27725 - Empresa de Telecomunicaciones de Cuba, S.A.","CC":"CU","Users":6685108,"Percent of CC Pop":98.20,"Percent of Internet":0.1602,"Samples":1472380},
-{"rank":2,"AS":10569,"Description":"AS10569 - Red CENIAInternet","CC":"CU","Users":1395,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":200},
-{"rank":3,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"CU","Users":887,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":47},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CU","Users":886,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":18}
+{"rank":1,"AS":27725,"Description":"AS27725 - Empresa de Telecomunicaciones de Cuba, S.A.","CC":"CU","Users":6741308,"Percent of CC Pop":99.02,"Percent of Internet":0.1615,"Samples":1357278},
+{"rank":2,"AS":10569,"Description":"AS10569 - Red CENIAInternet","CC":"CU","Users":1684,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":198},
+{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CU","Users":1547,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":40},
+{"rank":4,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"CU","Users":1027,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":45}
   ]
 }

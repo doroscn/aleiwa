@@ -1,10 +1,11 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3695,"Description":"SPM-TELECOM-1 - SPM TELECOM","CC":"PM","Users":3153,"Percent of CC Pop":98.96,"Percent of Internet":0.0001,"Samples":26085},
-{"rank":2,"AS":41653,"Description":"AQUARAY - Aqua Ray SAS","CC":"PM","Users":77,"Percent of CC Pop":2.42,"Percent of Internet":0.0000,"Samples":85}
+{"rank":1,"AS":3695,"Description":"SPM-TELECOM-1 - SPM TELECOM","CC":"PM","Users":3097,"Percent of CC Pop":97.21,"Percent of Internet":0.0001,"Samples":24013},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"PM","Users":143,"Percent of CC Pop":4.49,"Percent of Internet":0.0000,"Samples":62},
+{"rank":3,"AS":41653,"Description":"AQUARAY - Aqua Ray SAS","CC":"PM","Users":142,"Percent of CC Pop":4.46,"Percent of Internet":0.0000,"Samples":427}
   ]
 }

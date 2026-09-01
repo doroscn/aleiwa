@@ -1,21 +1,23 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14434,"Description":"VIPNAS1 - VI POWERNET, LLC","CC":"VI","Users":46309,"Percent of CC Pop":60.54,"Percent of Internet":0.0011,"Samples":124037},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VI","Users":11472,"Percent of CC Pop":15.00,"Percent of Internet":0.0003,"Samples":30602},
-{"rank":3,"AS":22581,"Description":"ACE-STX - Broadband VI, LLC","CC":"VI","Users":7136,"Percent of CC Pop":9.33,"Percent of Internet":0.0002,"Samples":18961},
-{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK - Virgin Islands Next Generation Network","CC":"VI","Users":2569,"Percent of CC Pop":3.36,"Percent of Internet":0.0001,"Samples":6706},
-{"rank":5,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"VI","Users":1862,"Percent of CC Pop":2.43,"Percent of Internet":0.0000,"Samples":2489},
-{"rank":6,"AS":215730,"Description":"H2NEXUS-AS - H2NEXUS LTD","CC":"VI","Users":1551,"Percent of CC Pop":2.03,"Percent of Internet":0.0000,"Samples":4186},
-{"rank":7,"AS":400741,"Description":"ADM-TECH-01 - ADM Technologies, Inc.","CC":"VI","Users":660,"Percent of CC Pop":0.86,"Percent of Internet":0.0000,"Samples":1353},
-{"rank":8,"AS":14638,"Description":"LCPRL - Liberty Communications of Puerto Rico LLC","CC":"VI","Users":574,"Percent of CC Pop":0.75,"Percent of Internet":0.0000,"Samples":305},
-{"rank":9,"AS":400099,"Description":"SMART-NET-01 - Alliance Data Services LLC","CC":"VI","Users":330,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":311},
-{"rank":10,"AS":20243,"Description":"UVI - University of the Virgin Islands","CC":"VI","Users":272,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":279},
-{"rank":11,"AS":3356,"Description":"LEVEL3 - Level 3 Parent, LLC","CC":"VI","Users":168,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":51},
-{"rank":12,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"VI","Users":83,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":65},
-{"rank":13,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"VI","Users":83,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":27}
+{"rank":1,"AS":14434,"Description":"VIPNAS1 - VI POWERNET, LLC","CC":"VI","Users":45268,"Percent of CC Pop":59.18,"Percent of Internet":0.0011,"Samples":125433},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"VI","Users":12065,"Percent of CC Pop":15.77,"Percent of Internet":0.0003,"Samples":33067},
+{"rank":3,"AS":22581,"Description":"ACE-STX - Broadband VI, LLC","CC":"VI","Users":7509,"Percent of CC Pop":9.82,"Percent of Internet":0.0002,"Samples":20330},
+{"rank":4,"AS":393275,"Description":"VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK - Virgin Islands Next Generation Network","CC":"VI","Users":2312,"Percent of CC Pop":3.02,"Percent of Internet":0.0001,"Samples":6221},
+{"rank":5,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"VI","Users":2227,"Percent of CC Pop":2.91,"Percent of Internet":0.0001,"Samples":3286},
+{"rank":6,"AS":215730,"Description":"H2NEXUS-AS - H2NEXUS CLOUD SERVICES - FZCO","CC":"VI","Users":1479,"Percent of CC Pop":1.93,"Percent of Internet":0.0000,"Samples":4180},
+{"rank":7,"AS":20243,"Description":"UVI - University of the Virgin Islands","CC":"VI","Users":1029,"Percent of CC Pop":1.35,"Percent of Internet":0.0000,"Samples":1084},
+{"rank":8,"AS":14638,"Description":"LCPRL - Liberty Communications of Puerto Rico LLC","CC":"VI","Users":964,"Percent of CC Pop":1.26,"Percent of Internet":0.0000,"Samples":1097},
+{"rank":9,"AS":400741,"Description":"ADM-TECH-01 - ADM Technologies, Inc.","CC":"VI","Users":445,"Percent of CC Pop":0.58,"Percent of Internet":0.0000,"Samples":849},
+{"rank":10,"AS":400099,"Description":"SMART-NET-01 - Alliance Data Services LLC","CC":"VI","Users":263,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":234},
+{"rank":11,"AS":174,"Description":"COGENT-174 - Cogent Communications, LLC","CC":"VI","Users":205,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":35},
+{"rank":12,"AS":3356,"Description":"LEVEL3 - Level 3 Parent, LLC","CC":"VI","Users":175,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":48},
+{"rank":13,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"VI","Users":90,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":22},
+{"rank":14,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"VI","Users":63,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":50},
+{"rank":15,"AS":11878,"Description":"TZULO - tzulo, inc.","CC":"VI","Users":48,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

@@ -1,22 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":7642,"Description":"DHIRAAGU-MV-AP - DHIVEHI RAAJJEYGE GULHUN PLC","CC":"MV","Users":212165,"Percent of CC Pop":55.23,"Percent of Internet":0.0051,"Samples":478960},
-{"rank":2,"AS":55944,"Description":"OOREDOO-MV - Ooredoo Maldives Plc","CC":"MV","Users":132492,"Percent of CC Pop":34.49,"Percent of Internet":0.0032,"Samples":301209},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MV","Users":11067,"Percent of CC Pop":2.88,"Percent of Internet":0.0003,"Samples":25674},
-{"rank":4,"AS":136238,"Description":"SATLINKPVTLTD-AS-AP - SatLink Pvt Ltd","CC":"MV","Users":4481,"Percent of CC Pop":1.17,"Percent of Internet":0.0001,"Samples":10183},
-{"rank":5,"AS":24016,"Description":"RaajjeOnline-AS - Focus Infocom Private Limited","CC":"MV","Users":4332,"Percent of CC Pop":1.13,"Percent of Internet":0.0001,"Samples":10472},
-{"rank":6,"AS":139082,"Description":"SEPCL-AS-AP - Singha Estate Public Company Limited","CC":"MV","Users":625,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":1113},
-{"rank":7,"AS":63930,"Description":"READYSERVER-SG - READY SERVER PTE LTD","CC":"MV","Users":383,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":10},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MV","Users":190,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":341},
-{"rank":9,"AS":137056,"Description":"TREETOP-AS-AP - Tree Top Health Pvt. Ltd.","CC":"MV","Users":121,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":19},
-{"rank":10,"AS":22363,"Description":"PHMGMT-AS1 - Powerhouse Management, Inc.","CC":"MV","Users":105,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":20},
-{"rank":11,"AS":137477,"Description":"VILLA-STC-AS-AP - Villa Shipping and Trading Company Pvt. Ltd.","CC":"MV","Users":93,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":43},
-{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MV","Users":93,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":103},
-{"rank":13,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"MV","Users":79,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":26},
-{"rank":14,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"MV","Users":74,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":26}
+{"rank":1,"AS":7642,"Description":"DHIRAAGU-MV-AP - DHIVEHI RAAJJEYGE GULHUN PLC","CC":"MV","Users":210042,"Percent of CC Pop":54.68,"Percent of Internet":0.0050,"Samples":501595},
+{"rank":2,"AS":55944,"Description":"OOREDOO-MV - Ooredoo Maldives Plc","CC":"MV","Users":135386,"Percent of CC Pop":35.24,"Percent of Internet":0.0032,"Samples":323474},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MV","Users":11349,"Percent of CC Pop":2.95,"Percent of Internet":0.0003,"Samples":27579},
+{"rank":4,"AS":24016,"Description":"RaajjeOnline-AS - Focus Infocom Private Limited","CC":"MV","Users":4991,"Percent of CC Pop":1.30,"Percent of Internet":0.0001,"Samples":12311},
+{"rank":5,"AS":136238,"Description":"SATLINKPVTLTD-AS-AP - SatLink Pvt Ltd","CC":"MV","Users":4469,"Percent of CC Pop":1.16,"Percent of Internet":0.0001,"Samples":10652},
+{"rank":6,"AS":139082,"Description":"SEPCL-AS-AP - Singha Estate Public Company Limited","CC":"MV","Users":626,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":1222},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MV","Users":270,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":528},
+{"rank":8,"AS":137056,"Description":"TREETOP-AS-AP - Tree Top Health Pvt. Ltd.","CC":"MV","Users":121,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":19},
+{"rank":9,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"MV","Users":98,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":29},
+{"rank":10,"AS":22363,"Description":"PHMGMT-AS1 - Powerhouse Management, Inc.","CC":"MV","Users":97,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":30},
+{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MV","Users":92,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":122},
+{"rank":12,"AS":137477,"Description":"VILLA-STC-AS-AP - Villa Shipping and Trading Company Pvt. Ltd.","CC":"MV","Users":69,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":39},
+{"rank":13,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"MV","Users":66,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":24}
   ]
 }

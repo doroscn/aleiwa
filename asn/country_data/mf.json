@@ -1,19 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MF","Users":6318,"Percent of CC Pop":31.20,"Percent of Internet":0.0002,"Samples":5888},
-{"rank":2,"AS":33392,"Description":"DAUPHIN-TELECOM - Dauphin Telecom","CC":"MF","Users":5209,"Percent of CC Pop":25.72,"Percent of Internet":0.0001,"Samples":4814},
-{"rank":3,"AS":27734,"Description":"AS27734 - New Technologies Group N.V.","CC":"MF","Users":4884,"Percent of CC Pop":24.11,"Percent of Internet":0.0001,"Samples":256},
-{"rank":4,"AS":21351,"Description":"CANALPLUSTELECOM - Canal + Telecom SAS","CC":"MF","Users":3277,"Percent of CC Pop":16.18,"Percent of Internet":0.0001,"Samples":1026},
-{"rank":5,"AS":393894,"Description":"MSR-CABLE-TV - MSR PRIVATE CABLE TV","CC":"MF","Users":2361,"Percent of CC Pop":11.66,"Percent of Internet":0.0001,"Samples":2209},
-{"rank":6,"AS":262181,"Description":"AS262181 - Coral Telecom N.V.","CC":"MF","Users":1872,"Percent of CC Pop":9.24,"Percent of Internet":0.0000,"Samples":1554},
-{"rank":7,"AS":395916,"Description":"THDTEL - THDTEL","CC":"MF","Users":1561,"Percent of CC Pop":7.71,"Percent of Internet":0.0000,"Samples":944},
-{"rank":8,"AS":51110,"Description":"idomtechnologies-as - Idom Technologies SAS","CC":"MF","Users":1525,"Percent of CC Pop":7.53,"Percent of Internet":0.0000,"Samples":1116},
-{"rank":9,"AS":399642,"Description":"IDNCOM - IDNCOM","CC":"MF","Users":1386,"Percent of CC Pop":6.84,"Percent of Internet":0.0000,"Samples":388},
-{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MF","Users":188,"Percent of CC Pop":0.93,"Percent of Internet":0.0000,"Samples":14},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MF","Users":185,"Percent of CC Pop":0.91,"Percent of Internet":0.0000,"Samples":22}
+{"rank":1,"AS":33392,"Description":"DAUPHIN-TELECOM - Dauphin Telecom","CC":"MF","Users":6234,"Percent of CC Pop":30.78,"Percent of Internet":0.0001,"Samples":6234},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MF","Users":5354,"Percent of CC Pop":26.44,"Percent of Internet":0.0001,"Samples":5275},
+{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM - Canal + Telecom SAS","CC":"MF","Users":4463,"Percent of CC Pop":22.04,"Percent of Internet":0.0001,"Samples":1798},
+{"rank":4,"AS":393894,"Description":"MSR-CABLE-TV - MSR PRIVATE CABLE TV","CC":"MF","Users":2034,"Percent of CC Pop":10.04,"Percent of Internet":0.0000,"Samples":1867},
+{"rank":5,"AS":262181,"Description":"AS262181 - Coral Telecom N.V.","CC":"MF","Users":1630,"Percent of CC Pop":8.05,"Percent of Internet":0.0000,"Samples":1182},
+{"rank":6,"AS":51110,"Description":"idomtechnologies-as - Idom Technologies SAS","CC":"MF","Users":1621,"Percent of CC Pop":8.00,"Percent of Internet":0.0000,"Samples":1016},
+{"rank":7,"AS":395916,"Description":"THDTEL - THDTEL","CC":"MF","Users":1472,"Percent of CC Pop":7.27,"Percent of Internet":0.0000,"Samples":1110},
+{"rank":8,"AS":399642,"Description":"IDNCOM - IDNCOM","CC":"MF","Users":1226,"Percent of CC Pop":6.05,"Percent of Internet":0.0000,"Samples":310},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MF","Users":201,"Percent of CC Pop":0.99,"Percent of Internet":0.0000,"Samples":21},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MF","Users":144,"Percent of CC Pop":0.71,"Percent of Internet":0.0000,"Samples":17}
   ]
 }

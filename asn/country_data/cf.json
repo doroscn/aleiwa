@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37460,"Description":"Orange Centreafrique - Orange Centreafrique","CC":"CF","Users":112095,"Percent of CC Pop":48.44,"Percent of Internet":0.0027,"Samples":64447},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CF","Users":107355,"Percent of CC Pop":46.39,"Percent of Internet":0.0026,"Samples":61243},
-{"rank":3,"AS":329274,"Description":"Atlantique TELECOM CAR - Atlantique TELECOM CAR","CC":"CF","Users":53878,"Percent of CC Pop":23.28,"Percent of Internet":0.0013,"Samples":30553},
-{"rank":4,"AS":328079,"Description":"TELECEL CENTRAFRIQUE - TELECEL CENTRAFRIQUE","CC":"CF","Users":29465,"Percent of CC Pop":12.73,"Percent of Internet":0.0007,"Samples":16781},
-{"rank":5,"AS":29286,"Description":"SKYLOGIC-AS - SKYLOGIC S.P.A.","CC":"CF","Users":463,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":35},
-{"rank":6,"AS":329590,"Description":"NETCOM SERVICES - NETCOM SERVICES","CC":"CF","Users":286,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":12}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CF","Users":112851,"Percent of CC Pop":48.76,"Percent of Internet":0.0027,"Samples":67746},
+{"rank":2,"AS":37460,"Description":"Orange Centreafrique - Orange Centreafrique","CC":"CF","Users":109248,"Percent of CC Pop":47.21,"Percent of Internet":0.0026,"Samples":65517},
+{"rank":3,"AS":329274,"Description":"Atlantique TELECOM CAR - Atlantique TELECOM CAR","CC":"CF","Users":50950,"Percent of CC Pop":22.02,"Percent of Internet":0.0012,"Samples":29798},
+{"rank":4,"AS":328079,"Description":"TELECEL CENTRAFRIQUE - TELECEL CENTRAFRIQUE","CC":"CF","Users":31906,"Percent of CC Pop":13.79,"Percent of Internet":0.0008,"Samples":19059},
+{"rank":5,"AS":29286,"Description":"SKYLOGIC-AS - SKYLOGIC S.P.A.","CC":"CF","Users":828,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":74},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CF","Users":293,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

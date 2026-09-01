@@ -1,14 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15389,"Description":"Faroese-Telecom-AS - P/F Telefonverkid","CC":"FO","Users":39764,"Percent of CC Pop":80.39,"Percent of Internet":0.0010,"Samples":94480},
-{"rank":2,"AS":20963,"Description":"NEMA - P/F 20.11.19","CC":"FO","Users":14741,"Percent of CC Pop":29.80,"Percent of Internet":0.0004,"Samples":35437},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"FO","Users":196,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":36},
-{"rank":4,"AS":206928,"Description":"pf-elektron - P/F Elektron","CC":"FO","Users":114,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":100},
-{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"FO","Users":74,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":10},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FO","Users":59,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":21}
+{"rank":1,"AS":15389,"Description":"Faroese-Telecom-AS - P/F Telefonverkid","CC":"FO","Users":40154,"Percent of CC Pop":81.18,"Percent of Internet":0.0010,"Samples":93192},
+{"rank":2,"AS":20963,"Description":"NEMA - P/F 20.11.19","CC":"FO","Users":14343,"Percent of CC Pop":29.00,"Percent of Internet":0.0003,"Samples":33441},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"FO","Users":474,"Percent of CC Pop":0.96,"Percent of Internet":0.0000,"Samples":278},
+{"rank":4,"AS":206928,"Description":"pf-elektron - P/F Elektron","CC":"FO","Users":133,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":118},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FO","Users":59,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":25}
   ]
 }

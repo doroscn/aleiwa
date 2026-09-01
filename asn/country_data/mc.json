@@ -1,20 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6758,"Description":"AS6758 - Monaco Telecom S.A.","CC":"MC","Users":33028,"Percent of CC Pop":83.71,"Percent of Internet":0.0008,"Samples":51626},
-{"rank":2,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"MC","Users":1874,"Percent of CC Pop":4.75,"Percent of Internet":0.0000,"Samples":2639},
-{"rank":3,"AS":215730,"Description":"H2NEXUS-AS - H2NEXUS LTD","CC":"MC","Users":919,"Percent of CC Pop":2.33,"Percent of Internet":0.0000,"Samples":952},
-{"rank":4,"AS":12463,"Description":"ASN-SBM - S.A. des Bains de Mer et du Cercle des Etrangers a Monaco","CC":"MC","Users":343,"Percent of CC Pop":0.87,"Percent of Internet":0.0000,"Samples":49},
-{"rank":5,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"MC","Users":326,"Percent of CC Pop":0.83,"Percent of Internet":0.0000,"Samples":238},
-{"rank":6,"AS":13213,"Description":"UK2NET-AS - THG HOSTING LIMITED","CC":"MC","Users":296,"Percent of CC Pop":0.75,"Percent of Internet":0.0000,"Samples":73},
-{"rank":7,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"MC","Users":273,"Percent of CC Pop":0.69,"Percent of Internet":0.0000,"Samples":366},
-{"rank":8,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MC","Users":246,"Percent of CC Pop":0.62,"Percent of Internet":0.0000,"Samples":24},
-{"rank":9,"AS":62240,"Description":"Clouvider - Clouvider Limited","CC":"MC","Users":233,"Percent of CC Pop":0.59,"Percent of Internet":0.0000,"Samples":100},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MC","Users":129,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":44},
-{"rank":11,"AS":48996,"Description":"CHPG-MC - CENTRE HOSPITALIER PRINCESSE GRACE","CC":"MC","Users":99,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":11},
-{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MC","Users":91,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":27}
+{"rank":1,"AS":6758,"Description":"AS6758 - Monaco Telecom S.A.","CC":"MC","Users":33537,"Percent of CC Pop":85.00,"Percent of Internet":0.0008,"Samples":52210},
+{"rank":2,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"MC","Users":1319,"Percent of CC Pop":3.34,"Percent of Internet":0.0000,"Samples":1849},
+{"rank":3,"AS":215730,"Description":"H2NEXUS-AS - H2NEXUS CLOUD SERVICES - FZCO","CC":"MC","Users":912,"Percent of CC Pop":2.31,"Percent of Internet":0.0000,"Samples":980},
+{"rank":4,"AS":12463,"Description":"ASN-SBM - S.A. des Bains de Mer et du Cercle des Etrangers a Monaco","CC":"MC","Users":398,"Percent of CC Pop":1.01,"Percent of Internet":0.0000,"Samples":47},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MC","Users":358,"Percent of CC Pop":0.91,"Percent of Internet":0.0000,"Samples":173},
+{"rank":6,"AS":62240,"Description":"Clouvider - Clouvider Limited","CC":"MC","Users":346,"Percent of CC Pop":0.88,"Percent of Internet":0.0000,"Samples":288},
+{"rank":7,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"MC","Users":309,"Percent of CC Pop":0.78,"Percent of Internet":0.0000,"Samples":197},
+{"rank":8,"AS":13213,"Description":"UK2NET-AS - THG HOSTING LIMITED","CC":"MC","Users":274,"Percent of CC Pop":0.69,"Percent of Internet":0.0000,"Samples":41},
+{"rank":9,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"MC","Users":225,"Percent of CC Pop":0.57,"Percent of Internet":0.0000,"Samples":284},
+{"rank":10,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"MC","Users":119,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":21},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MC","Users":105,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":34},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MC","Users":87,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":28}
   ]
 }

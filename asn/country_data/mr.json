@@ -1,20 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29544,"Description":"Mauritanian Telecommunication Company - Mauritanian Telecommunication Company","CC":"MR","Users":999548,"Percent of CC Pop":82.80,"Percent of Internet":0.0240,"Samples":1373301},
-{"rank":2,"AS":37541,"Description":"Chinguitel S.A - Chinguitel S.A","CC":"MR","Users":129828,"Percent of CC Pop":10.75,"Percent of Internet":0.0031,"Samples":178875},
-{"rank":3,"AS":328997,"Description":"RIMATEL-SA - RIMATEL-SA","CC":"MR","Users":97014,"Percent of CC Pop":8.04,"Percent of Internet":0.0023,"Samples":133055},
-{"rank":4,"AS":37508,"Description":"MATTEL - MATTEL","CC":"MR","Users":89757,"Percent of CC Pop":7.43,"Percent of Internet":0.0022,"Samples":123856},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MR","Users":31937,"Percent of CC Pop":2.65,"Percent of Internet":0.0008,"Samples":43690},
-{"rank":6,"AS":329048,"Description":"NETCOM sa - NETCOM sa","CC":"MR","Users":6573,"Percent of CC Pop":0.54,"Percent of Internet":0.0002,"Samples":9020},
-{"rank":7,"AS":328549,"Description":"SAHEL TELECOM LIBERIA - SAHEL TELECOM LIBERIA","CC":"MR","Users":5757,"Percent of CC Pop":0.48,"Percent of Internet":0.0001,"Samples":7749},
-{"rank":8,"AS":329119,"Description":"PATRIE NETWORK- PATRIE-NET- SA - PATRIE NETWORK- PATRIE-NET- SA","CC":"MR","Users":5148,"Percent of CC Pop":0.43,"Percent of Internet":0.0001,"Samples":6816},
-{"rank":9,"AS":328850,"Description":"Computer Sales & Services (C.S.S-SA) - Computer Sales & Services (C.S.S-SA)","CC":"MR","Users":1414,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":1833},
-{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MR","Users":232,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":79},
-{"rank":11,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"MR","Users":147,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":73},
-{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MR","Users":123,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":24}
+{"rank":1,"AS":29544,"Description":"Mauritanian Telecommunication Company - Mauritanian Telecommunication Company","CC":"MR","Users":1009130,"Percent of CC Pop":83.59,"Percent of Internet":0.0242,"Samples":1324730},
+{"rank":2,"AS":37541,"Description":"Chinguitel S.A - Chinguitel S.A","CC":"MR","Users":130384,"Percent of CC Pop":10.80,"Percent of Internet":0.0031,"Samples":171514},
+{"rank":3,"AS":328997,"Description":"RIMATEL-SA - RIMATEL-SA","CC":"MR","Users":99741,"Percent of CC Pop":8.26,"Percent of Internet":0.0024,"Samples":130609},
+{"rank":4,"AS":37508,"Description":"MATTEL - MATTEL","CC":"MR","Users":89604,"Percent of CC Pop":7.42,"Percent of Internet":0.0021,"Samples":118909},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"MR","Users":34300,"Percent of CC Pop":2.84,"Percent of Internet":0.0008,"Samples":44587},
+{"rank":6,"AS":328549,"Description":"SAHEL TELECOM LIBERIA - SAHEL TELECOM LIBERIA","CC":"MR","Users":6528,"Percent of CC Pop":0.54,"Percent of Internet":0.0002,"Samples":8472},
+{"rank":7,"AS":329048,"Description":"NETCOM sa - NETCOM sa","CC":"MR","Users":6287,"Percent of CC Pop":0.52,"Percent of Internet":0.0002,"Samples":8301},
+{"rank":8,"AS":329119,"Description":"PATRIE NETWORK- PATRIE-NET- SA - PATRIE NETWORK- PATRIE-NET- SA","CC":"MR","Users":5473,"Percent of CC Pop":0.45,"Percent of Internet":0.0001,"Samples":7009},
+{"rank":9,"AS":328850,"Description":"Computer Sales & Services (C.S.S-SA) - Computer Sales & Services (C.S.S-SA)","CC":"MR","Users":1196,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":1518},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"MR","Users":520,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":215},
+{"rank":11,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"MR","Users":142,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":61},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"MR","Users":132,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":26}
   ]
 }

@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":52260,"Description":"AS52260 - Telecommunications de Haiti (Teleco)","CC":"HT","Users":829149,"Percent of CC Pop":58.53,"Percent of Internet":0.0199,"Samples":1435620},
-{"rank":2,"AS":27653,"Description":"AS27653 - Alpha Communications Network","CC":"HT","Users":496793,"Percent of CC Pop":35.07,"Percent of Internet":0.0119,"Samples":861845},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"HT","Users":152618,"Percent of CC Pop":10.77,"Percent of Internet":0.0037,"Samples":266148},
-{"rank":4,"AS":27759,"Description":"AS27759 - ACCESS HAITI S.A.","CC":"HT","Users":31624,"Percent of CC Pop":2.23,"Percent of Internet":0.0008,"Samples":55196},
-{"rank":5,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"HT","Users":205,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":61},
-{"rank":6,"AS":263685,"Description":"AS263685 - SOGEBANK","CC":"HT","Users":98,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":43},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"HT","Users":93,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":47},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"HT","Users":74,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":11}
+{"rank":1,"AS":52260,"Description":"AS52260 - Telecommunications de Haiti (Teleco)","CC":"HT","Users":840626,"Percent of CC Pop":59.34,"Percent of Internet":0.0201,"Samples":1397016},
+{"rank":2,"AS":27653,"Description":"AS27653 - Alpha Communications Network","CC":"HT","Users":478150,"Percent of CC Pop":33.76,"Percent of Internet":0.0115,"Samples":794106},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"HT","Users":158685,"Percent of CC Pop":11.20,"Percent of Internet":0.0038,"Samples":264465},
+{"rank":4,"AS":27759,"Description":"AS27759 - ACCESS HAITI S.A.","CC":"HT","Users":34954,"Percent of CC Pop":2.47,"Percent of Internet":0.0008,"Samples":58488},
+{"rank":5,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"HT","Users":226,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":50},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"HT","Users":122,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":60},
+{"rank":7,"AS":263685,"Description":"AS263685 - SOGEBANK","CC":"HT","Users":107,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":30},
+{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"HT","Users":82,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

@@ -1,22 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":3215,"Description":"AS3215 - Orange S.A.","CC":"GF","Users":98401,"Percent of CC Pop":59.90,"Percent of Internet":0.0024,"Samples":128141},
-{"rank":2,"AS":20776,"Description":"OUTREMER-AS - Outremer Telecom SAS","CC":"GF","Users":50390,"Percent of CC Pop":30.67,"Percent of Internet":0.0012,"Samples":64989},
-{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM - Canal + Telecom SAS","CC":"GF","Users":36967,"Percent of CC Pop":22.50,"Percent of Internet":0.0009,"Samples":40056},
-{"rank":4,"AS":48252,"Description":"DIGICELFWI - DIGICEL ANTILLES FRANCAISES GUYANE SA","CC":"GF","Users":14292,"Percent of CC Pop":8.70,"Percent of Internet":0.0003,"Samples":18481},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GF","Users":9365,"Percent of CC Pop":5.70,"Percent of Internet":0.0002,"Samples":11131},
-{"rank":6,"AS":16028,"Description":"UNSPECIFIED - Orange S.A.","CC":"GF","Users":3109,"Percent of CC Pop":1.89,"Percent of Internet":0.0001,"Samples":1409},
-{"rank":7,"AS":33392,"Description":"DAUPHIN-TELECOM - Dauphin Telecom","CC":"GF","Users":2492,"Percent of CC Pop":1.52,"Percent of Internet":0.0001,"Samples":52},
-{"rank":8,"AS":51110,"Description":"idomtechnologies-as - Idom Technologies SAS","CC":"GF","Users":1777,"Percent of CC Pop":1.08,"Percent of Internet":0.0000,"Samples":1993},
-{"rank":9,"AS":263175,"Description":"AS263175 - GUYACOM","CC":"GF","Users":1232,"Percent of CC Pop":0.75,"Percent of Internet":0.0000,"Samples":1485},
-{"rank":10,"AS":5377,"Description":"MARLINK-EMEA - Marlink AS","CC":"GF","Users":810,"Percent of CC Pop":0.49,"Percent of Internet":0.0000,"Samples":792},
-{"rank":11,"AS":27806,"Description":"AS27806 - WAYSCOM","CC":"GF","Users":644,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":114},
-{"rank":12,"AS":36511,"Description":"NETDT-GUA - Dauphin Telecom Guadeloupe","CC":"GF","Users":200,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":89},
-{"rank":13,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GF","Users":130,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":29},
-{"rank":14,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GF","Users":117,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":31}
+{"rank":1,"AS":3215,"Description":"AS3215 - Orange S.A.","CC":"GF","Users":86405,"Percent of CC Pop":52.60,"Percent of Internet":0.0021,"Samples":86183},
+{"rank":2,"AS":20776,"Description":"OUTREMER-AS - Outremer Telecom SAS","CC":"GF","Users":59232,"Percent of CC Pop":36.06,"Percent of Internet":0.0014,"Samples":60832},
+{"rank":3,"AS":21351,"Description":"CANALPLUSTELECOM - Canal + Telecom SAS","CC":"GF","Users":43488,"Percent of CC Pop":26.47,"Percent of Internet":0.0010,"Samples":39228},
+{"rank":4,"AS":48252,"Description":"DIGICELFWI - DIGICEL ANTILLES FRANCAISES GUYANE SA","CC":"GF","Users":16663,"Percent of CC Pop":10.14,"Percent of Internet":0.0004,"Samples":17211},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GF","Users":12697,"Percent of CC Pop":7.73,"Percent of Internet":0.0003,"Samples":12385},
+{"rank":6,"AS":16028,"Description":"UNSPECIFIED - Orange S.A.","CC":"GF","Users":3259,"Percent of CC Pop":1.98,"Percent of Internet":0.0001,"Samples":1261},
+{"rank":7,"AS":263175,"Description":"AS263175 - GUYACOM","CC":"GF","Users":1962,"Percent of CC Pop":1.19,"Percent of Internet":0.0000,"Samples":1843},
+{"rank":8,"AS":33392,"Description":"DAUPHIN-TELECOM - Dauphin Telecom","CC":"GF","Users":1476,"Percent of CC Pop":0.90,"Percent of Internet":0.0000,"Samples":105},
+{"rank":9,"AS":5377,"Description":"MARLINK-EMEA - Marlink AS","CC":"GF","Users":1063,"Percent of CC Pop":0.65,"Percent of Internet":0.0000,"Samples":519},
+{"rank":10,"AS":51110,"Description":"idomtechnologies-as - Idom Technologies SAS","CC":"GF","Users":772,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":567},
+{"rank":11,"AS":36511,"Description":"NETDT-GUA - Dauphin Telecom Guadeloupe","CC":"GF","Users":262,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":58},
+{"rank":12,"AS":27806,"Description":"AS27806 - WAYSCOM","CC":"GF","Users":185,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":16},
+{"rank":13,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GF","Users":153,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":43},
+{"rank":14,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GF","Users":144,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":31}
   ]
 }

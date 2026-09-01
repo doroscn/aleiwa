@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/07/2026",
+  "Date": "28/08/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BL","Users":4604,"Percent of CC Pop":84.76,"Percent of Internet":0.0001,"Samples":7335},
-{"rank":2,"AS":33392,"Description":"DAUPHIN-TELECOM - Dauphin Telecom","CC":"BL","Users":2691,"Percent of CC Pop":49.54,"Percent of Internet":0.0001,"Samples":2768}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BL","Users":5354,"Percent of CC Pop":98.56,"Percent of Internet":0.0001,"Samples":8114},
+{"rank":2,"AS":33392,"Description":"DAUPHIN-TELECOM - Dauphin Telecom","CC":"BL","Users":2557,"Percent of CC Pop":47.07,"Percent of Internet":0.0001,"Samples":1606}
   ]
 }
