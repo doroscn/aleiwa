@@ -60,12 +60,6 @@
     "index": 150
   },
   {
-    "country_id": "al",
-    "checked_at": "2026-06-06T10:00:08Z",
-    "ip_availability_ratio%": 69.64,
-    "index": 1
-  },
-  {
     "country_id": "bw",
     "checked_at": "2026-06-06T17:03:16Z",
     "ip_availability_ratio%": 66.67,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-09-06T11:54:16Z",
     "ip_availability_ratio%": 69.23,
     "index": 0
+  },
+  {
+    "country_id": "al",
+    "checked_at": "2026-09-06T17:54:48Z",
+    "ip_availability_ratio%": 67.86,
+    "index": 1
   }
 ]
