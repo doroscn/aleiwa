@@ -66,12 +66,6 @@
     "index": 91
   },
   {
-    "country_id": "ht",
-    "checked_at": "2026-06-18T11:47:50Z",
-    "ip_availability_ratio%": 90.00,
-    "index": 85
-  },
-  {
     "country_id": "id",
     "checked_at": "2026-06-18T18:23:02Z",
     "ip_availability_ratio%": 80.32,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-09-18T03:53:38Z",
     "ip_availability_ratio%": 72.22,
     "index": 90
+  },
+  {
+    "country_id": "ht",
+    "checked_at": "2026-09-18T12:39:15Z",
+    "ip_availability_ratio%": 90.00,
+    "index": 85
   }
 ]
