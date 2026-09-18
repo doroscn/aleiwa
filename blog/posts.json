@@ -1,92 +1,101 @@
 [
-   {
-      "date": "2026-05-19",
-      "country": "Iraq",
-      "title": "Nationwide Internet Shutdown During 2026 Examination Periode",
-      "url": "/blog/20260519.html"
-   },
-   {
-      "date": "2026-02-26",
-      "country": "Singapore",
-      "title": "PCCW congestion, US to Singapore packet loss",
-      "url": "/blog/20260226.html"
-    },
-   {
-      "date": "2025-10-30",
-      "country": "Indonesia",
-      "title": "Suspected IIX Jakarta Traffic Outage — October 30 2025",
-      "url": "/blog/20251030-1.html"
-    },
-    {
-      "date": "2025-10-30",
-      "country": "United States",
-      "title": "Microsoft Azure Outage Impacts Global Services — October 30, 2025",
-      "url": "/blog/20251030.html"
-    },
-    {
-      "date": "2025-09-30",
-      "country": "United States",
-      "title": "High Packet Loss on Cogent Routes Between US and Singapore",
-      "url": "/blog/20250930.html"
-    },
-    {
-      "date": "2025-09-29",
-      "country": "Afghanistan",
-      "title": "Afghanistan Nationwide Communication Blackout",
-      "url": "/blog/20250929.html"
-    },
-   {
-      "date": "2025-09-06",
-      "country": "United Arab Emirates",
-      "title": "Red Sea Submarine Cable Cuts (Sep 2025)",
-      "url": "/blog/20250906.html"
-    },
-   {
-      "date": "2025-08-31",
-      "country": "Indonesia",
-      "title": "Indonesia Blocks TikTok Live and Short Videos",
-      "url": "/blog/20250831.html"
-    },
-    {
-      "date": "2025-08-26",
-      "country": "United States",
-      "title": "U.S. East–West Coast Transmission Outage — Causes, Impacts, and Lessons Learned",
-      "url": "/blog/20250826.html"
-    },
-    {
-      "date": "2025-08-20",
-      "country": "China",
-      "title": "TCP/443 Resets Between Mainland China and Non-Mainland Networks",
-      "url": "/blog/20250820.html"
-    },
-    {
-      "date": "2025-08-19",
-      "country": "Pakistan",
-      "title": "Internet Outage: Connectivity Slashed to 20%",
-      "url": "/blog/20250819.html"
-    },
-    {
-      "date": "2025-08-14",
-      "country": "Germany",
-      "title": "Deutsche Telekom, Peering Pricing and Bandwidth Bottlenecks — A Deep Dive",
-      "url": "/blog/20250814.html"
-    },
-    {
-      "date": "2025-08-01",
-      "country": "Iraq",
-      "title": "Iraq’s Nationwide Internet Shutdown During 2025 Examination Period",
-      "url": "/blog/20250801.html"
-    },
-    {
-      "date": "2025-07-28",
-      "country": "Myanmar",
-      "title": "Myanmar’s ISP to Implement International Network Firewall",
-      "url": "/blog/20250728.html"
-    },
-    {
-      "date": "2025-05-16",
-      "country": "Iraq",
-      "title": "Restrictions on Public LDNS IPs in Iraq: Impact and Solutions",
-      "url": "/blog/20250516.html"
-    }
+  {
+    "date": "2026-09-17",
+    "country": "United Kingdom",
+    "title": "Openreach Infrastructure Failure Triggers Internet Outage on Isle of Wight",
+    "url": "/blog/20260917.html",
+    "category": "isp_outage",
+    "confidence": "HIGH",
+    "image": "/images/blog/20260917.svg"
+  },
+  {
+    "date": "2026-05-19",
+    "country": "Iraq",
+    "title": "Nationwide Internet Shutdown During 2026 Examination Periode",
+    "url": "/blog/20260519.html"
+  },
+  {
+    "date": "2026-02-26",
+    "country": "Singapore",
+    "title": "PCCW congestion, US to Singapore packet loss",
+    "url": "/blog/20260226.html"
+  },
+  {
+    "date": "2025-10-30",
+    "country": "Indonesia",
+    "title": "Suspected IIX Jakarta Traffic Outage — October 30 2025",
+    "url": "/blog/20251030-1.html"
+  },
+  {
+    "date": "2025-10-30",
+    "country": "United States",
+    "title": "Microsoft Azure Outage Impacts Global Services — October 30, 2025",
+    "url": "/blog/20251030.html"
+  },
+  {
+    "date": "2025-09-30",
+    "country": "United States",
+    "title": "High Packet Loss on Cogent Routes Between US and Singapore",
+    "url": "/blog/20250930.html"
+  },
+  {
+    "date": "2025-09-29",
+    "country": "Afghanistan",
+    "title": "Afghanistan Nationwide Communication Blackout",
+    "url": "/blog/20250929.html"
+  },
+  {
+    "date": "2025-09-06",
+    "country": "United Arab Emirates",
+    "title": "Red Sea Submarine Cable Cuts (Sep 2025)",
+    "url": "/blog/20250906.html"
+  },
+  {
+    "date": "2025-08-31",
+    "country": "Indonesia",
+    "title": "Indonesia Blocks TikTok Live and Short Videos",
+    "url": "/blog/20250831.html"
+  },
+  {
+    "date": "2025-08-26",
+    "country": "United States",
+    "title": "U.S. East–West Coast Transmission Outage — Causes, Impacts, and Lessons Learned",
+    "url": "/blog/20250826.html"
+  },
+  {
+    "date": "2025-08-20",
+    "country": "China",
+    "title": "TCP/443 Resets Between Mainland China and Non-Mainland Networks",
+    "url": "/blog/20250820.html"
+  },
+  {
+    "date": "2025-08-19",
+    "country": "Pakistan",
+    "title": "Internet Outage: Connectivity Slashed to 20%",
+    "url": "/blog/20250819.html"
+  },
+  {
+    "date": "2025-08-14",
+    "country": "Germany",
+    "title": "Deutsche Telekom, Peering Pricing and Bandwidth Bottlenecks — A Deep Dive",
+    "url": "/blog/20250814.html"
+  },
+  {
+    "date": "2025-08-01",
+    "country": "Iraq",
+    "title": "Iraq’s Nationwide Internet Shutdown During 2025 Examination Period",
+    "url": "/blog/20250801.html"
+  },
+  {
+    "date": "2025-07-28",
+    "country": "Myanmar",
+    "title": "Myanmar’s ISP to Implement International Network Firewall",
+    "url": "/blog/20250728.html"
+  },
+  {
+    "date": "2025-05-16",
+    "country": "Iraq",
+    "title": "Restrictions on Public LDNS IPs in Iraq: Impact and Solutions",
+    "url": "/blog/20250516.html"
+  }
 ]
