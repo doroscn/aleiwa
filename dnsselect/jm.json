@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2022-08-25T15:00:33.14748Z",
     "available": true
   },
@@ -25,7 +25,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2022-08-25T15:53:27.162846Z",
     "available": true
   },
@@ -40,7 +40,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.5734870317002881,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2022-11-17T14:45:15.993761Z",
     "available": false
   },
@@ -55,7 +55,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 0.7871287128712872,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-02-27T10:52:14.535597Z",
     "available": true
   },
@@ -70,7 +70,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-02-28T19:57:36.336937Z",
     "available": false
   },
@@ -85,7 +85,7 @@
     "error": "",
     "dnssec": true,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-13T15:44:10.992225Z",
     "available": false
   },
@@ -100,12 +100,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-13T17:04:02.410681Z",
-    "available": true
+    "available": false
   },
   {
-    "ip": "208.131.166.250",
+    "ip": "208.131.166.242",
     "name": "",
     "as_number": 10292,
     "as_org": "CWJ-1",
@@ -115,9 +115,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-13T19:38:55.918004Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "72.27.53.107",
@@ -130,9 +130,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-14T01:08:30.8376Z",
-    "available": true
+    "available": false
   },
   {
     "ip": "207.204.114.244",
@@ -145,12 +145,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-14T02:49:26.421481Z",
     "available": true
   },
   {
-    "ip": "69.79.197.197",
+    "ip": "69.79.197.195",
     "name": "197-197-79-69-static.flowja.com.",
     "as_number": 10292,
     "as_org": "CWJ-1",
@@ -160,9 +160,9 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-14T03:35:10.153036Z",
-    "available": false
+    "available": true
   },
   {
     "ip": "72.252.214.114",
@@ -175,7 +175,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-14T05:04:40.789618Z",
     "available": true
   },
@@ -190,7 +190,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-14T11:39:03.44887Z",
     "available": false
   },
@@ -205,7 +205,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-14T12:46:36.549775Z",
     "available": true
   },
@@ -220,12 +220,12 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-14T18:09:06.553165Z",
     "available": true
   },
   {
-    "ip": "74.116.58.130",
+    "ip": "74.116.58.142",
     "name": "",
     "as_number": 11580,
     "as_org": "ISLAND-NETWORKS-LTD",
@@ -235,7 +235,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-14T18:39:37.304537Z",
     "available": true
   },
@@ -250,7 +250,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-19T17:49:11Z",
+    "checked_at": "2026-09-20T04:07:12Z",
     "created_at": "2023-03-14T19:01:47.334502Z",
     "available": false
   }
