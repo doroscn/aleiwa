@@ -60,12 +60,6 @@
     "index": 150
   },
   {
-    "country_id": "ke",
-    "checked_at": "2026-06-21T04:43:05Z",
-    "ip_availability_ratio%": 77.86,
-    "index": 102
-  },
-  {
     "country_id": "vu",
     "checked_at": "2026-06-21T11:12:54Z",
     "ip_availability_ratio%": 66.67,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-09-21T04:04:22Z",
     "ip_availability_ratio%": 82.61,
     "index": 101
+  },
+  {
+    "country_id": "ke",
+    "checked_at": "2026-09-21T14:47:49Z",
+    "ip_availability_ratio%": 70.99,
+    "index": 102
   }
 ]
