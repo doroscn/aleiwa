@@ -30,12 +30,6 @@
     "index": 95
   },
   {
-    "country_id": "ms",
-    "checked_at": "2026-05-25T09:47:33Z",
-    "ip_availability_ratio%": 0,
-    "index": 135
-  },
-  {
     "country_id": "nu",
     "checked_at": "2026-05-25T09:49:07Z",
     "ip_availability_ratio%": 0,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-09-21T20:12:55Z",
     "ip_availability_ratio%": 25.00,
     "index": 125
+  },
+  {
+    "country_id": "ms",
+    "checked_at": "2026-09-22T04:01:36Z",
+    "ip_availability_ratio%": 0.00,
+    "index": 135
   }
 ]
