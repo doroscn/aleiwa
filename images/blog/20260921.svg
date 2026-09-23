@@ -36,7 +36,7 @@
       y="180"
       font-family="Arial, sans-serif"
       font-size="34"
-      fill="#5b6875">BACKBONE OUTAGE</text>
+      fill="#5b6875">ISP OUTAGE</text>
 
 <!-- Article title -->
 
@@ -45,14 +45,14 @@
       font-family="Arial, sans-serif"
       font-size="56"
       font-weight="700"
-      fill="#18212b">Intentional Fiber Cut Causes Localized</text>
+      fill="#18212b">Xplore internet outage in Sundre disrupts</text>
 
 <text x="120"
       y="343"
       font-family="Arial, sans-serif"
       font-size="56"
       font-weight="700"
-      fill="#18212b">Internet Outage in South Pittsburgh</text>
+      fill="#18212b">local connectivity</text>
 
 
 <!-- Country -->
@@ -60,7 +60,7 @@
       y="445"
       font-family="Arial, sans-serif"
       font-size="30"
-      fill="#52606d">United States</text>
+      fill="#52606d">Norway</text>
 
 <!-- Separator -->
 <path d="M120 500 H1480"
@@ -69,50 +69,65 @@
 
 <!-- Network topology -->
 
-<circle cx="400" cy="680" r="65"
+<circle cx="800" cy="570" r="55"
         fill="#ffffff"
         stroke="#657786"
         stroke-width="5"/>
-<text x="400" y="687"
+<text x="800" y="577"
+      text-anchor="middle"
+      font-family="Arial, sans-serif"
+      font-size="24"
+      font-weight="600"
+      fill="#18212b">ISP</text>
+
+<circle cx="800" cy="700" r="55"
+        fill="#ffffff"
+        stroke="#657786"
+        stroke-width="5"/>
+<text x="800" y="707"
       text-anchor="middle"
       font-family="Arial, sans-serif"
       font-size="20"
       font-weight="600"
-      fill="#18212b">NETWORK</text>
+      fill="#18212b">LOCAL</text>
 
-<circle cx="800" cy="680" r="65"
+<circle cx="500" cy="790" r="50"
         fill="#ffffff"
         stroke="#657786"
         stroke-width="5"/>
-<text x="800" y="687"
+<text x="500" y="797"
       text-anchor="middle"
       font-family="Arial, sans-serif"
-      font-size="21"
+      font-size="17"
       font-weight="600"
-      fill="#18212b">SERVICE</text>
+      fill="#18212b">BUSINESS</text>
 
-<circle cx="1200" cy="680" r="65"
+<circle cx="1100" cy="790" r="50"
         fill="#ffffff"
         stroke="#657786"
         stroke-width="5"/>
-<text x="1200" y="687"
+<text x="1100" y="797"
       text-anchor="middle"
       font-family="Arial, sans-serif"
-      font-size="22"
+      font-size="18"
       font-weight="600"
       fill="#18212b">USERS</text>
 
-<line x1="465" y1="680"
-      x2="735" y2="680"
+<line x1="800" y1="625"
+      x2="800" y2="645"
       stroke="#657786"
       stroke-width="5"
       marker-end="url(#arrow)"/>
 
-<line x1="865" y1="680"
-      x2="1135" y2="680"
+<line x1="800" y1="755"
+      x2="500" y2="750"
       stroke="#657786"
-      stroke-width="5"
-      marker-end="url(#arrow)"/>
+      stroke-width="5"/>
+
+<line x1="800" y1="755"
+      x2="1100" y2="750"
+      stroke="#657786"
+      stroke-width="5"/>
 
 
 <!-- Footer -->
