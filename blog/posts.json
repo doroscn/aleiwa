@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-09-23",
+    "country": "Ukraine",
+    "title": "Russian Strike on Kyiv Data Center Causes Major Internet Outage",
+    "url": "/blog/20260923.html",
+    "category": "isp_outage",
+    "confidence": "HIGH",
+    "image": "/images/blog/20260923.svg"
+  },
+  {
+    "date": "2026-09-23",
+    "country": "Australia",
+    "title": "Telstra Nationwide Network Outage Traced to Fixable Infrastructure Gaps",
+    "url": "/blog/20260923.html",
+    "category": "backbone_outage",
+    "confidence": "MEDIUM",
+    "image": "/images/blog/20260923.svg"
+  },
+  {
     "date": "2026-09-21",
     "country": "Norway",
     "title": "Xplore internet outage in Sundre disrupts local connectivity",
