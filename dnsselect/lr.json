@@ -1,6 +1,6 @@
 [
   {
-    "ip": "164.160.8.16",
+    "ip": "164.160.8.211",
     "name": "",
     "as_number": 328196,
     "as_org": "POWERNET",
@@ -10,7 +10,7 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-27T17:01:17Z",
+    "checked_at": "2026-09-27T19:26:05Z",
     "created_at": "2023-03-13T03:14:02.59806Z",
     "available": true
   },
@@ -25,8 +25,8 @@
     "error": "",
     "dnssec": false,
     "reliability": 1,
-    "checked_at": "2026-06-27T17:01:17Z",
+    "checked_at": "2026-09-27T19:26:05Z",
     "created_at": "2023-03-14T18:17:12.372812Z",
-    "available": true
+    "available": false
   }
 ]

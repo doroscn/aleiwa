@@ -1,12 +1,39 @@
 [
   {
-    "date": "2026-09-23",
-    "country": "Ukraine",
-    "title": "Russian Strike on Kyiv Data Center Causes Major Internet Outage",
-    "url": "/blog/20260923.html",
-    "category": "isp_outage",
+    "date": "2026-09-28",
+    "country": "Ethiopia",
+    "title": "Internet blackout hits Ethiopia’s Tigray as fighting escalates",
+    "url": "/blog/20260928.html",
+    "category": "internet_shutdown",
     "confidence": "HIGH",
-    "image": "/images/blog/20260923.svg"
+    "image": "/images/blog/20260928.svg"
+  },
+  {
+    "date": "2026-09-27",
+    "country": "Pakistan",
+    "title": "Fiber Optic Cable Cut Disrupts Internet Services in Islamabad and Rawalpindi",
+    "url": "/blog/20260927.html",
+    "category": "backbone_outage",
+    "confidence": "HIGH",
+    "image": "/images/blog/20260927.svg"
+  },
+  {
+    "date": "2026-09-27",
+    "country": "Papua New Guinea",
+    "title": "PNG DataCo Reports Network Outages and International Connectivity Service Degradation",
+    "url": "/blog/20260927-2.html",
+    "category": "backbone_outage",
+    "confidence": "HIGH",
+    "image": "/images/blog/20260927-2.svg"
+  },
+  {
+    "date": "2026-09-26",
+    "country": "Ukraine",
+    "title": "Russian Military Attacks on Ukraine's Telecommunications Infrastructure Continue",
+    "url": "/blog/20260926.html",
+    "category": "Telecom network attack / attempted Internet shutdown",
+    "confidence": "MEDIUM",
+    "image": "/images/blog/20260926.svg"
   },
   {
     "date": "2026-09-23",
@@ -16,6 +43,24 @@
     "category": "backbone_outage",
     "confidence": "MEDIUM",
     "image": "/images/blog/20260923.svg"
+  },
+  {
+    "date": "2026-09-23",
+    "country": "Ukraine",
+    "title": "Kyiv Data Center Struck in Attacks, Leaving 100,000 Subscribers Without Internet",
+    "url": "/blog/20260923-2.html",
+    "category": "isp_outage",
+    "confidence": "HIGH",
+    "image": "/images/blog/20260923-2.svg"
+  },
+  {
+    "date": "2026-09-23",
+    "country": "Australia",
+    "title": "Technical Post-Mortem Highlights Core Operational Gaps in Telstra Outage",
+    "url": "/blog/20260923-3.html",
+    "category": "isp_outage",
+    "confidence": "HIGH",
+    "image": "/images/blog/20260923-3.svg"
   },
   {
     "date": "2026-09-21",

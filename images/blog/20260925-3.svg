@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1600"
+     height="900"
+     viewBox="0 0 1600 900">
+
+<defs>
+    <marker id="arrow"
+            markerWidth="10"
+            markerHeight="10"
+            refX="8"
+            refY="5"
+            orient="auto"
+            markerUnits="strokeWidth">
+        <path d="M0,0 L10,5 L0,10 z"
+              fill="#657786"/>
+    </marker>
+</defs>
+
+<!-- Background -->
+<rect width="1600"
+      height="900"
+      fill="#f4f7fa"/>
+
+<!-- Main card -->
+<rect x="70"
+      y="70"
+      width="1460"
+      height="760"
+      rx="30"
+      fill="#ffffff"
+      stroke="#d9e1e8"
+      stroke-width="3"/>
+
+<!-- Event type -->
+<text x="120"
+      y="180"
+      font-family="Arial, sans-serif"
+      font-size="34"
+      fill="#5b6875">NATIONAL/REGIONAL INTERNET SHUTDOWN</text>
+
+<!-- Article title -->
+
+<text x="120"
+      y="265"
+      font-family="Arial, sans-serif"
+      font-size="56"
+      font-weight="700"
+      fill="#18212b">Reported Total Internet Blackout in</text>
+
+<text x="120"
+      y="343"
+      font-family="Arial, sans-serif"
+      font-size="56"
+      font-weight="700"
+      fill="#18212b">Northern Ethiopia&#x27;s Tigray Region Amid...</text>
+
+
+<!-- Country -->
+<text x="120"
+      y="445"
+      font-family="Arial, sans-serif"
+      font-size="30"
+      fill="#52606d">Ethiopia</text>
+
+<!-- Separator -->
+<path d="M120 500 H1480"
+      stroke="#d9e1e8"
+      stroke-width="3"/>
+
+<!-- Network topology -->
+
+<circle cx="400" cy="680" r="65"
+        fill="#ffffff"
+        stroke="#657786"
+        stroke-width="5"/>
+<text x="400" y="687"
+      text-anchor="middle"
+      font-family="Arial, sans-serif"
+      font-size="20"
+      font-weight="600"
+      fill="#18212b">NETWORK</text>
+
+<circle cx="800" cy="680" r="65"
+        fill="#ffffff"
+        stroke="#657786"
+        stroke-width="5"/>
+<text x="800" y="687"
+      text-anchor="middle"
+      font-family="Arial, sans-serif"
+      font-size="21"
+      font-weight="600"
+      fill="#18212b">SERVICE</text>
+
+<circle cx="1200" cy="680" r="65"
+        fill="#ffffff"
+        stroke="#657786"
+        stroke-width="5"/>
+<text x="1200" y="687"
+      text-anchor="middle"
+      font-family="Arial, sans-serif"
+      font-size="22"
+      font-weight="600"
+      fill="#18212b">USERS</text>
+
+<line x1="465" y1="680"
+      x2="735" y2="680"
+      stroke="#657786"
+      stroke-width="5"
+      marker-end="url(#arrow)"/>
+
+<line x1="865" y1="680"
+      x2="1135" y2="680"
+      stroke="#657786"
+      stroke-width="5"
+      marker-end="url(#arrow)"/>
+
+
+<!-- Footer -->
+<text x="120"
+      y="875"
+      font-family="Arial, sans-serif"
+      font-size="24"
+      fill="#7a8793">Aleiwa Network Tools</text>
+
+</svg>
