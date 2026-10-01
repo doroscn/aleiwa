@@ -1,10 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ER","Users":47234,"Percent of CC Pop":89.72,"Percent of Internet":0.0011,"Samples":2485},
-{"rank":2,"AS":30987,"Description":"Eritrea Telecommunication Service corporation (EriTel) - Eritrea Telecommunication Service corporation (EriTel)","CC":"ER","Users":20589,"Percent of CC Pop":39.11,"Percent of Internet":0.0005,"Samples":199}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"ER","Users":47590,"Percent of CC Pop":90.40,"Percent of Internet":0.0011,"Samples":2156},
+{"rank":2,"AS":30987,"Description":"Eritrea Telecommunication Service corporation (EriTel) - Eritrea Telecommunication Service corporation (EriTel)","CC":"ER","Users":18835,"Percent of CC Pop":35.78,"Percent of Internet":0.0005,"Samples":214}
   ]
 }

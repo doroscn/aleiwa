@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":20661,"Description":"TurkmenTelecom-AS - State Company of Electro Communications Turkmentelecom","CC":"TM","Users":1285966,"Percent of CC Pop":78.38,"Percent of Internet":0.0308,"Samples":8876},
-{"rank":2,"AS":51495,"Description":"AGTS-AS - Telephone Network of Ashgabat CJSC","CC":"TM","Users":292596,"Percent of CC Pop":17.83,"Percent of Internet":0.0070,"Samples":2340},
-{"rank":3,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"TM","Users":193363,"Percent of CC Pop":11.79,"Percent of Internet":0.0046,"Samples":1159},
-{"rank":4,"AS":59974,"Description":"TMCELL-NET - Altyn Asyr CJSC","CC":"TM","Users":143964,"Percent of CC Pop":8.78,"Percent of Internet":0.0034,"Samples":919},
-{"rank":5,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"TM","Users":124530,"Percent of CC Pop":7.59,"Percent of Internet":0.0030,"Samples":45},
-{"rank":6,"AS":205471,"Description":"CDMA-AGTS-AS - Telephone Network of Ashgabat City CJSC","CC":"TM","Users":59631,"Percent of CC Pop":3.63,"Percent of Internet":0.0014,"Samples":151},
-{"rank":7,"AS":204579,"Description":"TH - Turkmen hemrasi CJSC","CC":"TM","Users":30590,"Percent of CC Pop":1.86,"Percent of Internet":0.0007,"Samples":40},
-{"rank":8,"AS":215487,"Description":"Tehnomerkez - Tehno Merkez CJSC","CC":"TM","Users":23022,"Percent of CC Pop":1.40,"Percent of Internet":0.0006,"Samples":14}
+{"rank":1,"AS":20661,"Description":"TurkmenTelecom-AS - State Company of Electro Communications Turkmentelecom","CC":"TM","Users":1316416,"Percent of CC Pop":80.24,"Percent of Internet":0.0315,"Samples":9823},
+{"rank":2,"AS":51495,"Description":"AGTS-AS - Telephone Network of Ashgabat CJSC","CC":"TM","Users":265273,"Percent of CC Pop":16.17,"Percent of Internet":0.0064,"Samples":2126},
+{"rank":3,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"TM","Users":201405,"Percent of CC Pop":12.28,"Percent of Internet":0.0048,"Samples":1568},
+{"rank":4,"AS":59974,"Description":"TMCELL-NET - Altyn Asyr CJSC","CC":"TM","Users":132503,"Percent of CC Pop":8.08,"Percent of Internet":0.0032,"Samples":916},
+{"rank":5,"AS":205471,"Description":"CDMA-AGTS-AS - Telephone Network of Ashgabat City CJSC","CC":"TM","Users":54272,"Percent of CC Pop":3.31,"Percent of Internet":0.0013,"Samples":127},
+{"rank":6,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"TM","Users":40786,"Percent of CC Pop":2.49,"Percent of Internet":0.0010,"Samples":24},
+{"rank":7,"AS":213541,"Description":"ws-telecom-sdn - WS Telecom Inc","CC":"TM","Users":24570,"Percent of CC Pop":1.50,"Percent of Internet":0.0006,"Samples":12},
+{"rank":8,"AS":204579,"Description":"TH - Turkmen hemrasi CJSC","CC":"TM","Users":19390,"Percent of CC Pop":1.18,"Percent of Internet":0.0005,"Samples":32}
   ]
 }

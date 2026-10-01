@@ -1,13 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15433,"Description":"Tism - Telecom Italia San Marino S.p.A","CC":"SM","Users":16988,"Percent of CC Pop":91.03,"Percent of Internet":0.0004,"Samples":54572},
-{"rank":2,"AS":196874,"Description":"TELENET-RSM - Telenet S.r.l.","CC":"SM","Users":1417,"Percent of CC Pop":7.59,"Percent of Internet":0.0000,"Samples":4412},
-{"rank":3,"AS":212841,"Description":"SM-AASS - A.A.S.S. Azienda Autonoma di Stato per i Servizi Pubblici","CC":"SM","Users":101,"Percent of CC Pop":0.54,"Percent of Internet":0.0000,"Samples":107},
+{"rank":1,"AS":15433,"Description":"Tism - Telecom Italia San Marino S.p.A","CC":"SM","Users":16789,"Percent of CC Pop":89.96,"Percent of Internet":0.0004,"Samples":51285},
+{"rank":2,"AS":196874,"Description":"TELENET-RSM - Telenet S.r.l.","CC":"SM","Users":1615,"Percent of CC Pop":8.65,"Percent of Internet":0.0000,"Samples":4770},
+{"rank":3,"AS":212841,"Description":"SM-AASS - A.A.S.S. Azienda Autonoma di Stato per i Servizi Pubblici","CC":"SM","Users":101,"Percent of CC Pop":0.54,"Percent of Internet":0.0000,"Samples":89},
 {"rank":4,"AS":213557,"Description":"Underscore - Underscore S.r.l.","CC":"SM","Users":95,"Percent of CC Pop":0.51,"Percent of Internet":0.0000,"Samples":11},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SM","Users":45,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":18}
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SM","Users":45,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":24}
   ]
 }

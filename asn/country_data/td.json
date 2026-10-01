@@ -1,22 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TD","Users":651556,"Percent of CC Pop":42.81,"Percent of Internet":0.0156,"Samples":318691},
-{"rank":2,"AS":327802,"Description":"MILLICOM CHAD SA - MILLICOM CHAD SA","CC":"TD","Users":616537,"Percent of CC Pop":40.51,"Percent of Internet":0.0148,"Samples":304626},
-{"rank":3,"AS":327756,"Description":"AIRTEL TCHAD - AIRTEL TCHAD","CC":"TD","Users":598419,"Percent of CC Pop":39.32,"Percent of Internet":0.0143,"Samples":294710},
-{"rank":4,"AS":327975,"Description":"ILNET TELECOM GROUP SARL - ILNET TELECOM GROUP SARL","CC":"TD","Users":13899,"Percent of CC Pop":0.91,"Percent of Internet":0.0003,"Samples":6788},
-{"rank":5,"AS":328594,"Description":"Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA) - Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA)","CC":"TD","Users":3210,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":1533},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TD","Users":2713,"Percent of CC Pop":0.18,"Percent of Internet":0.0001,"Samples":144},
-{"rank":7,"AS":327864,"Description":"AlbideyNet - AlbideyNet","CC":"TD","Users":2077,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":971},
-{"rank":8,"AS":329207,"Description":"NADIF BUSINESS SERVICE SARL - NADIF BUSINESS SERVICE SARL","CC":"TD","Users":1254,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":503},
-{"rank":9,"AS":37462,"Description":"PRESTABIST - PRESTABIST","CC":"TD","Users":1234,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":421},
-{"rank":10,"AS":328310,"Description":"Global Tel Sarl - Global Tel Sarl","CC":"TD","Users":858,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":181},
-{"rank":11,"AS":328604,"Description":"Societe 'Sahel Tele Internet' SA/AG - Societe 'Sahel Tele Internet' SA/AG","CC":"TD","Users":648,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":126},
-{"rank":12,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"TD","Users":446,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":16},
-{"rank":13,"AS":328599,"Description":"SociA(c)tA(c) Amanet SARL - SociA(c)tA(c) Amanet SARL","CC":"TD","Users":436,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":25},
-{"rank":14,"AS":136787,"Description":"PACKETHUBSA-AS-AP - PacketHub S.A.","CC":"TD","Users":414,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":29}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TD","Users":680487,"Percent of CC Pop":44.71,"Percent of Internet":0.0163,"Samples":324777},
+{"rank":2,"AS":327802,"Description":"MILLICOM CHAD SA - MILLICOM CHAD SA","CC":"TD","Users":625484,"Percent of CC Pop":41.09,"Percent of Internet":0.0150,"Samples":302262},
+{"rank":3,"AS":327756,"Description":"AIRTEL TCHAD - AIRTEL TCHAD","CC":"TD","Users":608807,"Percent of CC Pop":40.00,"Percent of Internet":0.0146,"Samples":292497},
+{"rank":4,"AS":327975,"Description":"ILNET TELECOM GROUP SARL - ILNET TELECOM GROUP SARL","CC":"TD","Users":15266,"Percent of CC Pop":1.00,"Percent of Internet":0.0004,"Samples":7292},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TD","Users":3404,"Percent of CC Pop":0.22,"Percent of Internet":0.0001,"Samples":453},
+{"rank":6,"AS":328594,"Description":"Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA) - Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA)","CC":"TD","Users":2874,"Percent of CC Pop":0.19,"Percent of Internet":0.0001,"Samples":1376},
+{"rank":7,"AS":327864,"Description":"AlbideyNet - AlbideyNet","CC":"TD","Users":2121,"Percent of CC Pop":0.14,"Percent of Internet":0.0001,"Samples":979},
+{"rank":8,"AS":329207,"Description":"NADIF BUSINESS SERVICE SARL - NADIF BUSINESS SERVICE SARL","CC":"TD","Users":1352,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":546},
+{"rank":9,"AS":37462,"Description":"PRESTABIST - PRESTABIST","CC":"TD","Users":1161,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":439},
+{"rank":10,"AS":328310,"Description":"Global Tel Sarl - Global Tel Sarl","CC":"TD","Users":727,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":139},
+{"rank":11,"AS":328604,"Description":"Societe 'Sahel Tele Internet' SA/AG - Societe 'Sahel Tele Internet' SA/AG","CC":"TD","Users":692,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":97},
+{"rank":12,"AS":136787,"Description":"PACKETHUBSA-AS-AP - PacketHub S.A.","CC":"TD","Users":466,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":23},
+{"rank":13,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"TD","Users":360,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":35}
   ]
 }

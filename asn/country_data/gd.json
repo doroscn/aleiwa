@@ -1,17 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":46650,"Description":"ASN46650-CCGL - Columbus Communications Grenada Ltd.","CC":"GD","Users":67295,"Percent of CC Pop":92.97,"Percent of Internet":0.0016,"Samples":181534},
-{"rank":2,"AS":395561,"Description":"DIGICEL-GRENADA - Digicel St.Lucia Ltd","CC":"GD","Users":13876,"Percent of CC Pop":19.17,"Percent of Internet":0.0003,"Samples":37019},
-{"rank":3,"AS":23520,"Description":"LIBERTY-NETWORKS - Columbus Networks USA, Inc.","CC":"GD","Users":2806,"Percent of CC Pop":3.88,"Percent of Internet":0.0001,"Samples":666},
+{"rank":1,"AS":46650,"Description":"ASN46650-CCGL - Columbus Communications Grenada Ltd.","CC":"GD","Users":67305,"Percent of CC Pop":92.99,"Percent of Internet":0.0016,"Samples":169915},
+{"rank":2,"AS":395561,"Description":"DIGICEL-GRENADA - Digicel St.Lucia Ltd","CC":"GD","Users":13950,"Percent of CC Pop":19.27,"Percent of Internet":0.0003,"Samples":34661},
+{"rank":3,"AS":23520,"Description":"LIBERTY-NETWORKS - Columbus Networks USA, Inc.","CC":"GD","Users":3436,"Percent of CC Pop":4.75,"Percent of Internet":0.0001,"Samples":2141},
 {"rank":4,"AS":393629,"Description":"GDGR - Green Dot Grenada Ltd","CC":"GD","Users":1663,"Percent of CC Pop":2.30,"Percent of Internet":0.0000,"Samples":956},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GD","Users":589,"Percent of CC Pop":0.81,"Percent of Internet":0.0000,"Samples":1285},
-{"rank":6,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications (Barbados) Limited","CC":"GD","Users":251,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":402},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GD","Users":197,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":412},
-{"rank":8,"AS":30272,"Description":"GOG-ASN1-GND - Government of Grenada","CC":"GD","Users":155,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":146},
-{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GD","Users":68,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":19}
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GD","Users":746,"Percent of CC Pop":1.03,"Percent of Internet":0.0000,"Samples":1588},
+{"rank":6,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications (Barbados) Limited","CC":"GD","Users":257,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":330},
+{"rank":7,"AS":30272,"Description":"GOG-ASN1-GND - Government of Grenada","CC":"GD","Users":157,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":135},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GD","Users":157,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":304},
+{"rank":9,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GD","Users":89,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":33}
   ]
 }

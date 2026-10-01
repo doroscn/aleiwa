@@ -1,9 +1,9 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":131279,"Description":"STAR-KP - Ryugyong-dong","CC":"KP","Users":52775,"Percent of CC Pop":102.36,"Percent of Internet":0.0013,"Samples":45}
+{"rank":1,"AS":131279,"Description":"STAR-KP - Ryugyong-dong","CC":"KP","Users":52782,"Percent of CC Pop":102.38,"Percent of Internet":0.0013,"Samples":48}
   ]
 }

@@ -1,11 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TV","Users":4193,"Percent of CC Pop":64.20,"Percent of Internet":0.0001,"Samples":8669},
-{"rank":2,"AS":23917,"Description":"TTC-AS-AP - Tuvalu Telecommunications Corporation","CC":"TV","Users":2289,"Percent of CC Pop":35.05,"Percent of Internet":0.0001,"Samples":5059},
-{"rank":3,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TV","Users":106,"Percent of CC Pop":1.62,"Percent of Internet":0.0000,"Samples":20}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TV","Users":4113,"Percent of CC Pop":62.98,"Percent of Internet":0.0001,"Samples":8453},
+{"rank":2,"AS":23917,"Description":"TTC-AS-AP - Tuvalu Telecommunications Corporation","CC":"TV","Users":2405,"Percent of CC Pop":36.82,"Percent of Internet":0.0001,"Samples":5255},
+{"rank":3,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"TV","Users":131,"Percent of CC Pop":2.01,"Percent of Internet":0.0000,"Samples":14},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TV","Users":58,"Percent of CC Pop":0.89,"Percent of Internet":0.0000,"Samples":15}
   ]
 }

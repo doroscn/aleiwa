@@ -1,17 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":56089,"Description":"OFFRATEL-AS-AP - OFFRATEL","CC":"NC","Users":88823,"Percent of CC Pop":33.88,"Percent of Internet":0.0021,"Samples":116430},
-{"rank":2,"AS":17480,"Description":"CANL - CANL","CC":"NC","Users":60326,"Percent of CC Pop":23.01,"Percent of Internet":0.0014,"Samples":78762},
-{"rank":3,"AS":18200,"Description":"OPT-NC-AS-AP - Office des Postes et Telecommunications New-Caledonia","CC":"NC","Users":56549,"Percent of CC Pop":21.57,"Percent of Internet":0.0014,"Samples":74652},
-{"rank":4,"AS":56055,"Description":"MLS-NC - Micro Logic Systems","CC":"NC","Users":46863,"Percent of CC Pop":17.87,"Percent of Internet":0.0011,"Samples":62024},
-{"rank":5,"AS":45345,"Description":"NAUTILE-NC-AS-AP - Nautile","CC":"NC","Users":21418,"Percent of CC Pop":8.17,"Percent of Internet":0.0005,"Samples":28643},
-{"rank":6,"AS":45461,"Description":"TELENET-AS-AP - TeleNet","CC":"NC","Users":2694,"Percent of CC Pop":1.03,"Percent of Internet":0.0001,"Samples":3502},
-{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NC","Users":2161,"Percent of CC Pop":0.82,"Percent of Internet":0.0001,"Samples":2853},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"NC","Users":112,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":25},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NC","Users":101,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":33}
+{"rank":1,"AS":56089,"Description":"OFFRATEL-AS-AP - OFFRATEL","CC":"NC","Users":91783,"Percent of CC Pop":35.01,"Percent of Internet":0.0022,"Samples":101870},
+{"rank":2,"AS":17480,"Description":"CANL - CANL","CC":"NC","Users":63129,"Percent of CC Pop":24.08,"Percent of Internet":0.0015,"Samples":69889},
+{"rank":3,"AS":18200,"Description":"OPT-NC-AS-AP - Office des Postes et Telecommunications New-Caledonia","CC":"NC","Users":55483,"Percent of CC Pop":21.16,"Percent of Internet":0.0013,"Samples":63312},
+{"rank":4,"AS":56055,"Description":"MLS-NC - Micro Logic Systems","CC":"NC","Users":45109,"Percent of CC Pop":17.20,"Percent of Internet":0.0011,"Samples":50944},
+{"rank":5,"AS":45345,"Description":"NAUTILE-NC-AS-AP - Nautile","CC":"NC","Users":20618,"Percent of CC Pop":7.86,"Percent of Internet":0.0005,"Samples":23035},
+{"rank":6,"AS":45461,"Description":"TELENET-AS-AP - TeleNet","CC":"NC","Users":2788,"Percent of CC Pop":1.06,"Percent of Internet":0.0001,"Samples":3019},
+{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NC","Users":2175,"Percent of CC Pop":0.83,"Percent of Internet":0.0001,"Samples":2632},
+{"rank":8,"AS":147030,"Description":"MYNET-AS-AP - Mynet","CC":"NC","Users":262,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":13},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NC","Users":122,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":31},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"NC","Users":119,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":22}
   ]
 }

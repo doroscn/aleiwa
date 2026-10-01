@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CF","Users":112851,"Percent of CC Pop":48.76,"Percent of Internet":0.0027,"Samples":67746},
-{"rank":2,"AS":37460,"Description":"Orange Centreafrique - Orange Centreafrique","CC":"CF","Users":109248,"Percent of CC Pop":47.21,"Percent of Internet":0.0026,"Samples":65517},
-{"rank":3,"AS":329274,"Description":"Atlantique TELECOM CAR - Atlantique TELECOM CAR","CC":"CF","Users":50950,"Percent of CC Pop":22.02,"Percent of Internet":0.0012,"Samples":29798},
-{"rank":4,"AS":328079,"Description":"TELECEL CENTRAFRIQUE - TELECEL CENTRAFRIQUE","CC":"CF","Users":31906,"Percent of CC Pop":13.79,"Percent of Internet":0.0008,"Samples":19059},
-{"rank":5,"AS":29286,"Description":"SKYLOGIC-AS - SKYLOGIC S.P.A.","CC":"CF","Users":828,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":74},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CF","Users":293,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":13}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CF","Users":114007,"Percent of CC Pop":49.26,"Percent of Internet":0.0027,"Samples":70692},
+{"rank":2,"AS":37460,"Description":"Orange Centreafrique - Orange Centreafrique","CC":"CF","Users":109668,"Percent of CC Pop":47.39,"Percent of Internet":0.0026,"Samples":68691},
+{"rank":3,"AS":329274,"Description":"Atlantique TELECOM CAR - Atlantique TELECOM CAR","CC":"CF","Users":49502,"Percent of CC Pop":21.39,"Percent of Internet":0.0012,"Samples":30678},
+{"rank":4,"AS":328079,"Description":"TELECEL CENTRAFRIQUE - TELECEL CENTRAFRIQUE","CC":"CF","Users":32912,"Percent of CC Pop":14.22,"Percent of Internet":0.0008,"Samples":20350},
+{"rank":5,"AS":29286,"Description":"SKYLOGIC-AS - SKYLOGIC S.P.A.","CC":"CF","Users":906,"Percent of CC Pop":0.39,"Percent of Internet":0.0000,"Samples":65},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CF","Users":339,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":36}
   ]
 }

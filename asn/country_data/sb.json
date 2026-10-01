@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":45891,"Description":"SBT-AS-AP - Solomon Telekom Co Ltd","CC":"SB","Users":82529,"Percent of CC Pop":88.21,"Percent of Internet":0.0020,"Samples":84233},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SB","Users":22510,"Percent of CC Pop":24.06,"Percent of Internet":0.0005,"Samples":22682},
-{"rank":3,"AS":132468,"Description":"SATSOL-NET-SB - SATSOL LIMITED","CC":"SB","Users":2580,"Percent of CC Pop":2.76,"Percent of Internet":0.0001,"Samples":2675},
-{"rank":4,"AS":139609,"Description":"SISCC-AS-AP - Solomon Islands Submarine Cable Company","CC":"SB","Users":627,"Percent of CC Pop":0.67,"Percent of Internet":0.0000,"Samples":325},
-{"rank":5,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"SB","Users":513,"Percent of CC Pop":0.55,"Percent of Internet":0.0000,"Samples":22},
-{"rank":6,"AS":132462,"Description":"BEMOBILESI-AS-AP - Bemobile Solomon Islands Ltd","CC":"SB","Users":324,"Percent of CC Pop":0.35,"Percent of Internet":0.0000,"Samples":128},
-{"rank":7,"AS":134525,"Description":"SBT-AS-AP - Solomon Telekom Co Ltd","CC":"SB","Users":298,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":122},
-{"rank":8,"AS":150349,"Description":"PVEL-AS-AP - Pacific Vaizeds Enterprise Ltd","CC":"SB","Users":123,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":14}
+{"rank":1,"AS":45891,"Description":"SBT-AS-AP - Solomon Telekom Co Ltd","CC":"SB","Users":84267,"Percent of CC Pop":90.07,"Percent of Internet":0.0020,"Samples":86451},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SB","Users":21682,"Percent of CC Pop":23.17,"Percent of Internet":0.0005,"Samples":22083},
+{"rank":3,"AS":132468,"Description":"SATSOL-NET-SB - SATSOL LIMITED","CC":"SB","Users":2833,"Percent of CC Pop":3.03,"Percent of Internet":0.0001,"Samples":2931},
+{"rank":4,"AS":139609,"Description":"SISCC-AS-AP - Solomon Islands Submarine Cable Company","CC":"SB","Users":666,"Percent of CC Pop":0.71,"Percent of Internet":0.0000,"Samples":374},
+{"rank":5,"AS":135409,"Description":"KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd","CC":"SB","Users":404,"Percent of CC Pop":0.43,"Percent of Internet":0.0000,"Samples":25},
+{"rank":6,"AS":132462,"Description":"BEMOBILESI-AS-AP - Bemobile Solomon Islands Ltd","CC":"SB","Users":250,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":83},
+{"rank":7,"AS":134525,"Description":"SBT-AS-AP - Solomon Telekom Co Ltd","CC":"SB","Users":200,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":92},
+{"rank":8,"AS":150349,"Description":"PVEL-AS-AP - Pacific Vaizeds Enterprise Ltd","CC":"SB","Users":118,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":14}
   ]
 }

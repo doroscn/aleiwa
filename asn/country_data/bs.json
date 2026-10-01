@@ -1,22 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15146,"Description":"CABLEBAHAMAS - Cable Bahamas","CC":"BS","Users":234119,"Percent of CC Pop":64.45,"Percent of Internet":0.0056,"Samples":419267},
-{"rank":2,"AS":8014,"Description":"BATELNET - Bahamas Telecommunications Corporation","CC":"BS","Users":112571,"Percent of CC Pop":30.99,"Percent of Internet":0.0027,"Samples":201968},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BS","Users":37486,"Percent of CC Pop":10.32,"Percent of Internet":0.0009,"Samples":66790},
-{"rank":4,"AS":397972,"Description":"CTF-BM-LTD - Baha Mar","CC":"BS","Users":2770,"Percent of CC Pop":0.76,"Percent of Internet":0.0001,"Samples":5047},
-{"rank":5,"AS":209854,"Description":"Cyberzonehub - Cyberzone S.A.","CC":"BS","Users":1090,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":1848},
-{"rank":6,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"BS","Users":960,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":1297},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BS","Users":692,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":541},
-{"rank":8,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"BS","Users":594,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":640},
-{"rank":9,"AS":262287,"Description":"AS262287 - Latitude.sh LTDA","CC":"BS","Users":574,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":659},
-{"rank":10,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"BS","Users":545,"Percent of CC Pop":0.15,"Percent of Internet":0.0000,"Samples":872},
-{"rank":11,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"BS","Users":457,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":792},
-{"rank":12,"AS":203724,"Description":"MGG4-AS1 - Musarubra Germany GmbH","CC":"BS","Users":188,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":50},
+{"rank":1,"AS":15146,"Description":"CABLEBAHAMAS - Cable Bahamas","CC":"BS","Users":239021,"Percent of CC Pop":65.80,"Percent of Internet":0.0057,"Samples":402807},
+{"rank":2,"AS":8014,"Description":"BATELNET - Bahamas Telecommunications Corporation","CC":"BS","Users":110197,"Percent of CC Pop":30.33,"Percent of Internet":0.0026,"Samples":186855},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BS","Users":35743,"Percent of CC Pop":9.84,"Percent of Internet":0.0009,"Samples":60381},
+{"rank":4,"AS":397972,"Description":"CTF-BM-LTD - Baha Mar","CC":"BS","Users":2949,"Percent of CC Pop":0.81,"Percent of Internet":0.0001,"Samples":4950},
+{"rank":5,"AS":209854,"Description":"Cyberzonehub - Cyberzone S.A.","CC":"BS","Users":1190,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":1961},
+{"rank":6,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"BS","Users":811,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":1183},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BS","Users":805,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":711},
+{"rank":8,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"BS","Users":787,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":978},
+{"rank":9,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"BS","Users":693,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":825},
+{"rank":10,"AS":262287,"Description":"AS262287 - Latitude.sh LTDA","CC":"BS","Users":513,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":535},
+{"rank":11,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"BS","Users":505,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":818},
+{"rank":12,"AS":203724,"Description":"MGG4-AS1 - Musarubra Germany GmbH","CC":"BS","Users":194,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":42},
 {"rank":13,"AS":397914,"Description":"AS-CBL-152 - Commonwealth Bank Ltd","CC":"BS","Users":116,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":16},
-{"rank":14,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"BS","Users":114,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":65}
+{"rank":14,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"BS","Users":104,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":51}
   ]
 }

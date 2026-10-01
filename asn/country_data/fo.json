@@ -1,13 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15389,"Description":"Faroese-Telecom-AS - P/F Telefonverkid","CC":"FO","Users":40154,"Percent of CC Pop":81.18,"Percent of Internet":0.0010,"Samples":93192},
-{"rank":2,"AS":20963,"Description":"NEMA - P/F 20.11.19","CC":"FO","Users":14343,"Percent of CC Pop":29.00,"Percent of Internet":0.0003,"Samples":33441},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"FO","Users":474,"Percent of CC Pop":0.96,"Percent of Internet":0.0000,"Samples":278},
-{"rank":4,"AS":206928,"Description":"pf-elektron - P/F Elektron","CC":"FO","Users":133,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":118},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FO","Users":59,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":25}
+{"rank":1,"AS":15389,"Description":"Faroese-Telecom-AS - P/F Telefonverkid","CC":"FO","Users":40294,"Percent of CC Pop":81.46,"Percent of Internet":0.0010,"Samples":89558},
+{"rank":2,"AS":20963,"Description":"NEMA - P/F 20.11.19","CC":"FO","Users":14113,"Percent of CC Pop":28.53,"Percent of Internet":0.0003,"Samples":31581},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"FO","Users":527,"Percent of CC Pop":1.07,"Percent of Internet":0.0000,"Samples":486},
+{"rank":4,"AS":206928,"Description":"pf-elektron - P/F Elektron","CC":"FO","Users":142,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":126},
+{"rank":5,"AS":209175,"Description":"Kringvarp_Foroya - Kringvarp Foroya","CC":"FO","Users":69,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":10},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"FO","Users":66,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":35},
+{"rank":7,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"FO","Users":51,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

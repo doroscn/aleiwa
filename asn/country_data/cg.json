@@ -1,19 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37463,"Description":"MTN CONGO - MTN CONGO","CC":"CG","Users":185955,"Percent of CC Pop":34.58,"Percent of Internet":0.0045,"Samples":372620},
-{"rank":2,"AS":36924,"Description":"GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS","CC":"CG","Users":185073,"Percent of CC Pop":34.42,"Percent of Internet":0.0044,"Samples":365276},
-{"rank":3,"AS":37451,"Description":"CONGO TELECOM - CONGO TELECOM","CC":"CG","Users":158051,"Percent of CC Pop":29.39,"Percent of Internet":0.0038,"Samples":314717},
-{"rank":4,"AS":37550,"Description":"Airtel Congo S.A - Airtel Congo S.A","CC":"CG","Users":110467,"Percent of CC Pop":20.54,"Percent of Internet":0.0026,"Samples":220625},
-{"rank":5,"AS":328857,"Description":"SILICONE CONNECT - SILICONE CONNECT","CC":"CG","Users":1221,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":2385},
-{"rank":6,"AS":327829,"Description":"SKYTIC TELECOM - SKYTIC TELECOM","CC":"CG","Users":1144,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":2297},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CG","Users":307,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":203},
-{"rank":8,"AS":328500,"Description":"A.M.C Telecom - A.M.C Telecom","CC":"CG","Users":297,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":296},
-{"rank":9,"AS":37548,"Description":"ARPCE - ARPCE","CC":"CG","Users":215,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":137},
-{"rank":10,"AS":329632,"Description":"TELECOMMUNICATION DU CONGO - TELECOMMUNICATION DU CONGO","CC":"CG","Users":211,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":176},
-{"rank":11,"AS":29286,"Description":"SKYLOGIC-AS - SKYLOGIC S.P.A.","CC":"CG","Users":196,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":117}
+{"rank":1,"AS":37463,"Description":"MTN CONGO - MTN CONGO","CC":"CG","Users":191191,"Percent of CC Pop":35.55,"Percent of Internet":0.0046,"Samples":385834},
+{"rank":2,"AS":36924,"Description":"GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS","CC":"CG","Users":181142,"Percent of CC Pop":33.69,"Percent of Internet":0.0043,"Samples":357023},
+{"rank":3,"AS":37451,"Description":"CONGO TELECOM - CONGO TELECOM","CC":"CG","Users":159843,"Percent of CC Pop":29.72,"Percent of Internet":0.0038,"Samples":318268},
+{"rank":4,"AS":37550,"Description":"Airtel Congo S.A - Airtel Congo S.A","CC":"CG","Users":113093,"Percent of CC Pop":21.03,"Percent of Internet":0.0027,"Samples":227384},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"CG","Users":1488,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":191},
+{"rank":6,"AS":327829,"Description":"SKYTIC TELECOM - SKYTIC TELECOM","CC":"CG","Users":1146,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":2316},
+{"rank":7,"AS":328857,"Description":"SILICONE CONNECT - SILICONE CONNECT","CC":"CG","Users":1028,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":1998},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"CG","Users":601,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":679},
+{"rank":9,"AS":37548,"Description":"ARPCE - ARPCE","CC":"CG","Users":233,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":116},
+{"rank":10,"AS":328500,"Description":"A.M.C Telecom - A.M.C Telecom","CC":"CG","Users":217,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":186},
+{"rank":11,"AS":329632,"Description":"TELECOMMUNICATION DU CONGO - TELECOMMUNICATION DU CONGO","CC":"CG","Users":203,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":168},
+{"rank":12,"AS":29286,"Description":"SKYLOGIC-AS - SKYLOGIC S.P.A.","CC":"CG","Users":189,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":108}
   ]
 }

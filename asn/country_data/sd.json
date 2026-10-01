@@ -1,18 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":15706,"Description":"Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd)","CC":"SD","Users":7872898,"Percent of CC Pop":50.82,"Percent of Internet":0.1887,"Samples":1752984},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SD","Users":4307276,"Percent of CC Pop":27.81,"Percent of Internet":0.1032,"Samples":960461},
-{"rank":3,"AS":36998,"Description":"Sudanese Mobile Telephone (ZAIN) Co Ltd - Sudanese Mobile Telephone (ZAIN) Co Ltd","CC":"SD","Users":4257062,"Percent of CC Pop":27.48,"Percent of Internet":0.1020,"Samples":948560},
-{"rank":4,"AS":36972,"Description":"MTN SUDAN - MTN SUDAN","CC":"SD","Users":1977947,"Percent of CC Pop":12.77,"Percent of Internet":0.0474,"Samples":440717},
-{"rank":5,"AS":33788,"Description":"Kanar Telecommunication (Canar Telecom Co.Ltd) - Kanar Telecommunication (Canar Telecom Co.Ltd)","CC":"SD","Users":21476,"Percent of CC Pop":0.14,"Percent of Internet":0.0005,"Samples":4829},
-{"rank":6,"AS":37211,"Description":"MAX NET FOR INTERNET SERVICES - MAX NET FOR INTERNET SERVICES","CC":"SD","Users":15921,"Percent of CC Pop":0.10,"Percent of Internet":0.0004,"Samples":3586},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SD","Users":4312,"Percent of CC Pop":0.03,"Percent of Internet":0.0001,"Samples":847},
-{"rank":8,"AS":328824,"Description":"Lulu Tech Advanced Technology - Lulu Tech Advanced Technology","CC":"SD","Users":1544,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":191},
-{"rank":9,"AS":329344,"Description":"right advanced business co ltd - right advanced business co ltd","CC":"SD","Users":1010,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":40},
-{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SD","Users":711,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":16}
+{"rank":1,"AS":15706,"Description":"Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd)","CC":"SD","Users":7928041,"Percent of CC Pop":51.18,"Percent of Internet":0.1900,"Samples":1752620},
+{"rank":2,"AS":36998,"Description":"Sudanese Mobile Telephone (ZAIN) Co Ltd - Sudanese Mobile Telephone (ZAIN) Co Ltd","CC":"SD","Users":4412895,"Percent of CC Pop":28.49,"Percent of Internet":0.1057,"Samples":975069},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SD","Users":4325105,"Percent of CC Pop":27.92,"Percent of Internet":0.1036,"Samples":957438},
+{"rank":4,"AS":36972,"Description":"MTN SUDAN - MTN SUDAN","CC":"SD","Users":1936186,"Percent of CC Pop":12.50,"Percent of Internet":0.0464,"Samples":429529},
+{"rank":5,"AS":33788,"Description":"Kanar Telecommunication (Canar Telecom Co.Ltd) - Kanar Telecommunication (Canar Telecom Co.Ltd)","CC":"SD","Users":21124,"Percent of CC Pop":0.14,"Percent of Internet":0.0005,"Samples":4686},
+{"rank":6,"AS":37211,"Description":"MAX NET FOR INTERNET SERVICES - MAX NET FOR INTERNET SERVICES","CC":"SD","Users":13741,"Percent of CC Pop":0.09,"Percent of Internet":0.0003,"Samples":3071},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SD","Users":8795,"Percent of CC Pop":0.06,"Percent of Internet":0.0002,"Samples":1755},
+{"rank":8,"AS":328824,"Description":"Lulu Tech Advanced Technology - Lulu Tech Advanced Technology","CC":"SD","Users":1647,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":182},
+{"rank":9,"AS":329344,"Description":"right advanced business co ltd - right advanced business co ltd","CC":"SD","Users":1017,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":39},
+{"rank":10,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"SD","Users":613,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

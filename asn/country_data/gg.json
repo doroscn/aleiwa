@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":8680,"Description":"SURE-International-Limited - Sure (Guernsey) Limited","CC":"GG","Users":28174,"Percent of CC Pop":81.28,"Percent of Internet":0.0007,"Samples":132990},
-{"rank":2,"AS":8681,"Description":"JT - JT (Jersey) Limited","CC":"GG","Users":6851,"Percent of CC Pop":19.76,"Percent of Internet":0.0002,"Samples":32120},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GG","Users":306,"Percent of CC Pop":0.88,"Percent of Internet":0.0000,"Samples":1359},
+{"rank":1,"AS":8680,"Description":"SURE-International-Limited - Sure (Guernsey) Limited","CC":"GG","Users":27637,"Percent of CC Pop":79.73,"Percent of Internet":0.0007,"Samples":122243},
+{"rank":2,"AS":8681,"Description":"JT - JT (Jersey) Limited","CC":"GG","Users":7348,"Percent of CC Pop":21.20,"Percent of Internet":0.0002,"Samples":32409},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GG","Users":345,"Percent of CC Pop":1.00,"Percent of Internet":0.0000,"Samples":1499},
 {"rank":4,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"GG","Users":161,"Percent of CC Pop":0.46,"Percent of Internet":0.0000,"Samples":11},
-{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GG","Users":38,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":40},
-{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GG","Users":33,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":56}
+{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GG","Users":38,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":34},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GG","Users":35,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":65}
   ]
 }

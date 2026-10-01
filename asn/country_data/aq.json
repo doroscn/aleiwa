@@ -1,9 +1,10 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":215730,"Description":"H2NEXUS-AS - H2NEXUS CLOUD SERVICES - FZCO","CC":"AQ","Users":636,"Percent of CC Pop":99.07,"Percent of Internet":0.0000,"Samples":1334}
+{"rank":1,"AS":215730,"Description":"H2NEXUS-AS - H2NEXUS CLOUD SERVICES - FZCO","CC":"AQ","Users":633,"Percent of CC Pop":98.60,"Percent of Internet":0.0000,"Samples":809},
+{"rank":2,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AQ","Users":199,"Percent of CC Pop":31.00,"Percent of Internet":0.0000,"Samples":10}
   ]
 }

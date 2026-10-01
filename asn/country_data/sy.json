@@ -1,17 +1,18 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "28/08/2026",
+  "Date": "26/09/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":5791322,"Percent of CC Pop":86.13,"Percent of Internet":0.1388,"Samples":4160582},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SY","Users":1426171,"Percent of CC Pop":21.21,"Percent of Internet":0.0342,"Samples":1029336},
-{"rank":3,"AS":48065,"Description":"Syriatel-AS - Syriatel Mobile Telecom","CC":"SY","Users":1320841,"Percent of CC Pop":19.64,"Percent of Internet":0.0317,"Samples":964093},
-{"rank":4,"AS":216472,"Description":"HS-SYR - High Speed For Internet Services L.L.C","CC":"SY","Users":765899,"Percent of CC Pop":11.39,"Percent of Internet":0.0184,"Samples":591256},
-{"rank":5,"AS":201550,"Description":"EXT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":585675,"Percent of CC Pop":8.71,"Percent of Internet":0.0140,"Samples":351916},
-{"rank":6,"AS":214707,"Description":"Rcell - RCell LLC","CC":"SY","Users":465050,"Percent of CC Pop":6.92,"Percent of Internet":0.0111,"Samples":376868},
-{"rank":7,"AS":34984,"Description":"TELLCOM-AS - Superonline Iletisim Hizmetleri A.S.","CC":"SY","Users":20926,"Percent of CC Pop":0.31,"Percent of Internet":0.0005,"Samples":8875},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SY","Users":2659,"Percent of CC Pop":0.04,"Percent of Internet":0.0001,"Samples":1931},
-{"rank":9,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"SY","Users":320,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":32}
+{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":5264182,"Percent of CC Pop":78.29,"Percent of Internet":0.1261,"Samples":4019517},
+{"rank":2,"AS":48065,"Description":"Syriatel-AS - Syriatel Mobile Telecom","CC":"SY","Users":1340508,"Percent of CC Pop":19.94,"Percent of Internet":0.0321,"Samples":1029963},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SY","Users":1283851,"Percent of CC Pop":19.09,"Percent of Internet":0.0308,"Samples":978094},
+{"rank":4,"AS":216472,"Description":"HS-SYR - High Speed For Internet Services L.L.C","CC":"SY","Users":1103776,"Percent of CC Pop":16.42,"Percent of Internet":0.0265,"Samples":883893},
+{"rank":5,"AS":201550,"Description":"EXT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":696185,"Percent of CC Pop":10.35,"Percent of Internet":0.0167,"Samples":545531},
+{"rank":6,"AS":214707,"Description":"Rcell - RCell LLC","CC":"SY","Users":606831,"Percent of CC Pop":9.03,"Percent of Internet":0.0145,"Samples":484277},
+{"rank":7,"AS":29386,"Description":"EXT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":63412,"Percent of CC Pop":0.94,"Percent of Internet":0.0015,"Samples":10531},
+{"rank":8,"AS":34984,"Description":"TELLCOM-AS - Superonline Iletisim Hizmetleri A.S.","CC":"SY","Users":17810,"Percent of CC Pop":0.26,"Percent of Internet":0.0004,"Samples":10258},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SY","Users":4061,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":3080},
+{"rank":10,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"SY","Users":318,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":33}
   ]
 }
