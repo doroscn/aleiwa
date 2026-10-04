@@ -30,12 +30,6 @@
     "index": 95
   },
   {
-    "country_id": "fm",
-    "checked_at": "2026-07-04T03:28:55Z",
-    "ip_availability_ratio%": 100.00,
-    "index": 131
-  },
-  {
     "country_id": "md",
     "checked_at": "2026-07-04T10:05:06Z",
     "ip_availability_ratio%": 66.95,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-10-03T18:56:23Z",
     "ip_availability_ratio%": 68.75,
     "index": 106
+  },
+  {
+    "country_id": "fm",
+    "checked_at": "2026-10-04T05:00:31Z",
+    "ip_availability_ratio%": 100.00,
+    "index": 131
   }
 ]
