@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-10-09",
+    "country": "India",
+    "title": "Mobile Internet Blackout Ordered in Central Delhi for 24 Hours",
+    "url": "/blog/20261009.html",
+    "category": "Internet shutdown",
+    "confidence": "HIGH",
+    "image": "/images/blog/20261009.svg"
+  },
+  {
     "date": "2026-10-08",
     "country": "Nigeria",
     "title": "MTN Nigeria Confirms Multi-State Network Outage Impacting Lagos and FCT",
@@ -16,6 +25,15 @@
     "category": "Data Center Infrastructure Incident",
     "confidence": "HIGH",
     "image": "/images/blog/20261008-2.svg"
+  },
+  {
+    "date": "2026-10-08",
+    "country": "Nigeria",
+    "title": "MTN Network Outage Affects Multiple States Across Nigeria",
+    "url": "/blog/20261008-3.html",
+    "category": "ISP outage",
+    "confidence": "HIGH",
+    "image": "/images/blog/20261008-3.svg"
   },
   {
     "date": "2026-09-29",
