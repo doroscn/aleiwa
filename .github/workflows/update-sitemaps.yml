@@ -1,38 +1,43 @@
-name: Update sitemaps and llms.txt
+name: Update Sitemaps and LLM Indexes
+
 on:
   schedule:
-    # 每月 1 日 06:00 UTC
-    - cron: "0 6 1 * *"
+    # Run at 03:17 UTC on the first day of every month (11:17 Beijing time).
+    - cron: '17 3 1 * *'
   workflow_dispatch:
+
 permissions:
   contents: write
+
+concurrency:
+  group: update-sitemaps
+  cancel-in-progress: false
+
 jobs:
-  update:
+  update-sitemaps:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Setup Python
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-      - name: Generate discovery files
-        run: python3 scripts/update-sitemaps.py
-      - name: Commit and push if changed
+          python-version: '3.x'
+
+      - name: Generate sitemap and LLM files
+        run: python update_sitemaps.py
+
+      - name: Commit generated files if changed
         run: |
           git config user.name "doroscn"
           git config user.email "jash.zheng@gmail.com"
-          git add \
-            sitemap.xml \
-            sitemap-pages.xml \
-            sitemap-asn.xml \
-            sitemap-dns.xml \
-            sitemap-blog.xml \
-            llms.txt \
-            llms-full.txt
+          git add sitemap.xml sitemap-pages.xml sitemap-asn.xml sitemap-dns.xml sitemap-blog.xml llms.txt llms-full.txt
           if git diff --cached --quiet; then
-            echo "No sitemap / llms.txt changes."
-            exit 0
+            echo "No sitemap or LLM index changes to commit."
+          else
+            git commit -m "Update sitemaps and LLM indexes"
+            git push
           fi
-          git commit -m "chore: monthly refresh of sitemaps and llms.txt"
-          git push
