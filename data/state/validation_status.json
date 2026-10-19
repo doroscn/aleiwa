@@ -30,12 +30,6 @@
     "index": 95
   },
   {
-    "country_id": "sk",
-    "checked_at": "2026-07-19T03:14:59Z",
-    "ip_availability_ratio%": 73.54,
-    "index": 178
-  },
-  {
     "country_id": "si",
     "checked_at": "2026-07-19T09:48:15Z",
     "ip_availability_ratio%": 69.15,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-10-18T18:23:18Z",
     "ip_availability_ratio%": 71.47,
     "index": 177
+  },
+  {
+    "country_id": "sk",
+    "checked_at": "2026-10-19T03:53:21Z",
+    "ip_availability_ratio%": 74.07,
+    "index": 178
   }
 ]
