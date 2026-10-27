@@ -30,12 +30,6 @@
     "index": 95
   },
   {
-    "country_id": "tv",
-    "checked_at": "2026-07-27T11:15:19Z",
-    "ip_availability_ratio%": 100.00,
-    "index": 203
-  },
-  {
     "country_id": "ug",
     "checked_at": "2026-07-27T17:37:04Z",
     "ip_availability_ratio%": 70.00,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-10-27T04:17:38Z",
     "ip_availability_ratio%": 0.00,
     "index": 202
+  },
+  {
+    "country_id": "tv",
+    "checked_at": "2026-10-27T13:53:15Z",
+    "ip_availability_ratio%": 100.00,
+    "index": 203
   }
 ]
