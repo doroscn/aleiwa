@@ -30,12 +30,6 @@
     "index": 95
   },
   {
-    "country_id": "vn",
-    "checked_at": "2026-07-30T10:20:39Z",
-    "ip_availability_ratio%": 68.06,
-    "index": 213
-  },
-  {
     "country_id": "vg",
     "checked_at": "2026-07-30T17:17:42Z",
     "ip_availability_ratio%": 0.00,
@@ -1318,5 +1312,11 @@
     "checked_at": "2026-10-30T04:57:44Z",
     "ip_availability_ratio%": 46.58,
     "index": 212
+  },
+  {
+    "country_id": "vn",
+    "checked_at": "2026-10-30T14:46:16Z",
+    "ip_availability_ratio%": 68.32,
+    "index": 213
   }
 ]
