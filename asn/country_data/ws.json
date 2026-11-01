@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":38800,"Description":"DIGICELSAMOA-WS-AS-AP - Digicel Samoa Ltd","CC":"WS","Users":56156,"Percent of CC Pop":68.66,"Percent of Internet":0.0013,"Samples":73221},
-{"rank":2,"AS":17993,"Description":"VODAFONESAMOA-AS-AP - Vodafone Samoa Limited","CC":"WS","Users":33500,"Percent of CC Pop":40.96,"Percent of Internet":0.0008,"Samples":43808},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"WS","Users":9578,"Percent of CC Pop":11.71,"Percent of Internet":0.0002,"Samples":13027},
-{"rank":4,"AS":139679,"Description":"OEC-AS-AP - Office of the Electoral Commission","CC":"WS","Users":553,"Percent of CC Pop":0.68,"Percent of Internet":0.0000,"Samples":65},
-{"rank":5,"AS":38227,"Description":"CSLSAMOA-WS-AS-AP - Computer Services Limited (CSL)","CC":"WS","Users":205,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":99},
-{"rank":6,"AS":153053,"Description":"LTSCL-AS-AP - Lesamoa.net","CC":"WS","Users":136,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":42}
+{"rank":1,"AS":38800,"Description":"DIGICELSAMOA-WS-AS-AP - Digicel Samoa Ltd","CC":"WS","Users":55559,"Percent of CC Pop":67.93,"Percent of Internet":0.0013,"Samples":71476},
+{"rank":2,"AS":17993,"Description":"VODAFONESAMOA-AS-AP - Vodafone Samoa Limited","CC":"WS","Users":33310,"Percent of CC Pop":40.73,"Percent of Internet":0.0008,"Samples":43502},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"WS","Users":11117,"Percent of CC Pop":13.59,"Percent of Internet":0.0003,"Samples":14478},
+{"rank":4,"AS":139679,"Description":"OEC-AS-AP - Office of the Electoral Commission","CC":"WS","Users":426,"Percent of CC Pop":0.52,"Percent of Internet":0.0000,"Samples":69},
+{"rank":5,"AS":38227,"Description":"CSLSAMOA-WS-AS-AP - Computer Services Limited (CSL)","CC":"WS","Users":250,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":121},
+{"rank":6,"AS":153053,"Description":"LTSCL-AS-AP - Lesamoa.net","CC":"WS","Users":131,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":37}
   ]
 }

@@ -1,20 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9246,"Description":"GTA-AP - Teleguam Holdings, LLC","CC":"GU","Users":46086,"Percent of CC Pop":31.31,"Percent of Internet":0.0011,"Samples":81740},
-{"rank":2,"AS":7131,"Description":"PTIPACIFICAINC-AS-AP - PTI Pacifica Inc.","CC":"GU","Users":35602,"Percent of CC Pop":24.19,"Percent of Internet":0.0009,"Samples":68623},
-{"rank":3,"AS":3605,"Description":"ERX-KUENTOS-AS - Guam Cablevision, LLC.","CC":"GU","Users":32500,"Percent of CC Pop":22.08,"Percent of Internet":0.0008,"Samples":58211},
-{"rank":4,"AS":21996,"Description":"GUAMCELL - GUAMCELL Communications","CC":"GU","Users":26543,"Percent of CC Pop":18.04,"Percent of Internet":0.0006,"Samples":46263},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GU","Users":13532,"Percent of CC Pop":9.19,"Percent of Internet":0.0003,"Samples":24553},
+{"rank":1,"AS":9246,"Description":"GTA-AP - Teleguam Holdings, LLC","CC":"GU","Users":44231,"Percent of CC Pop":30.05,"Percent of Internet":0.0011,"Samples":84562},
+{"rank":2,"AS":7131,"Description":"PTIPACIFICAINC-AS-AP - PTI Pacifica Inc.","CC":"GU","Users":41380,"Percent of CC Pop":28.12,"Percent of Internet":0.0010,"Samples":81145},
+{"rank":3,"AS":3605,"Description":"ERX-KUENTOS-AS - Guam Cablevision, LLC.","CC":"GU","Users":31754,"Percent of CC Pop":21.58,"Percent of Internet":0.0008,"Samples":61403},
+{"rank":4,"AS":21996,"Description":"GUAMCELL - GUAMCELL Communications","CC":"GU","Users":25174,"Percent of CC Pop":17.11,"Percent of Internet":0.0006,"Samples":47163},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GU","Users":11719,"Percent of CC Pop":7.96,"Percent of Internet":0.0003,"Samples":22345},
 {"rank":6,"AS":17893,"Description":"PALAU-AS-AP - Palau National Communications Corp.","CC":"GU","Users":2658,"Percent of CC Pop":1.81,"Percent of Internet":0.0001,"Samples":582},
-{"rank":7,"AS":17456,"Description":"PDSGUAM-USTRANSPORT-AS-GU-AP - Pacific Data Systems","CC":"GU","Users":526,"Percent of CC Pop":0.36,"Percent of Internet":0.0000,"Samples":651},
-{"rank":8,"AS":395400,"Description":"UNIVERSITY-GUAM - UNIVERSITY OF GUAM","CC":"GU","Users":400,"Percent of CC Pop":0.27,"Percent of Internet":0.0000,"Samples":365},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GU","Users":195,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":151},
-{"rank":10,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"GU","Users":159,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":80},
-{"rank":11,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"GU","Users":127,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":29},
-{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GU","Users":121,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":71}
+{"rank":7,"AS":395400,"Description":"UNIVERSITY-GUAM - UNIVERSITY OF GUAM","CC":"GU","Users":829,"Percent of CC Pop":0.56,"Percent of Internet":0.0000,"Samples":903},
+{"rank":8,"AS":17456,"Description":"PDSGUAM-USTRANSPORT-AS-GU-AP - Pacific Data Systems","CC":"GU","Users":539,"Percent of CC Pop":0.37,"Percent of Internet":0.0000,"Samples":705},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GU","Users":497,"Percent of CC Pop":0.34,"Percent of Internet":0.0000,"Samples":573},
+{"rank":10,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"GU","Users":206,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":167},
+{"rank":11,"AS":56200,"Description":"GCC-NETOPS-GU - Guam Community College","CC":"GU","Users":128,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":18},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"GU","Users":121,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":67},
+{"rank":13,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"GU","Users":108,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":37}
   ]
 }

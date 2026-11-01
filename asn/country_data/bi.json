@@ -1,16 +1,16 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":327799,"Description":"VIETTEL BURUNDI SA - VIETTEL BURUNDI SA","CC":"BI","Users":827020,"Percent of CC Pop":110.82,"Percent of Internet":0.0198,"Samples":610632},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BI","Users":44352,"Percent of CC Pop":5.94,"Percent of Internet":0.0011,"Samples":32638},
-{"rank":3,"AS":37336,"Description":"Econet - Leo SA - Econet - Leo SA","CC":"BI","Users":20520,"Percent of CC Pop":2.75,"Percent of Internet":0.0005,"Samples":14943},
-{"rank":4,"AS":25429,"Description":"CBINET-AS - CBINET Burundi","CC":"BI","Users":8729,"Percent of CC Pop":1.17,"Percent of Internet":0.0002,"Samples":6428},
-{"rank":5,"AS":37545,"Description":"Burundi Backbone System SM - Burundi Backbone System SM","CC":"BI","Users":8118,"Percent of CC Pop":1.09,"Percent of Internet":0.0002,"Samples":6058},
-{"rank":6,"AS":37429,"Description":"SPIDERNET SPRL BURUNDI - SPIDERNET SPRL BURUNDI","CC":"BI","Users":1882,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":1355},
-{"rank":7,"AS":327798,"Description":"BURUNDI EDUCATION AND RESEARCH NETWORK - BERNET - BURUNDI EDUCATION AND RESEARCH NETWORK - BERNET","CC":"BI","Users":1265,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":809},
-{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BI","Users":718,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":159}
+{"rank":1,"AS":327799,"Description":"VIETTEL BURUNDI SA - VIETTEL BURUNDI SA","CC":"BI","Users":833639,"Percent of CC Pop":111.70,"Percent of Internet":0.0200,"Samples":602270},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"BI","Users":44040,"Percent of CC Pop":5.90,"Percent of Internet":0.0011,"Samples":31891},
+{"rank":3,"AS":37336,"Description":"Econet - Leo SA - Econet - Leo SA","CC":"BI","Users":16999,"Percent of CC Pop":2.28,"Percent of Internet":0.0004,"Samples":12332},
+{"rank":4,"AS":37545,"Description":"Burundi Backbone System SM - Burundi Backbone System SM","CC":"BI","Users":8174,"Percent of CC Pop":1.10,"Percent of Internet":0.0002,"Samples":5892},
+{"rank":5,"AS":25429,"Description":"CBINET-AS - CBINET Burundi","CC":"BI","Users":7185,"Percent of CC Pop":0.96,"Percent of Internet":0.0002,"Samples":5325},
+{"rank":6,"AS":37429,"Description":"SPIDERNET SPRL BURUNDI - SPIDERNET SPRL BURUNDI","CC":"BI","Users":1497,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":1023},
+{"rank":7,"AS":327798,"Description":"BURUNDI EDUCATION AND RESEARCH NETWORK - BERNET - BURUNDI EDUCATION AND RESEARCH NETWORK - BERNET","CC":"BI","Users":1285,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":786},
+{"rank":8,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"BI","Users":790,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":295}
   ]
 }

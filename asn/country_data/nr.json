@@ -1,12 +1,13 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NR","Users":3943,"Percent of CC Pop":66.24,"Percent of Internet":0.0001,"Samples":8810},
-{"rank":2,"AS":140504,"Description":"DIGICELNAURU-AS-AP - Digicel Nauru Corporation","CC":"NR","Users":3196,"Percent of CC Pop":53.69,"Percent of Internet":0.0001,"Samples":7954},
-{"rank":3,"AS":55722,"Description":"CENPAC-AS-AP - Cenpac Net Inc","CC":"NR","Users":148,"Percent of CC Pop":2.49,"Percent of Internet":0.0000,"Samples":41},
-{"rank":4,"AS":141368,"Description":"ICT-NR-AS-AP - ICT","CC":"NR","Users":134,"Percent of CC Pop":2.25,"Percent of Internet":0.0000,"Samples":41}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NR","Users":4005,"Percent of CC Pop":67.28,"Percent of Internet":0.0001,"Samples":8450},
+{"rank":2,"AS":140504,"Description":"DIGICELNAURU-AS-AP - Digicel Nauru Corporation","CC":"NR","Users":3119,"Percent of CC Pop":52.39,"Percent of Internet":0.0001,"Samples":7306},
+{"rank":3,"AS":55722,"Description":"CENPAC-AS-AP - Cenpac Net Inc","CC":"NR","Users":153,"Percent of CC Pop":2.57,"Percent of Internet":0.0000,"Samples":43},
+{"rank":4,"AS":141368,"Description":"ICT-NR-AS-AP - ICT","CC":"NR","Users":146,"Percent of CC Pop":2.45,"Percent of Internet":0.0000,"Samples":53},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NR","Users":112,"Percent of CC Pop":1.88,"Percent of Internet":0.0000,"Samples":18}
   ]
 }

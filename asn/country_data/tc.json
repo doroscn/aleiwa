@@ -1,13 +1,12 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":22933,"Description":"TCIGATEWAY - Cable and Wireless, Turks and Caicos","CC":"TC","Users":13034,"Percent of CC Pop":61.21,"Percent of Internet":0.0003,"Samples":41412},
-{"rank":2,"AS":394311,"Description":"DIGTCI - Digicel Turks and Caicos Ltd","CC":"TC","Users":12114,"Percent of CC Pop":56.89,"Percent of Internet":0.0003,"Samples":39074},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TC","Users":792,"Percent of CC Pop":3.72,"Percent of Internet":0.0000,"Samples":2448},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TC","Users":47,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":18},
-{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"TC","Users":37,"Percent of CC Pop":0.17,"Percent of Internet":0.0000,"Samples":10}
+{"rank":1,"AS":22933,"Description":"TCIGATEWAY - Cable and Wireless, Turks and Caicos","CC":"TC","Users":13090,"Percent of CC Pop":61.47,"Percent of Internet":0.0003,"Samples":38929},
+{"rank":2,"AS":394311,"Description":"DIGTCI - Digicel Turks and Caicos Ltd","CC":"TC","Users":12125,"Percent of CC Pop":56.94,"Percent of Internet":0.0003,"Samples":36597},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TC","Users":748,"Percent of CC Pop":3.51,"Percent of Internet":0.0000,"Samples":2227},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TC","Users":65,"Percent of CC Pop":0.31,"Percent of Internet":0.0000,"Samples":20}
   ]
 }

@@ -1,20 +1,21 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":6752,"Description":"ANDORRA - ANDORRA TELECOM, S.A.U.","CC":"AD","Users":76461,"Percent of CC Pop":98.23,"Percent of Internet":0.0018,"Samples":148640},
-{"rank":2,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"AD","Users":2601,"Percent of CC Pop":3.34,"Percent of Internet":0.0001,"Samples":4912},
-{"rank":3,"AS":209854,"Description":"Cyberzonehub - Cyberzone S.A.","CC":"AD","Users":1283,"Percent of CC Pop":1.65,"Percent of Internet":0.0000,"Samples":2453},
-{"rank":4,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"AD","Users":697,"Percent of CC Pop":0.90,"Percent of Internet":0.0000,"Samples":1254},
-{"rank":5,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"AD","Users":615,"Percent of CC Pop":0.79,"Percent of Internet":0.0000,"Samples":839},
-{"rank":6,"AS":15169,"Description":"GOOGLE - Google LLC","CC":"AD","Users":365,"Percent of CC Pop":0.47,"Percent of Internet":0.0000,"Samples":19},
-{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AD","Users":342,"Percent of CC Pop":0.44,"Percent of Internet":0.0000,"Samples":42},
-{"rank":8,"AS":132372,"Description":"GBNETWORK-AS-AP - GB Network Solutions Sdn. Bhd.","CC":"AD","Users":174,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":97},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AD","Users":101,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":85},
-{"rank":10,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"AD","Users":97,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":16},
-{"rank":11,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AD","Users":82,"Percent of CC Pop":0.11,"Percent of Internet":0.0000,"Samples":45},
-{"rank":12,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"AD","Users":79,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":59}
+{"rank":1,"AS":6752,"Description":"ANDORRA - ANDORRA TELECOM, S.A.U.","CC":"AD","Users":77286,"Percent of CC Pop":99.29,"Percent of Internet":0.0019,"Samples":157253},
+{"rank":2,"AS":137409,"Description":"GSLNETWORKS-AS-AP - GSL Networks Pty LTD","CC":"AD","Users":2342,"Percent of CC Pop":3.01,"Percent of Internet":0.0001,"Samples":4663},
+{"rank":3,"AS":209854,"Description":"Cyberzonehub - Cyberzone S.A.","CC":"AD","Users":1167,"Percent of CC Pop":1.50,"Percent of Internet":0.0000,"Samples":2359},
+{"rank":4,"AS":62651,"Description":"NETPROTECT-DP - Strong Technology, LLC.","CC":"AD","Users":523,"Percent of CC Pop":0.67,"Percent of Internet":0.0000,"Samples":676},
+{"rank":5,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"AD","Users":474,"Percent of CC Pop":0.61,"Percent of Internet":0.0000,"Samples":865},
+{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AD","Users":462,"Percent of CC Pop":0.59,"Percent of Internet":0.0000,"Samples":31},
+{"rank":7,"AS":15169,"Description":"GOOGLE - Google LLC","CC":"AD","Users":287,"Percent of CC Pop":0.37,"Percent of Internet":0.0000,"Samples":20},
+{"rank":8,"AS":132372,"Description":"GBNETWORK-AS-AP - GB Network Solutions Sdn. Bhd.","CC":"AD","Users":193,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":84},
+{"rank":9,"AS":208172,"Description":"PV-HOSTED - Proton AG","CC":"AD","Users":164,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":21},
+{"rank":10,"AS":54113,"Description":"FASTLY - Fastly, Inc.","CC":"AD","Users":101,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":19},
+{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AD","Users":100,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":94},
+{"rank":12,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AD","Users":97,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":69},
+{"rank":13,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"AD","Users":75,"Percent of CC Pop":0.10,"Percent of Internet":0.0000,"Samples":57}
   ]
 }

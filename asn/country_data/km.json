@@ -1,13 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":36939,"Description":"Comores Telecom - Comores Telecom","CC":"KM","Users":45473,"Percent of CC Pop":55.14,"Percent of Internet":0.0011,"Samples":92723},
-{"rank":2,"AS":328061,"Description":"TELECOM COMORES S.A (TELCO S.A) - TELECOM COMORES S.A (TELCO S.A)","CC":"KM","Users":40225,"Percent of CC Pop":48.78,"Percent of Internet":0.0010,"Samples":82274},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KM","Users":686,"Percent of CC Pop":0.83,"Percent of Internet":0.0000,"Samples":1249},
-{"rank":4,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"KM","Users":191,"Percent of CC Pop":0.23,"Percent of Internet":0.0000,"Samples":119},
-{"rank":5,"AS":329646,"Description":"Comores Cables - Comores Cables","CC":"KM","Users":110,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":67}
+{"rank":1,"AS":36939,"Description":"Comores Telecom - Comores Telecom","CC":"KM","Users":47012,"Percent of CC Pop":57.01,"Percent of Internet":0.0011,"Samples":98296},
+{"rank":2,"AS":328061,"Description":"TELECOM COMORES S.A (TELCO S.A) - TELECOM COMORES S.A (TELCO S.A)","CC":"KM","Users":39137,"Percent of CC Pop":47.46,"Percent of Internet":0.0009,"Samples":82381},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"KM","Users":674,"Percent of CC Pop":0.82,"Percent of Internet":0.0000,"Samples":1295},
+{"rank":4,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"KM","Users":184,"Percent of CC Pop":0.22,"Percent of Internet":0.0000,"Samples":92},
+{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"KM","Users":158,"Percent of CC Pop":0.19,"Percent of Internet":0.0000,"Samples":10},
+{"rank":6,"AS":329646,"Description":"Comores Cables - Comores Cables","CC":"KM","Users":113,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":47}
   ]
 }

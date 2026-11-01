@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":202087,"Description":"AJSEGIB-AS - GIBFIBRE LTD","CC":"GI","Users":13552,"Percent of CC Pop":35.76,"Percent of Internet":0.0003,"Samples":32728},
-{"rank":2,"AS":8301,"Description":"GIBTELECOMNET - Gibtelecom Ltd.","CC":"GI","Users":12466,"Percent of CC Pop":32.90,"Percent of Internet":0.0003,"Samples":29454},
-{"rank":3,"AS":34803,"Description":"BGL - Broadband Gibraltar Limited","CC":"GI","Users":10994,"Percent of CC Pop":29.01,"Percent of Internet":0.0003,"Samples":26307},
-{"rank":4,"AS":205248,"Description":"TRIAR - Netassist International EOOD","CC":"GI","Users":633,"Percent of CC Pop":1.67,"Percent of Internet":0.0000,"Samples":1109},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GI","Users":145,"Percent of CC Pop":0.38,"Percent of Internet":0.0000,"Samples":119},
-{"rank":6,"AS":196775,"Description":"BAY-MANAGEMENT - Entain Corporate Services Limited","CC":"GI","Users":74,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":22},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GI","Users":68,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":33}
+{"rank":1,"AS":202087,"Description":"AJSEGIB-AS - GIBFIBRE LTD","CC":"GI","Users":13580,"Percent of CC Pop":35.84,"Percent of Internet":0.0003,"Samples":32135},
+{"rank":2,"AS":8301,"Description":"GIBTELECOMNET - Gibtelecom Ltd.","CC":"GI","Users":12856,"Percent of CC Pop":33.93,"Percent of Internet":0.0003,"Samples":30172},
+{"rank":3,"AS":34803,"Description":"BGL - Broadband Gibraltar Limited","CC":"GI","Users":10828,"Percent of CC Pop":28.58,"Percent of Internet":0.0003,"Samples":26026},
+{"rank":4,"AS":205248,"Description":"TRIAR - Netassist International EOOD","CC":"GI","Users":595,"Percent of CC Pop":1.57,"Percent of Internet":0.0000,"Samples":722},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"GI","Users":153,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":159},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"GI","Users":115,"Percent of CC Pop":0.30,"Percent of Internet":0.0000,"Samples":58},
+{"rank":7,"AS":196775,"Description":"BAY-MANAGEMENT - Entain Corporate Services Limited","CC":"GI","Users":69,"Percent of CC Pop":0.18,"Percent of Internet":0.0000,"Samples":29}
   ]
 }

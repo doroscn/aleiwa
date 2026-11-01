@@ -1,15 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"AI","Users":7242,"Percent of CC Pop":56.76,"Percent of Internet":0.0002,"Samples":17708},
-{"rank":2,"AS":2740,"Description":"CARIBCABLE - Caribbean Cable Communications","CC":"AI","Users":2959,"Percent of CC Pop":23.19,"Percent of Internet":0.0001,"Samples":7155},
-{"rank":3,"AS":396304,"Description":"ANU-DIGI - Antigua Wireless ventures Ltd","CC":"AI","Users":2890,"Percent of CC Pop":22.65,"Percent of Internet":0.0001,"Samples":6591},
-{"rank":4,"AS":14813,"Description":"BB-COLUMBUS - Columbus Telecommunications (Barbados) Limited","CC":"AI","Users":1990,"Percent of CC Pop":15.60,"Percent of Internet":0.0000,"Samples":770},
-{"rank":5,"AS":50118,"Description":"CARITELE-AS - Caribbean Telecom S.A","CC":"AI","Users":837,"Percent of CC Pop":6.56,"Percent of Internet":0.0000,"Samples":222},
-{"rank":6,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"AI","Users":467,"Percent of CC Pop":3.66,"Percent of Internet":0.0000,"Samples":1042},
-{"rank":7,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AI","Users":185,"Percent of CC Pop":1.45,"Percent of Internet":0.0000,"Samples":87}
+{"rank":1,"AS":11139,"Description":"CWC-ROC-11139 - Cable & Wireless Dominica","CC":"AI","Users":7022,"Percent of CC Pop":55.04,"Percent of Internet":0.0002,"Samples":17532},
+{"rank":2,"AS":396304,"Description":"ANU-DIGI - Antigua Wireless ventures Ltd","CC":"AI","Users":3472,"Percent of CC Pop":27.21,"Percent of Internet":0.0001,"Samples":8776},
+{"rank":3,"AS":2740,"Description":"CARIBCABLE - Caribbean Cable Communications","CC":"AI","Users":2850,"Percent of CC Pop":22.34,"Percent of Internet":0.0001,"Samples":6627},
+{"rank":4,"AS":33576,"Description":"DIG001 - Digicel Jamaica","CC":"AI","Users":378,"Percent of CC Pop":2.96,"Percent of Internet":0.0000,"Samples":715},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AI","Users":171,"Percent of CC Pop":1.34,"Percent of Internet":0.0000,"Samples":56},
+{"rank":6,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AI","Users":85,"Percent of CC Pop":0.67,"Percent of Internet":0.0000,"Samples":17},
+{"rank":7,"AS":203020,"Description":"HostRoyale - HostRoyale Technologies Pvt Ltd","CC":"AI","Users":62,"Percent of CC Pop":0.49,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

@@ -1,19 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NE","Users":2518251,"Percent of CC Pop":56.05,"Percent of Internet":0.0603,"Samples":633938},
-{"rank":2,"AS":37531,"Description":"Airtel Niger - Airtel Niger","CC":"NE","Users":1897764,"Percent of CC Pop":42.24,"Percent of Internet":0.0455,"Samples":483773},
-{"rank":3,"AS":37233,"Description":"Zamani Telecom Niger SA - Zamani Telecom Niger SA","CC":"NE","Users":603395,"Percent of CC Pop":13.43,"Percent of Internet":0.0145,"Samples":152247},
-{"rank":4,"AS":327708,"Description":"Airtel Rwanda Ltd - Airtel Rwanda Ltd","CC":"NE","Users":414359,"Percent of CC Pop":9.22,"Percent of Internet":0.0099,"Samples":95410},
-{"rank":5,"AS":37205,"Description":"Atlantique Telecom Niger - Atlantique Telecom Niger","CC":"NE","Users":353093,"Percent of CC Pop":7.86,"Percent of Internet":0.0085,"Samples":90286},
-{"rank":6,"AS":37385,"Description":"Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Telecommunications (SONITEL)","CC":"NE","Users":187639,"Percent of CC Pop":4.18,"Percent of Internet":0.0045,"Samples":46758},
-{"rank":7,"AS":26130,"Description":"LIPTINFOR NIGER SA - LIPTINFOR NIGER SA","CC":"NE","Users":14949,"Percent of CC Pop":0.33,"Percent of Internet":0.0004,"Samples":3718},
-{"rank":8,"AS":329103,"Description":"NINETEC SARL - NINETEC SARL","CC":"NE","Users":2434,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":194},
-{"rank":9,"AS":329224,"Description":"Global Data Services - Global Data Services","CC":"NE","Users":1257,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":41},
-{"rank":10,"AS":60171,"Description":"AFRIX-AS - AFR-IX TELECOM S.A.","CC":"NE","Users":1129,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":96},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NE","Users":1084,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":105}
+{"rank":1,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"NE","Users":2629209,"Percent of CC Pop":58.52,"Percent of Internet":0.0630,"Samples":641946},
+{"rank":2,"AS":37531,"Description":"Airtel Niger - Airtel Niger","CC":"NE","Users":2193576,"Percent of CC Pop":48.82,"Percent of Internet":0.0526,"Samples":540628},
+{"rank":3,"AS":37233,"Description":"Zamani Telecom Niger SA - Zamani Telecom Niger SA","CC":"NE","Users":597704,"Percent of CC Pop":13.30,"Percent of Internet":0.0143,"Samples":148095},
+{"rank":4,"AS":37205,"Description":"Atlantique Telecom Niger - Atlantique Telecom Niger","CC":"NE","Users":379389,"Percent of CC Pop":8.44,"Percent of Internet":0.0091,"Samples":93803},
+{"rank":5,"AS":37385,"Description":"Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Telecommunications (SONITEL)","CC":"NE","Users":168883,"Percent of CC Pop":3.76,"Percent of Internet":0.0040,"Samples":41981},
+{"rank":6,"AS":327708,"Description":"Airtel Rwanda Ltd - Airtel Rwanda Ltd","CC":"NE","Users":97093,"Percent of CC Pop":2.16,"Percent of Internet":0.0023,"Samples":24045},
+{"rank":7,"AS":26130,"Description":"LIPTINFOR NIGER SA - LIPTINFOR NIGER SA","CC":"NE","Users":12648,"Percent of CC Pop":0.28,"Percent of Internet":0.0003,"Samples":3175},
+{"rank":8,"AS":329103,"Description":"NINETEC SARL - NINETEC SARL","CC":"NE","Users":2159,"Percent of CC Pop":0.05,"Percent of Internet":0.0001,"Samples":108},
+{"rank":9,"AS":329224,"Description":"Global Data Services - Global Data Services","CC":"NE","Users":1262,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":29},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"NE","Users":1168,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":149},
+{"rank":11,"AS":60171,"Description":"AFRIX-AS - AFR-IX TELECOM S.A.","CC":"NE","Users":1123,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":83}
   ]
 }

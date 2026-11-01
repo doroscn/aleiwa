@@ -1,16 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":30873,"Description":"PTC-YemenNet - Public Telecommunication Corporation","CC":"YE","Users":6861630,"Percent of CC Pop":77.75,"Percent of Internet":0.1644,"Samples":94640},
-{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"YE","Users":3935404,"Percent of CC Pop":44.59,"Percent of Internet":0.0943,"Samples":1111843},
-{"rank":3,"AS":204317,"Description":"Adennet - Aden net","CC":"YE","Users":223001,"Percent of CC Pop":2.53,"Percent of Internet":0.0053,"Samples":65812},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"YE","Users":12950,"Percent of CC Pop":0.15,"Percent of Internet":0.0003,"Samples":3568},
-{"rank":5,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"YE","Users":882,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":23},
-{"rank":6,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"YE","Users":662,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":33},
-{"rank":7,"AS":12486,"Description":"TeleYemen - TeleYemen","CC":"YE","Users":607,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":39},
-{"rank":8,"AS":9009,"Description":"M247 - M247 Europe SRL","CC":"YE","Users":533,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":25}
+{"rank":1,"AS":30873,"Description":"PTC-YemenNet - Public Telecommunication Corporation","CC":"YE","Users":6794006,"Percent of CC Pop":76.98,"Percent of Internet":0.1628,"Samples":71241},
+{"rank":2,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"YE","Users":4056514,"Percent of CC Pop":45.96,"Percent of Internet":0.0972,"Samples":1089663},
+{"rank":3,"AS":204317,"Description":"Adennet - Aden net","CC":"YE","Users":223527,"Percent of CC Pop":2.53,"Percent of Internet":0.0054,"Samples":63186},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"YE","Users":22367,"Percent of CC Pop":0.25,"Percent of Internet":0.0005,"Samples":5739},
+{"rank":5,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"YE","Users":1020,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":41},
+{"rank":6,"AS":12486,"Description":"TeleYemen - TeleYemen","CC":"YE","Users":447,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":13}
   ]
 }

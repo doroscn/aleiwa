@@ -1,16 +1,15 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":9471,"Description":"ONATI-AS-AP - ONATI","CC":"PF","Users":121087,"Percent of CC Pop":53.67,"Percent of Internet":0.0029,"Samples":121973},
-{"rank":2,"AS":55943,"Description":"ONATI-AS-AP - ONATI","CC":"PF","Users":59268,"Percent of CC Pop":26.27,"Percent of Internet":0.0014,"Samples":60040},
-{"rank":3,"AS":138179,"Description":"PMT-AS-AP - PACIFIC MOBILE TELECOM","CC":"PF","Users":53535,"Percent of CC Pop":23.73,"Percent of Internet":0.0013,"Samples":53898},
-{"rank":4,"AS":56017,"Description":"VITI-AS-PF - VITI","CC":"PF","Users":20489,"Percent of CC Pop":9.08,"Percent of Internet":0.0005,"Samples":20626},
-{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"PF","Users":3214,"Percent of CC Pop":1.42,"Percent of Internet":0.0001,"Samples":3131},
-{"rank":6,"AS":139263,"Description":"UDLPF-AS-AP - Universite de la Polynesie Francaise","CC":"PF","Users":182,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":11},
-{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"PF","Users":160,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":36},
-{"rank":8,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"PF","Users":151,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":20}
+{"rank":1,"AS":9471,"Description":"ONATI-AS-AP - ONATI","CC":"PF","Users":119650,"Percent of CC Pop":53.03,"Percent of Internet":0.0029,"Samples":122181},
+{"rank":2,"AS":55943,"Description":"ONATI-AS-AP - ONATI","CC":"PF","Users":61537,"Percent of CC Pop":27.27,"Percent of Internet":0.0015,"Samples":63341},
+{"rank":3,"AS":138179,"Description":"PMT-AS-AP - PACIFIC MOBILE TELECOM","CC":"PF","Users":53248,"Percent of CC Pop":23.60,"Percent of Internet":0.0013,"Samples":54408},
+{"rank":4,"AS":56017,"Description":"VITI-AS-PF - VITI","CC":"PF","Users":20338,"Percent of CC Pop":9.01,"Percent of Internet":0.0005,"Samples":20814},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"PF","Users":3716,"Percent of CC Pop":1.65,"Percent of Internet":0.0001,"Samples":3797},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"PF","Users":202,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":20},
+{"rank":7,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"PF","Users":152,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":41}
   ]
 }

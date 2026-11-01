@@ -1,19 +1,20 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":24691,"Description":"TOGOTEL-AS - IDDQD-AS","CC":"TG","Users":827178,"Percent of CC Pop":61.17,"Percent of Internet":0.0198,"Samples":1081149},
-{"rank":2,"AS":36924,"Description":"GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS","CC":"TG","Users":622035,"Percent of CC Pop":46.00,"Percent of Internet":0.0149,"Samples":804867},
-{"rank":3,"AS":37229,"Description":"ATLANTIQUE TELECOM TOGO - ATLANTIQUE TELECOM TOGO","CC":"TG","Users":178011,"Percent of CC Pop":13.16,"Percent of Internet":0.0043,"Samples":232063},
-{"rank":4,"AS":30982,"Description":"CAFE Informatique et telecommunications - CAFE Informatique et telecommunications","CC":"TG","Users":2689,"Percent of CC Pop":0.20,"Percent of Internet":0.0001,"Samples":3540},
-{"rank":5,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TG","Users":2229,"Percent of CC Pop":0.16,"Percent of Internet":0.0001,"Samples":1821},
-{"rank":6,"AS":328282,"Description":"TEOLIS SAU - TEOLIS SAU","CC":"TG","Users":759,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":836},
-{"rank":7,"AS":328293,"Description":"RESEAU D'EDUCATION ET DE RECHERCHE DU TOGO - TogoRER - RESEAU D'EDUCATION ET DE RECHERCHE DU TOGO - TogoRER","CC":"TG","Users":576,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":239},
-{"rank":8,"AS":329010,"Description":"SociA(c)tA(c) d'Infrastructures NumA(c)riques (SIN) - SociA(c)tA(c) d'Infrastructures NumA(c)riques (SIN)","CC":"TG","Users":570,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":457},
-{"rank":9,"AS":327727,"Description":"C-Squared Limited - C-Squared Limited","CC":"TG","Users":522,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":593},
-{"rank":10,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TG","Users":345,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":294},
-{"rank":11,"AS":136787,"Description":"PACKETHUBSA-AS-AP - PacketHub S.A.","CC":"TG","Users":182,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":24}
+{"rank":1,"AS":24691,"Description":"TOGOTEL-AS - IDDQD-AS","CC":"TG","Users":858162,"Percent of CC Pop":63.46,"Percent of Internet":0.0206,"Samples":1107895},
+{"rank":2,"AS":36924,"Description":"GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS","CC":"TG","Users":606205,"Percent of CC Pop":44.83,"Percent of Internet":0.0145,"Samples":782263},
+{"rank":3,"AS":37229,"Description":"ATLANTIQUE TELECOM TOGO - ATLANTIQUE TELECOM TOGO","CC":"TG","Users":175100,"Percent of CC Pop":12.95,"Percent of Internet":0.0042,"Samples":227134},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"TG","Users":4077,"Percent of CC Pop":0.30,"Percent of Internet":0.0001,"Samples":3994},
+{"rank":5,"AS":30982,"Description":"CAFE Informatique et telecommunications - CAFE Informatique et telecommunications","CC":"TG","Users":2814,"Percent of CC Pop":0.21,"Percent of Internet":0.0001,"Samples":3674},
+{"rank":6,"AS":328282,"Description":"TEOLIS SAU - TEOLIS SAU","CC":"TG","Users":717,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":775},
+{"rank":7,"AS":329010,"Description":"SociA(c)tA(c) d'Infrastructures NumA(c)riques (SIN) - SociA(c)tA(c) d'Infrastructures NumA(c)riques (SIN)","CC":"TG","Users":654,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":492},
+{"rank":8,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"TG","Users":499,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":424},
+{"rank":9,"AS":327727,"Description":"C-Squared Limited - C-Squared Limited","CC":"TG","Users":468,"Percent of CC Pop":0.03,"Percent of Internet":0.0000,"Samples":481},
+{"rank":10,"AS":328293,"Description":"RESEAU D'EDUCATION ET DE RECHERCHE DU TOGO - TogoRER - RESEAU D'EDUCATION ET DE RECHERCHE DU TOGO - TogoRER","CC":"TG","Users":236,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":53},
+{"rank":11,"AS":136787,"Description":"PACKETHUBSA-AS-AP - PacketHub S.A.","CC":"TG","Users":218,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":19},
+{"rank":12,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"TG","Users":137,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

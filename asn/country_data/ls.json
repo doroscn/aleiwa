@@ -1,17 +1,17 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37057,"Description":"Vodacom Lesotho (Pty) Ltd - Vodacom Lesotho (Pty) Ltd","CC":"LS","Users":411095,"Percent of CC Pop":56.07,"Percent of Internet":0.0099,"Samples":148753},
-{"rank":2,"AS":33567,"Description":"Econet Telecom Lesotho (PTY) LTD - Econet Telecom Lesotho (PTY) LTD","CC":"LS","Users":387080,"Percent of CC Pop":52.79,"Percent of Internet":0.0093,"Samples":141556},
-{"rank":3,"AS":33767,"Description":"Econet Telecom Lesotho (PTY) LTD - Econet Telecom Lesotho (PTY) LTD","CC":"LS","Users":54473,"Percent of CC Pop":7.43,"Percent of Internet":0.0013,"Samples":3701},
-{"rank":4,"AS":37642,"Description":"Comnet Pty Ltd - Comnet Pty Ltd","CC":"LS","Users":8784,"Percent of CC Pop":1.20,"Percent of Internet":0.0002,"Samples":3205},
-{"rank":5,"AS":327750,"Description":"JENNY INTERNET (PTY) LTD - JENNY INTERNET (PTY) LTD","CC":"LS","Users":7838,"Percent of CC Pop":1.07,"Percent of Internet":0.0002,"Samples":2855},
-{"rank":6,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LS","Users":7235,"Percent of CC Pop":0.99,"Percent of Internet":0.0002,"Samples":2609},
-{"rank":7,"AS":328567,"Description":"LEC Communications (Pty) Ltd - LEC Communications (Pty) Ltd","CC":"LS","Users":5098,"Percent of CC Pop":0.70,"Percent of Internet":0.0001,"Samples":1602},
-{"rank":8,"AS":25695,"Description":"Leo (PTY) LTD - Leo (PTY) LTD","CC":"LS","Users":1870,"Percent of CC Pop":0.26,"Percent of Internet":0.0000,"Samples":505},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LS","Users":1727,"Percent of CC Pop":0.24,"Percent of Internet":0.0000,"Samples":46}
+{"rank":1,"AS":37057,"Description":"Vodacom Lesotho (Pty) Ltd - Vodacom Lesotho (Pty) Ltd","CC":"LS","Users":392463,"Percent of CC Pop":53.53,"Percent of Internet":0.0094,"Samples":143850},
+{"rank":2,"AS":33567,"Description":"Econet Telecom Lesotho (PTY) LTD - Econet Telecom Lesotho (PTY) LTD","CC":"LS","Users":390009,"Percent of CC Pop":53.19,"Percent of Internet":0.0093,"Samples":144182},
+{"rank":3,"AS":33767,"Description":"Econet Telecom Lesotho (PTY) LTD - Econet Telecom Lesotho (PTY) LTD","CC":"LS","Users":65401,"Percent of CC Pop":8.92,"Percent of Internet":0.0016,"Samples":10916},
+{"rank":4,"AS":37642,"Description":"Comnet Pty Ltd - Comnet Pty Ltd","CC":"LS","Users":9256,"Percent of CC Pop":1.26,"Percent of Internet":0.0002,"Samples":3386},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LS","Users":7483,"Percent of CC Pop":1.02,"Percent of Internet":0.0002,"Samples":2732},
+{"rank":6,"AS":327750,"Description":"JENNY INTERNET (PTY) LTD - JENNY INTERNET (PTY) LTD","CC":"LS","Users":7012,"Percent of CC Pop":0.96,"Percent of Internet":0.0002,"Samples":2533},
+{"rank":7,"AS":328567,"Description":"LEC Communications (Pty) Ltd - LEC Communications (Pty) Ltd","CC":"LS","Users":3817,"Percent of CC Pop":0.52,"Percent of Internet":0.0001,"Samples":1120},
+{"rank":8,"AS":25695,"Description":"Leo (PTY) LTD - Leo (PTY) LTD","CC":"LS","Users":2044,"Percent of CC Pop":0.28,"Percent of Internet":0.0000,"Samples":520},
+{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LS","Users":1462,"Percent of CC Pop":0.20,"Percent of Internet":0.0000,"Samples":52}
   ]
 }

@@ -1,20 +1,22 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":37094,"Description":"Orange Liberia, INC - Orange Liberia, INC","CC":"LR","Users":308230,"Percent of CC Pop":62.69,"Percent of Internet":0.0074,"Samples":778020},
-{"rank":2,"AS":37410,"Description":"Lonestar Communications Corporation - Lonestar Communications Corporation","CC":"LR","Users":195852,"Percent of CC Pop":39.83,"Percent of Internet":0.0047,"Samples":488901},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LR","Users":57481,"Percent of CC Pop":11.69,"Percent of Internet":0.0014,"Samples":144461},
-{"rank":4,"AS":328136,"Description":"Telecel Liberia Limited - Telecel Liberia Limited","CC":"LR","Users":4887,"Percent of CC Pop":0.99,"Percent of Internet":0.0001,"Samples":11676},
-{"rank":5,"AS":328549,"Description":"SAHEL TELECOM LIBERIA - SAHEL TELECOM LIBERIA","CC":"LR","Users":3710,"Percent of CC Pop":0.75,"Percent of Internet":0.0001,"Samples":170},
-{"rank":6,"AS":328196,"Description":"POWERNET - POWERNET","CC":"LR","Users":2567,"Percent of CC Pop":0.52,"Percent of Internet":0.0001,"Samples":5769},
-{"rank":7,"AS":329082,"Description":"Connect Services Liberia, LLC - Connect Services Liberia, LLC","CC":"LR","Users":2190,"Percent of CC Pop":0.45,"Percent of Internet":0.0001,"Samples":5375},
-{"rank":8,"AS":37203,"Description":"Liberia Telecommunications Corporation (libtelco) - Liberia Telecommunications Corporation (libtelco)","CC":"LR","Users":1629,"Percent of CC Pop":0.33,"Percent of Internet":0.0000,"Samples":4015},
-{"rank":9,"AS":37580,"Description":"ELECTRO SHACK INC. - ELECTRO SHACK INC.","CC":"LR","Users":1206,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":2881},
-{"rank":10,"AS":329525,"Description":"Gonetwork Inc - Gonetwork Inc","CC":"LR","Users":793,"Percent of CC Pop":0.16,"Percent of Internet":0.0000,"Samples":2134},
-{"rank":11,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LR","Users":301,"Percent of CC Pop":0.06,"Percent of Internet":0.0000,"Samples":256},
-{"rank":12,"AS":329496,"Description":"GOWIFI Liberia LLC - GOWIFI Liberia LLC","CC":"LR","Users":178,"Percent of CC Pop":0.04,"Percent of Internet":0.0000,"Samples":211}
+{"rank":1,"AS":37094,"Description":"Orange Liberia, INC - Orange Liberia, INC","CC":"LR","Users":315379,"Percent of CC Pop":64.14,"Percent of Internet":0.0076,"Samples":877149},
+{"rank":2,"AS":37410,"Description":"Lonestar Communications Corporation - Lonestar Communications Corporation","CC":"LR","Users":191984,"Percent of CC Pop":39.05,"Percent of Internet":0.0046,"Samples":531875},
+{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"LR","Users":60639,"Percent of CC Pop":12.33,"Percent of Internet":0.0015,"Samples":165654},
+{"rank":4,"AS":328136,"Description":"Telecel Liberia Limited - Telecel Liberia Limited","CC":"LR","Users":4578,"Percent of CC Pop":0.93,"Percent of Internet":0.0001,"Samples":12199},
+{"rank":5,"AS":329082,"Description":"Connect Services Liberia, LLC - Connect Services Liberia, LLC","CC":"LR","Users":2011,"Percent of CC Pop":0.41,"Percent of Internet":0.0000,"Samples":5619},
+{"rank":6,"AS":328196,"Description":"POWERNET - POWERNET","CC":"LR","Users":1966,"Percent of CC Pop":0.40,"Percent of Internet":0.0000,"Samples":5127},
+{"rank":7,"AS":37203,"Description":"Liberia Telecommunications Corporation (libtelco) - Liberia Telecommunications Corporation (libtelco)","CC":"LR","Users":1590,"Percent of CC Pop":0.32,"Percent of Internet":0.0000,"Samples":4293},
+{"rank":8,"AS":328549,"Description":"SAHEL TELECOM LIBERIA - SAHEL TELECOM LIBERIA","CC":"LR","Users":1422,"Percent of CC Pop":0.29,"Percent of Internet":0.0000,"Samples":76},
+{"rank":9,"AS":37580,"Description":"ELECTRO SHACK INC. - ELECTRO SHACK INC.","CC":"LR","Users":1250,"Percent of CC Pop":0.25,"Percent of Internet":0.0000,"Samples":3357},
+{"rank":10,"AS":329525,"Description":"Gonetwork Inc - Gonetwork Inc","CC":"LR","Users":1015,"Percent of CC Pop":0.21,"Percent of Internet":0.0000,"Samples":2804},
+{"rank":11,"AS":329496,"Description":"GOWIFI Liberia LLC - GOWIFI Liberia LLC","CC":"LR","Users":424,"Percent of CC Pop":0.09,"Percent of Internet":0.0000,"Samples":556},
+{"rank":12,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"LR","Users":229,"Percent of CC Pop":0.05,"Percent of Internet":0.0000,"Samples":282},
+{"rank":13,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"LR","Users":105,"Percent of CC Pop":0.02,"Percent of Internet":0.0000,"Samples":10},
+{"rank":14,"AS":329617,"Description":"C-Squared Limited - C-Squared Limited","CC":"LR","Users":64,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":11}
   ]
 }

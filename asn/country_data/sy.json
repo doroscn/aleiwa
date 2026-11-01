@@ -1,18 +1,19 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":5264182,"Percent of CC Pop":78.29,"Percent of Internet":0.1261,"Samples":4019517},
-{"rank":2,"AS":48065,"Description":"Syriatel-AS - Syriatel Mobile Telecom","CC":"SY","Users":1340508,"Percent of CC Pop":19.94,"Percent of Internet":0.0321,"Samples":1029963},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SY","Users":1283851,"Percent of CC Pop":19.09,"Percent of Internet":0.0308,"Samples":978094},
-{"rank":4,"AS":216472,"Description":"HS-SYR - High Speed For Internet Services L.L.C","CC":"SY","Users":1103776,"Percent of CC Pop":16.42,"Percent of Internet":0.0265,"Samples":883893},
-{"rank":5,"AS":201550,"Description":"EXT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":696185,"Percent of CC Pop":10.35,"Percent of Internet":0.0167,"Samples":545531},
-{"rank":6,"AS":214707,"Description":"Rcell - RCell LLC","CC":"SY","Users":606831,"Percent of CC Pop":9.03,"Percent of Internet":0.0145,"Samples":484277},
-{"rank":7,"AS":29386,"Description":"EXT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":63412,"Percent of CC Pop":0.94,"Percent of Internet":0.0015,"Samples":10531},
-{"rank":8,"AS":34984,"Description":"TELLCOM-AS - Superonline Iletisim Hizmetleri A.S.","CC":"SY","Users":17810,"Percent of CC Pop":0.26,"Percent of Internet":0.0004,"Samples":10258},
-{"rank":9,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SY","Users":4061,"Percent of CC Pop":0.06,"Percent of Internet":0.0001,"Samples":3080},
-{"rank":10,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"SY","Users":318,"Percent of CC Pop":0.00,"Percent of Internet":0.0000,"Samples":33}
+{"rank":1,"AS":29256,"Description":"INT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":4926827,"Percent of CC Pop":73.28,"Percent of Internet":0.1181,"Samples":3866707},
+{"rank":2,"AS":48065,"Description":"Syriatel-AS - Syriatel Mobile Telecom","CC":"SY","Users":1411974,"Percent of CC Pop":21.00,"Percent of Internet":0.0338,"Samples":1096830},
+{"rank":3,"AS":216472,"Description":"HS-SYR - High Speed For Internet Services L.L.C","CC":"SY","Users":1239572,"Percent of CC Pop":18.44,"Percent of Internet":0.0297,"Samples":1005286},
+{"rank":4,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"SY","Users":1120613,"Percent of CC Pop":16.67,"Percent of Internet":0.0269,"Samples":886908},
+{"rank":5,"AS":201550,"Description":"EXT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":923866,"Percent of CC Pop":13.74,"Percent of Internet":0.0221,"Samples":712049},
+{"rank":6,"AS":214707,"Description":"Rcell - RCell LLC","CC":"SY","Users":703764,"Percent of CC Pop":10.47,"Percent of Internet":0.0169,"Samples":554315},
+{"rank":7,"AS":29386,"Description":"EXT-PDN-STE-AS - Syrian Telecommunication Private Closed Joint Stock Company","CC":"SY","Users":64446,"Percent of CC Pop":0.96,"Percent of Internet":0.0015,"Samples":22962},
+{"rank":8,"AS":203862,"Description":"FiberSpeed - Fiberspeed Ltd","CC":"SY","Users":63015,"Percent of CC Pop":0.94,"Percent of Internet":0.0015,"Samples":8717},
+{"rank":9,"AS":34984,"Description":"TELLCOM-AS - Superonline Iletisim Hizmetleri A.S.","CC":"SY","Users":13039,"Percent of CC Pop":0.19,"Percent of Internet":0.0003,"Samples":10257},
+{"rank":10,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"SY","Users":5800,"Percent of CC Pop":0.09,"Percent of Internet":0.0001,"Samples":4311},
+{"rank":11,"AS":212238,"Description":"CDNEXT - Datacamp Limited","CC":"SY","Users":747,"Percent of CC Pop":0.01,"Percent of Internet":0.0000,"Samples":117}
   ]
 }

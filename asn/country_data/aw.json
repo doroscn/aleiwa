@@ -1,14 +1,14 @@
 {
  "copyright": "(C) APNIC Pty/Ltd. Re-use with attribution permitted",
   "description": "Estimates of user population per AS",
-  "Date": "26/09/2026",
+  "Date": "29/10/2026",
   "Window": "120 Days",
  "Data": [
-{"rank":1,"AS":11816,"Description":"AS11816 - SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.","CC":"AW","Users":105584,"Percent of CC Pop":94.45,"Percent of Internet":0.0025,"Samples":163779},
-{"rank":2,"AS":264645,"Description":"AS264645 - NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"AW","Users":5971,"Percent of CC Pop":5.34,"Percent of Internet":0.0001,"Samples":9382},
-{"rank":3,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AW","Users":473,"Percent of CC Pop":0.42,"Percent of Internet":0.0000,"Samples":281},
-{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AW","Users":153,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":74},
-{"rank":5,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"AW","Users":150,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":34},
-{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AW","Users":93,"Percent of CC Pop":0.08,"Percent of Internet":0.0000,"Samples":28}
+{"rank":1,"AS":11816,"Description":"AS11816 - SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.","CC":"AW","Users":106559,"Percent of CC Pop":95.33,"Percent of Internet":0.0026,"Samples":169201},
+{"rank":2,"AS":264645,"Description":"AS264645 - NEW MILLENNIUM TELECOM SERVICES N.V.","CC":"AW","Users":5406,"Percent of CC Pop":4.84,"Percent of Internet":0.0001,"Samples":8567},
+{"rank":3,"AS":55256,"Description":"NETSKOPE - Netskope Inc","CC":"AW","Users":159,"Percent of CC Pop":0.14,"Percent of Internet":0.0000,"Samples":39},
+{"rank":4,"AS":13335,"Description":"CLOUDFLARENET - Cloudflare, Inc.","CC":"AW","Users":148,"Percent of CC Pop":0.13,"Percent of Internet":0.0000,"Samples":89},
+{"rank":5,"AS":14593,"Description":"SPACEX-STARLINK - Space Exploration Technologies Corporation","CC":"AW","Users":133,"Percent of CC Pop":0.12,"Percent of Internet":0.0000,"Samples":60},
+{"rank":6,"AS":36183,"Description":"AKAMAI-AS - Akamai Technologies, Inc.","CC":"AW","Users":79,"Percent of CC Pop":0.07,"Percent of Internet":0.0000,"Samples":26}
   ]
 }
